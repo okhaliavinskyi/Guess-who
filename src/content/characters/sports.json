@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lionel-messi",
+    "category": "sports",
+    "displayName": "Lionel Messi",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "serena-williams",
+    "category": "sports",
+    "displayName": "Serena Williams",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "usain-bolt",
+    "category": "sports",
+    "displayName": "Usain Bolt",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "michael-jordan",
+    "category": "sports",
+    "displayName": "Michael Jordan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "cristiano-ronaldo",
+    "category": "sports",
+    "displayName": "Cristiano Ronaldo",
+    "popularityTier": "iconic"
+  }
+]

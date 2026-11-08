@@ -1,0 +1,26 @@
+[
+  {
+    "id": "abraham-lincoln",
+    "category": "politics",
+    "displayName": "Abraham Lincoln",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "nelson-mandela",
+    "category": "politics",
+    "displayName": "Nelson Mandela",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "winston-churchill",
+    "category": "politics",
+    "displayName": "Winston Churchill",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mahatma-gandhi",
+    "category": "politics",
+    "displayName": "Mahatma Gandhi",
+    "popularityTier": "iconic"
+  }
+]

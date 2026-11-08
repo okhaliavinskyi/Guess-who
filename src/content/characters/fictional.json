@@ -1,0 +1,32 @@
+[
+  {
+    "id": "harry-potter",
+    "category": "fictional",
+    "displayName": "Harry Potter",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mickey-mouse",
+    "category": "fictional",
+    "displayName": "Mickey Mouse",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "sherlock-holmes",
+    "category": "fictional",
+    "displayName": "Sherlock Holmes",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mario-nintendo",
+    "category": "fictional",
+    "displayName": "Super Mario",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "spider-man",
+    "category": "fictional",
+    "displayName": "Spider-Man",
+    "popularityTier": "iconic"
+  }
+]

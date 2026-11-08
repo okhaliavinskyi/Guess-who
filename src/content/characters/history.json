@@ -1,0 +1,32 @@
+[
+  {
+    "id": "albert-einstein",
+    "category": "history",
+    "displayName": "Albert Einstein",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "category": "history",
+    "displayName": "Leonardo da Vinci",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "marie-curie",
+    "category": "history",
+    "displayName": "Marie Curie",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "william-shakespeare",
+    "category": "history",
+    "displayName": "William Shakespeare",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "isaac-newton",
+    "category": "history",
+    "displayName": "Isaac Newton",
+    "popularityTier": "iconic"
+  }
+]

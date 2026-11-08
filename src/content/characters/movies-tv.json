@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tom-hanks",
+    "category": "movies-tv",
+    "displayName": "Tom Hanks",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "meryl-streep",
+    "category": "movies-tv",
+    "displayName": "Meryl Streep",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "leonardo-dicaprio",
+    "category": "movies-tv",
+    "displayName": "Leonardo DiCaprio",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jackie-chan",
+    "category": "movies-tv",
+    "displayName": "Jackie Chan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "shah-rukh-khan",
+    "category": "movies-tv",
+    "displayName": "Shah Rukh Khan",
+    "popularityTier": "iconic"
+  }
+]

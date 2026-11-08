@@ -1,0 +1,32 @@
+[
+  {
+    "id": "michael-jackson",
+    "category": "music",
+    "displayName": "Michael Jackson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "madonna",
+    "category": "music",
+    "displayName": "Madonna",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "elvis-presley",
+    "category": "music",
+    "displayName": "Elvis Presley",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "beyonce",
+    "category": "music",
+    "displayName": "Beyoncé",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "freddie-mercury",
+    "category": "music",
+    "displayName": "Freddie Mercury",
+    "popularityTier": "iconic"
+  }
+]
