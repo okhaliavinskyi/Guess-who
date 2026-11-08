@@ -24,6 +24,8 @@ const OUT = 'content-source/images.json';
 const REPORT = 'content-source/images-report.txt';
 const UA = 'GuessWhoContentBuilder/1.0 (https://github.com/okhaliavinskyi/guess-who)';
 const THUMB_WIDTH = 500;
+/** Lead images reviewed by hand and rejected (not a picture of the person). */
+const SKIP = new Set(['alexander-fleming']);
 
 export function stripHtml(html: string): string {
   return html
@@ -132,9 +134,17 @@ async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata |
         continue;
       }
       const creator = stripHtml(meta.Artist?.value ?? '').slice(0, 200) || undefined;
+      if (!creator && /^cc by/i.test(license)) {
+        result.set(file, 'no author to attribute');
+        continue;
+      }
       const attributionRequired = meta.AttributionRequired?.value === 'true';
       const image: ImageMetadata = {
-        src: info.thumburl ?? info.url,
+        // Drop Wikimedia's tracking query string; the bare thumbnail URL is stable.
+        // Same path is served by the long-standing upload.wikimedia.org host.
+        src: String(info.thumburl ?? info.url)
+          .replace(/\?utm_.*$/, '')
+          .replace('https://thumb.wikimedia.org/', 'https://upload.wikimedia.org/'),
         alt: '',
         license,
         sourceUrl: info.descriptionurl,
@@ -174,7 +184,8 @@ async function main() {
       existingIdMap.set(ch.displayName, ch.id);
   }
 
-  const todo = entries.filter((e) => !(idOf(e) in existing));
+  // Entries without a photo yet (new, or not found last time) are looked up again.
+  const todo = entries.filter((e) => !existing[idOf(e)]);
   console.log(`Looking up ${todo.length} of ${entries.length} entries…`);
   const pages = await lookupPages([...new Set(todo.map((e) => e.wikiTitle))]);
   const fileNames = [...new Set([...pages.values()].flatMap((p) => (p.file ? [p.file] : [])))];
@@ -182,8 +193,10 @@ async function main() {
 
   const report: string[] = [];
   const out = { ...existing };
+  for (const id of SKIP) out[id] = null;
   for (const e of todo) {
     const id = idOf(e);
+    if (SKIP.has(id)) continue;
     const page = pages.get(e.wikiTitle);
     if (!page?.file) {
       out[id] = null;

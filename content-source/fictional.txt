@@ -47,7 +47,7 @@
 *Snow White
 *Little Red Riding Hood
 *Pinocchio
-*Peter Pan
+*Peter Pan @Peter Pan (character)
 *Alice @Alice (Alice's Adventures in Wonderland)
 *Dracula @Count Dracula
 *Frankenstein's monster
@@ -76,7 +76,7 @@
 *Ariel @Ariel (The Little Mermaid)
 *Aladdin @Aladdin (Disney character)
 *Genie @Genie (Aladdin)
-*Mulan @Fa Mulan (Disney)
+*Mulan @Hua Mulan
 *Moana @Moana (character)
 *Rapunzel
 *Belle @Belle (Beauty and the Beast)
@@ -97,7 +97,7 @@ Rocky Balboa
 Forrest Gump @Forrest Gump (character)
 Hannibal Lecter
 Freddy Krueger
-Chucky @Chucky
+Chucky @Chucky (character)
 Ghostface @Ghostface (identity)
 Michael Myers @Michael Myers (Halloween)
 Pennywise @It (character)
@@ -125,7 +125,7 @@ Scar @Scar (The Lion King)
 Jafar
 Captain Haddock
 Lucky Luke
-Spirou
+Spirou @Spirou (character)
 Wednesday Addams
 Gomez Addams
 Morticia Addams
@@ -148,7 +148,7 @@ Woody Woodpecker
 Felix the Cat
 Betty Boop
 Casper the Friendly Ghost
-Richie Rich
+Richie Rich @Richie Rich (comics)
 Dennis the Menace @Dennis the Menace (U.S. comics)
 Mowgli
 Baloo
@@ -168,7 +168,7 @@ Robinson Crusoe @Robinson Crusoe (character)
 Gulliver @Lemuel Gulliver
 Captain Nemo
 Phileas Fogg
-D'Artagnan @D'Artagnan (character)
+D'Artagnan @Charles de Batz de Castelmore d'Artagnan
 Quasimodo
 Jean Valjean
 Long John Silver
@@ -222,7 +222,7 @@ Magneto @Magneto (Marvel Comics)
 Master Chief @Master Chief (Halo)
 Link @Link (The Legend of Zelda)
 Princess Zelda
-Luigi
+Luigi @Luigi (character)
 Princess Peach
 Bowser @Bowser (character)
 Donkey Kong @Donkey Kong (character)
