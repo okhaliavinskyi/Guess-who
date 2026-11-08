@@ -1,6 +1,6 @@
 # Guess Who
 
-**Live:** https://guess-who-jade-mu.vercel.app (Vercel project `guess-who`, production)
+**Live:** https://guesswhogame.vercel.app (Vercel project `guess-who`, production)
 
 A zero-friction party guessing game for phones and tablets. Each player opens the
 site on their own device, picks a category, taps **Start**, and has **5 seconds** to
@@ -8,13 +8,15 @@ raise the phone to their forehead (screen facing friends). Then a famous person 
 character appears and **stays on screen until someone taps Next** — no guessing
 timer. Ask yes/no questions until you get it.
 
-- Static site: Vite + React + TypeScript. No backend, accounts, database, analytics,
-  external APIs or runtime network calls.
+- Static site: Vite + React + TypeScript. No backend, accounts, database, analytics
+  or APIs. The only runtime requests are optional photos, loaded from Wikimedia
+  Commons (`upload.wikimedia.org`) when a player taps the card.
 - Categories: Movies & TV, Music, Fictional Characters, Politics, History, Sports,
   plus **Mix** (all six) and **Custom word**.
-- ⚠ **The character bank is DEMO FIXTURES only** (4–5 names per category). The UI says
-  "Demo content" until the production bank is added — see
-  [`CONTENT_BANK_HANDOFF.md`](CONTENT_BANK_HANDOFF.md).
+- **1,439 names** (200+ per category), 1,267 with a freely licensed photo, names in
+  English, Russian and Ukrainian. Built from `content-source/` — see
+  [`src/content/characters/README.md`](src/content/characters/README.md).
+- UI in **English / Русский / Українська** (switcher on the home screen).
 
 Specs: [`docs/PRD.md`](docs/PRD.md), [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 Build log and acceptance audit: [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md).
@@ -25,7 +27,15 @@ Build log and acceptance audit: [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md)
 2. Tap the category, then **Start**. A 5→1 countdown shows — no name yet.
 3. Put the phone on your forehead, screen out. Friends see the name.
 4. Ask yes/no questions. Take as long as you like.
-5. **Next** starts a new countdown with a different name. **Category** / **End** go back home.
+5. **Next** (or swipe ←) starts a new countdown with a different name; swipe → goes back
+   to the previous one (also through a countdown). **Menu** / **End** go back home.
+6. Tap the card to switch between the name and a photo.
+
+Play is landscape-first: Start enters fullscreen and locks landscape where the
+browser allows it (Android); portrait players see a rotate hint. Names already shown
+are not repeated in the same browser session (in any category, including Mix) until a
+category runs out. If the screen locks while a name is shown, the same name comes back
+only after a new countdown, so whoever unlocks the phone does not see it.
 
 **Custom word:** a friend types any name or word (any script or emoji, up to 80
 characters) and taps Start; it appears only after the same countdown. It is kept in
