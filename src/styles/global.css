@@ -601,7 +601,8 @@ input {
 .card--tappable {
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
-  touch-action: manipulation;
+  /* Horizontal swipes are ours (next / previous), not the browser's. */
+  touch-action: pan-y;
   user-select: none;
 }
 

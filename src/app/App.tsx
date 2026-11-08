@@ -176,7 +176,7 @@ function Game({
       return (
         <Countdown
           key={round}
-          resumed={!!screen.resume}
+          resumed={screen.notice === 'locked'}
           durationMs={countdownMs}
           now={now}
           onComplete={() => dispatch({ type: 'COMPLETE', round })}
@@ -205,6 +205,14 @@ function Game({
             void wakeLock.requestFromGesture();
             dispatch({ type: 'NEXT' });
           }}
+          onPrev={
+            selection.kind === 'pool' && state.position > 0
+              ? () => {
+                  void wakeLock.requestFromGesture();
+                  dispatch({ type: 'PREV' });
+                }
+              : undefined
+          }
           onTogglePhoto={() => dispatch({ type: 'TOGGLE_PHOTO' })}
           onPhotoFailed={() => {
             setPhotoFailedRound(state.round);

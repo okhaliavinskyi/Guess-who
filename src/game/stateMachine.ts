@@ -7,6 +7,8 @@
  *   COUNTDOWN ──CANCEL / INTERRUPT──> READY  (nothing drawn from the bag)
  *   REVEALED ──INTERRUPT (screen locked / app hidden)──> PAUSED ──RESUME──>
  *     COUNTDOWN (resume) ──COMPLETE──> REVEALED   (the SAME item, no new draw)
+ *   REVEALED ──PREV (swipe right)──> COUNTDOWN (resume = previous item)
+ *   REVEALED ──NEXT (swipe left / button)──> COUNTDOWN (forward in history, else a new draw)
  *   REVEALED ──TOGGLE_PHOTO──> REVEALED
  *   REVEALED ──NEXT──> COUNTDOWN (pool) | CUSTOM_INPUT (custom word)
  *   REVEALED/READY/... ──END / CHANGE_CATEGORY / BACK──> HOME
@@ -43,6 +45,8 @@ export type Screen =
       round: number;
       /** Set when re-revealing an item hidden by a screen lock (no new draw). */
       resume?: RevealedItem;
+      /** Why the countdown re-reveals: the screen was locked, or history navigation. */
+      notice?: 'locked';
     }
   | { phase: 'PAUSED'; selection: Selection; item: RevealedItem }
   | { phase: 'REVEALED'; selection: Selection; item: RevealedItem; showPhoto: boolean };
@@ -60,6 +64,12 @@ export interface GameState {
    * pools. Drawing skips these until a pool is exhausted (see drawFromBag).
    */
   seen: readonly string[];
+  /**
+   * Character ids revealed in the current game (since the category was picked), in
+   * order, and the position of the one on screen — for swiping back and forward.
+   */
+  history: readonly string[];
+  position: number;
 }
 
 export type GameEvent =
@@ -71,6 +81,7 @@ export type GameEvent =
   | { type: 'CANCEL' }
   | { type: 'INTERRUPT' }
   | { type: 'RESUME' }
+  | { type: 'PREV' }
   | { type: 'TOGGLE_PHOTO' }
   | { type: 'NEXT' }
   | { type: 'END' }
@@ -87,14 +98,18 @@ export function initialGameState(
   bags: GameState['bags'] = {},
   seen: GameState['seen'] = [],
 ): GameState {
-  return { screen: { phase: 'HOME' }, round: 0, bags, seen };
+  return { screen: { phase: 'HOME' }, round: 0, bags, seen, history: [], position: -1 };
 }
 
 const HOME: Screen = { phase: 'HOME' };
 
-function startCountdown(state: GameState, selection: Selection): GameState {
+function startCountdown(
+  state: GameState,
+  selection: Selection,
+  extra: { resume?: RevealedItem; notice?: 'locked' } = {},
+): GameState {
   const round = state.round + 1;
-  return { ...state, round, screen: { phase: 'COUNTDOWN', selection, round } };
+  return { ...state, round, screen: { phase: 'COUNTDOWN', selection, round, ...extra } };
 }
 
 export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
@@ -108,6 +123,8 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
           return { ...state, screen: { phase: 'UNAVAILABLE', pool: event.pool } };
         return {
           ...state,
+          history: [],
+          position: -1,
           screen: {
             phase: 'READY',
             selection: { kind: 'pool', pool: event.pool },
@@ -160,8 +177,11 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
           return { ...state, screen: { phase: 'UNAVAILABLE', pool: selection.pool } };
         const inPool = new Set(pool);
         const kept = cycleReset ? state.seen.filter((s) => !inPool.has(s)) : state.seen;
+        const history = [...state.history.slice(0, state.position + 1), id];
         return {
           ...state,
+          history,
+          position: history.length - 1,
           bags: { ...state.bags, [selection.pool]: bag },
           seen: [...kept, id],
           screen: {
@@ -194,12 +214,7 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
 
       case 'RESUME': {
         if (screen.phase !== 'PAUSED') return state;
-        const round = state.round + 1;
-        return {
-          ...state,
-          round,
-          screen: { phase: 'COUNTDOWN', selection: screen.selection, round, resume: screen.item },
-        };
+        return startCountdown(state, screen.selection, { resume: screen.item, notice: 'locked' });
       }
 
       case 'CANCEL':
@@ -218,7 +233,23 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
         // A custom word has no bank: "Next" asks for a new word (old one is discarded).
         if (screen.selection.kind === 'custom')
           return { ...state, screen: { phase: 'CUSTOM_INPUT' } };
+        // After swiping back, Next walks forward through names already shown.
+        if (state.position < state.history.length - 1) {
+          const position = state.position + 1;
+          return startCountdown({ ...state, position }, screen.selection, {
+            resume: { kind: 'character', id: state.history[position]! },
+          });
+        }
         return startCountdown(state, screen.selection);
+
+      case 'PREV': {
+        if (screen.phase !== 'REVEALED' || screen.selection.kind !== 'pool') return state;
+        if (state.position <= 0) return state;
+        const position = state.position - 1;
+        return startCountdown({ ...state, position }, screen.selection, {
+          resume: { kind: 'character', id: state.history[position]! },
+        });
+      }
 
       case 'END':
       case 'CHANGE_CATEGORY':

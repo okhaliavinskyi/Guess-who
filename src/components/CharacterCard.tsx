@@ -11,7 +11,15 @@ interface Props {
   onPhotoFailed: () => void;
   /** Tapping anywhere on the card adds (or removes) the photo, when one exists. */
   onTap?: () => void;
+  /** Horizontal swipe: left → next name, right → previous name. */
+  onSwipeNext?: () => void;
+  onSwipePrev?: () => void;
+  /** Whether swiping right has anything to go back to (only affects the hint). */
+  canGoBack?: boolean;
 }
+
+/** Minimum horizontal travel (px) for a swipe; shorter movements count as a tap. */
+export const SWIPE_MIN_PX = 50;
 
 /**
  * The revealed card shows ONE thing at a time: the name, as large as the viewport
@@ -19,7 +27,16 @@ interface Props {
  * While the photo is shown the name stays in the DOM for screen readers only.
  * A failed image falls back to the name with no broken-image icon.
  */
-export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: Props) {
+export function CharacterCard({
+  name,
+  image,
+  showPhoto,
+  onPhotoFailed,
+  onTap,
+  onSwipeNext,
+  onSwipePrev,
+  canGoBack = false,
+}: Props) {
   const strings = useStrings();
   const usable = hasUsableImage(image) ? image : undefined;
   const photo = showPhoto ? usable : undefined;
@@ -43,19 +60,42 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
   }, [preloadSrc]);
 
   const tappable = !!usable && !!onTap;
+  const swipeable = !!onSwipeNext || !!onSwipePrev;
+  // Pointer start position; a swipe suppresses the click that may follow it.
+  const start = useRef<{ x: number; y: number } | null>(null);
+  const swiped = useRef(false);
+
   return (
     <div
-      className={`card ${photo ? 'card--photo' : ''} ${tappable ? 'card--tappable' : ''}`}
+      className={`card ${photo ? 'card--photo' : ''} ${tappable || swipeable ? 'card--tappable' : ''}`}
       data-testid="character-card"
-      onClick={
-        tappable
-          ? (event) => {
-              // Let the source link inside the credit work normally.
-              if ((event.target as HTMLElement).closest('a')) return;
-              onTap();
-            }
-          : undefined
-      }
+      onPointerDown={(event) => {
+        start.current = { x: event.clientX, y: event.clientY };
+        swiped.current = false;
+      }}
+      onPointerUp={(event) => {
+        const from = start.current;
+        start.current = null;
+        if (!from) return;
+        const dx = event.clientX - from.x;
+        const dy = event.clientY - from.y;
+        if (Math.abs(dx) < SWIPE_MIN_PX || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+        swiped.current = true;
+        if (dx < 0) onSwipeNext?.();
+        else onSwipePrev?.();
+      }}
+      onPointerCancel={() => {
+        start.current = null;
+      }}
+      onClick={(event) => {
+        if (swiped.current) {
+          swiped.current = false;
+          return;
+        }
+        // Let the source link inside the credit work normally.
+        if (!tappable || (event.target as HTMLElement).closest('a')) return;
+        onTap();
+      }}
     >
       {photo && (
         <Photo
@@ -80,9 +120,14 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
           {name}
         </h1>
       </div>
-      {tappable && (
+      {(tappable || swipeable) && (
         <p className="card-tap-hint" aria-hidden="true">
-          {photo ? strings.tapForName : strings.tapForPhoto}
+          {[
+            tappable && (photo ? strings.tapForName : strings.tapForPhoto),
+            swipeable && (canGoBack ? strings.swipeHint : strings.swipeNextHint),
+          ]
+            .filter(Boolean)
+            .join('  ·  ')}
         </p>
       )}
     </div>

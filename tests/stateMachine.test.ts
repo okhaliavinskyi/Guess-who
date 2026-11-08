@@ -170,6 +170,33 @@ describe('screen lock while a name is shown', () => {
   });
 });
 
+describe('history (swipe back / forward)', () => {
+  it('PREV re-reveals the previous item via countdown without a new draw', () => {
+    let s = run([{ type: 'SELECT_POOL', pool: 'music' }, { type: 'START' }]);
+    s = completeCurrent(s);
+    s = completeCurrent(reduce(s, { type: 'NEXT' }));
+    expect(s.history).toHaveLength(2);
+    expect(s.position).toBe(1);
+    const bags = s.bags;
+    s = reduce(s, { type: 'PREV' });
+    expect(s.screen).toMatchObject({
+      phase: 'COUNTDOWN',
+      resume: { kind: 'character', id: s.history[0] },
+    });
+    expect(s.screen).not.toHaveProperty('notice');
+    s = completeCurrent(s);
+    expect(s.screen).toMatchObject({ item: { id: s.history[0] } });
+    expect(s.bags).toBe(bags);
+    expect(reduce(s, { type: 'PREV' })).toBe(s); // nothing before the first
+  });
+
+  it('PREV is ignored for custom words', () => {
+    let s = run([{ type: 'OPEN_CUSTOM' }, { type: 'SUBMIT_CUSTOM', word: 'Zorro' }]);
+    s = completeCurrent(s);
+    expect(reduce(s, { type: 'PREV' })).toBe(s);
+  });
+});
+
 describe('session shadow ban', () => {
   const revealedId = (s: GameState) =>
     s.screen.phase === 'REVEALED' && s.screen.item.kind === 'character' ? s.screen.item.id : null;

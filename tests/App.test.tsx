@@ -289,6 +289,115 @@ describe('custom word', () => {
   });
 });
 
+describe('swipe navigation', () => {
+  const card = () => screen.getByTestId('character-card');
+  function swipe(dx: number, dy = 0) {
+    act(() => {
+      fireEvent.pointerDown(card(), { clientX: 300, clientY: 200 });
+      fireEvent.pointerUp(card(), { clientX: 300 + dx, clientY: 200 + dy });
+      fireEvent.click(card());
+    });
+  }
+  const sportsBank = () =>
+    bankOf({ sports: ['a', 'b', 'c', 'd'].map((id) => char(`s-${id}`, 'sports')) });
+
+  it('swipe left goes to the next name through the countdown', () => {
+    renderApp(sportsBank());
+    click(button(/Sports/));
+    startAndReveal();
+    const first = revealedName();
+    swipe(-120);
+    expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
+    expect(screen.getByTestId('countdown-number')).toBeInTheDocument();
+    tick(5000);
+    expect(revealedName()).not.toBe(first);
+  });
+
+  it('swipe right returns to the previous name, then left walks forward again', () => {
+    renderApp(sportsBank());
+    click(button(/Sports/));
+    startAndReveal();
+    const first = revealedName();
+    swipe(-120);
+    tick(5000);
+    const second = revealedName();
+    swipe(-120);
+    tick(5000);
+    const third = revealedName();
+    swipe(140);
+    expect(screen.queryByTestId('character-name')).not.toBeInTheDocument(); // countdown first
+    tick(5000);
+    expect(revealedName()).toBe(second);
+    swipe(140);
+    tick(5000);
+    expect(revealedName()).toBe(first);
+    swipe(140); // nothing before the first name
+    expect(revealedName()).toBe(first);
+    swipe(-120);
+    tick(5000);
+    expect(revealedName()).toBe(second);
+    swipe(-120);
+    tick(5000);
+    expect(revealedName()).toBe(third);
+    swipe(-120);
+    tick(5000);
+    expect([first, second, third]).not.toContain(revealedName()); // new draw
+  });
+
+  it('arrow keys work like swipes', () => {
+    renderApp(sportsBank());
+    click(button(/Sports/));
+    startAndReveal();
+    const first = revealedName();
+    act(() => void fireEvent.keyDown(window, { key: 'ArrowRight' }));
+    tick(5000);
+    expect(revealedName()).not.toBe(first);
+    act(() => void fireEvent.keyDown(window, { key: 'ArrowLeft' }));
+    tick(5000);
+    expect(revealedName()).toBe(first);
+  });
+
+  it('short or vertical movements are not swipes', () => {
+    renderApp(sportsBank());
+    click(button(/Sports/));
+    startAndReveal();
+    const first = revealedName();
+    swipe(-20);
+    swipe(-60, 200);
+    expect(revealedName()).toBe(first);
+  });
+
+  it('a swipe does not also toggle the photo', () => {
+    const withImg = char('pic', 'sports', {
+      image: {
+        src: '/images/p.jpg',
+        alt: 'x',
+        license: 'CC0',
+        sourceUrl: 'https://commons.wikimedia.org/wiki/File:P.jpg',
+      },
+    });
+    renderApp(bankOf({ sports: [withImg, char('other', 'sports')] }));
+    click(button(/Sports/));
+    startAndReveal();
+    swipe(-120);
+    expect(screen.queryByRole('img')).not.toBeInTheDocument();
+  });
+
+  it('a new category starts a fresh history', () => {
+    renderApp(sportsBank());
+    click(button(/Sports/));
+    startAndReveal();
+    swipe(-120);
+    tick(5000);
+    click(button('Change category'));
+    click(button(/Sports/));
+    startAndReveal();
+    const name = revealedName();
+    swipe(140);
+    expect(revealedName()).toBe(name);
+  });
+});
+
 describe('photos', () => {
   const withImage = char('img-person', 'sports', {
     displayName: 'Image Person',
@@ -332,14 +441,14 @@ describe('photos', () => {
     click(button(/Sports/));
     startAndReveal();
     const nameBox = () => screen.getByTestId('character-name').parentElement!;
-    expect(screen.getByText('Tap to show photo')).toBeInTheDocument();
+    expect(screen.getByText(/Tap to show photo/)).toBeInTheDocument();
     expect(nameBox()).toHaveClass('card-name-box');
     click(screen.getByTestId('character-card'));
     // Photo only: the name is hidden visually (kept for screen readers).
     expect(screen.getByRole('img', { name: 'Photo: Image Person' })).toBeInTheDocument();
     expect(nameBox()).toHaveClass('sr-only');
     expect(revealedName()).toBe('Image Person');
-    expect(screen.getByText('Tap to show name')).toBeInTheDocument();
+    expect(screen.getByText(/Tap to show name/)).toBeInTheDocument();
     expect(button('Show name')).toHaveAttribute('aria-pressed', 'true');
     click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
@@ -350,7 +459,7 @@ describe('photos', () => {
     renderApp(bankOf({ sports: [char('plain', 'sports')] }));
     click(button(/Sports/));
     startAndReveal();
-    expect(screen.queryByText('Tap to show photo')).not.toBeInTheDocument();
+    expect(screen.queryByText(/Tap to show photo/)).not.toBeInTheDocument();
     click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
   });
