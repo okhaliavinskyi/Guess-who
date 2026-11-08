@@ -748,6 +748,14 @@ input {
   .countdown-instruction {
     font-size: 1.1rem;
   }
+  .countdown-resumed {
+    padding: 6px 12px;
+    font-size: 0.85rem;
+  }
+  .countdown-resumed ~ .countdown-number {
+    font-size: 42vh;
+    font-size: 42dvh;
+  }
 }
 
 /* Landscape is the play format: nudge players who hold the phone upright. */

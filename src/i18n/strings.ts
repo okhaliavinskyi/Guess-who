@@ -65,6 +65,8 @@ const en = {
   namesInDeck: (n: number) => `${n} ${n === 1 ? 'name' : 'names'} in this deck`,
   countdownInstruction: 'Raise your phone — screen facing your friends.',
   countdownAnnouncement: (s: number) => `Get ready. Revealing in ${s} seconds.`,
+  resumedNotice:
+    'The screen was locked, so the name is hidden. Raise the phone — it comes back after the countdown.',
   cancel: 'Cancel',
   next: 'Next',
   newWord: 'New word',
@@ -135,6 +137,7 @@ const ru: Strings = {
   namesInDeck: (n: number) => `${n} ${slavicPlural(n, ['имя', 'имени', 'имён'])} в колоде`,
   countdownInstruction: 'Подними телефон — экраном к друзьям.',
   countdownAnnouncement: (s: number) => `Приготовься. Показ через ${s} сек.`,
+  resumedNotice: 'Экран блокировался — имя спрятано. Подними телефон: оно вернётся после отсчёта.',
   cancel: 'Отмена',
   next: 'Дальше',
   newWord: 'Новое слово',
@@ -204,6 +207,8 @@ const uk: Strings = {
   namesInDeck: (n: number) => `${n} ${slavicPlural(n, ['ім’я', 'імені', 'імен'])} у колоді`,
   countdownInstruction: 'Підніми телефон — екраном до друзів.',
   countdownAnnouncement: (s: number) => `Приготуйся. Показ через ${s} с.`,
+  resumedNotice:
+    'Екран блокувався — ім’я сховано. Підніми телефон: воно повернеться після відліку.',
   cancel: 'Скасувати',
   next: 'Далі',
   newWord: 'Нове слово',

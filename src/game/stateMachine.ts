@@ -5,6 +5,8 @@
  *   HOME ──OPEN_CUSTOM──> CUSTOM_INPUT ──SUBMIT_CUSTOM──> COUNTDOWN
  *   READY ──START──> COUNTDOWN ──COMPLETE──> REVEALED
  *   COUNTDOWN ──CANCEL / INTERRUPT──> READY  (nothing drawn from the bag)
+ *   REVEALED ──INTERRUPT (screen locked / app hidden)──> PAUSED ──RESUME──>
+ *     COUNTDOWN (resume) ──COMPLETE──> REVEALED   (the SAME item, no new draw)
  *   REVEALED ──TOGGLE_PHOTO──> REVEALED
  *   REVEALED ──NEXT──> COUNTDOWN (pool) | CUSTOM_INPUT (custom word)
  *   REVEALED/READY/... ──END / CHANGE_CATEGORY / BACK──> HOME
@@ -17,6 +19,9 @@
  *   cannot change it.
  * - Session shadow ban: a revealed id is not drawn again from any pool in the same
  *   session until that pool has shown everything else.
+ * - Coming back after the screen was locked never shows the name straight away:
+ *   the same item is re-revealed only after a fresh countdown, so the player who
+ *   unlocks the phone has time to raise it before the name appears.
  * - Any event not valid for the current phase returns the identical state object.
  */
 import type { PoolId } from '../content/categories.ts';
@@ -32,7 +37,14 @@ export type Screen =
   | { phase: 'CUSTOM_INPUT' }
   | { phase: 'UNAVAILABLE'; pool: PoolId }
   | { phase: 'READY'; selection: Selection; interrupted: boolean }
-  | { phase: 'COUNTDOWN'; selection: Selection; round: number }
+  | {
+      phase: 'COUNTDOWN';
+      selection: Selection;
+      round: number;
+      /** Set when re-revealing an item hidden by a screen lock (no new draw). */
+      resume?: RevealedItem;
+    }
+  | { phase: 'PAUSED'; selection: Selection; item: RevealedItem }
   | { phase: 'REVEALED'; selection: Selection; item: RevealedItem; showPhoto: boolean };
 
 export type Phase = Screen['phase'];
@@ -58,6 +70,7 @@ export type GameEvent =
   | { type: 'COMPLETE'; round: number }
   | { type: 'CANCEL' }
   | { type: 'INTERRUPT' }
+  | { type: 'RESUME' }
   | { type: 'TOGGLE_PHOTO' }
   | { type: 'NEXT' }
   | { type: 'END' }
@@ -120,6 +133,11 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
       case 'COMPLETE': {
         if (screen.phase !== 'COUNTDOWN' || event.round !== screen.round) return state;
         const { selection } = screen;
+        if (screen.resume)
+          return {
+            ...state,
+            screen: { phase: 'REVEALED', selection, item: screen.resume, showPhoto: false },
+          };
         if (selection.kind === 'custom') {
           return {
             ...state,
@@ -155,16 +173,40 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
         };
       }
 
-      case 'CANCEL':
       case 'INTERRUPT':
+        // Hiding the app while a name is shown (or about to be re-shown) keeps it,
+        // but hides it until a new countdown has run.
+        if (screen.phase === 'REVEALED')
+          return {
+            ...state,
+            screen: { phase: 'PAUSED', selection: screen.selection, item: screen.item },
+          };
+        if (screen.phase === 'COUNTDOWN' && screen.resume)
+          return {
+            ...state,
+            screen: { phase: 'PAUSED', selection: screen.selection, item: screen.resume },
+          };
         if (screen.phase !== 'COUNTDOWN') return state;
         return {
           ...state,
-          screen: {
-            phase: 'READY',
-            selection: screen.selection,
-            interrupted: event.type === 'INTERRUPT',
-          },
+          screen: { phase: 'READY', selection: screen.selection, interrupted: true },
+        };
+
+      case 'RESUME': {
+        if (screen.phase !== 'PAUSED') return state;
+        const round = state.round + 1;
+        return {
+          ...state,
+          round,
+          screen: { phase: 'COUNTDOWN', selection: screen.selection, round, resume: screen.item },
+        };
+      }
+
+      case 'CANCEL':
+        if (screen.phase !== 'COUNTDOWN') return state;
+        return {
+          ...state,
+          screen: { phase: 'READY', selection: screen.selection, interrupted: false },
         };
 
       case 'TOGGLE_PHOTO':
@@ -200,5 +242,5 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
 
 /** True while the player is "in play" (wake lock should be held). */
 export function isPlaying(phase: Phase): boolean {
-  return phase === 'COUNTDOWN' || phase === 'REVEALED';
+  return phase === 'COUNTDOWN' || phase === 'REVEALED' || phase === 'PAUSED';
 }

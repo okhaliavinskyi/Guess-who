@@ -139,6 +139,37 @@ describe('game state machine', () => {
   });
 });
 
+describe('screen lock while a name is shown', () => {
+  it('REVEALED → PAUSED → countdown → the same item, without drawing again', () => {
+    let s = run([{ type: 'SELECT_POOL', pool: 'music' }, { type: 'START' }]);
+    s = completeCurrent(s);
+    if (s.screen.phase !== 'REVEALED') throw new Error('not revealed');
+    const item = s.screen.item;
+    const { bags, seen } = s;
+    s = reduce(s, { type: 'INTERRUPT' });
+    expect(s.screen).toEqual({ phase: 'PAUSED', selection: { kind: 'pool', pool: 'music' }, item });
+    s = reduce(s, { type: 'RESUME' });
+    expect(s.screen).toMatchObject({ phase: 'COUNTDOWN', resume: item });
+    s = completeCurrent(s);
+    expect(s.screen).toMatchObject({ phase: 'REVEALED', item, showPhoto: false });
+    expect(s.bags).toBe(bags);
+    expect(s.seen).toBe(seen);
+  });
+
+  it('works for custom words too', () => {
+    let s = run([{ type: 'OPEN_CUSTOM' }, { type: 'SUBMIT_CUSTOM', word: 'Zorro' }]);
+    s = completeCurrent(s);
+    s = reduce(reduce(s, { type: 'INTERRUPT' }), { type: 'RESUME' });
+    s = completeCurrent(s);
+    expect(s.screen).toMatchObject({ phase: 'REVEALED', item: { kind: 'custom', word: 'Zorro' } });
+  });
+
+  it('RESUME is ignored outside PAUSED', () => {
+    const home = initialGameState();
+    expect(reduce(home, { type: 'RESUME' })).toBe(home);
+  });
+});
+
 describe('session shadow ban', () => {
   const revealedId = (s: GameState) =>
     s.screen.phase === 'REVEALED' && s.screen.item.kind === 'character' ? s.screen.item.id : null;

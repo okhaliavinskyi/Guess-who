@@ -71,21 +71,25 @@ function Game({
   useEffect(() => saveBags(state.bags), [state.bags]);
   useEffect(() => saveSeen(state.seen), [state.seen]);
 
-  // Backgrounding during the countdown cancels it: never reveal (or skip) unseen.
+  // Backgrounding / locking the screen while playing: a pending countdown is
+  // cancelled (never reveal unseen), and a shown name is hidden. On return the same
+  // name comes back only after a fresh countdown, so the player who unlocked the
+  // phone does not see it.
   useEffect(() => {
-    if (screen.phase !== 'COUNTDOWN') return;
-    const interrupt = () => {
+    if (!playing) return;
+    const onVisibility = () => {
       if (document.visibilityState === 'hidden') dispatch({ type: 'INTERRUPT' });
+      else if (screen.phase === 'PAUSED') dispatch({ type: 'RESUME' });
     };
     const onPageHide = () => dispatch({ type: 'INTERRUPT' });
-    interrupt();
-    document.addEventListener('visibilitychange', interrupt);
+    onVisibility();
+    document.addEventListener('visibilitychange', onVisibility);
     window.addEventListener('pagehide', onPageHide);
     return () => {
-      document.removeEventListener('visibilitychange', interrupt);
+      document.removeEventListener('visibilitychange', onVisibility);
       window.removeEventListener('pagehide', onPageHide);
     };
-  }, [screen.phase]);
+  }, [playing, screen.phase]);
 
   // Move focus to each new screen's heading for keyboard and screen-reader users.
   useEffect(() => {
@@ -163,11 +167,16 @@ function Game({
       );
     }
 
+    case 'PAUSED':
+      // Only exists while the page is hidden; nothing (certainly no name) to show.
+      return <main className="screen countdown" aria-hidden="true" />;
+
     case 'COUNTDOWN': {
       const round = screen.round;
       return (
         <Countdown
           key={round}
+          resumed={!!screen.resume}
           durationMs={countdownMs}
           now={now}
           onComplete={() => dispatch({ type: 'COMPLETE', round })}

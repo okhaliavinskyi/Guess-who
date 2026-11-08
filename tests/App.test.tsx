@@ -189,6 +189,40 @@ describe('category play (all six + Mix)', () => {
     expect(screen.getByTestId('character-name')).toBeInTheDocument();
   });
 
+  it('after the screen is locked, the same name comes back only after a countdown', () => {
+    renderApp();
+    click(button(/Sports/));
+    startAndReveal();
+    const name = revealedName();
+    act(() => setVisibility('hidden')); // screen locked
+    expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
+    tick(60_000);
+    act(() => setVisibility('visible')); // unlocked
+    expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
+    expect(screen.getByTestId('countdown-number')).toHaveTextContent('5');
+    expect(screen.getByRole('status')).toHaveTextContent(/screen was locked/);
+    tick(4000);
+    expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
+    tick(1000);
+    expect(revealedName()).toBe(name); // same name, nothing new drawn
+  });
+
+  it('locking again during the re-reveal countdown keeps the name hidden', () => {
+    renderApp();
+    click(button(/Sports/));
+    startAndReveal();
+    const name = revealedName();
+    act(() => setVisibility('hidden'));
+    act(() => setVisibility('visible'));
+    tick(2000);
+    act(() => setVisibility('hidden'));
+    tick(10_000);
+    act(() => setVisibility('visible'));
+    expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
+    tick(5000);
+    expect(revealedName()).toBe(name);
+  });
+
   it('End and Change category return home', () => {
     renderApp();
     click(button(/Movies/));
