@@ -14,9 +14,10 @@ interface Props {
 }
 
 /**
- * The revealed name, as large as the viewport allows. With a photo, the name stays
- * in a dedicated banner so it is always readable; a failed image falls back to
- * name-only with no broken-image icon.
+ * The revealed card shows ONE thing at a time: the name, as large as the viewport
+ * allows, or — after a tap — the photo filling the card. Another tap switches back.
+ * While the photo is shown the name stays in the DOM for screen readers only.
+ * A failed image falls back to the name with no broken-image icon.
  */
 export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: Props) {
   const strings = useStrings();
@@ -24,7 +25,7 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
   const photo = showPhoto ? usable : undefined;
   const { containerRef, textRef } = useFitText<HTMLDivElement, HTMLHeadingElement>(
     `${name}|${photo ? 'photo' : 'text'}`,
-    { max: photo ? 96 : 240 },
+    { max: 240 },
   );
   const headingRef = useRef<HTMLHeadingElement | null>(null);
 
@@ -64,7 +65,7 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
           onFailed={onPhotoFailed}
         />
       )}
-      <div className="card-name-box" ref={containerRef}>
+      <div className={photo ? 'sr-only' : 'card-name-box'} ref={containerRef}>
         <h1
           className="card-name"
           ref={(el) => {
@@ -79,9 +80,9 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
           {name}
         </h1>
       </div>
-      {tappable && !photo && (
+      {tappable && (
         <p className="card-tap-hint" aria-hidden="true">
-          {strings.tapForPhoto}
+          {photo ? strings.tapForName : strings.tapForPhoto}
         </p>
       )}
     </div>

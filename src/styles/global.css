@@ -617,14 +617,6 @@ input {
   outline: none;
 }
 
-.card--photo .card-name-box {
-  flex: 0 0 auto;
-  height: clamp(64px, 22%, 180px);
-  background: var(--paper);
-  border-radius: 16px;
-  padding: 4px 12px;
-}
-
 .card-photo {
   flex: 1;
   min-height: 0;
@@ -650,9 +642,10 @@ input {
 }
 
 .card-credit {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 600;
   text-align: center;
+  opacity: 0.75;
 }
 
 .card-credit a {
@@ -755,12 +748,24 @@ input {
   .countdown-instruction {
     font-size: 1.1rem;
   }
-  .card--photo {
-    flex-direction: row;
-  }
-  .card--photo .card-name-box {
-    flex: 1;
-    height: auto;
+}
+
+/* Landscape is the play format: nudge players who hold the phone upright. */
+.rotate-hint {
+  display: none;
+  margin: 0 auto;
+  max-width: 32ch;
+  padding: 8px 14px;
+  border-radius: 14px;
+  background: var(--focus);
+  color: var(--ink);
+  font-weight: 800;
+  text-align: center;
+}
+
+@media (orientation: portrait) and (max-width: 767px) {
+  .rotate-hint {
+    display: block;
   }
 }
 

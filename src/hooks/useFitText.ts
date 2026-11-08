@@ -20,8 +20,12 @@ export function useFitText<C extends HTMLElement, T extends HTMLElement>(
 
     let frame = 0;
     const fit = () => {
-      const width = container.clientWidth;
-      const height = container.clientHeight;
+      // clientWidth/Height include padding (e.g. the name banner next to a photo).
+      const style = getComputedStyle(container);
+      const width =
+        container.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight);
+      const height =
+        container.clientHeight - parseFloat(style.paddingTop) - parseFloat(style.paddingBottom);
       if (width === 0 || height === 0) return;
       el.style.overflowWrap = 'normal';
       const fits = (size: number) => {

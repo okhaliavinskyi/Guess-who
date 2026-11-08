@@ -6,6 +6,7 @@ import { loadBags, loadSeen, saveBags, saveSeen } from '../game/sessionBags.ts';
 import type { Rng } from '../game/shuffleBag.ts';
 import { createGameReducer, initialGameState, isPlaying } from '../game/stateMachine.ts';
 import { useFullscreen } from '../hooks/useFullscreen.ts';
+import { lockLandscape, unlockOrientation } from '../hooks/orientation.ts';
 import { useScreenWakeLock } from '../hooks/useScreenWakeLock.ts';
 import { LanguageProvider } from '../i18n/LanguageProvider.tsx';
 import { useLanguage } from '../i18n/language.ts';
@@ -95,13 +96,17 @@ function Game({
 
   const start = useCallback(() => {
     void wakeLock.requestFromGesture();
+    void lockLandscape();
     dispatch({ type: 'START' });
   }, [wakeLock]);
 
   const goHome = useCallback(
     (type: 'END' | 'CHANGE_CATEGORY' | 'BACK') => {
       dispatch({ type });
-      if (type === 'END') void fullscreen.exit();
+      if (type === 'END') {
+        unlockOrientation();
+        void fullscreen.exit();
+      }
     },
     [fullscreen],
   );
@@ -123,6 +128,7 @@ function Game({
           onBack={() => goHome('BACK')}
           onSubmit={(word) => {
             void wakeLock.requestFromGesture();
+            void lockLandscape();
             dispatch({ type: 'SUBMIT_CUSTOM', word });
           }}
         />

@@ -25,7 +25,7 @@ interface Props {
 /**
  * Character display. Stays until a deliberate button press — there is no timer.
  * Controls sit along the bottom edge, away from the centre that touches the forehead.
- * Tapping the card itself also adds/removes the photo (touch-friendly for friends
+ * Tapping the card switches between the name and the photo (touch-friendly for friends
  * holding the phone); the button stays for keyboard and screen-reader users.
  * "Show photo" is only rendered for entries with valid, licensed image metadata;
  * if the image fails to load the button disappears and a short status is shown.

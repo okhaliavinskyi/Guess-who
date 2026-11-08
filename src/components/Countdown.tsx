@@ -35,6 +35,9 @@ export function Countdown({ durationMs, onComplete, onCancel, now }: Props) {
       <p className="countdown-instruction" aria-hidden="true">
         {strings.countdownInstruction}
       </p>
+      <p className="rotate-hint" aria-hidden="true">
+        📱↻ {strings.rotateHint}
+      </p>
       <div
         className="countdown-number"
         aria-hidden="true"

@@ -275,7 +275,7 @@ describe('photos', () => {
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
   });
 
-  it('toggles a lazily-loaded photo with attribution, keeping the name visible', () => {
+  it('toggles a lazily-loaded photo with attribution instead of the name', () => {
     renderApp(bankOf({ sports: [withImage] }));
     click(button(/Sports/));
     startAndReveal();
@@ -293,24 +293,30 @@ describe('photos', () => {
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
   });
 
-  it('tapping the card adds the photo, and tapping again removes it', () => {
+  it('tapping the card switches between the name and the photo', () => {
     renderApp(bankOf({ sports: [withImage] }));
     click(button(/Sports/));
     startAndReveal();
-    expect(screen.getByText('Tap to add photo')).toBeInTheDocument();
+    const nameBox = () => screen.getByTestId('character-name').parentElement!;
+    expect(screen.getByText('Tap to show photo')).toBeInTheDocument();
+    expect(nameBox()).toHaveClass('card-name-box');
     click(screen.getByTestId('character-card'));
+    // Photo only: the name is hidden visually (kept for screen readers).
     expect(screen.getByRole('img', { name: 'Photo: Image Person' })).toBeInTheDocument();
+    expect(nameBox()).toHaveClass('sr-only');
     expect(revealedName()).toBe('Image Person');
+    expect(screen.getByText('Tap to show name')).toBeInTheDocument();
     expect(button('Show name')).toHaveAttribute('aria-pressed', 'true');
     click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
+    expect(nameBox()).toHaveClass('card-name-box');
   });
 
   it('tapping a card without a photo does nothing', () => {
     renderApp(bankOf({ sports: [char('plain', 'sports')] }));
     click(button(/Sports/));
     startAndReveal();
-    expect(screen.queryByText('Tap to add photo')).not.toBeInTheDocument();
+    expect(screen.queryByText('Tap to show photo')).not.toBeInTheDocument();
     click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
   });

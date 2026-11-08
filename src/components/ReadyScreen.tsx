@@ -46,6 +46,10 @@ export function ReadyScreen(p: Props) {
           </p>
         )}
         <p className="ready-hint">{strings.readyHint}</p>
+        <p className="rotate-hint" role="note">
+          <span aria-hidden="true">📱↻ </span>
+          {strings.rotateHint}
+        </p>
         <button type="button" className="btn btn-start" onClick={p.onStart}>
           {strings.start}
         </button>
