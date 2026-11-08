@@ -152,8 +152,8 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   production domain is public, per-deployment and preview URLs require Vercel login.
 - Verified live in Chromium (390×844): full Music round, Next, no console errors;
   security headers from `vercel.json` present; manifest and icons served.
-- Git auto-deploy is not connected yet: run `vercel git connect` (or connect the repo in
-  the Vercel dashboard) so every push to the production branch redeploys.
+- Git auto-deploy: connected (2026-11-08). Every push to `ccr-e90e4d2a-a0sxbh`
+  deploys to production; other branches get preview deployments.
 
 ## Production content & features (2026-11-08)
 
