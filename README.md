@@ -25,6 +25,9 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
   <img src="docs/screenshots/ready.jpg" alt="Ready screen" width="49%">
   <img src="docs/screenshots/countdown.jpg" alt="Countdown before the name appears" width="49%">
 </p>
+<p>
+  <img src="docs/screenshots/fullscreen.jpg" alt="Fullscreen play: just the name and an exit-fullscreen button" width="49%">
+</p>
 
 ## Features
 
