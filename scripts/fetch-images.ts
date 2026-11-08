@@ -12,11 +12,12 @@
  *  3. A ~500px thumbnail URL on upload.wikimedia.org is stored as `image.src`, with
  *     the file page as `sourceUrl` and the exact credit line as `attribution`.
  *
- * Usage: npm run content:images [-- --refresh]   (then npm run content:build)
+ * Usage: npm run content:images [-- --refresh] [-- --non-free]   (then npm run content:build)
+ *   --non-free also fills remaining gaps with the (copyrighted) image Wikipedia uses.
  */
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped MediaWiki API JSON */
-import { isAllowedLicense } from '../src/content/license.ts';
+import { isAllowedLicense, NON_FREE_LICENSE } from '../src/content/license.ts';
 import type { ImageMetadata } from '../src/content/schema.ts';
 import { readAllSources, slugify, type SourceEntry } from './build-bank.ts';
 
@@ -66,13 +67,15 @@ interface PageResult {
   problem?: string;
 }
 
-async function lookupPages(titles: string[]): Promise<Map<string, PageResult>> {
+async function lookupPages(titles: string[], anyLicense = false): Promise<Map<string, PageResult>> {
   const result = new Map<string, PageResult>();
   for (const batch of chunk(titles, 50)) {
     const data = await api('en.wikipedia.org', {
       action: 'query',
       prop: 'pageimages|pageprops',
       piprop: 'name',
+      // By default pageimages only returns free images; 'any' includes fair-use ones.
+      ...(anyLicense ? { pilicense: 'any' } : {}),
       ppprop: 'disambiguation',
       redirects: '1',
       titles: batch.join('|'),
@@ -99,10 +102,14 @@ async function lookupPages(titles: string[]): Promise<Map<string, PageResult>> {
   return result;
 }
 
-async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata | string>> {
+async function lookupFiles(
+  files: string[],
+  nonFree = false,
+): Promise<Map<string, ImageMetadata | string>> {
   const result = new Map<string, ImageMetadata | string>();
   for (const batch of chunk(files, 50)) {
-    const data = await api('commons.wikimedia.org', {
+    // Non-free (fair-use) files live on English Wikipedia itself, not on Commons.
+    const data = await api(nonFree ? 'en.wikipedia.org' : 'commons.wikimedia.org', {
       action: 'query',
       prop: 'imageinfo',
       iiprop: 'url|extmetadata',
@@ -124,6 +131,19 @@ async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata |
         continue;
       }
       const meta = info.extmetadata ?? {};
+      if (nonFree) {
+        const owner = stripHtml(meta.Artist?.value ?? '').slice(0, 120) || 'rights holder';
+        result.set(file, {
+          src: String(info.thumburl ?? info.url)
+            .replace(/\?utm_.*$/, '')
+            .replace('https://thumb.wikimedia.org/', 'https://upload.wikimedia.org/'),
+          alt: '',
+          license: NON_FREE_LICENSE,
+          sourceUrl: info.descriptionurl,
+          attribution: `© ${owner}, via Wikipedia`,
+        });
+        continue;
+      }
       const license = stripHtml(meta.LicenseShortName?.value ?? '');
       if (meta.NonFree?.value && meta.NonFree.value !== 'false') {
         result.set(file, 'flagged non-free');
@@ -210,6 +230,25 @@ async function main() {
       continue;
     }
     out[id] = { ...file, alt: altText(e) };
+  }
+
+  // --non-free: for entries still without a free image, use the copyrighted image
+  // Wikipedia shows in the article (e.g. Disney/Pixar characters), credited to its
+  // owner. The owner of the deployment decided this is acceptable for a personal,
+  // non-commercial game.
+  if (process.argv.includes('--non-free')) {
+    const rest = entries.filter((e) => !out[idOf(e)] && !SKIP.has(idOf(e)));
+    console.log(`Non-free pass for ${rest.length} entries…`);
+    const anyPages = await lookupPages([...new Set(rest.map((e) => e.wikiTitle))], true);
+    const anyFiles = await lookupFiles(
+      [...new Set([...anyPages.values()].flatMap((p) => (p.file ? [p.file] : [])))],
+      true,
+    );
+    for (const e of rest) {
+      const page = anyPages.get(e.wikiTitle);
+      const file = page?.file ? anyFiles.get(page.file) : undefined;
+      if (file && typeof file !== 'string') out[idOf(e)] = { ...file, alt: altText(e) };
+    }
   }
 
   const sorted = Object.fromEntries(Object.entries(out).sort(([a], [b]) => a.localeCompare(b)));

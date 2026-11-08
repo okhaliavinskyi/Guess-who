@@ -1652,7 +1652,14 @@
     "id": "pink-floyd",
     "category": "music",
     "displayName": "Pink Floyd",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg",
+      "alt": "Photo of Pink Floyd",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pink_Floyd_-_all_members.jpg",
+      "attribution": "© rights holder, via Wikipedia"
+    }
   },
   {
     "id": "ac-dc",
@@ -2484,6 +2491,13 @@
     "localeNames": {
       "ru": "The Notorious B.I.G.",
       "uk": "The Notorious B.I.G."
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/8c/Biggie_Smalls_1997.jpg",
+      "alt": "Photo of Notorious B.I.G.",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Biggie_Smalls_1997.jpg",
+      "attribution": "© Lori Shepler / Los Angeles Times (presumed), via Wikipedia"
     }
   },
   {
@@ -3224,7 +3238,14 @@
     "id": "gorillaz",
     "category": "music",
     "displayName": "Gorillaz",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c6/Gorillaz_family.jpg",
+      "alt": "Photo of Gorillaz",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gorillaz_family.jpg",
+      "attribution": "© Gorillaz/Jamie Hewlett, via Wikipedia"
+    }
   },
   {
     "id": "evanescence",

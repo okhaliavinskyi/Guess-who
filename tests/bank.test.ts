@@ -8,7 +8,7 @@ import { describe, expect, it } from 'vitest';
 import { BANK_STATUS } from '../src/content/bankStatus.ts';
 import { CATEGORY_IDS, type CategoryId } from '../src/content/categories.ts';
 import { hasUsableImage } from '../src/content/image.ts';
-import { isAllowedLicense } from '../src/content/license.ts';
+import { isAllowedLicense, NON_FREE_LICENSE } from '../src/content/license.ts';
 import { normalizeName, validateBank, type Character } from '../src/content/schema.ts';
 
 const files = CATEGORY_IDS.map((category) => ({
@@ -116,7 +116,9 @@ describe('bank photos', () => {
     for (const c of withImages) {
       const image = c.image!;
       expect(hasUsableImage(image), c.id).toBe(true);
-      expect(isAllowedLicense(image.license), `${c.id}: ${image.license}`).toBe(true);
+      const ok = isAllowedLicense(image.license) || image.license === NON_FREE_LICENSE;
+      expect(ok, `${c.id}: ${image.license}`).toBe(true);
+      if (image.license === NON_FREE_LICENSE) expect(image.attribution, c.id).toMatch(/^© /);
       expect(image.alt, c.id).toContain(c.displayName);
     }
   });
@@ -126,7 +128,9 @@ describe('bank photos', () => {
       const image = c.image!;
       if (image.src.startsWith('/images/')) continue;
       expect(image.src, c.id).toMatch(/^https:\/\/upload\.wikimedia\.org\//);
-      expect(image.sourceUrl, c.id).toMatch(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/);
+      expect(image.sourceUrl, c.id).toMatch(
+        /^https:\/\/(commons\.wikimedia\.org|en\.wikipedia\.org)\/wiki\/File:/,
+      );
     }
   });
 

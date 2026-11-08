@@ -59,6 +59,13 @@
     "localeNames": {
       "ru": "Супер Марио",
       "uk": "Супер Маріо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mario_by_Shigehisa_Nakaue.png",
+      "alt": "Image of Super Mario",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Mario_by_Shigehisa_Nakaue.png",
+      "attribution": "© Shigehisa Nakaue (artist) / Nintendo (owner), via Wikipedia"
     }
   },
   {
@@ -69,6 +76,13 @@
     "localeNames": {
       "ru": "Человек-паук",
       "uk": "Людина-павук"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png",
+      "alt": "Image of Spider-Man",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Web_of_Spider-Man_Vol_1_129-1.png",
+      "attribution": "© Mike McKone and Morry Hollowell / Marvel Comics, via Wikipedia"
     }
   },
   {
@@ -79,6 +93,13 @@
     "localeNames": {
       "ru": "Бэтмен",
       "uk": "Бетмен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg",
+      "alt": "Image of Batman",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Batman_Infobox.jpg",
+      "attribution": "© DC Comics, via Wikipedia"
     }
   },
   {
@@ -89,6 +110,13 @@
     "localeNames": {
       "ru": "Супермен",
       "uk": "Супермен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png",
+      "alt": "Image of Superman",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Supermanflying.png",
+      "attribution": "© Jason Fabok, via Wikipedia"
     }
   },
   {
@@ -99,6 +127,13 @@
     "localeNames": {
       "ru": "Чудо-женщина",
       "uk": "Диво-жінка"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Wonder_Woman_750.jpg",
+      "alt": "Image of Wonder Woman",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Wonder_Woman_750.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -109,6 +144,13 @@
     "localeNames": {
       "ru": "Железный человек",
       "uk": "Залізна людина"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png",
+      "alt": "Image of Iron Man",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Iron_Man_(circa_2018).png",
+      "attribution": "© Marvel Comics, via Wikipedia"
     }
   },
   {
@@ -129,6 +171,13 @@
     "localeNames": {
       "ru": "Халк",
       "uk": "Галк"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
+      "alt": "Image of Hulk",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hulk_(circa_2019).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -139,6 +188,13 @@
     "localeNames": {
       "ru": "Тор",
       "uk": "Тор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/1a/Thor_%28Marvel_Comics%29.png",
+      "alt": "Image of Thor",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Thor_(Marvel_Comics).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -149,6 +205,13 @@
     "localeNames": {
       "ru": "Росомаха",
       "uk": "Росомаха"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d3/Wolverine_%28circa_2024%29.jpg",
+      "alt": "Image of Wolverine",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Wolverine_(circa_2024).jpg",
+      "attribution": "© Stanley Lau (artist) / Marvel Comics (copyright holder), via Wikipedia"
     }
   },
   {
@@ -159,6 +222,13 @@
     "localeNames": {
       "ru": "Джокер",
       "uk": "Джокер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/5f/Batman_Three_Jokers.jpg",
+      "alt": "Image of Joker",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Batman_Three_Jokers.jpg",
+      "attribution": "© Jason Fabok (artist) / DC Comics (copyright owner), via Wikipedia"
     }
   },
   {
@@ -169,6 +239,13 @@
     "localeNames": {
       "ru": "Дарт Вейдер",
       "uk": "Дарт Вейдер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+      "alt": "Image of Darth Vader",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -197,6 +274,13 @@
     "localeNames": {
       "ru": "Принцесса Лея",
       "uk": "Принцеса Лея"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg",
+      "alt": "Image of Princess Leia",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Princess_Leia%27s_characteristic_hairstyle.jpg",
+      "attribution": "© Lucasfilm/Sportsphoto Ltd/Allstar, via Wikipedia"
     }
   },
   {
@@ -207,6 +291,13 @@
     "localeNames": {
       "ru": "Йода",
       "uk": "Йода"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png",
+      "alt": "Image of Yoda",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Yoda_Empire_Strikes_Back.png",
+      "attribution": "© Lucasfilm Ltd., via Wikipedia"
     }
   },
   {
@@ -217,6 +308,13 @@
     "localeNames": {
       "ru": "Хан Соло",
       "uk": "Хан Соло"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c9/Han_Solo_with_Blaster.jpg",
+      "alt": "Image of Han Solo",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Han_Solo_with_Blaster.jpg",
+      "attribution": "© Lucasfilm/20th Century Fox, via Wikipedia"
     }
   },
   {
@@ -227,6 +325,13 @@
     "localeNames": {
       "ru": "Джеймс Бонд",
       "uk": "Джеймс Бонд"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fleming007impression.jpg",
+      "alt": "Image of James Bond",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Fleming007impression.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -265,6 +370,13 @@
     "localeNames": {
       "ru": "Гэндальф",
       "uk": "Ґандальф"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/bd/Gandalf_from_The_Trolls_are_Turned_to_Stone_-_J.R.R_Tolkien.jpg",
+      "alt": "Image of Gandalf",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gandalf_from_The_Trolls_are_Turned_to_Stone_-_J.R.R_Tolkien.jpg",
+      "attribution": "© J.R.R. Tolkien, via Wikipedia"
     }
   },
   {
@@ -293,6 +405,13 @@
     "localeNames": {
       "ru": "Гермиона Грейнджер",
       "uk": "Герміона Ґрейнджер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg",
+      "alt": "Image of Hermione Granger",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hermione_Granger_poster.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -303,6 +422,13 @@
     "localeNames": {
       "ru": "Волан-де-Морт",
       "uk": "Лорд Волдеморт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Voldemort_book_and_film.jpg/500px-Voldemort_book_and_film.jpg",
+      "alt": "Image of Lord Voldemort",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Voldemort_book_and_film.jpg",
+      "attribution": "© Mary GrandPré and Warner Brothers, via Wikipedia"
     }
   },
   {
@@ -313,6 +439,13 @@
     "localeNames": {
       "ru": "Альбус Дамблдор",
       "uk": "Албус Дамблдор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dumbledore_-_Prisoner_of_Azkaban.jpg",
+      "alt": "Image of Albus Dumbledore",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dumbledore_-_Prisoner_of_Azkaban.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -323,6 +456,13 @@
     "localeNames": {
       "ru": "Рон Уизли",
       "uk": "Рон Візлі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/Ron_Weasley_poster.jpg",
+      "alt": "Image of Ron Weasley",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ron_Weasley_poster.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -333,6 +473,13 @@
     "localeNames": {
       "ru": "Дональд Дак",
       "uk": "Дональд Дак"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck_angry_transparent_background.png",
+      "alt": "Image of Donald Duck",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Donald_Duck_angry_transparent_background.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -343,6 +490,13 @@
     "localeNames": {
       "ru": "Гуфи",
       "uk": "Ґуфі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png",
+      "alt": "Image of Goofy",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Goofy_Duckipedia.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -370,6 +524,13 @@
     "localeNames": {
       "ru": "Багз Банни",
       "uk": "Багз Банні"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/500px-Bugs_Bunny.svg.png",
+      "alt": "Image of Bugs Bunny",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bugs_Bunny.svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -380,6 +541,13 @@
     "localeNames": {
       "ru": "Кот Том",
       "uk": "Кіт Том"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_Tom_and_Jerry.png",
+      "alt": "Image of Tom Cat",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tom_Tom_and_Jerry.png",
+      "attribution": "© MGM, via Wikipedia"
     }
   },
   {
@@ -390,6 +558,13 @@
     "localeNames": {
       "ru": "Мышонок Джерри",
       "uk": "Мишеня Джеррі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/2f/Jerry_Mouse.png",
+      "alt": "Image of Jerry Mouse",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jerry_Mouse.png",
+      "attribution": "© MGM, via Wikipedia"
     }
   },
   {
@@ -417,6 +592,13 @@
     "localeNames": {
       "ru": "Гомер Симпсон",
       "uk": "Гомер Сімпсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+      "alt": "Image of Homer Simpson",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Homer_Simpson_2006.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -427,6 +609,13 @@
     "localeNames": {
       "ru": "Барт Симпсон",
       "uk": "Барт Сімпсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+      "alt": "Image of Bart Simpson",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bart_Simpson_200px.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -437,6 +626,13 @@
     "localeNames": {
       "ru": "Губка Боб Квадратные Штаны",
       "uk": "Губка Боб Квадратні Штани"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/500px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png",
+      "alt": "Image of SpongeBob SquarePants",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:SpongeBob_SquarePants_logo_by_Nickelodeon.svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -447,6 +643,13 @@
     "localeNames": {
       "ru": "Шрек",
       "uk": "Шрек"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4d/Shrek_%28character%29.png",
+      "alt": "Image of Shrek",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Shrek_(character).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -457,6 +660,13 @@
     "localeNames": {
       "ru": "Пикачу",
       "uk": "Пікачу"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png",
+      "alt": "Image of Pikachu",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Pikachu_art.png",
+      "attribution": "© Game Freak, via Wikipedia"
     }
   },
   {
@@ -467,6 +677,13 @@
     "localeNames": {
       "ru": "Ёж Соник",
       "uk": "Їжак Сонік"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f4/Sonic_modern_and_classic_designs.png",
+      "alt": "Image of Sonic the Hedgehog",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sonic_modern_and_classic_designs.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -477,6 +694,13 @@
     "localeNames": {
       "ru": "Лара Крофт",
       "uk": "Лара Крофт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a8/LaraCroftInfobox.png",
+      "alt": "Image of Lara Croft",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:LaraCroftInfobox.png",
+      "attribution": "© Aspyr, via Wikipedia"
     }
   },
   {
@@ -725,6 +949,13 @@
     "localeNames": {
       "ru": "Мистер Бин",
       "uk": "Містер Бін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/60/Mr._bean_title_card.jpg",
+      "alt": "Image of Mr. Bean",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Mr._bean_title_card.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -735,6 +966,13 @@
     "localeNames": {
       "ru": "Коржик",
       "uk": "Коржик"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/Cisforcookie.jpg",
+      "alt": "Image of Cookie Monster",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Cisforcookie.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -780,6 +1018,13 @@
     "localeNames": {
       "ru": "Гарфилд",
       "uk": "Гарфілд"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/500px-Garfield_the_Cat.svg.png",
+      "alt": "Image of Garfield",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Garfield_the_Cat.svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -790,6 +1035,13 @@
     "localeNames": {
       "ru": "Снупи",
       "uk": "Снупі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/53/Snoopy_Peanuts.png",
+      "alt": "Image of Snoopy",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png",
+      "attribution": "© Charles M. Schulz, via Wikipedia"
     }
   },
   {
@@ -800,6 +1052,13 @@
     "localeNames": {
       "ru": "Чарли Браун",
       "uk": "Чарлі Браун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/22/Charlie_Brown.png",
+      "alt": "Image of Charlie Brown",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Charlie_Brown.png",
+      "attribution": "© Charles M. Schulz, via Wikipedia"
     }
   },
   {
@@ -827,6 +1086,13 @@
     "localeNames": {
       "ru": "Розовая пантера",
       "uk": "Рожева пантера"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/96/Pink_Panther.png",
+      "alt": "Image of Pink Panther",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pink_Panther.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -837,6 +1103,13 @@
     "localeNames": {
       "ru": "Тинтин",
       "uk": "Тентен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg/500px-Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg",
+      "alt": "Image of Tintin",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_(1929).jpg",
+      "attribution": "© Hergé, via Wikipedia"
     }
   },
   {
@@ -865,6 +1138,13 @@
     "localeNames": {
       "ru": "Смурфетта",
       "uk": "Смурфетта"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/fe/Smurfette-comics_version.png",
+      "alt": "Image of Smurfette",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Smurfette-comics_version.png",
+      "attribution": "© Peyo, via Wikipedia"
     }
   },
   {
@@ -911,6 +1191,13 @@
     "localeNames": {
       "ru": "Симба",
       "uk": "Сімба"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/94/Simba_%28_Disney_character_-_adult%29.png",
+      "alt": "Image of Simba",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Simba_(_Disney_character_-_adult).png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -921,6 +1208,13 @@
     "localeNames": {
       "ru": "Эльза",
       "uk": "Ельза"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/Elsa_from_Disney%27s_Frozen.png",
+      "alt": "Image of Elsa",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Elsa_from_Disney%27s_Frozen.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -931,6 +1225,13 @@
     "localeNames": {
       "ru": "Ариэль",
       "uk": "Аріель"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/77/Ariel_disney.png",
+      "alt": "Image of Ariel",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ariel_disney.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -941,6 +1242,13 @@
     "localeNames": {
       "ru": "Аладдин",
       "uk": "Аладдін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/be/Aladdin_Disney_pose.png",
+      "alt": "Image of Aladdin",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Aladdin_Disney_pose.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -951,6 +1259,13 @@
     "localeNames": {
       "ru": "Джинн",
       "uk": "Джин"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Genie_Aladdin.png",
+      "alt": "Image of Genie",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Genie_Aladdin.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -978,6 +1293,13 @@
     "localeNames": {
       "ru": "Моана",
       "uk": "Ваяна"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/56/Moana_%28character%29.png",
+      "alt": "Image of Moana",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Moana_(character).png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -1119,6 +1441,13 @@
     "localeNames": {
       "ru": "Даша-путешественница",
       "uk": "Дора-мандрівниця"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/99/Dora_the_Explorer_%28character%29.webp",
+      "alt": "Image of Dora the Explorer",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dora_the_Explorer_(character).webp",
+      "attribution": "© Nickelodeon, via Wikipedia"
     }
   },
   {
@@ -1129,6 +1458,13 @@
     "localeNames": {
       "ru": "Оптимус Прайм",
       "uk": "Оптімус Прайм"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/b2/Optimusprime-originaltoy.jpg",
+      "alt": "Image of Optimus Prime",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Optimusprime-originaltoy.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1193,6 +1529,13 @@
     "localeNames": {
       "ru": "Робокоп",
       "uk": "Робокоп"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/1a/RoboCop_%28Peter_Weller%29.png",
+      "alt": "Image of RoboCop",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:RoboCop_(Peter_Weller).png",
+      "attribution": "© Metro-Goldwyn-Mayer Studios, via Wikipedia"
     }
   },
   {
@@ -1203,6 +1546,13 @@
     "localeNames": {
       "ru": "Рокки Бальбоа",
       "uk": "Роккі Бальбоа"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/53/Rocky_balboa.jpeg",
+      "alt": "Image of Rocky Balboa",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Rocky_balboa.jpeg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1213,6 +1563,13 @@
     "localeNames": {
       "ru": "Форрест Гамп",
       "uk": "Форрест Ґамп"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+      "alt": "Image of Forrest Gump",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Forrest_Gump_poster.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1223,6 +1580,13 @@
     "localeNames": {
       "ru": "Ганнибал Лектер",
       "uk": "Ганнібал Лектер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/6e/Hannibal_Lecter_in_Silence_of_the_Lambs.jpg",
+      "alt": "Image of Hannibal Lecter",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hannibal_Lecter_in_Silence_of_the_Lambs.jpg",
+      "attribution": "© MGM Pictures, via Wikipedia"
     }
   },
   {
@@ -1233,6 +1597,13 @@
     "localeNames": {
       "ru": "Фредди Крюгер",
       "uk": "Фредді Крюгер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg",
+      "alt": "Image of Freddy Krueger",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Freddy_Krueger_(Robert_Englund).jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1243,6 +1614,13 @@
     "localeNames": {
       "ru": "Чаки",
       "uk": "Чакі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/38/Chucky_Appearance_%28TV_Series%29.jpeg",
+      "alt": "Image of Chucky",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Chucky_Appearance_(TV_Series).jpeg",
+      "attribution": "© SYFY, via Wikipedia"
     }
   },
   {
@@ -1263,6 +1641,13 @@
     "localeNames": {
       "ru": "Пеннивайз",
       "uk": "Пеннівайз"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/52/Pennywise_Skarsgard_and_Curry.png",
+      "alt": "Image of Pennywise",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pennywise_Skarsgard_and_Curry.png",
+      "attribution": "© Character collage, built from screenshots. Copyright belongs to the respective copyright holders of the 1990 miniseries , via Wikipedia"
     }
   },
   {
@@ -1273,6 +1658,13 @@
     "localeNames": {
       "ru": "Эдвард Руки-ножницы",
       "uk": "Едвард Руки-ножиці"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/3b/Edwardscissorhandsposter.JPG",
+      "alt": "Image of Edward Scissorhands",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Edwardscissorhandsposter.JPG",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1334,6 +1726,13 @@
     "localeNames": {
       "ru": "Бэмби",
       "uk": "Бембі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Walt_Disney%27s_Bambi_poster.jpg",
+      "alt": "Image of Bambi",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Walt_Disney%27s_Bambi_poster.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1344,6 +1743,13 @@
     "localeNames": {
       "ru": "Дамбо",
       "uk": "Дамбо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a7/Dumbo-1941-poster.jpg",
+      "alt": "Image of Dumbo",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dumbo-1941-poster.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1354,6 +1760,13 @@
     "localeNames": {
       "ru": "Молния Маккуин",
       "uk": "Блискавка МакКвін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/82/Lightning_McQueen.png",
+      "alt": "Image of Lightning McQueen",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Lightning_McQueen.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1364,6 +1777,13 @@
     "localeNames": {
       "ru": "Немо",
       "uk": "Немо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+      "alt": "Image of Nemo",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Finding_Nemo.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1374,6 +1794,13 @@
     "localeNames": {
       "ru": "Дори",
       "uk": "Дорі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/ae/Dory_%28Finding_Nemo%29.png",
+      "alt": "Image of Dory",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dory_(Finding_Nemo).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1384,6 +1811,13 @@
     "localeNames": {
       "ru": "ВАЛЛ-И",
       "uk": "ВОЛЛ-І"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/68/WALL-E_%28character%29.png",
+      "alt": "Image of Wall-E",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:WALL-E_(character).png",
+      "attribution": "© Pixar/Disney, via Wikipedia"
     }
   },
   {
@@ -1412,6 +1846,13 @@
     "localeNames": {
       "ru": "Грю",
       "uk": "Грю"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/09/Gru_from_DM4.png",
+      "alt": "Image of Gru",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gru_from_DM4.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1422,6 +1863,13 @@
     "localeNames": {
       "ru": "По",
       "uk": "Панда По"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/3d/Po_from_DreamWorks_Animation%27s_Kung_Fu_Panda.png",
+      "alt": "Image of Po",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Po_from_DreamWorks_Animation%27s_Kung_Fu_Panda.png",
+      "attribution": "© DreamWorks Animation, via Wikipedia"
     }
   },
   {
@@ -1432,6 +1880,13 @@
     "localeNames": {
       "ru": "Кот в сапогах",
       "uk": "Кіт у чоботях"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/8a/Puss_in_Boots_from_Shrek.png",
+      "alt": "Image of Puss in Boots",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Puss_in_Boots_from_Shrek.png",
+      "attribution": "© DreamWorks Animation, via Wikipedia"
     }
   },
   {
@@ -1442,6 +1897,13 @@
     "localeNames": {
       "ru": "Осёл",
       "uk": "Віслюк"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/6c/Donkey_%28Shrek%29.png",
+      "alt": "Image of Donkey",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Donkey_(Shrek).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1452,6 +1914,13 @@
     "localeNames": {
       "ru": "Стич",
       "uk": "Стіч"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/500px-Stitch_%28Lilo_%26_Stitch%29.svg.png",
+      "alt": "Image of Stitch",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Stitch_(Lilo_%26_Stitch).svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1462,6 +1931,13 @@
     "localeNames": {
       "ru": "Олаф",
       "uk": "Олаф"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/6d/Olaf_from_Disney%27s_Frozen.png",
+      "alt": "Image of Olaf",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Olaf_from_Disney%27s_Frozen.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -1472,6 +1948,13 @@
     "localeNames": {
       "ru": "Урсула",
       "uk": "Урсула"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e3/Ursula%28TheLittleMermaid%29character.png",
+      "alt": "Image of Ursula",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ursula(TheLittleMermaid)character.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -1482,6 +1965,13 @@
     "localeNames": {
       "ru": "Малефисента",
       "uk": "Малефісента"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/7e/Malefica.jpg",
+      "alt": "Image of Maleficent",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Malefica.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1492,6 +1982,13 @@
     "localeNames": {
       "ru": "Стервелла Де Виль",
       "uk": "Лютелла де Віль"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/64/Cruella_de_Vil.png",
+      "alt": "Image of Cruella de Vil",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Cruella_de_Vil.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1502,6 +1999,13 @@
     "localeNames": {
       "ru": "Шрам",
       "uk": "Шрам"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4d/Scar_lion_king.png",
+      "alt": "Image of Scar",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Scar_lion_king.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -1549,6 +2053,13 @@
     "localeNames": {
       "ru": "Лиза Симпсон",
       "uk": "Ліса Сімпсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+      "alt": "Image of Lisa Simpson",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Lisa_Simpson.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1559,6 +2070,13 @@
     "localeNames": {
       "ru": "Питер Гриффин",
       "uk": "Пітер Гріфін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png",
+      "alt": "Image of Peter Griffin",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Peter_Griffin.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1569,6 +2087,13 @@
     "localeNames": {
       "ru": "Эрик Картман",
       "uk": "Ерік Картмен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png",
+      "alt": "Image of Eric Cartman",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:EricCartman.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1579,6 +2104,13 @@
     "localeNames": {
       "ru": "Рик Санчес",
       "uk": "Рік Санчез"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a6/Rick_Sanchez.png",
+      "alt": "Image of Rick Sanchez",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Rick_Sanchez.png",
+      "attribution": "© Copyright for the animated character is held by Adult Swim. The image was uploaded to fanart by adamforeman., via Wikipedia"
     }
   },
   {
@@ -1589,6 +2121,13 @@
     "localeNames": {
       "ru": "Фред Флинтстоун",
       "uk": "Фред Флінстоун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/ad/Fred_Flintstone.png",
+      "alt": "Image of Fred Flintstone",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Fred_Flintstone.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1599,6 +2138,13 @@
     "localeNames": {
       "ru": "Даффи Дак",
       "uk": "Даффі Дак"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/500px-Daffy_Duck.svg.png",
+      "alt": "Image of Daffy Duck",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Daffy_Duck.svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1609,6 +2155,13 @@
     "localeNames": {
       "ru": "Твити",
       "uk": "Твіті"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/500px-Tweety.svg.png",
+      "alt": "Image of Tweety",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tweety.svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1619,6 +2172,13 @@
     "localeNames": {
       "ru": "Дорожный бегун",
       "uk": "Дорожній бігун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Tobeepornottobeep.jpg",
+      "alt": "Image of Road Runner",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tobeepornottobeep.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1647,6 +2207,13 @@
     "localeNames": {
       "ru": "Тасманский дьявол",
       "uk": "Тасманійський диявол"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/500px-Taz-Looney_Tunes.svg.png",
+      "alt": "Image of Taz",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Taz-Looney_Tunes.svg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1657,6 +2224,13 @@
     "localeNames": {
       "ru": "Вуди Вудпекер",
       "uk": "Вуді Вудпекер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Woody_Woodpecker.svg/500px-Woody_Woodpecker.svg.png",
+      "alt": "Image of Woody Woodpecker",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Woody_Woodpecker.svg",
+      "attribution": "© Walter Lantz and Ben Hardaway, via Wikipedia"
     }
   },
   {
@@ -1769,6 +2343,13 @@
     "localeNames": {
       "ru": "Эркюль Пуаро",
       "uk": "Еркюль Пуаро"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/2d/Albert_Finney_plays_Poirot.jpg",
+      "alt": "Image of Hercule Poirot",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Albert_Finney_plays_Poirot.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1779,6 +2360,13 @@
     "localeNames": {
       "ru": "Мисс Марпл",
       "uk": "Міс Марпл"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4e/Joan_Hickson_as_Miss_Marple.jpg",
+      "alt": "Image of Miss Marple",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Joan_Hickson_as_Miss_Marple.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2088,6 +2676,13 @@
     "localeNames": {
       "ru": "Белла Свон",
       "uk": "Белла Свон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/77/Bella_Swan.jpg",
+      "alt": "Image of Bella Swan",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bella_Swan.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2098,6 +2693,13 @@
     "localeNames": {
       "ru": "Эдвард Каллен",
       "uk": "Едвард Каллен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/69/Edward_Cullen.jpg",
+      "alt": "Image of Edward Cullen",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Edward_Cullen.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2108,6 +2710,13 @@
     "localeNames": {
       "ru": "Джон Сноу",
       "uk": "Джон Сноу"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png",
+      "alt": "Image of Jon Snow",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jon_Snow_Season_8.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2118,6 +2727,13 @@
     "localeNames": {
       "ru": "Дейенерис Таргариен",
       "uk": "Данерис Таргарієн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/0d/Daenerys_Targaryen_with_Dragon-Emilia_Clarke.jpg",
+      "alt": "Image of Daenerys Targaryen",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Daenerys_Targaryen_with_Dragon-Emilia_Clarke.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2128,6 +2744,13 @@
     "localeNames": {
       "ru": "Уолтер Уайт",
       "uk": "Волтер Вайт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png",
+      "alt": "Image of Walter White",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Walter_White_S5B.png",
+      "attribution": "© AMC, via Wikipedia"
     }
   },
   {
@@ -2138,6 +2761,13 @@
     "localeNames": {
       "ru": "Одиннадцать",
       "uk": "Одинадцять"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/3f/Eleven_%28Stranger_Things_5%29.png",
+      "alt": "Image of Eleven",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Eleven_(Stranger_Things_5).png",
+      "attribution": "© Netflix, via Wikipedia"
     }
   },
   {
@@ -2148,6 +2778,13 @@
     "localeNames": {
       "ru": "Доктор Хаус",
       "uk": "Доктор Хаус"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/HouseGregoryHouse.png",
+      "alt": "Image of Dr. House",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:HouseGregoryHouse.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2158,6 +2795,13 @@
     "localeNames": {
       "ru": "Шелдон Купер",
       "uk": "Шелдон Купер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f7/Sheldon_and_Young_Sheldon.jpg",
+      "alt": "Image of Sheldon Cooper",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sheldon_and_Young_Sheldon.jpg",
+      "attribution": "© CBS, via Wikipedia"
     }
   },
   {
@@ -2168,6 +2812,13 @@
     "localeNames": {
       "ru": "Джоуи Триббиани",
       "uk": "Джої Тріббіані"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/da/Matt_LeBlanc_as_Joey_Tribbiani.jpg",
+      "alt": "Image of Joey Tribbiani",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Matt_LeBlanc_as_Joey_Tribbiani.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2178,6 +2829,13 @@
     "localeNames": {
       "ru": "Рэйчел Грин",
       "uk": "Рейчел Грін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/ec/Jennifer_Aniston_as_Rachel_Green.jpg",
+      "alt": "Image of Rachel Green",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jennifer_Aniston_as_Rachel_Green.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2222,6 +2880,13 @@
     "localeNames": {
       "ru": "Нео",
       "uk": "Нео"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c6/NeoTheMatrix.jpg",
+      "alt": "Image of Neo",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:NeoTheMatrix.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2250,6 +2915,13 @@
     "localeNames": {
       "ru": "Марти Макфлай",
       "uk": "Марті Макфлай"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d8/Michael_J._Fox_as_Marty_McFly_in_Back_to_the_Future%2C_1985.jpg",
+      "alt": "Image of Marty McFly",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Michael_J._Fox_as_Marty_McFly_in_Back_to_the_Future,_1985.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2260,6 +2932,13 @@
     "localeNames": {
       "ru": "Док Браун",
       "uk": "Док Браун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/97/Doc_Brown.JPG",
+      "alt": "Image of Doc Brown",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Doc_Brown.JPG",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2270,6 +2949,13 @@
     "localeNames": {
       "ru": "Эйс Вентура",
       "uk": "Ейс Вентура"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/9f/AceVenturaFilm.PNG",
+      "alt": "Image of Ace Ventura",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:AceVenturaFilm.PNG",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2280,6 +2966,13 @@
     "localeNames": {
       "ru": "Дэдпул",
       "uk": "Дедпул"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png",
+      "alt": "Image of Deadpool",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Deadpool.png",
+      "attribution": "© Rob Liefeld / Marvel Comics, via Wikipedia"
     }
   },
   {
@@ -2290,6 +2983,13 @@
     "localeNames": {
       "ru": "Чёрная вдова",
       "uk": "Чорна вдова"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/37/Natasha_Romanova_incarnations.jpg",
+      "alt": "Image of Black Widow",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Natasha_Romanova_incarnations.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2300,6 +3000,13 @@
     "localeNames": {
       "ru": "Чёрная пантера",
       "uk": "Чорна пантера"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f7/Black_Panther_%28T%27Challa%29.png",
+      "alt": "Image of Black Panther",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Black_Panther_(T%27Challa).png",
+      "attribution": "© Jack Kirby, via Wikipedia"
     }
   },
   {
@@ -2310,6 +3017,13 @@
     "localeNames": {
       "ru": "Капитан Марвел",
       "uk": "Капітан Марвел"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/02/Carol_Danvers_-_%28evolution%29.jpg",
+      "alt": "Image of Captain Marvel",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Carol_Danvers_-_(evolution).jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2320,6 +3034,13 @@
     "localeNames": {
       "ru": "Доктор Стрэндж",
       "uk": "Доктор Стрендж"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
+      "alt": "Image of Doctor Strange",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2330,6 +3051,13 @@
     "localeNames": {
       "ru": "Танос",
       "uk": "Танос"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/Thanos_%28Infobox_image%29.png",
+      "alt": "Image of Thanos",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Thanos_(Infobox_image).png",
+      "attribution": "© Dike Ruan / Marvel Comics, via Wikipedia"
     }
   },
   {
@@ -2340,6 +3068,13 @@
     "localeNames": {
       "ru": "Грут",
       "uk": "Ґрут"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/3b/Groot.png",
+      "alt": "Image of Groot",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Groot.png",
+      "attribution": "© Marvel, via Wikipedia"
     }
   },
   {
@@ -2350,6 +3085,13 @@
     "localeNames": {
       "ru": "Локи",
       "uk": "Локі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/Various_incarnations_of_Loki_%282014%29.webp",
+      "alt": "Image of Loki",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Various_incarnations_of_Loki_(2014).webp",
+      "attribution": "© Lee Garbett (author)Marvel Comics (owner), via Wikipedia"
     }
   },
   {
@@ -2360,6 +3102,13 @@
     "localeNames": {
       "ru": "Женщина-кошка",
       "uk": "Жінка-кішка"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/Catwoman_Infobox.jpg",
+      "alt": "Image of Catwoman",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Catwoman_Infobox.jpg",
+      "attribution": "© Adam Hughes / DC Comics, via Wikipedia"
     }
   },
   {
@@ -2370,6 +3119,13 @@
     "localeNames": {
       "ru": "Харли Квинн",
       "uk": "Гарлі Квінн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c9/HarleyQuinn_Various_incarnations.jpg",
+      "alt": "Image of Harley Quinn",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:HarleyQuinn_Various_incarnations.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2380,6 +3136,13 @@
     "localeNames": {
       "ru": "Аквамен",
       "uk": "Аквамен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png",
+      "alt": "Image of Aquaman",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Aquaman_Rebirth_1.png",
+      "attribution": "© Brad Walker / DC Comics, via Wikipedia"
     }
   },
   {
@@ -2390,6 +3153,13 @@
     "localeNames": {
       "ru": "Флэш",
       "uk": "Флеш"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png",
+      "alt": "Image of The Flash",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Flash_(Barry_Allen).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2400,6 +3170,13 @@
     "localeNames": {
       "ru": "Магнето",
       "uk": "Магнето"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e9/Magneto_%28Marvel_Comics_character%29.jpg",
+      "alt": "Image of Magneto",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Magneto_(Marvel_Comics_character).jpg",
+      "attribution": "© J. Scott Campbell, via Wikipedia"
     }
   },
   {
@@ -2410,6 +3187,13 @@
     "localeNames": {
       "ru": "Линк",
       "uk": "Лінк"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/9d/Link_%28Hyrule_Historia%29.png",
+      "alt": "Image of Link",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Link_(Hyrule_Historia).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2420,6 +3204,13 @@
     "localeNames": {
       "ru": "Луиджи",
       "uk": "Луїджі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/be/Luigi_by_Shigehisa_Nakaue.png",
+      "alt": "Image of Luigi",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Luigi_by_Shigehisa_Nakaue.png",
+      "attribution": "© Shigehisa Nakaue (artist) / Nintendo (owner), via Wikipedia"
     }
   },
   {
@@ -2430,6 +3221,13 @@
     "localeNames": {
       "ru": "Принцесса Пич",
       "uk": "Принцеса Піч"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/16/Princess_Peach_Stock_Art.png",
+      "alt": "Image of Princess Peach",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Princess_Peach_Stock_Art.png",
+      "attribution": "© Shigehisa Nakaue, via Wikipedia"
     }
   },
   {
@@ -2440,6 +3238,13 @@
     "localeNames": {
       "ru": "Боузер",
       "uk": "Боузер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d1/Bowser_by_Shigehisa_Nakaue.png",
+      "alt": "Image of Bowser",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bowser_by_Shigehisa_Nakaue.png",
+      "attribution": "© Shigehisa Nakaue (artist) / Nintendo (owner), via Wikipedia"
     }
   },
   {
@@ -2450,6 +3255,13 @@
     "localeNames": {
       "ru": "Донки Конг",
       "uk": "Донкі Конг"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png",
+      "alt": "Image of Donkey Kong",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Donkey_Kong_character.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2478,6 +3290,13 @@
     "localeNames": {
       "ru": "Крэш Бандикут",
       "uk": "Креш Бандікут"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a3/IAT_Crash_Bandicoot.png",
+      "alt": "Image of Crash Bandicoot",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:IAT_Crash_Bandicoot.png",
+      "attribution": "© Toys For Bob, via Wikipedia"
     }
   },
   {
@@ -2488,6 +3307,13 @@
     "localeNames": {
       "ru": "Эш Кетчум",
       "uk": "Еш Кетчум"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/Ash_Ketchum_Journeys.png",
+      "alt": "Image of Ash Ketchum",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ash_Ketchum_Journeys.png",
+      "attribution": "© The Pokémon Company Int'l, via Wikipedia"
     }
   },
   {
@@ -2498,6 +3324,13 @@
     "localeNames": {
       "ru": "Наруто Удзумаки",
       "uk": "Наруто Удзумакі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
+      "alt": "Image of Naruto Uzumaki",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:NarutoUzumaki.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2508,6 +3341,13 @@
     "localeNames": {
       "ru": "Сон Гоку",
       "uk": "Сон Ґоку"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4c/GokumangaToriyama.png",
+      "alt": "Image of Goku",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:GokumangaToriyama.png",
+      "attribution": "© Shueisha; Akira Toriyama, via Wikipedia"
     }
   },
   {
@@ -2518,6 +3358,13 @@
     "localeNames": {
       "ru": "Сейлор Мун",
       "uk": "Сейлор Мун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/2b/Sailor_Moon_01.jpg",
+      "alt": "Image of Sailor Moon",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sailor_Moon_01.jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2528,6 +3375,13 @@
     "localeNames": {
       "ru": "Тоторо",
       "uk": "Тоторо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/02/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg",
+      "alt": "Image of Totoro",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:My_Neighbor_Totoro_-_Tonari_no_Totoro_(Movie_Poster).jpg",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2538,6 +3392,13 @@
     "localeNames": {
       "ru": "Хелло Китти",
       "uk": "Хелло Кітті"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/05/Hello_kitty_character_portrait.png",
+      "alt": "Image of Hello Kitty",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hello_kitty_character_portrait.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2566,6 +3427,13 @@
     "localeNames": {
       "ru": "Боб-строитель",
       "uk": "Боб-будівельник"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c5/Bob_the_builder.jpg",
+      "alt": "Image of Bob the Builder",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bob_the_builder.jpg",
+      "attribution": "© The BBC, via Wikipedia"
     }
   },
   {
@@ -2576,6 +3444,13 @@
     "localeNames": {
       "ru": "Паровозик Томас",
       "uk": "Паровозик Томас"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Thomas_the_Tank_Engine_1946.webp",
+      "alt": "Image of Thomas the Tank Engine",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Thomas_the_Tank_Engine_1946.webp",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2596,6 +3471,13 @@
     "localeNames": {
       "ru": "Веном",
       "uk": "Веном"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/b0/Venom_%28Marvel_Comics_character%29.png",
+      "alt": "Image of Venom",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Venom_(Marvel_Comics_character).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2606,6 +3488,13 @@
     "localeNames": {
       "ru": "Геркулес",
       "uk": "Геркулес"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/76/Disney%27s_Hercules_characters.jpg",
+      "alt": "Image of Hercules",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Disney%27s_Hercules_characters.jpg",
+      "attribution": "© Walt Disney Animation Studios, via Wikipedia"
     }
   },
   {
@@ -2654,6 +3543,13 @@
     "localeNames": {
       "ru": "Майк Вазовски",
       "uk": "Майк Вазовський"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/6a/Mike_Wazowski.png",
+      "alt": "Image of Mike Wazowski",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Mike_Wazowski.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {

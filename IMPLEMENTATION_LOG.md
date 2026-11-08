@@ -191,3 +191,7 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   cricket, national pop/TV, regional politicians and writers). 949 names (104–214 per
   category), 797 photos, ru 885 / uk 860 names. Tests: 100+ per category, guard list.
 - Git auto-deploy verified: merging into `ccr-e90e4d2a-a0sxbh` deploys production.
+- Owner decision (personal, non-commercial game): characters without a free image use
+  the fair-use image from their Wikipedia article (`content:images -- --non-free`),
+  credited to the rights holder. Images now: 929 of 949 entries;
+  201 of 214 fictional characters. All ru/uk names filled (bands stay in Latin).

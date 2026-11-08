@@ -1241,6 +1241,13 @@
     "localeNames": {
       "ru": "Бэнкси",
       "uk": "Бенксі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/3f/Banksy-ps2.jpg",
+      "alt": "Photo of Banksy",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Banksy-ps2.jpg",
+      "attribution": "© Original uploader was Ajuk at en.wikipedia. The photographer's rights have been released under the following licences:, via Wikipedia"
     }
   },
   {
