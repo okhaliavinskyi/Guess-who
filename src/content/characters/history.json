@@ -805,23 +805,6 @@
     }
   },
   {
-    "id": "alexander-pushkin",
-    "category": "history",
-    "displayName": "Alexander Pushkin",
-    "popularityTier": "iconic",
-    "localeNames": {
-      "ru": "Александр Пушкин",
-      "uk": "Олександр Пушкін"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Orest_Kiprensky_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_-_Google_Art_Project.jpg/500px-Orest_Kiprensky_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_-_Google_Art_Project.jpg",
-      "alt": "Photo of Alexander Pushkin",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orest_Kiprensky_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_-_Google_Art_Project.jpg",
-      "creator": "Orest Kiprensky"
-    }
-  },
-  {
     "id": "mark-twain",
     "category": "history",
     "displayName": "Mark Twain",
@@ -1097,23 +1080,6 @@
     }
   },
   {
-    "id": "ada-lovelace",
-    "category": "history",
-    "displayName": "Ada Lovelace",
-    "popularityTier": "iconic",
-    "localeNames": {
-      "ru": "Ада Лавлейс",
-      "uk": "Ада Лавлейс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/500px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
-      "alt": "Photo of Ada Lovelace",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
-      "creator": "Antoine Claudet"
-    }
-  },
-  {
     "id": "alfred-nobel",
     "category": "history",
     "displayName": "Alfred Nobel",
@@ -1148,108 +1114,6 @@
     }
   },
   {
-    "id": "taras-shevchenko",
-    "category": "history",
-    "displayName": "Taras Shevchenko",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тарас Шевченко",
-      "uk": "Тарас Шевченко"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%A2._%D0%93._%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE._%D0%9A%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C_1859.jpg/500px-%D0%A2._%D0%93._%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE._%D0%9A%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C_1859.jpg",
-      "alt": "Photo of Taras Shevchenko",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A2._%D0%93._%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE._%D0%9A%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C_1859.jpg",
-      "creator": "Andrey Denyer"
-    }
-  },
-  {
-    "id": "lesya-ukrainka",
-    "category": "history",
-    "displayName": "Lesya Ukrainka",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Леся Украинка",
-      "uk": "Леся Українка"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lesya_Ukrainka_portrait.jpg/500px-Lesya_Ukrainka_portrait.jpg",
-      "alt": "Photo of Lesya Ukrainka",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lesya_Ukrainka_portrait.jpg",
-      "creator": "н."
-    }
-  },
-  {
-    "id": "ivan-franko",
-    "category": "history",
-    "displayName": "Ivan Franko",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иван Франко",
-      "uk": "Іван Франко"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%D0%86%D0%B2%D0%B0%D0%BD_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE.jpg/500px-%D0%86%D0%B2%D0%B0%D0%BD_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE.jpg",
-      "alt": "Photo of Ivan Franko",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%86%D0%B2%D0%B0%D0%BD_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE.jpg",
-      "creator": "Edward Trzemeski"
-    }
-  },
-  {
-    "id": "mykola-gogol",
-    "category": "history",
-    "displayName": "Mykola Gogol",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Николай Гоголь",
-      "uk": "Микола Гоголь"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/NV_Gogol.png",
-      "alt": "Photo of Mykola Gogol",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NV_Gogol.png",
-      "creator": "Sergey Lvovich Levitsky"
-    }
-  },
-  {
-    "id": "anton-chekhov",
-    "category": "history",
-    "displayName": "Anton Chekhov",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Антон Чехов",
-      "uk": "Антон Чехов"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anton_Chekhov_1889.jpg/500px-Anton_Chekhov_1889.jpg",
-      "alt": "Photo of Anton Chekhov",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anton_Chekhov_1889.jpg",
-      "creator": "V. Chekhovskii, Moscow"
-    }
-  },
-  {
-    "id": "ivan-pavlov",
-    "category": "history",
-    "displayName": "Ivan Pavlov",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иван Павлов",
-      "uk": "Іван Павлов"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ivan_Pavlov_NLM3.jpg/500px-Ivan_Pavlov_NLM3.jpg",
-      "alt": "Photo of Ivan Pavlov",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivan_Pavlov_NLM3.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
     "id": "pyotr-tchaikovsky",
     "category": "history",
     "displayName": "Pyotr Tchaikovsky",
@@ -1264,40 +1128,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tchaikovsky_by_Reutlinger_(cropped).jpg",
       "creator": "Émile Reutlinger"
-    }
-  },
-  {
-    "id": "sergei-rachmaninoff",
-    "category": "history",
-    "displayName": "Sergei Rachmaninoff",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сергей Рахманинов",
-      "uk": "Сергій Рахманінов"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg/500px-Sergei_Rachmaninoff_cph.3a40575.jpg",
-      "alt": "Photo of Sergei Rachmaninoff",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sergei_Rachmaninoff_cph.3a40575.jpg",
-      "creator": "Kubey-Rembrandt Studios (Philadephia, Pennsylvania)"
-    }
-  },
-  {
-    "id": "igor-stravinsky",
-    "category": "history",
-    "displayName": "Igor Stravinsky",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Игорь Стравинский",
-      "uk": "Ігор Стравинський"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/500px-Igor_Stravinsky_LOC_32392u.jpg",
-      "alt": "Photo of Igor Stravinsky",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Igor_Stravinsky_LOC_32392u.jpg",
-      "creator": "George Grantham Bain Collection"
     }
   },
   {
@@ -1318,23 +1148,6 @@
     }
   },
   {
-    "id": "franz-liszt",
-    "category": "history",
-    "displayName": "Franz Liszt",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ференц Лист",
-      "uk": "Ференц Ліст"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Liszt_by_Herman_Biow-_1843.png/500px-Franz_Liszt_by_Herman_Biow-_1843.png",
-      "alt": "Photo of Franz Liszt",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_Liszt_by_Herman_Biow-_1843.png",
-      "creator": "Herman Biow"
-    }
-  },
-  {
     "id": "antonio-vivaldi",
     "category": "history",
     "displayName": "Antonio Vivaldi",
@@ -1349,108 +1162,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vivaldi.jpg",
       "creator": "Unidentified painter"
-    }
-  },
-  {
-    "id": "giuseppe-verdi",
-    "category": "history",
-    "displayName": "Giuseppe Verdi",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джузеппе Верди",
-      "uk": "Джузеппе Верді"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg/500px-Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg",
-      "alt": "Photo of Giuseppe Verdi",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg",
-      "creator": "Ferdinand Mulnier"
-    }
-  },
-  {
-    "id": "richard-wagner",
-    "category": "history",
-    "displayName": "Richard Wagner",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Рихард Вагнер",
-      "uk": "Ріхард Вагнер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/500px-RichardWagner.jpg",
-      "alt": "Photo of Richard Wagner",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RichardWagner.jpg",
-      "creator": "Franz Hanfstaengl"
-    }
-  },
-  {
-    "id": "johann-strauss-ii",
-    "category": "history",
-    "displayName": "Johann Strauss II",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иоганн Штраус",
-      "uk": "Йоганн Штраус"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg/500px-Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
-      "alt": "Photo of Johann Strauss II",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
-      "creator": "Fritz Luckhardt / Adam Cuerden"
-    }
-  },
-  {
-    "id": "franz-schubert",
-    "category": "history",
-    "displayName": "Franz Schubert",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Франц Шуберт",
-      "uk": "Франц Шуберт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/500px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg",
-      "alt": "Photo of Franz Schubert",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg",
-      "creator": "Wilhelm August Rieder"
-    }
-  },
-  {
-    "id": "george-frideric-handel",
-    "category": "history",
-    "displayName": "George Frideric Handel",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Георг Фридрих Гендель",
-      "uk": "Георг Фрідріх Гендель"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/500px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
-      "alt": "Photo of George Frideric Handel",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Frideric_Handel_by_Balthasar_Denner.jpg",
-      "creator": "Attributed to Balthasar Denner"
-    }
-  },
-  {
-    "id": "joseph-haydn",
-    "category": "history",
-    "displayName": "Joseph Haydn",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Йозеф Гайдн",
-      "uk": "Йозеф Гайдн"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/500px-Joseph_Haydn.jpg",
-      "alt": "Photo of Joseph Haydn",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Haydn.jpg",
-      "creator": "Thomas Hardy"
     }
   },
   {
@@ -1471,24 +1182,6 @@
     }
   },
   {
-    "id": "donatello",
-    "category": "history",
-    "displayName": "Donatello",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Донателло",
-      "uk": "Донателло"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg/500px-Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg",
-      "alt": "Photo of Donatello",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donatello,_miracolo_della_mula,_1446-49_ca._(pd,_museo_antoniano)_37_uomo_che_si_allontana,_forse_autoritratto_(cropped).jpg",
-      "creator": "Francesco Bini",
-      "attribution": "Francesco Bini, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "sandro-botticelli",
     "category": "history",
     "displayName": "Sandro Botticelli",
@@ -1503,278 +1196,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_083.jpg",
       "creator": "Sandro Botticelli"
-    }
-  },
-  {
-    "id": "caravaggio",
-    "category": "history",
-    "displayName": "Caravaggio",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Караваджо",
-      "uk": "Мікеланджело да Караваджо"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/500px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
-      "alt": "Photo of Caravaggio",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bild-Ottavio_Leoni,_Caravaggio.jpg",
-      "creator": "Ottavio Leoni"
-    }
-  },
-  {
-    "id": "titian",
-    "category": "history",
-    "displayName": "Titian",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тициан",
-      "uk": "Тіціан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/500px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg",
-      "alt": "Photo of Titian",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Titian_-_Self-portrait_(Museo_del_Prado).jpg",
-      "creator": "Titian"
-    }
-  },
-  {
-    "id": "albrecht-durer",
-    "category": "history",
-    "displayName": "Albrecht Dürer",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Альбрехт Дюрер",
-      "uk": "Альбрехт Дюрер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/500px-D%C3%BCrer_Alte_Pinakothek.jpg",
-      "alt": "Photo of Albrecht Dürer",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Alte_Pinakothek.jpg",
-      "creator": "Albrecht Dürer"
-    }
-  },
-  {
-    "id": "johannes-vermeer",
-    "category": "history",
-    "displayName": "Johannes Vermeer",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ян Вермеер",
-      "uk": "Ян Вермер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/500px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
-      "alt": "Photo of Johannes Vermeer",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
-      "creator": "Johannes Vermeer"
-    }
-  },
-  {
-    "id": "hieronymus-bosch",
-    "category": "history",
-    "displayName": "Hieronymus Bosch",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иероним Босх",
-      "uk": "Ієронім Босх"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/500px-Jheronimus_Bosch_%28cropped%29.jpg",
-      "alt": "Photo of Hieronymus Bosch",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jheronimus_Bosch_(cropped).jpg",
-      "creator": "Attributed to Jacques Le Boucq"
-    }
-  },
-  {
-    "id": "pieter-bruegel-the-elder",
-    "category": "history",
-    "displayName": "Pieter Bruegel the Elder",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Питер Брейгель",
-      "uk": "Пітер Брейгель Старший"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/500px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg",
-      "alt": "Photo of Pieter Bruegel the Elder",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer,_ca._1566_-_Google_Art_Project.jpg",
-      "creator": "Pieter Brueghel the Elder"
-    }
-  },
-  {
-    "id": "francisco-goya",
-    "category": "history",
-    "displayName": "Francisco Goya",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Франсиско Гойя",
-      "uk": "Франсіско Гойя"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg/500px-Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg",
-      "alt": "Photo of Francisco Goya",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg",
-      "creator": "Vicente López Portaña"
-    }
-  },
-  {
-    "id": "diego-velazquez",
-    "category": "history",
-    "displayName": "Diego Velázquez",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Диего Веласкес",
-      "uk": "Дієго Веласкес"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/500px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
-      "alt": "Photo of Diego Velázquez",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
-      "creator": "Diego Velázquez"
-    }
-  },
-  {
-    "id": "el-greco",
-    "category": "history",
-    "displayName": "El Greco",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эль Греко",
-      "uk": "Ель Греко"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/500px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
-      "alt": "Photo of El Greco",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
-      "creator": "El Greco"
-    }
-  },
-  {
-    "id": "auguste-rodin",
-    "category": "history",
-    "displayName": "Auguste Rodin",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Огюст Роден",
-      "uk": "Огюст Роден"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Auguste_Rodin_by_George_Charles_Beresford_%28NPG_x6573%29.jpg/500px-Auguste_Rodin_by_George_Charles_Beresford_%28NPG_x6573%29.jpg",
-      "alt": "Photo of Auguste Rodin",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auguste_Rodin_by_George_Charles_Beresford_(NPG_x6573).jpg",
-      "creator": "George Charles Beresford"
-    }
-  },
-  {
-    "id": "edgar-degas",
-    "category": "history",
-    "displayName": "Edgar Degas",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эдгар Дега",
-      "uk": "Едґар Деґа"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Self-portrait_by_Edgar_Degas.jpg/500px-Self-portrait_by_Edgar_Degas.jpg",
-      "alt": "Photo of Edgar Degas",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Edgar_Degas.jpg",
-      "creator": "Edgar Degas"
-    }
-  },
-  {
-    "id": "pierre-auguste-renoir",
-    "category": "history",
-    "displayName": "Pierre-Auguste Renoir",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Пьер Огюст Ренуар",
-      "uk": "П'єр-Огюст Ренуар"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/500px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
-      "alt": "Photo of Pierre-Auguste Renoir",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pierre_Auguste_Renoir,_uncropped_image.jpg",
-      "creator": "UnknownUnknown Musée d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt"
-    }
-  },
-  {
-    "id": "paul-cezanne",
-    "category": "history",
-    "displayName": "Paul Cézanne",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Поль Сезанн",
-      "uk": "Поль Сезанн"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg",
-      "alt": "Photo of Paul Cézanne",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul-Cezanne.jpg",
-      "creator": "Unknown; Cézanne was born in 1839 and died in 1906"
-    }
-  },
-  {
-    "id": "paul-gauguin",
-    "category": "history",
-    "displayName": "Paul Gauguin",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Поль Гоген",
-      "uk": "Поль Гоген"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Paul_Gauguin_1891.png/500px-Paul_Gauguin_1891.png",
-      "alt": "Photo of Paul Gauguin",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_1891.png",
-      "creator": "Louis-Maurice Boutet de Monvel"
-    }
-  },
-  {
-    "id": "henri-matisse",
-    "category": "history",
-    "displayName": "Henri Matisse",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Анри Матисс",
-      "uk": "Анрі Матісс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg/500px-Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg",
-      "alt": "Photo of Henri Matisse",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henri_Matisse,_1913,_photograph_by_Alvin_Langdon_Coburn.jpg",
-      "creator": "Alvin Langdon Coburn"
-    }
-  },
-  {
-    "id": "gustav-klimt",
-    "category": "history",
-    "displayName": "Gustav Klimt",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Густав Климт",
-      "uk": "Ґустав Клімт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Klimt.jpg/500px-Klimt.jpg",
-      "alt": "Photo of Gustav Klimt",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klimt.jpg",
-      "creator": "Josef Anton Trčka"
     }
   },
   {
@@ -1793,57 +1214,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Edvard_Munch_(cropped).png",
       "creator": "Unknown authorUnknown author",
       "attribution": "Unknown authorUnknown author, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "wassily-kandinsky",
-    "category": "history",
-    "displayName": "Wassily Kandinsky",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Василий Кандинский",
-      "uk": "Василь Кандинський"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg/500px-Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg",
-      "alt": "Photo of Wassily Kandinsky",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg",
-      "creator": "Vassily Kandinsky by Adolf Elnain Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-GP Image reference : 4N55985"
-    }
-  },
-  {
-    "id": "kazimir-malevich",
-    "category": "history",
-    "displayName": "Kazimir Malevich",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Казимир Малевич",
-      "uk": "Малевич Казимир"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Casimir_Malevich_photo.jpg/500px-Casimir_Malevich_photo.jpg",
-      "alt": "Photo of Kazimir Malevich",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casimir_Malevich_photo.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "marc-chagall",
-    "category": "history",
-    "displayName": "Marc Chagall",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Марк Шагал",
-      "uk": "Марк Шагал"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shagal_Choumoff.jpg/500px-Shagal_Choumoff.jpg",
-      "alt": "Photo of Marc Chagall",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shagal_Choumoff.jpg",
-      "creator": "Pierre Choumoff"
     }
   },
   {
@@ -1871,57 +1241,6 @@
     "localeNames": {
       "ru": "Бэнкси",
       "uk": "Бенксі"
-    }
-  },
-  {
-    "id": "jackson-pollock",
-    "category": "history",
-    "displayName": "Jackson Pollock",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джексон Поллок",
-      "uk": "Джексон Поллок"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jackson_Pollock_by_Hans_Namuth_%28cropped%29.jpg/500px-Jackson_Pollock_by_Hans_Namuth_%28cropped%29.jpg",
-      "alt": "Photo of Jackson Pollock",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Pollock_by_Hans_Namuth_(cropped).jpg",
-      "creator": "Hans Namuth"
-    }
-  },
-  {
-    "id": "rene-magritte",
-    "category": "history",
-    "displayName": "René Magritte",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Рене Магритт",
-      "uk": "Рене Магрітт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg/500px-Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_%281898-1967%29_le_18_octobre_1961_devant_une_de_ses_toiles%2C_PH19994.jpg",
-      "alt": "Photo of René Magritte",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_en_buste_du_peintre_surr%C3%A9aliste_Ren%C3%A9_Magritte_(1898-1967)_le_18_octobre_1961_devant_une_de_ses_toiles,_PH19994.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "joan-miro",
-    "category": "history",
-    "displayName": "Joan Miró",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жоан Миро",
-      "uk": "Жуан Міро"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Portrait_of_Joan_Miro%2C_Barcelona_1935_June_13.jpg/500px-Portrait_of_Joan_Miro%2C_Barcelona_1935_June_13.jpg",
-      "alt": "Photo of Joan Miró",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Joan_Miro,_Barcelona_1935_June_13.jpg",
-      "creator": "Carl Van Vechten"
     }
   },
   {
@@ -1959,75 +1278,6 @@
     }
   },
   {
-    "id": "le-corbusier",
-    "category": "history",
-    "displayName": "Le Corbusier",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ле Корбюзье",
-      "uk": "Ле Корбюзьє"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Le_Corbusier_%281964%29.jpg/500px-Le_Corbusier_%281964%29.jpg",
-      "alt": "Photo of Le Corbusier",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_(1964).jpg",
-      "creator": "Joop van Bilsen for Anefo"
-    }
-  },
-  {
-    "id": "rumi",
-    "category": "history",
-    "displayName": "Rumi",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джалаладдин Руми",
-      "uk": "Джалаледдін Румі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_%28cropped%29.jpg/500px-%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_%28cropped%29.jpg",
-      "alt": "Photo of Rumi",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_(cropped).jpg",
-      "creator": "Hossein Behzad"
-    }
-  },
-  {
-    "id": "omar-khayyam",
-    "category": "history",
-    "displayName": "Omar Khayyam",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Омар Хайям",
-      "uk": "Омар Хаям"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg/500px-Hakim_Omar_Khayam_-_panoramio.jpg",
-      "alt": "Photo of Omar Khayyam",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hakim_Omar_Khayam_-_panoramio.jpg",
-      "creator": "Alireza Javaheri",
-      "attribution": "Alireza Javaheri, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "lao-tzu",
-    "category": "history",
-    "displayName": "Lao Tzu",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Лао-цзы",
-      "uk": "Лао-цзи"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Laozi_%28Chinese_characters%29.svg/500px-Laozi_%28Chinese_characters%29.svg.png",
-      "alt": "Photo of Lao Tzu",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laozi_(Chinese_characters).svg",
-      "creator": "White whirlwind"
-    }
-  },
-  {
     "id": "sun-tzu",
     "category": "history",
     "displayName": "Sun Tzu",
@@ -2042,127 +1292,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
       "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "avicenna",
-    "category": "history",
-    "displayName": "Avicenna",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ибн Сина",
-      "uk": "Авіценна"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg/500px-Avicenna_Bust%2C_left_profile_%28cropped%29.jpg",
-      "alt": "Photo of Avicenna",
-      "license": "No restrictions",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avicenna_Bust,_left_profile_(cropped).jpg",
-      "creator": "National Library of Medicine"
-    }
-  },
-  {
-    "id": "ibn-battuta",
-    "category": "history",
-    "displayName": "Ibn Battuta",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ибн Баттута",
-      "uk": "Ібн Баттута"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt%2C_a_painting_by_Hippolyte_Leon_Benett..jpg",
-      "alt": "Photo of Ibn Battuta",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Handmade_oil_painting_reproduction_of_Ibn_Battuta_in_Egypt,_a_painting_by_Hippolyte_Leon_Benett..jpg",
-      "creator": "Léon Benett"
-    }
-  },
-  {
-    "id": "euclid",
-    "category": "history",
-    "displayName": "Euclid",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Евклид",
-      "uk": "Евклід"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Italian_-_Euclid_-_Google_Art_Project.jpg/500px-Italian_-_Euclid_-_Google_Art_Project.jpg",
-      "alt": "Photo of Euclid",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Italian_-_Euclid_-_Google_Art_Project.jpg",
-      "creator": "Jusepe de Ribera (Spanish / Italian, 1591 - 1652) (1591 - 1652) – artist (Spanish / Italian) Details on Google Art Project"
-    }
-  },
-  {
-    "id": "herodotus",
-    "category": "history",
-    "displayName": "Herodotus",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Геродот",
-      "uk": "Геродот"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/500px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
-      "alt": "Photo of Herodotus",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg"
-    }
-  },
-  {
-    "id": "cicero",
-    "category": "history",
-    "displayName": "Cicero",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Цицерон",
-      "uk": "Цицерон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/500px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
-      "alt": "Photo of Cicero",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
-      "creator": "José Luiz",
-      "attribution": "José Luiz, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "seneca",
-    "category": "history",
-    "displayName": "Seneca",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Луций Анней Сенека",
-      "uk": "Луцій Анней Сенека"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg/500px-Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
-      "alt": "Photo of Seneca",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
-      "creator": "Calidius",
-      "attribution": "Calidius, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "marcus-aurelius",
-    "category": "history",
-    "displayName": "Marcus Aurelius",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Марк Аврелий",
-      "uk": "Марк Аврелій"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/500px-MSR-ra-61-b-1-DM.jpg",
-      "alt": "Photo of Marcus Aurelius",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MSR-ra-61-b-1-DM.jpg",
-      "creator": "Daniel Martin",
-      "attribution": "Daniel Martin, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2200,23 +1329,6 @@
     }
   },
   {
-    "id": "immanuel-kant",
-    "category": "history",
-    "displayName": "Immanuel Kant",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иммануил Кант",
-      "uk": "Іммануїл Кант"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/500px-Immanuel_Kant_-_Gemaelde_1.jpg",
-      "alt": "Photo of Immanuel Kant",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg",
-      "creator": "Johann Gottlieb Becker (1720-1782)"
-    }
-  },
-  {
     "id": "friedrich-nietzsche",
     "category": "history",
     "displayName": "Friedrich Nietzsche",
@@ -2234,23 +1346,6 @@
     }
   },
   {
-    "id": "jean-jacques-rousseau",
-    "category": "history",
-    "displayName": "Jean-Jacques Rousseau",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жан-Жак Руссо",
-      "uk": "Жан-Жак Руссо"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/500px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg",
-      "alt": "Photo of Jean-Jacques Rousseau",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg",
-      "creator": "Maurice Quentin de La Tour (Life time: 1788)"
-    }
-  },
-  {
     "id": "voltaire",
     "category": "history",
     "displayName": "Voltaire",
@@ -2265,127 +1360,6 @@
       "license": "CC0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_(cropped).jpg",
       "creator": "Nicolas de Largillière"
-    }
-  },
-  {
-    "id": "john-locke",
-    "category": "history",
-    "displayName": "John Locke",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джон Локк",
-      "uk": "Джон Лок"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg/500px-Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg",
-      "alt": "Photo of John Locke",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg",
-      "creator": "Godfrey Kneller"
-    }
-  },
-  {
-    "id": "thomas-hobbes",
-    "category": "history",
-    "displayName": "Thomas Hobbes",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Томас Гоббс",
-      "uk": "Томас Гоббс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg/500px-Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg",
-      "alt": "Photo of Thomas Hobbes",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Hobbes_by_John_Michael_Wright_(colour)_(3x4_cropped).jpg",
-      "creator": "John Michael Wright"
-    }
-  },
-  {
-    "id": "adam-smith",
-    "category": "history",
-    "displayName": "Adam Smith",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Адам Смит",
-      "uk": "Адам Сміт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/500px-Adam_Smith_The_Muir_portrait.jpg",
-      "alt": "Photo of Adam Smith",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adam_Smith_The_Muir_portrait.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "baruch-spinoza",
-    "category": "history",
-    "displayName": "Baruch Spinoza",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Бенедикт Спиноза",
-      "uk": "Бенедикт Спіноза"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/500px-Spinoza.jpg",
-      "alt": "Photo of Baruch Spinoza",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
-      "creator": "anonymous"
-    }
-  },
-  {
-    "id": "soren-kierkegaard",
-    "category": "history",
-    "displayName": "Søren Kierkegaard",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сёрен Кьеркегор",
-      "uk": "Серен К'єркегор"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg/500px-S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg",
-      "alt": "Photo of Søren Kierkegaard",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%B8ren_Kierkegaard_(1813-1855)_-_(cropped).jpg",
-      "creator": "La Biblioteca Real de Dinamarca"
-    }
-  },
-  {
-    "id": "jean-paul-sartre",
-    "category": "history",
-    "displayName": "Jean-Paul Sartre",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жан-Поль Сартр",
-      "uk": "Жан-Поль Сартр"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/500px-Jean_Paul_Sartre_1965.jpg",
-      "alt": "Photo of Jean-Paul Sartre",
-      "license": "CC BY-SA 3.0 nl",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1965.jpg",
-      "creator": "Unknown authorUnknown author",
-      "attribution": "Unknown authorUnknown author, CC BY-SA 3.0 nl, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "simone-de-beauvoir",
-    "category": "history",
-    "displayName": "Simone de Beauvoir",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Симона де Бовуар",
-      "uk": "Симона де Бовуар"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/500px-Simone_De_Beauvoir_%28cropped%29.jpg",
-      "alt": "Photo of Simone de Beauvoir",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simone_De_Beauvoir_(cropped).jpg",
-      "creator": "Moshe Milner",
-      "attribution": "Moshe Milner, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -2423,75 +1397,6 @@
     }
   },
   {
-    "id": "john-calvin",
-    "category": "history",
-    "displayName": "John Calvin",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жан Кальвин",
-      "uk": "Жан Кальвін"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png/500px-John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
-      "alt": "Photo of John Calvin",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
-      "creator": "Anonymous (France)Unknown author"
-    }
-  },
-  {
-    "id": "saint-francis-of-assisi",
-    "category": "history",
-    "displayName": "Saint Francis of Assisi",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Франциск Ассизский",
-      "uk": "Франциск Ассізький"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/StFrancis_part.jpg/500px-StFrancis_part.jpg",
-      "alt": "Photo of Saint Francis of Assisi",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:StFrancis_part.jpg",
-      "creator": "Parzi"
-    }
-  },
-  {
-    "id": "saint-patrick",
-    "category": "history",
-    "displayName": "Saint Patrick",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Святой Патрик",
-      "uk": "Святий Патрик"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg/500px-Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg",
-      "alt": "Photo of Saint Patrick",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg",
-      "creator": "Andreas F. Borchert",
-      "attribution": "Andreas F. Borchert, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "thomas-aquinas",
-    "category": "history",
-    "displayName": "Thomas Aquinas",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Фома Аквинский",
-      "uk": "Тома Аквінський"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/500px-St-thomas-aquinasFXD.jpg",
-      "alt": "Photo of Thomas Aquinas",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg",
-      "creator": "Carlo Crivelli"
-    }
-  },
-  {
     "id": "nostradamus",
     "category": "history",
     "displayName": "Nostradamus",
@@ -2506,153 +1411,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nostradamus_by_Cesar.jpg",
       "creator": "César de Notre-Dame"
-    }
-  },
-  {
-    "id": "johannes-kepler",
-    "category": "history",
-    "displayName": "Johannes Kepler",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иоганн Кеплер",
-      "uk": "Йоганн Кеплер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
-      "alt": "Photo of Johannes Kepler",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
-      "creator": "August Köhler [1]"
-    }
-  },
-  {
-    "id": "tycho-brahe",
-    "category": "history",
-    "displayName": "Tycho Brahe",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тихо Браге",
-      "uk": "Тихо Браге"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif/lossy-page1-500px-Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif.jpg",
-      "alt": "Photo of Tycho Brahe",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "michael-faraday",
-    "category": "history",
-    "displayName": "Michael Faraday",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Майкл Фарадей",
-      "uk": "Майкл Фарадей"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/500px-Michael_Faraday_sitting_crop.jpg",
-      "alt": "Photo of Michael Faraday",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Faraday_sitting_crop.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "james-clerk-maxwell",
-    "category": "history",
-    "displayName": "James Clerk Maxwell",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джеймс Клерк Максвелл",
-      "uk": "Джеймс Клерк Максвелл"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/500px-James-Clerk-Maxwell-1831-1879.jpg",
-      "alt": "Photo of James Clerk Maxwell",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James-Clerk-Maxwell-1831-1879.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "max-planck",
-    "category": "history",
-    "displayName": "Max Planck",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Макс Планк",
-      "uk": "Макс Планк"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/500px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
-      "alt": "Photo of Max Planck",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
-      "creator": "Hugo Erfurth"
-    }
-  },
-  {
-    "id": "niels-bohr",
-    "category": "history",
-    "displayName": "Niels Bohr",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Нильс Бор",
-      "uk": "Нільс Бор"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/500px-Niels_Bohr.jpg",
-      "alt": "Photo of Niels Bohr",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
-      "creator": "The American Institute of Physics credits the photo [1] to AB Lagrelius & Westphal, which is the Swedish company used by the Nobel Foundation for most photos of its book series Les Prix Nobel."
-    }
-  },
-  {
-    "id": "werner-heisenberg",
-    "category": "history",
-    "displayName": "Werner Heisenberg",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Вернер Гейзенберг",
-      "uk": "Вернер Гейзенберг"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Werner_Heisenberg_Portrait_%283x4_cropped%29.jpg/500px-Werner_Heisenberg_Portrait_%283x4_cropped%29.jpg",
-      "alt": "Photo of Werner Heisenberg",
-      "license": "CC BY-SA 3.0 de",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Werner_Heisenberg_Portrait_(3x4_cropped).jpg",
-      "creator": "Unknown authorUnknown author",
-      "attribution": "Unknown authorUnknown author, CC BY-SA 3.0 de, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "erwin-schrodinger",
-    "category": "history",
-    "displayName": "Erwin Schrödinger",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эрвин Шрёдингер",
-      "uk": "Ервін Шредінгер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg/500px-Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg",
-      "alt": "Photo of Erwin Schrödinger",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_(1-E-939).jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "richard-feynman",
-    "category": "history",
-    "displayName": "Richard Feynman",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ричард Фейнман",
-      "uk": "Річард Фейнман"
     }
   },
   {
@@ -2673,92 +1431,6 @@
     }
   },
   {
-    "id": "enrico-fermi",
-    "category": "history",
-    "displayName": "Enrico Fermi",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Энрико Ферми",
-      "uk": "Енріко Фермі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/500px-Enrico_Fermi_1943-49.jpg",
-      "alt": "Photo of Enrico Fermi",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enrico_Fermi_1943-49.jpg",
-      "creator": "Department of Energy-Office of Public Affairs, restored by Yann"
-    }
-  },
-  {
-    "id": "carl-sagan",
-    "category": "history",
-    "displayName": "Carl Sagan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Карл Саган",
-      "uk": "Карл Саган"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
-      "alt": "Photo of Carl Sagan",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Sagan_Planetary_Society.JPG",
-      "creator": "NASA/JPL"
-    }
-  },
-  {
-    "id": "edwin-hubble",
-    "category": "history",
-    "displayName": "Edwin Hubble",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эдвин Хаббл",
-      "uk": "Едвін Габбл"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG/500px-Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
-      "alt": "Photo of Edwin Hubble",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG",
-      "creator": "Johan Hagemeyer"
-    }
-  },
-  {
-    "id": "rosalind-franklin",
-    "category": "history",
-    "displayName": "Rosalind Franklin",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Розалинд Франклин",
-      "uk": "Розалінд Франклін"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rosalind_Franklin_%28retouched%29.jpg",
-      "alt": "Photo of Rosalind Franklin",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosalind_Franklin_(retouched).jpg",
-      "creator": "MRC Laboratory of Molecular Biology",
-      "attribution": "MRC Laboratory of Molecular Biology, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "gregor-mendel",
-    "category": "history",
-    "displayName": "Gregor Mendel",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Грегор Мендель",
-      "uk": "Грегор Мендель"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/500px-Gregor_Mendel_2.jpg",
-      "alt": "Photo of Gregor Mendel",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gregor_Mendel_2.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
     "id": "alexander-fleming",
     "category": "history",
     "displayName": "Alexander Fleming",
@@ -2766,125 +1438,6 @@
     "localeNames": {
       "ru": "Александр Флеминг",
       "uk": "Александер Флемінг"
-    }
-  },
-  {
-    "id": "edward-jenner",
-    "category": "history",
-    "displayName": "Edward Jenner",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эдвард Дженнер",
-      "uk": "Едвард Дженнер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/500px-Edward_Jenner.jpg",
-      "alt": "Photo of Edward Jenner",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Jenner.jpg",
-      "creator": "John Raphael Smith"
-    }
-  },
-  {
-    "id": "robert-koch",
-    "category": "history",
-    "displayName": "Robert Koch",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Роберт Кох",
-      "uk": "Роберт Кох"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/500px-RobertKoch_cropped.jpg",
-      "alt": "Photo of Robert Koch",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RobertKoch_cropped.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "carl-linnaeus",
-    "category": "history",
-    "displayName": "Carl Linnaeus",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Карл Линней",
-      "uk": "Карл Лінней"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif/lossy-page1-500px-Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif.jpg",
-      "alt": "Photo of Carl Linnaeus",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9,_1707-1778,_botanist,_professor_(Alexander_Roslin)_-_Nationalmuseum_-_15723_(cropped).tif",
-      "creator": "Alexander Roslin"
-    }
-  },
-  {
-    "id": "alexander-von-humboldt",
-    "category": "history",
-    "displayName": "Alexander von Humboldt",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Александр фон Гумбольдт",
-      "uk": "Александер фон Гумбольдт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg/500px-Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg",
-      "alt": "Photo of Alexander von Humboldt",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stieler,_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg",
-      "creator": "Joseph Karl Stieler"
-    }
-  },
-  {
-    "id": "james-watt",
-    "category": "history",
-    "displayName": "James Watt",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джеймс Уатт",
-      "uk": "Джеймс Ватт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/500px-Watt_James_von_Breda.jpg",
-      "alt": "Photo of James Watt",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Watt_James_von_Breda.jpg",
-      "creator": "Carl Frederik von Breda"
-    }
-  },
-  {
-    "id": "guglielmo-marconi",
-    "category": "history",
-    "displayName": "Guglielmo Marconi",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Гульельмо Маркони",
-      "uk": "Гульєльмо Марконі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/500px-Guglielmo_Marconi.jpg",
-      "alt": "Photo of Guglielmo Marconi",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guglielmo_Marconi.jpg",
-      "creator": "Pach Brothers"
-    }
-  },
-  {
-    "id": "samuel-morse",
-    "category": "history",
-    "displayName": "Samuel Morse",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сэмюэл Морзе",
-      "uk": "Семюел Морзе"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Samuel_Morse.jpg/500px-Samuel_Morse.jpg",
-      "alt": "Photo of Samuel Morse",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samuel_Morse.jpg",
-      "creator": "Mathew Benjamin Brady"
     }
   },
   {
@@ -2957,93 +1510,6 @@
     }
   },
   {
-    "id": "rudolf-diesel",
-    "category": "history",
-    "displayName": "Rudolf Diesel",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Рудольф Дизель",
-      "uk": "Рудольф Дізель"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rudolf_Diesel2.jpg/500px-Rudolf_Diesel2.jpg",
-      "alt": "Photo of Rudolf Diesel",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rudolf_Diesel2.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "igor-sikorsky",
-    "category": "history",
-    "displayName": "Igor Sikorsky",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Игорь Сикорский",
-      "uk": "Ігор Сікорський"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sikorsky%2C_Igor.jpg/500px-Sikorsky%2C_Igor.jpg",
-      "alt": "Photo of Igor Sikorsky",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sikorsky,_Igor.jpg",
-      "creator": "SDASM Archives"
-    }
-  },
-  {
-    "id": "wernher-von-braun",
-    "category": "history",
-    "displayName": "Wernher von Braun",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Вернер фон Браун",
-      "uk": "Вернер фон Браун"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wernher_von_Braun_crop.jpg/500px-Wernher_von_Braun_crop.jpg",
-      "alt": "Photo of Wernher von Braun",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wernher_von_Braun_crop.jpg",
-      "creator": "NASA/MSFC"
-    }
-  },
-  {
-    "id": "sergei-korolev",
-    "category": "history",
-    "displayName": "Sergei Korolev",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сергей Королёв",
-      "uk": "Сергій Корольов"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%D0%9D%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B_%28cropped%29.jpg/500px-%D0%9D%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B_%28cropped%29.jpg",
-      "alt": "Photo of Sergei Korolev",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B_(cropped).jpg",
-      "creator": "Unknown authorUnknown author",
-      "attribution": "Unknown authorUnknown author, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "valentina-tereshkova",
-    "category": "history",
-    "displayName": "Valentina Tereshkova",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Валентина Терешкова",
-      "uk": "Валентина Терешкова"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Valentina_Tereshkova_%282024-02-29%29_crop.jpg/500px-Valentina_Tereshkova_%282024-02-29%29_crop.jpg",
-      "alt": "Photo of Valentina Tereshkova",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valentina_Tereshkova_(2024-02-29)_crop.jpg",
-      "creator": "This file comes from the website of the President of the Russian Federation and is licensed under the Creative Commons Attribution 4.0 License. In short: you are free to distribute and modify the file",
-      "attribution": "This file comes from the website of the President of the Russian Federation and is licensed under the Creative Commons Attribution 4.0 License. In short: you are free to distribute and modify the file, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "buzz-aldrin",
     "category": "history",
     "displayName": "Buzz Aldrin",
@@ -3079,24 +1545,6 @@
     }
   },
   {
-    "id": "vasco-da-gama",
-    "category": "history",
-    "displayName": "Vasco da Gama",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Васко да Гама",
-      "uk": "Васко да Гама"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
-      "alt": "Photo of Vasco da Gama",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ignoto_portoghese,_ritratto_di_un_cavaliere_dell%27ordine_di_cristo,_1525-50_ca._02.jpg",
-      "creator": "Sailko",
-      "attribution": "Sailko, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "ferdinand-magellan",
     "category": "history",
     "displayName": "Ferdinand Magellan",
@@ -3111,40 +1559,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferdinand_Magellan.jpg",
       "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "james-cook",
-    "category": "history",
-    "displayName": "James Cook",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джеймс Кук",
-      "uk": "Джеймс Кук"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/500px-Captainjamescookportrait.jpg",
-      "alt": "Photo of James Cook",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg",
-      "creator": "Nathaniel Dance-Holland"
-    }
-  },
-  {
-    "id": "roald-amundsen",
-    "category": "history",
-    "displayName": "Roald Amundsen",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Руаль Амундсен",
-      "uk": "Руаль Амундсен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Amundsen_in_fur_skins.jpg/500px-Amundsen_in_fur_skins.jpg",
-      "alt": "Photo of Roald Amundsen",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amundsen_in_fur_skins.jpg",
-      "creator": "AnonymousUnknown author"
     }
   },
   {
@@ -3165,23 +1579,6 @@
     }
   },
   {
-    "id": "tenzing-norgay",
-    "category": "history",
-    "displayName": "Tenzing Norgay",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тенцинг Норгей",
-      "uk": "Тенцинг Норгей"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tenzing_Norgay_%28cropped%29.jpg/500px-Tenzing_Norgay_%28cropped%29.jpg",
-      "alt": "Photo of Tenzing Norgay",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenzing_Norgay_(cropped).jpg",
-      "creator": "SAS Scandinavian Airlines"
-    }
-  },
-  {
     "id": "jacques-cousteau",
     "category": "history",
     "displayName": "Jacques Cousteau",
@@ -3199,92 +1596,6 @@
     }
   },
   {
-    "id": "charles-lindbergh",
-    "category": "history",
-    "displayName": "Charles Lindbergh",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Чарльз Линдберг",
-      "uk": "Чарльз Ліндберг"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg/500px-Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg",
-      "alt": "Photo of Charles Lindbergh",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Lindbergh_(Harris_%26_Ewing_photo,_cropped).jpg",
-      "creator": "Harris & Ewing"
-    }
-  },
-  {
-    "id": "ernest-shackleton",
-    "category": "history",
-    "displayName": "Ernest Shackleton",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эрнест Шеклтон",
-      "uk": "Ернест Шеклтон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ernest_Shackleton_before_1909.jpg/500px-Ernest_Shackleton_before_1909.jpg",
-      "alt": "Photo of Ernest Shackleton",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton_before_1909.jpg",
-      "creator": "George Charles Beresford / Adam Cuerden"
-    }
-  },
-  {
-    "id": "david-livingstone",
-    "category": "history",
-    "displayName": "David Livingstone",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Давид Ливингстон",
-      "uk": "Девід Лівінгстон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/500px-David_Livingstone_by_Thomas_Annan.jpg",
-      "alt": "Photo of David Livingstone",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Livingstone_by_Thomas_Annan.jpg",
-      "creator": "Thomas Annan / Adam Cuerden"
-    }
-  },
-  {
-    "id": "hernan-cortes",
-    "category": "history",
-    "displayName": "Hernán Cortés",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эрнан Кортес",
-      "uk": "Ернан Кортес"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg/500px-Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
-      "alt": "Photo of Hernán Cortés",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
-      "creator": "Unknown artistUnknown artist"
-    }
-  },
-  {
-    "id": "leif-erikson",
-    "category": "history",
-    "displayName": "Leif Erikson",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Лейф Эриксон",
-      "uk": "Лейф Еріксон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Leif_Erikson_Statue%2C_Duluth_%2815290644106%29.jpg/500px-Leif_Erikson_Statue%2C_Duluth_%2815290644106%29.jpg",
-      "alt": "Photo of Leif Erikson",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leif_Erikson_Statue,_Duluth_(15290644106).jpg",
-      "creator": "Sculptor Daniels, John K. 1875-1978 Photo: Sharon Mollerus",
-      "attribution": "Sculptor Daniels, John K. 1875-1978 Photo: Sharon Mollerus, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "miguel-de-cervantes",
     "category": "history",
     "displayName": "Miguel de Cervantes",
@@ -3299,40 +1610,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cervantes_J%C3%A1uregui.jpg",
       "creator": "Attributed to Juan de Jáuregui"
-    }
-  },
-  {
-    "id": "johann-wolfgang-von-goethe",
-    "category": "history",
-    "displayName": "Johann Wolfgang von Goethe",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Иоганн Вольфганг фон Гёте",
-      "uk": "Йоганн Вольфганг фон Гете"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/500px-Goethe_%28Stieler_1828%29.jpg",
-      "alt": "Photo of Johann Wolfgang von Goethe",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goethe_(Stieler_1828).jpg",
-      "creator": "Joseph Karl Stieler"
-    }
-  },
-  {
-    "id": "friedrich-schiller",
-    "category": "history",
-    "displayName": "Friedrich Schiller",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Фридрих Шиллер",
-      "uk": "Фрідріх Шиллер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Friedrich_Schiller_by_Ludovike_Simanowiz.jpg/500px-Friedrich_Schiller_by_Ludovike_Simanowiz.jpg",
-      "alt": "Photo of Friedrich Schiller",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Friedrich_Schiller_by_Ludovike_Simanowiz.jpg",
-      "creator": "Ludovike Simanowiz"
     }
   },
   {
@@ -3421,23 +1698,6 @@
     }
   },
   {
-    "id": "h-g-wells",
-    "category": "history",
-    "displayName": "H. G. Wells",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Герберт Джордж Уэллс",
-      "uk": "Герберт Веллс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/500px-H.G._Wells_by_Beresford.jpg",
-      "alt": "Photo of H. G. Wells",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:H.G._Wells_by_Beresford.jpg",
-      "creator": "George Charles Beresford"
-    }
-  },
-  {
     "id": "arthur-conan-doyle",
     "category": "history",
     "displayName": "Arthur Conan Doyle",
@@ -3469,23 +1729,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:J._R._R._Tolkien,_ca._1925.jpg",
       "creator": "Unknown photo studio commissioned by Tolkien's students 1925/6 (private communication from Catherine McIlwaine, Tolkien Archivist, Bodleian Library)"
-    }
-  },
-  {
-    "id": "c-s-lewis",
-    "category": "history",
-    "displayName": "C. S. Lewis",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Клайв Стейплз Льюис",
-      "uk": "Клайв Стейплз Льюїс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CS_Lewis_photo_on_dust_jacket.jpg/500px-CS_Lewis_photo_on_dust_jacket.jpg",
-      "alt": "Photo of C. S. Lewis",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CS_Lewis_photo_on_dust_jacket.jpg",
-      "creator": "John S. Murray"
     }
   },
   {
@@ -3540,23 +1783,6 @@
     }
   },
   {
-    "id": "charles-perrault",
-    "category": "history",
-    "displayName": "Charles Perrault",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Шарль Перро",
-      "uk": "Шарль Перро"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Portrait_de_Charles_Perrault_par_Charles_Le_Brun_%28d%C3%A9tail%29.jpg/500px-Portrait_de_Charles_Perrault_par_Charles_Le_Brun_%28d%C3%A9tail%29.jpg",
-      "alt": "Photo of Charles Perrault",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_de_Charles_Perrault_par_Charles_Le_Brun_(d%C3%A9tail).jpg",
-      "creator": "Charles Le Brun"
-    }
-  },
-  {
     "id": "antoine-de-saint-exupery",
     "category": "history",
     "displayName": "Antoine de Saint-Exupéry",
@@ -3588,24 +1814,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadar_-_Alexander_Dumas_p%C3%A8re_(1802-1870)_-_Google_Art_Project_2.jpg",
       "creator": "Nadar"
-    }
-  },
-  {
-    "id": "gabriel-garcia-marquez",
-    "category": "history",
-    "displayName": "Gabriel García Márquez",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Габриэль Гарсиа Маркес",
-      "uk": "Габрієль Гарсія Маркес"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Garcia_Marquez.jpg",
-      "alt": "Photo of Gabriel García Márquez",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gabriel_Garcia_Marquez.jpg",
-      "creator": "Jose Lara",
-      "attribution": "Jose Lara, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -3645,160 +1853,6 @@
     }
   },
   {
-    "id": "virginia-woolf",
-    "category": "history",
-    "displayName": "Virginia Woolf",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Вирджиния Вулф",
-      "uk": "Вірджинія Вулф"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/500px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
-      "alt": "Photo of Virginia Woolf",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
-      "creator": "George Charles Beresford / Adam Cuerden"
-    }
-  },
-  {
-    "id": "lord-byron",
-    "category": "history",
-    "displayName": "Lord Byron",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джордж Гордон Байрон",
-      "uk": "Джордж Гордон Байрон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Byron_1813_by_Phillips.jpg/500px-Byron_1813_by_Phillips.jpg",
-      "alt": "Photo of Lord Byron",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byron_1813_by_Phillips.jpg",
-      "creator": "Thomas Phillips"
-    }
-  },
-  {
-    "id": "walt-whitman",
-    "category": "history",
-    "displayName": "Walt Whitman",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Уолт Уитмен",
-      "uk": "Волт Вітмен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg/500px-Walt_Whitman_-_George_Collins_Cox.jpg",
-      "alt": "Photo of Walt Whitman",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walt_Whitman_-_George_Collins_Cox.jpg",
-      "creator": "George Collins Cox / Adam Cuerden"
-    }
-  },
-  {
-    "id": "emily-dickinson",
-    "category": "history",
-    "displayName": "Emily Dickinson",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эмили Дикинсон",
-      "uk": "Емілі Дікінсон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Black-white_photograph_of_Emily_Dickinson2.png/500px-Black-white_photograph_of_Emily_Dickinson2.png",
-      "alt": "Photo of Emily Dickinson",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black-white_photograph_of_Emily_Dickinson2.png",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "rabindranath-tagore",
-    "category": "history",
-    "displayName": "Rabindranath Tagore",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Рабиндранат Тагор",
-      "uk": "Рабіндранат Тагор"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1926_Rabindrath_Tagore.jpg/500px-1926_Rabindrath_Tagore.jpg",
-      "alt": "Photo of Rabindranath Tagore",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1926_Rabindrath_Tagore.jpg",
-      "creator": "Georges Chevalier",
-      "attribution": "Georges Chevalier, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "mikhail-bulgakov",
-    "category": "history",
-    "displayName": "Mikhail Bulgakov",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Михаил Булгаков",
-      "uk": "Михайло Булгаков"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg/500px-%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg",
-      "alt": "Photo of Mikhail Bulgakov",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg",
-      "creator": "Moisej Nappelbaum"
-    }
-  },
-  {
-    "id": "boris-pasternak",
-    "category": "history",
-    "displayName": "Boris Pasternak",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Борис Пастернак",
-      "uk": "Борис Пастернак"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boris_Pasternak_1958_photo.jpg/500px-Boris_Pasternak_1958_photo.jpg",
-      "alt": "Photo of Boris Pasternak",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Pasternak_1958_photo.jpg",
-      "creator": "Владимир Савостьянов / ТАСС"
-    }
-  },
-  {
-    "id": "aleksandr-solzhenitsyn",
-    "category": "history",
-    "displayName": "Aleksandr Solzhenitsyn",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Александр Солженицын",
-      "uk": "Олександр Солженіцин"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/500px-Aleksandr_Solzhenitsyn_1974crop.jpg",
-      "alt": "Photo of Aleksandr Solzhenitsyn",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aleksandr_Solzhenitsyn_1974crop.jpg",
-      "creator": "Bert Verhoeff for Anefo"
-    }
-  },
-  {
-    "id": "vladimir-nabokov",
-    "category": "history",
-    "displayName": "Vladimir Nabokov",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Владимир Набоков",
-      "uk": "Володимир Набоков"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vladimir_Nabokov_1973.jpg/500px-Vladimir_Nabokov_1973.jpg",
-      "alt": "Photo of Vladimir Nabokov",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vladimir_Nabokov_1973.jpg",
-      "creator": "Walter Mori (Mondadori Publishers)"
-    }
-  },
-  {
     "id": "hayao-miyazaki",
     "category": "history",
     "displayName": "Hayao Miyazaki",
@@ -3814,40 +1868,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:HayaoMiyazakiCCJuly09.jpg",
       "creator": "Natasha Baucas at https://www.flickr.com/photos/sdnatasha/",
       "attribution": "Natasha Baucas at https://www.flickr.com/photos/sdnatasha/, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "akira-kurosawa",
-    "category": "history",
-    "displayName": "Akira Kurosawa",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Акира Куросава",
-      "uk": "Акіра Куросава"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
-      "alt": "Photo of Akira Kurosawa",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
-      "creator": "映画の友 (Eiga no tomo)"
-    }
-  },
-  {
-    "id": "buster-keaton",
-    "category": "history",
-    "displayName": "Buster Keaton",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Бастер Китон",
-      "uk": "Бастер Кітон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/500px-Busterkeaton_edit.jpg",
-      "alt": "Photo of Buster Keaton",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busterkeaton_edit.jpg",
-      "creator": "Bain News Service"
     }
   },
   {
@@ -3868,91 +1888,6 @@
     }
   },
   {
-    "id": "p-t-barnum",
-    "category": "history",
-    "displayName": "P. T. Barnum",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Финеас Тейлор Барнум",
-      "uk": "Фінеас Тейлор Барнум"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/P._T._Barnum_-_02176a_%28cropped%29.jpg/500px-P._T._Barnum_-_02176a_%28cropped%29.jpg",
-      "alt": "Photo of P. T. Barnum",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:P._T._Barnum_-_02176a_(cropped).jpg",
-      "creator": "Brady-Handy Photograph Collection (Library of Congress)"
-    }
-  },
-  {
-    "id": "harriet-tubman",
-    "category": "history",
-    "displayName": "Harriet Tubman",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Гарриет Табмен",
-      "uk": "Гаррієт Табмен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg/500px-Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg",
-      "alt": "Photo of Harriet Tubman",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carte-de-visite_portrait_of_Harriet_Tubman_(cropped).jpg",
-      "creator": "Powelson, Benjamin F. 1823 - 1885"
-    }
-  },
-  {
-    "id": "frederick-douglass",
-    "category": "history",
-    "displayName": "Frederick Douglass",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Фредерик Дуглас",
-      "uk": "Фредерік Дуглас"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/500px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg",
-      "alt": "Photo of Frederick Douglass",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879)_(cropped).jpg",
-      "creator": "George Kendall Warren"
-    }
-  },
-  {
-    "id": "sojourner-truth",
-    "category": "history",
-    "displayName": "Sojourner Truth",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Соджорнер Трут",
-      "uk": "Сожурне Трус"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg/500px-Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg",
-      "alt": "Photo of Sojourner Truth",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sojourner_Truth,_1870_(cropped,_restored).jpg",
-      "creator": "Randall Studio"
-    }
-  },
-  {
-    "id": "emmeline-pankhurst",
-    "category": "history",
-    "displayName": "Emmeline Pankhurst",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эммелин Панкхёрст",
-      "uk": "Еммелін Панкгерст"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Emmeline_Pankhurst%2C_seated_%281913%29.jpg/500px-Emmeline_Pankhurst%2C_seated_%281913%29.jpg",
-      "alt": "Photo of Emmeline Pankhurst",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emmeline_Pankhurst,_seated_(1913).jpg",
-      "creator": "Adam Cuerden"
-    }
-  },
-  {
     "id": "christian-dior",
     "category": "history",
     "displayName": "Christian Dior",
@@ -3967,23 +1902,6 @@
       "license": "CC0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg",
       "creator": "Paris-Match, editeur"
-    }
-  },
-  {
-    "id": "yves-saint-laurent",
-    "category": "history",
-    "displayName": "Yves Saint Laurent",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ив Сен-Лоран",
-      "uk": "Ів Сен-Лоран"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Yves_Saint-Laurent_at_his_old_studio_of_the_same_name%2C_1961_%28cropped%29.jpg/500px-Yves_Saint-Laurent_at_his_old_studio_of_the_same_name%2C_1961_%28cropped%29.jpg",
-      "alt": "Photo of Yves Saint Laurent",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yves_Saint-Laurent_at_his_old_studio_of_the_same_name,_1961_(cropped).jpg",
-      "creator": "L'Espresso"
     }
   },
   {
@@ -4057,78 +1975,6 @@
     }
   },
   {
-    "id": "larry-page",
-    "category": "history",
-    "displayName": "Larry Page",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ларри Пейдж",
-      "uk": "Ларрі Пейдж"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg/500px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped_2%29.jpg",
-      "alt": "Photo of Larry Page",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Larry_Page_in_the_European_Parliament,_17.06.2009_(cropped_2).jpg",
-      "creator": "Stansfield PL",
-      "attribution": "Stansfield PL, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "sam-altman",
-    "category": "history",
-    "displayName": "Sam Altman",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сэм Альтман",
-      "uk": "Сем Альтман"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Meeting_with_Masayoshi_Son_and_Sam_Altman_%28February_3%2C_2025%29_%283x4_cropped_on_Altman%29.jpg",
-      "alt": "Photo of Sam Altman",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meeting_with_Masayoshi_Son_and_Sam_Altman_(February_3,_2025)_(3x4_cropped_on_Altman).jpg",
-      "creator": "首相官邸ホームページ / Office of the Prime Minister of Japan Official Website",
-      "attribution": "首相官邸ホームページ / Office of the Prime Minister of Japan Official Website, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "tim-berners-lee",
-    "category": "history",
-    "displayName": "Tim Berners-Lee",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тим Бернерс-Ли",
-      "uk": "Тім Бернерс-Лі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/500px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg",
-      "alt": "Photo of Tim Berners-Lee",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tim_Berners-Lee_at_the_2025_Web_Summit_(Cropped).jpg",
-      "creator": "Summit",
-      "attribution": "Summit, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "linus-torvalds",
-    "category": "history",
-    "displayName": "Linus Torvalds",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Линус Торвальдс",
-      "uk": "Лінус Торвальдс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/500px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
-      "alt": "Photo of Linus Torvalds",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg",
-      "creator": "Krd (photo)Von Sprat (crop/extraction)",
-      "attribution": "Krd (photo)Von Sprat (crop/extraction), CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "steve-wozniak",
     "category": "history",
     "displayName": "Steve Wozniak",
@@ -4144,40 +1990,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Wozniak_by_Gage_Skidmore_3_(cropped).jpg",
       "creator": "Gage Skidmore",
       "attribution": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "jane-goodall",
-    "category": "history",
-    "displayName": "Jane Goodall",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джейн Гудолл",
-      "uk": "Джейн Гудолл"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/500px-thumbnail.jpg",
-      "alt": "Photo of Jane Goodall",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_(22365513310)_(2)_(cropped_2).jpg",
-      "creator": "U.S. Department of State from United States"
-    }
-  },
-  {
-    "id": "dian-fossey",
-    "category": "history",
-    "displayName": "Dian Fossey",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дайан Фосси",
-      "uk": "Даян Фоссі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dian_Fossey_October_1968.jpg/500px-Dian_Fossey_October_1968.jpg",
-      "alt": "Photo of Dian Fossey",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dian_Fossey_October_1968.jpg",
-      "creator": "Tribune Publishing, no photographer credited"
     }
   },
   {
@@ -4232,6 +2044,51 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_2023_portrait_2x3.jpg",
       "creator": "flowcomm",
       "attribution": "flowcomm, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "gianni-versace",
+    "category": "history",
+    "displayName": "Gianni Versace",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джанни Версаче",
+      "uk": "Джанні Версаче"
+    }
+  },
+  {
+    "id": "al-capone",
+    "category": "history",
+    "displayName": "Al Capone",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аль Капоне",
+      "uk": "Аль Капоне"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/500px-Al_Capone_in_1930_%28manually_dusted%29.jpg",
+      "alt": "Photo of Al Capone",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Capone_in_1930_(manually_dusted).jpg",
+      "creator": "Chicago Bureau (Federal Bureau of Investigation) - Wide World Photos."
+    }
+  },
+  {
+    "id": "stan-lee",
+    "category": "history",
+    "displayName": "Stan Lee",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стэн Ли",
+      "uk": "Стен Лі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stan_Lee_2007_%28cropped%29.jpg/500px-Stan_Lee_2007_%28cropped%29.jpg",
+      "alt": "Photo of Stan Lee",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stan_Lee_2007_(cropped).jpg",
+      "creator": "Edward Liu",
+      "attribution": "Edward Liu, CC BY-SA 2.0, via Wikimedia Commons"
     }
   }
 ]

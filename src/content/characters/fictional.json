@@ -852,15 +852,6 @@
     }
   },
   {
-    "id": "obelix",
-    "category": "fictional",
-    "displayName": "Obelix",
-    "popularityTier": "iconic",
-    "localeNames": {
-      "ru": "Обеликс"
-    }
-  },
-  {
     "id": "smurfette",
     "category": "fictional",
     "displayName": "Smurfette",
@@ -1244,16 +1235,6 @@
     }
   },
   {
-    "id": "michael-myers",
-    "category": "fictional",
-    "displayName": "Michael Myers",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Майкл Майерс",
-      "uk": "Майкл Маєрс"
-    }
-  },
-  {
     "id": "pennywise",
     "category": "fictional",
     "displayName": "Pennywise",
@@ -1500,31 +1481,6 @@
     }
   },
   {
-    "id": "captain-haddock",
-    "category": "fictional",
-    "displayName": "Captain Haddock",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Капитан Хэддок"
-    }
-  },
-  {
-    "id": "lucky-luke",
-    "category": "fictional",
-    "displayName": "Lucky Luke",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Счастливчик Люк",
-      "uk": "Щасливчик Люк"
-    }
-  },
-  {
-    "id": "spirou",
-    "category": "fictional",
-    "displayName": "Spirou",
-    "popularityTier": "widely-known"
-  },
-  {
     "id": "wednesday-addams",
     "category": "fictional",
     "displayName": "Wednesday Addams",
@@ -1538,40 +1494,6 @@
       "alt": "Image of Wednesday Addams",
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wednesday_Addams_1964.jpg",
-      "creator": "ABC Television"
-    }
-  },
-  {
-    "id": "gomez-addams",
-    "category": "fictional",
-    "displayName": "Gomez Addams",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Гомес Аддамс",
-      "uk": "Гомес Аддамс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Addams-family-john-astin-gomez-press-1.jpg",
-      "alt": "Image of Gomez Addams",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Addams-family-john-astin-gomez-press-1.jpg",
-      "creator": "ABC Television"
-    }
-  },
-  {
-    "id": "morticia-addams",
-    "category": "fictional",
-    "displayName": "Morticia Addams",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Мортиша Аддамс",
-      "uk": "Мортіша Аддамс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Morticia_Addams.jpg",
-      "alt": "Image of Morticia Addams",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morticia_Addams.jpg",
       "creator": "ABC Television"
     }
   },
@@ -1606,15 +1528,6 @@
     }
   },
   {
-    "id": "stewie-griffin",
-    "category": "fictional",
-    "displayName": "Stewie Griffin",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Стьюи Гриффин"
-    }
-  },
-  {
     "id": "eric-cartman",
     "category": "fictional",
     "displayName": "Eric Cartman",
@@ -1641,21 +1554,6 @@
     "popularityTier": "widely-known",
     "localeNames": {
       "ru": "Фред Флинтстоун"
-    }
-  },
-  {
-    "id": "george-jetson",
-    "category": "fictional",
-    "displayName": "George Jetson",
-    "popularityTier": "widely-known"
-  },
-  {
-    "id": "yogi-bear",
-    "category": "fictional",
-    "displayName": "Yogi Bear",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Мишка Йоги"
     }
   },
   {
@@ -1716,16 +1614,6 @@
     }
   },
   {
-    "id": "porky-pig",
-    "category": "fictional",
-    "displayName": "Porky Pig",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Порки Пиг",
-      "uk": "Порося Поркі"
-    }
-  },
-  {
     "id": "woody-woodpecker",
     "category": "fictional",
     "displayName": "Woody Woodpecker",
@@ -1733,23 +1621,6 @@
     "localeNames": {
       "ru": "Вуди Вудпекер",
       "uk": "Вуді Вудпекер"
-    }
-  },
-  {
-    "id": "felix-the-cat",
-    "category": "fictional",
-    "displayName": "Felix the Cat",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кот Феликс",
-      "uk": "Кіт Фелікс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Felix_for_Judy_-_Svg.svg/500px-Felix_for_Judy_-_Svg.svg.png",
-      "alt": "Image of Felix the Cat",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Felix_for_Judy_-_Svg.svg",
-      "creator": "Original: en:Otto Messmer Vector: Own work"
     }
   },
   {
@@ -1780,35 +1651,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cover_of_Casper_the_Friendly_Ghost_no._34_(July_1955).jpg",
       "creator": "Harvey Comics"
-    }
-  },
-  {
-    "id": "richie-rich",
-    "category": "fictional",
-    "displayName": "Richie Rich",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cover_of_Richie_Rich_no._10_%28May_1962%29.jpg/500px-Cover_of_Richie_Rich_no._10_%28May_1962%29.jpg",
-      "alt": "Image of Richie Rich",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cover_of_Richie_Rich_no._10_(May_1962).jpg",
-      "creator": "Harvey Comics"
-    }
-  },
-  {
-    "id": "dennis-the-menace",
-    "category": "fictional",
-    "displayName": "Dennis the Menace",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Деннис-мучитель"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg/500px-Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg",
-      "alt": "Image of Dennis the Menace",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg",
-      "creator": "Al Wiseman/Hank Ketcham"
     }
   },
   {
@@ -2019,23 +1861,6 @@
     }
   },
   {
-    "id": "huckleberry-finn",
-    "category": "fictional",
-    "displayName": "Huckleberry Finn",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Гекльберри Финн",
-      "uk": "Гекльберрі Фінн"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Huckleberry-finn-with-rabbit.jpg/500px-Huckleberry-finn-with-rabbit.jpg",
-      "alt": "Image of Huckleberry Finn",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huckleberry-finn-with-rabbit.jpg",
-      "creator": "E. W. Kemble"
-    }
-  },
-  {
     "id": "robinson-crusoe",
     "category": "fictional",
     "displayName": "Robinson Crusoe",
@@ -2086,22 +1911,6 @@
     }
   },
   {
-    "id": "phileas-fogg",
-    "category": "fictional",
-    "displayName": "Phileas Fogg",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Филеас Фогг"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_04.jpg/500px-%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_04.jpg",
-      "alt": "Image of Phileas Fogg",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_04.jpg",
-      "creator": "Alphonse de Neuville"
-    }
-  },
-  {
     "id": "dartagnan",
     "category": "fictional",
     "displayName": "D'Artagnan",
@@ -2133,57 +1942,6 @@
       "license": "CC0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quasimodo_(Livre_I,_Chapitre_V),_2019.3.1.jpg",
       "creator": "Luc-Olivier Merson"
-    }
-  },
-  {
-    "id": "jean-valjean",
-    "category": "fictional",
-    "displayName": "Jean Valjean",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жан Вальжан",
-      "uk": "Жан Вальжан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Monsieur_Madeleine_par_Gustave_Brion.jpg/500px-Monsieur_Madeleine_par_Gustave_Brion.jpg",
-      "alt": "Image of Jean Valjean",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monsieur_Madeleine_par_Gustave_Brion.jpg",
-      "creator": "Gustave Brion"
-    }
-  },
-  {
-    "id": "long-john-silver",
-    "category": "fictional",
-    "displayName": "Long John Silver",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джон Сильвер",
-      "uk": "Джон Сільвер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/William_Nicholson_%281872-1949%29_-_Characters_of_Romance%2C_John_Silver.jpg/500px-William_Nicholson_%281872-1949%29_-_Characters_of_Romance%2C_John_Silver.jpg",
-      "alt": "Image of Long John Silver",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Nicholson_(1872-1949)_-_Characters_of_Romance,_John_Silver.jpg",
-      "creator": "William Nicholson"
-    }
-  },
-  {
-    "id": "pippi-longstocking",
-    "category": "fictional",
-    "displayName": "Pippi Longstocking",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Пеппи Длинныйчулок",
-      "uk": "Пеппі Довгапанчоха"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Inger_Nilsson_as_Pippi_L%C3%A5ngstrump.jpg/500px-Inger_Nilsson_as_Pippi_L%C3%A5ngstrump.jpg",
-      "alt": "Image of Pippi Longstocking",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inger_Nilsson_as_Pippi_L%C3%A5ngstrump.jpg",
-      "creator": "Unknown photographer"
     }
   },
   {
@@ -2244,23 +2002,6 @@
     }
   },
   {
-    "id": "white-rabbit",
-    "category": "fictional",
-    "displayName": "White Rabbit",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Белый Кролик",
-      "uk": "Білий Кролик"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Down_the_Rabbit_Hole.png/500px-Down_the_Rabbit_Hole.png",
-      "alt": "Image of White Rabbit",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Down_the_Rabbit_Hole.png",
-      "creator": "John Tenniel"
-    }
-  },
-  {
     "id": "wizard-of-oz",
     "category": "fictional",
     "displayName": "Wizard of Oz",
@@ -2273,39 +2014,6 @@
       "alt": "Image of Wizard of Oz",
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wizard_of_Oz.png",
-      "creator": "William Wallace Denslow"
-    }
-  },
-  {
-    "id": "dorothy-gale",
-    "category": "fictional",
-    "displayName": "Dorothy Gale",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дороти Гейл",
-      "uk": "Дороті Гейл"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dorothy_Gale_with_silver_shoes.jpg/500px-Dorothy_Gale_with_silver_shoes.jpg",
-      "alt": "Image of Dorothy Gale",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dorothy_Gale_with_silver_shoes.jpg"
-    }
-  },
-  {
-    "id": "tin-man",
-    "category": "fictional",
-    "displayName": "Tin Man",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Железный Дровосек",
-      "uk": "Залізний Дроворуб"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tin_Woodman.png/500px-Tin_Woodman.png",
-      "alt": "Image of Tin Man",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tin_Woodman.png",
       "creator": "William Wallace Denslow"
     }
   },
@@ -2368,16 +2076,6 @@
     }
   },
   {
-    "id": "tyrion-lannister",
-    "category": "fictional",
-    "displayName": "Tyrion Lannister",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тирион Ланнистер",
-      "uk": "Тиріон Ланністер"
-    }
-  },
-  {
     "id": "walter-white",
     "category": "fictional",
     "displayName": "Walter White",
@@ -2385,16 +2083,6 @@
     "localeNames": {
       "ru": "Уолтер Уайт",
       "uk": "Волтер Вайт"
-    }
-  },
-  {
-    "id": "dexter-morgan",
-    "category": "fictional",
-    "displayName": "Dexter Morgan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Декстер Морган",
-      "uk": "Декстер Морган"
     }
   },
   {
@@ -2482,16 +2170,6 @@
     }
   },
   {
-    "id": "doctor-who",
-    "category": "fictional",
-    "displayName": "Doctor Who",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Доктор Кто",
-      "uk": "Доктор Хто"
-    }
-  },
-  {
     "id": "neo",
     "category": "fictional",
     "displayName": "Neo",
@@ -2517,16 +2195,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Rambo.jpg",
       "creator": "Yoni S.Hamenahem",
       "attribution": "Yoni S.Hamenahem, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "ellen-ripley",
-    "category": "fictional",
-    "displayName": "Ellen Ripley",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эллен Рипли",
-      "uk": "Еллен Ріплі"
     }
   },
   {
@@ -2556,16 +2224,6 @@
     "popularityTier": "widely-known",
     "localeNames": {
       "ru": "Эйс Вентура"
-    }
-  },
-  {
-    "id": "austin-powers",
-    "category": "fictional",
-    "displayName": "Austin Powers",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Остин Пауэрс",
-      "uk": "Остін Паверс"
     }
   },
   {
@@ -2689,26 +2347,6 @@
     }
   },
   {
-    "id": "green-lantern",
-    "category": "fictional",
-    "displayName": "Green Lantern",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Зелёный Фонарь",
-      "uk": "Зелений Ліхтар"
-    }
-  },
-  {
-    "id": "lex-luthor",
-    "category": "fictional",
-    "displayName": "Lex Luthor",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Лекс Лютор",
-      "uk": "Лекс Лютор"
-    }
-  },
-  {
     "id": "magneto",
     "category": "fictional",
     "displayName": "Magneto",
@@ -2719,15 +2357,6 @@
     }
   },
   {
-    "id": "master-chief",
-    "category": "fictional",
-    "displayName": "Master Chief",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Мастер Чиф"
-    }
-  },
-  {
     "id": "link",
     "category": "fictional",
     "displayName": "Link",
@@ -2735,15 +2364,6 @@
     "localeNames": {
       "ru": "Линк",
       "uk": "Лінк"
-    }
-  },
-  {
-    "id": "princess-zelda",
-    "category": "fictional",
-    "displayName": "Princess Zelda",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Принцесса Зельда"
     }
   },
   {
@@ -2787,26 +2407,6 @@
     }
   },
   {
-    "id": "kirby",
-    "category": "fictional",
-    "displayName": "Kirby",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кирби",
-      "uk": "Кірбі"
-    }
-  },
-  {
-    "id": "kratos",
-    "category": "fictional",
-    "displayName": "Kratos",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кратос",
-      "uk": "Кратос"
-    }
-  },
-  {
     "id": "geralt-of-rivia",
     "category": "fictional",
     "displayName": "Geralt of Rivia",
@@ -2831,24 +2431,6 @@
     "popularityTier": "widely-known",
     "localeNames": {
       "ru": "Крэш Бандикут"
-    }
-  },
-  {
-    "id": "spyro",
-    "category": "fictional",
-    "displayName": "Spyro",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дракон Спайро"
-    }
-  },
-  {
-    "id": "solid-snake",
-    "category": "fictional",
-    "displayName": "Solid Snake",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Солид Снейк"
     }
   },
   {
@@ -2902,16 +2484,6 @@
     }
   },
   {
-    "id": "doraemon",
-    "category": "fictional",
-    "displayName": "Doraemon",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дораэмон",
-      "uk": "Дораемон"
-    }
-  },
-  {
     "id": "hello-kitty",
     "category": "fictional",
     "displayName": "Hello Kitty",
@@ -2936,22 +2508,6 @@
     }
   },
   {
-    "id": "postman-pat",
-    "category": "fictional",
-    "displayName": "Postman Pat",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Почтальон Пэт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Postman_Pat_logo.png",
-      "alt": "Image of Postman Pat",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Postman_Pat_logo.png",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
     "id": "bob-the-builder",
     "category": "fictional",
     "displayName": "Bob the Builder",
@@ -2964,16 +2520,6 @@
     "popularityTier": "widely-known"
   },
   {
-    "id": "fireman-sam",
-    "category": "fictional",
-    "displayName": "Fireman Sam",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Пожарный Сэм",
-      "uk": "Пожежник Сем"
-    }
-  },
-  {
     "id": "masha",
     "category": "fictional",
     "displayName": "Masha",
@@ -2984,33 +2530,81 @@
     }
   },
   {
-    "id": "cheburashka",
+    "id": "venom",
     "category": "fictional",
-    "displayName": "Cheburashka",
+    "displayName": "Venom",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Чебурашка",
-      "uk": "Чебурашка"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RR5111-0439R_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_2020_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB_%D0%93%D0%B5%D0%BD%D0%B0_%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81.png/500px-RR5111-0439R_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_2020_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB_%D0%93%D0%B5%D0%BD%D0%B0_%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81.png",
-      "alt": "Image of Cheburashka",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RR5111-0439R_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_2020_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB_%D0%93%D0%B5%D0%BD%D0%B0_%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81.png",
-      "creator": "Банк России"
+      "ru": "Веном",
+      "uk": "Веном"
     }
   },
   {
-    "id": "baron-munchausen",
+    "id": "hercules",
     "category": "fictional",
-    "displayName": "Baron Munchausen",
+    "displayName": "Hercules",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Геркулес",
+      "uk": "Геркулес"
+    }
+  },
+  {
+    "id": "pocahontas",
+    "category": "fictional",
+    "displayName": "Pocahontas",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Покахонтас",
+      "uk": "Покахонтас"
+    }
+  },
+  {
+    "id": "patrick-star",
+    "category": "fictional",
+    "displayName": "Patrick Star",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Патрик Стар",
+      "uk": "Патрік Зірка"
+    },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Munchausen_by_Gustave_Dore_%2831030896%29.jpg/500px-Munchausen_by_Gustave_Dore_%2831030896%29.jpg",
-      "alt": "Image of Baron Munchausen",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munchausen_by_Gustave_Dore_(31030896).jpg",
-      "creator": "Gustave Doré"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Patrick_Star_character.png",
+      "alt": "Image of Patrick Star",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patrick_Star_character.png",
+      "creator": "Nickelodeon (NickRewind)",
+      "attribution": "Nickelodeon (NickRewind), CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jack-skellington",
+    "category": "fictional",
+    "displayName": "Jack Skellington",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джек Скеллингтон",
+      "uk": "Джек Скеллінгтон"
+    }
+  },
+  {
+    "id": "mike-wazowski",
+    "category": "fictional",
+    "displayName": "Mike Wazowski",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майк Вазовски",
+      "uk": "Майк Вазовський"
+    }
+  },
+  {
+    "id": "sully",
+    "category": "fictional",
+    "displayName": "Sully",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Салли",
+      "uk": "Саллі"
     }
   }
 ]

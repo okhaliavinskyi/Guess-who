@@ -69,12 +69,12 @@ describe('category play (all six + Mix)', () => {
   const allNames = bank.characters.map((c) => c.displayName);
 
   it.each([...CATEGORIES.map((c) => [c.label, c.id] as const), ['Mix', 'mix'] as const])(
-    '%s: 5s countdown with no name in the DOM, then one character from that pool',
+    '%s: 3s countdown with no name in the DOM, then one character from that pool',
     (label, id) => {
       renderApp(bank);
       click(button(new RegExp(`^\\S*\\s*${label.replace('&', '&')}`)));
       click(button('Start'));
-      for (const s of [5, 4, 3, 2, 1]) {
+      for (const s of [3, 2, 1]) {
         expect(screen.getByTestId('countdown-number')).toHaveTextContent(String(s));
         const text = document.body.textContent ?? '';
         for (const n of allNames) expect(text).not.toContain(n);
@@ -114,8 +114,8 @@ describe('category play (all six + Mix)', () => {
         fireEvent.click(next);
         fireEvent.click(next);
       });
-      expect(screen.getByTestId('countdown-number')).toHaveTextContent('5');
-      tick(5000);
+      expect(screen.getByTestId('countdown-number')).toHaveTextContent('3');
+      tick(3000);
       seen.push(revealedName());
     }
     expect(new Set(seen).size).toBe(5);
@@ -178,7 +178,7 @@ describe('category play (all six + Mix)', () => {
     renderApp();
     click(button(/Fictional/));
     click(button('Start'));
-    tick(3000);
+    tick(2000);
     act(() => setVisibility('hidden'));
     tick(10_000);
     act(() => setVisibility('visible'));
@@ -199,9 +199,9 @@ describe('category play (all six + Mix)', () => {
     tick(60_000);
     act(() => setVisibility('visible')); // unlocked
     expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
-    expect(screen.getByTestId('countdown-number')).toHaveTextContent('5');
-    expect(screen.getByRole('status')).toHaveTextContent(/screen was locked/);
-    tick(4000);
+    expect(screen.getByTestId('countdown-number')).toHaveTextContent('3');
+    expect(screen.getByRole('status')).toHaveTextContent(/Screen was locked/);
+    tick(2000);
     expect(screen.queryByTestId('character-name')).not.toBeInTheDocument();
     tick(1000);
     expect(revealedName()).toBe(name); // same name, nothing new drawn
@@ -441,14 +441,12 @@ describe('photos', () => {
     click(button(/Sports/));
     startAndReveal();
     const nameBox = () => screen.getByTestId('character-name').parentElement!;
-    expect(screen.getByText(/Tap to show photo/)).toBeInTheDocument();
     expect(nameBox()).toHaveClass('card-name-box');
     click(screen.getByTestId('character-card'));
     // Photo only: the name is hidden visually (kept for screen readers).
     expect(screen.getByRole('img', { name: 'Photo: Image Person' })).toBeInTheDocument();
     expect(nameBox()).toHaveClass('sr-only');
     expect(revealedName()).toBe('Image Person');
-    expect(screen.getByText(/Tap to show name/)).toBeInTheDocument();
     expect(button('Show name')).toHaveAttribute('aria-pressed', 'true');
     click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
@@ -459,7 +457,6 @@ describe('photos', () => {
     renderApp(bankOf({ sports: [char('plain', 'sports')] }));
     click(button(/Sports/));
     startAndReveal();
-    expect(screen.queryByText(/Tap to show photo/)).not.toBeInTheDocument();
     click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
   });
@@ -482,7 +479,7 @@ describe('wake lock and fullscreen integration', () => {
     renderApp();
     click(button(/Music/));
     startAndReveal();
-    expect(screen.getByText(/Your device may lock its screen/)).toBeInTheDocument();
+    expect(screen.getByText(/Screen may turn off/)).toBeInTheDocument();
   });
 
   it('requests the lock on Start, hides the notice while active, releases on End', async () => {
@@ -495,12 +492,52 @@ describe('wake lock and fullscreen integration', () => {
       await Promise.resolve();
     });
     tick(5000);
-    expect(screen.queryByText(/Your device may lock its screen/)).not.toBeInTheDocument();
+    expect(screen.queryByText(/Screen may turn off/)).not.toBeInTheDocument();
     click(button('End game'));
     await act(async () => {
       await Promise.resolve();
     });
     expect(sentinels.every((s) => s.released)).toBe(true);
+  });
+
+  it('fullscreen play shows only the card and the exit-fullscreen button', async () => {
+    let fsElement: Element | null = null;
+    Object.defineProperty(document, 'fullscreenEnabled', { configurable: true, value: true });
+    Object.defineProperty(document, 'fullscreenElement', {
+      configurable: true,
+      get: () => fsElement,
+    });
+    const setFs = (el: Element | null) => {
+      fsElement = el;
+      document.dispatchEvent(new Event('fullscreenchange'));
+    };
+    document.documentElement.requestFullscreen = vi.fn(async () => setFs(document.documentElement));
+    document.exitFullscreen = vi.fn(async () => setFs(null));
+    try {
+      renderApp(bankOf({ sports: ['a', 'b', 'c'].map((id) => char(id, 'sports')) }));
+      click(button(/Sports/));
+      click(button('Start')); // enters fullscreen where orientation lock exists; do it by hand here
+      tick(3000);
+      await act(async () => void (await document.documentElement.requestFullscreen()));
+      expect(screen.queryByRole('navigation')).not.toBeInTheDocument();
+      expect(screen.queryByText(/Screen may turn off/)).not.toBeInTheDocument();
+      expect(button('Exit fullscreen')).toBeInTheDocument();
+      const first = revealedName();
+      act(() => {
+        fireEvent.pointerDown(screen.getByTestId('character-card'), { clientX: 300, clientY: 100 });
+        fireEvent.pointerUp(screen.getByTestId('character-card'), { clientX: 150, clientY: 100 });
+      });
+      tick(3000);
+      expect(revealedName()).not.toBe(first); // swipes still work
+      click(button('Exit fullscreen'));
+      await act(async () => {
+        await Promise.resolve();
+      });
+      expect(screen.getByRole('navigation')).toBeInTheDocument();
+    } finally {
+      delete (document as { fullscreenEnabled?: boolean }).fullscreenEnabled;
+      delete (document as { fullscreenElement?: Element | null }).fullscreenElement;
+    }
   });
 
   it('shows no fullscreen control where the API is unavailable (e.g. iPhone Safari)', () => {

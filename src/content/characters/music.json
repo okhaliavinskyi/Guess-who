@@ -1223,37 +1223,6 @@
     }
   },
   {
-    "id": "charles-aznavour",
-    "category": "music",
-    "displayName": "Charles Aznavour",
-    "popularityTier": "iconic",
-    "localeNames": {
-      "ru": "Шарль Азнавур",
-      "uk": "Шарль Азнавур"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charles_Aznavour_1961.jpg/500px-Charles_Aznavour_1961.jpg",
-      "alt": "Photo of Charles Aznavour",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Aznavour_1961.jpg",
-      "creator": "Joop van Bilsen for Anefo"
-    }
-  },
-  {
-    "id": "stromae",
-    "category": "music",
-    "displayName": "Stromae",
-    "popularityTier": "iconic",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Stromae_2011_cropped.jpg",
-      "alt": "Photo of Stromae",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stromae_2011_cropped.jpg",
-      "creator": "Georges Biard → Derivative work: Steffen Schmitz (Carschten)",
-      "attribution": "Georges Biard → Derivative work: Steffen Schmitz (Carschten), CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "psy",
     "category": "music",
     "displayName": "PSY",
@@ -1317,24 +1286,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bad_Bunny_2019_by_Glenn_Francis_(cropped).jpg",
       "creator": "Toglenn",
       "attribution": "Toglenn, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "elvis-costello",
-    "category": "music",
-    "displayName": "Elvis Costello",
-    "popularityTier": "iconic",
-    "localeNames": {
-      "ru": "Элвис Костелло",
-      "uk": "Елвіс Костелло"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Elvis_Costello_%2851409611378%29.jpg/500px-Elvis_Costello_%2851409611378%29.jpg",
-      "alt": "Photo of Elvis Costello",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Costello_(51409611378).jpg",
-      "creator": "Matt Johnson from Omaha, Nebraska, United States",
-      "attribution": "Matt Johnson from Omaha, Nebraska, United States, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -1480,24 +1431,6 @@
     }
   },
   {
-    "id": "liza-minnelli",
-    "category": "music",
-    "displayName": "Liza Minnelli",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Лайза Миннелли",
-      "uk": "Лайза Міннеллі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Liza_Minnelli.jpg",
-      "alt": "Photo of Liza Minnelli",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liza_Minnelli.jpg",
-      "creator": "The Heart Truth",
-      "attribution": "The Heart Truth, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "chuck-berry",
     "category": "music",
     "displayName": "Chuck Berry",
@@ -1530,40 +1463,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Richard_1984_(cropped).jpg",
       "creator": "Ian Dryden, Los Angeles Times",
       "attribution": "Ian Dryden, Los Angeles Times, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "jerry-lee-lewis",
-    "category": "music",
-    "displayName": "Jerry Lee Lewis",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джерри Ли Льюис",
-      "uk": "Джеррі Лі Льюїс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg/500px-Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg",
-      "alt": "Photo of Jerry Lee Lewis",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg",
-      "creator": "photographer:Maurice Seymour, Chicago"
-    }
-  },
-  {
-    "id": "buddy-holly",
-    "category": "music",
-    "displayName": "Buddy Holly",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Бадди Холли",
-      "uk": "Бадді Голлі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Buddy_Holly_Brunswick_Records.jpg/500px-Buddy_Holly_Brunswick_Records.jpg",
-      "alt": "Photo of Buddy Holly",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buddy_Holly_Brunswick_Records.jpg",
-      "creator": "Brunswick Records (photographer: James J. Kriegsmann); scan by Hulton Archive; restored by Hohum."
     }
   },
   {
@@ -1634,23 +1533,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_6_(cropped).jpg",
       "creator": "Carl Van Vechten"
-    }
-  },
-  {
-    "id": "billie-holiday",
-    "category": "music",
-    "displayName": "Billie Holiday",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Билли Холидей",
-      "uk": "Біллі Голідей"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg/500px-Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg",
-      "alt": "Photo of Billie Holiday",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Billie_Holiday_and_Mister,_Downbeat,_New_York,_N.Y.,_ca._Feb._1947_(LOC,_5020400274,_cropped).jpg",
-      "creator": "William P. Gottlieb"
     }
   },
   {
@@ -1726,24 +1608,6 @@
     }
   },
   {
-    "id": "art-garfunkel",
-    "category": "music",
-    "displayName": "Art Garfunkel",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Арт Гарфанкел",
-      "uk": "Арт Гарфанкел"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ArtGarfunkelPall230717-17_%28cropped%29.jpg/500px-ArtGarfunkelPall230717-17_%28cropped%29.jpg",
-      "alt": "Photo of Art Garfunkel",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ArtGarfunkelPall230717-17_(cropped).jpg",
-      "creator": "Raph_PH",
-      "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "eric-clapton",
     "category": "music",
     "displayName": "Eric Clapton",
@@ -1757,42 +1621,6 @@
       "alt": "Photo of Eric Clapton",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:ClaptonGingerEventim170220-38_(cropped).jpg",
-      "creator": "Raph_PH",
-      "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "jimmy-page",
-    "category": "music",
-    "displayName": "Jimmy Page",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джимми Пейдж",
-      "uk": "Джиммі Пейдж"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg/500px-Jimmy_Page_at_the_Echo_music_award_2013.jpg",
-      "alt": "Photo of Jimmy Page",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Page_at_the_Echo_music_award_2013.jpg",
-      "creator": "Avda",
-      "attribution": "Avda, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "robert-plant",
-    "category": "music",
-    "displayName": "Robert Plant",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Роберт Плант",
-      "uk": "Роберт Плант"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg/500px-RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg",
-      "alt": "Photo of Robert Plant",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RPlantSavGraceIpswich140324_(5_of_12)_(53589044022)_(cropped).jpg",
       "creator": "Raph_PH",
       "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
     }
@@ -1920,24 +1748,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiss_original_lineup_(1976).jpg",
       "creator": "Casablanca Records"
-    }
-  },
-  {
-    "id": "gene-simmons",
-    "category": "music",
-    "displayName": "Gene Simmons",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джин Симмонс",
-      "uk": "Джин Сіммонс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gene_Simmons_-_Wacken_Open_Air_2024_05_%28cropped%29.jpg/500px-Gene_Simmons_-_Wacken_Open_Air_2024_05_%28cropped%29.jpg",
-      "alt": "Photo of Gene Simmons",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gene_Simmons_-_Wacken_Open_Air_2024_05_(cropped).jpg",
-      "creator": "Frank Schwichtenberg",
-      "attribution": "Frank Schwichtenberg, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2130,19 +1940,6 @@
     }
   },
   {
-    "id": "duran-duran",
-    "category": "music",
-    "displayName": "Duran Duran",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Duran_Duran_1983.jpg/500px-Duran_Duran_1983.jpg",
-      "alt": "Photo of Duran Duran",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duran_Duran_1983.jpg",
-      "creator": "Brian Aris; Distributed by Capitol Records"
-    }
-  },
-  {
     "id": "the-police",
     "category": "music",
     "displayName": "The Police",
@@ -2170,24 +1967,6 @@
     }
   },
   {
-    "id": "mark-knopfler",
-    "category": "music",
-    "displayName": "Mark Knopfler",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Марк Нопфлер",
-      "uk": "Марк Нопфлер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mar-Knopfler-Pensa-Blue.jpg/500px-Mar-Knopfler-Pensa-Blue.jpg",
-      "alt": "Photo of Mark Knopfler",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mar-Knopfler-Pensa-Blue.jpg",
-      "creator": "Sebastien.gross",
-      "attribution": "Sebastien.gross, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "bee-gees",
     "category": "music",
     "displayName": "Bee Gees",
@@ -2198,32 +1977,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bee_Gees_1977.JPG",
       "creator": "NBC Television"
-    }
-  },
-  {
-    "id": "boney-m",
-    "category": "music",
-    "displayName": "Boney M.",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Boney_M._%281977_Atlantic_Records_publicity_photo%29.jpg/500px-Boney_M._%281977_Atlantic_Records_publicity_photo%29.jpg",
-      "alt": "Photo of Boney M.",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boney_M._(1977_Atlantic_Records_publicity_photo).jpg",
-      "creator": "Atlantic Records USA"
-    }
-  },
-  {
-    "id": "modern-talking",
-    "category": "music",
-    "displayName": "Modern Talking",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Modern_Talking_%281985-87_RCA_Records_press_photo%29.jpg/500px-Modern_Talking_%281985-87_RCA_Records_press_photo%29.jpg",
-      "alt": "Photo of Modern Talking",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Modern_Talking_(1985-87_RCA_Records_press_photo).jpg",
-      "creator": "RCA Records"
     }
   },
   {
@@ -2283,23 +2036,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Backstreet_Boys_2019_by_Glenn_Francis.jpg",
       "creator": "Toglenn",
       "attribution": "Toglenn, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "destinys-child",
-    "category": "music",
-    "displayName": "Destiny's Child",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Destiny’s Child"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg/500px-Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg",
-      "alt": "Photo of Destiny's Child",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg",
-      "creator": "Pete Sekesan",
-      "attribution": "Pete Sekesan, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -2485,58 +2221,6 @@
     }
   },
   {
-    "id": "selena-quintanilla",
-    "category": "music",
-    "displayName": "Selena Quintanilla",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Селена",
-      "uk": "Селена Кінтанілья-Перес"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Selena_Quintanilla_1986.png/500px-Selena_Quintanilla_1986.png",
-      "alt": "Photo of Selena Quintanilla",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Selena_Quintanilla_1986.png",
-      "creator": "Ramon Hernandez"
-    }
-  },
-  {
-    "id": "gloria-estefan",
-    "category": "music",
-    "displayName": "Gloria Estefan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Глория Эстефан",
-      "uk": "Глорія Естефан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gloria_Estefan_in_2017.jpg/500px-Gloria_Estefan_in_2017.jpg",
-      "alt": "Photo of Gloria Estefan",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gloria_Estefan_in_2017.jpg",
-      "creator": "U.S. State Department"
-    }
-  },
-  {
-    "id": "marc-anthony",
-    "category": "music",
-    "displayName": "Marc Anthony",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Марк Энтони",
-      "uk": "Марк Ентоні"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Interview_with_Marc_Anthony_%28cropped%29.png/500px-Interview_with_Marc_Anthony_%28cropped%29.png",
-      "alt": "Photo of Marc Anthony",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interview_with_Marc_Anthony_(cropped).png",
-      "creator": "Tony Dandrades",
-      "attribution": "Tony Dandrades, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "daddy-yankee",
     "category": "music",
     "displayName": "Daddy Yankee",
@@ -2590,76 +2274,6 @@
     }
   },
   {
-    "id": "karol-g",
-    "category": "music",
-    "displayName": "Karol G",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кароль Джи"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg",
-      "alt": "Photo of Karol G",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_15.jpg",
-      "creator": "Junta de Andalucía",
-      "attribution": "Junta de Andalucía, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "rosalia",
-    "category": "music",
-    "displayName": "Rosalía",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Розалия",
-      "uk": "Розалія"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg",
-      "alt": "Photo of Rosalía",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_27_(cropped).jpg",
-      "creator": "Junta de Andalucía",
-      "attribution": "Junta de Andalucía, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "anitta",
-    "category": "music",
-    "displayName": "Anitta",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Анитта"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Anitta_for_Attractive_Mindset_podcast_02.jpg",
-      "alt": "Photo of Anitta",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anitta_for_Attractive_Mindset_podcast_02.jpg",
-      "creator": "Attractive Mindset",
-      "attribution": "Attractive Mindset, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "juanes",
-    "category": "music",
-    "displayName": "Juanes",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Хуанес",
-      "uk": "Хуанес"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg",
-      "alt": "Photo of Juanes",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_14_(cropped).jpg",
-      "creator": "Junta de Andalucía",
-      "attribution": "Junta de Andalucía, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "carlos-santana",
     "category": "music",
     "displayName": "Carlos Santana",
@@ -2675,38 +2289,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santana_Acer_Arena_(5558151833)_(cropped).jpg",
       "creator": "Eva Rinaldi",
       "attribution": "Eva Rinaldi, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "mylene-farmer",
-    "category": "music",
-    "displayName": "Mylène Farmer",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Милен Фармер",
-      "uk": "Мілен Фармер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Myl%C3%A8ne_farmer_Live_2019_%28cropped%29.jpg/500px-Myl%C3%A8ne_farmer_Live_2019_%28cropped%29.jpg",
-      "alt": "Photo of Mylène Farmer",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myl%C3%A8ne_farmer_Live_2019_(cropped).jpg",
-      "creator": "Boydu90",
-      "attribution": "Boydu90, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "zaz",
-    "category": "music",
-    "displayName": "Zaz",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ZAZ_%C2%A9_Play_On.jpg/500px-ZAZ_%C2%A9_Play_On.jpg",
-      "alt": "Photo of Zaz",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZAZ_%C2%A9_Play_On.jpg",
-      "creator": "Play On",
-      "attribution": "Play On, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2742,42 +2324,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enya_-_The_Orlando_Sentinel_(1989)_(cropped).jpg",
       "creator": "Orlando Sentinel/ Associated Press"
-    }
-  },
-  {
-    "id": "sinead-oconnor",
-    "category": "music",
-    "displayName": "Sinéad O'Connor",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Шинейд О’Коннор",
-      "uk": "Шинейд О'Коннор"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg/500px-Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg",
-      "alt": "Photo of Sinéad O'Connor",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinead_O%27Connor_(14828633401)_(cropped).jpg",
-      "creator": "Bryan Ledgard",
-      "attribution": "Bryan Ledgard, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "dolores-oriordan",
-    "category": "music",
-    "displayName": "Dolores O'Riordan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Долорес О’Риордан",
-      "uk": "Долорес О'Ріордан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dolores_O%27Riordan_2016_%28cropped%29.jpeg/500px-Dolores_O%27Riordan_2016_%28cropped%29.jpeg",
-      "alt": "Photo of Dolores O'Riordan",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolores_O%27Riordan_2016_(cropped).jpeg",
-      "creator": "Bart Notermans from Rotterdam, The Netherlands",
-      "attribution": "Bart Notermans from Rotterdam, The Netherlands, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -2989,20 +2535,6 @@
     }
   },
   {
-    "id": "sza",
-    "category": "music",
-    "displayName": "SZA",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/KendrickSZASPurs230725-19_-_54683179509_%28cropped%29_%28cropped%29.jpg/500px-KendrickSZASPurs230725-19_-_54683179509_%28cropped%29_%28cropped%29.jpg",
-      "alt": "Photo of SZA",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KendrickSZASPurs230725-19_-_54683179509_(cropped)_(cropped).jpg",
-      "creator": "Raph_PH",
-      "attribution": "Raph_PH, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "olivia-rodrigo",
     "category": "music",
     "displayName": "Olivia Rodrigo",
@@ -3142,38 +2674,6 @@
     }
   },
   {
-    "id": "armin-van-buuren",
-    "category": "music",
-    "displayName": "Armin van Buuren",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Армин Ван Бюрен",
-      "uk": "Армін ван Бюрен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Armin_van_Buuren%2C_November_2025_%28cropped%29.jpg/500px-Armin_van_Buuren%2C_November_2025_%28cropped%29.jpg",
-      "alt": "Photo of Armin van Buuren",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Armin_van_Buuren,_November_2025_(cropped).jpg",
-      "creator": "Web Summit/Sam Barnes/Sportsfile",
-      "attribution": "Web Summit/Sam Barnes/Sportsfile, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "tiesto",
-    "category": "music",
-    "displayName": "Tiësto",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tiesto_LIV_Las_Vegas.png",
-      "alt": "Photo of Tiësto",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiesto_LIV_Las_Vegas.png",
-      "creator": "InvadingInvader",
-      "attribution": "InvadingInvader, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "marshmello",
     "category": "music",
     "displayName": "Marshmello",
@@ -3185,40 +2685,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Open_Beatz_-_Marshmello_-_by_2eight_-DSC_4448.jpg",
       "creator": "Stefan Brending (2eight)",
       "attribution": "Stefan Brending (2eight), CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "skrillex",
-    "category": "music",
-    "displayName": "Skrillex",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Скриллекс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_%28cropped%29.jpg/500px-From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_%28cropped%29.jpg",
-      "alt": "Photo of Skrillex",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_(cropped).jpg",
-      "creator": "Carl Pocket",
-      "attribution": "Carl Pocket, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "moby",
-    "category": "music",
-    "displayName": "Moby",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Моби"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg/500px-Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg",
-      "alt": "Photo of Moby",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg",
-      "creator": "Quejaytee",
-      "attribution": "Quejaytee, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -3273,60 +2739,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ennio_Morricone_Cannes_2007.jpg",
       "creator": "Olivier Strecker",
       "attribution": "Olivier Strecker, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "andrew-lloyd-webber",
-    "category": "music",
-    "displayName": "Andrew Lloyd Webber",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эндрю Ллойд Уэббер",
-      "uk": "Ендрю Ллойд Веббер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/AndrewLloydWebber-byPhilipRomano.jpg/500px-AndrewLloydWebber-byPhilipRomano.jpg",
-      "alt": "Photo of Andrew Lloyd Webber",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AndrewLloydWebber-byPhilipRomano.jpg",
-      "creator": "PhilipRomanoPhoto",
-      "attribution": "PhilipRomanoPhoto, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "yanni",
-    "category": "music",
-    "displayName": "Yanni",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Янни",
-      "uk": "Янні"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YanniPressPhoto.jpg/500px-YanniPressPhoto.jpg",
-      "alt": "Photo of Yanni",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YanniPressPhoto.jpg",
-      "creator": "Yanni",
-      "attribution": "Yanni, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "kenny-g",
-    "category": "music",
-    "displayName": "Kenny G",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кенни Джи",
-      "uk": "Кенні Джі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/KennyGHWOFMay2013.jpg/500px-KennyGHWOFMay2013.jpg",
-      "alt": "Photo of Kenny G",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KennyGHWOFMay2013.jpg",
-      "creator": "Angela George",
-      "attribution": "Angela George, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -3398,110 +2810,6 @@
     }
   },
   {
-    "id": "bon-scott",
-    "category": "music",
-    "displayName": "Bon Scott",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Бон Скотт",
-      "uk": "Бон Скотт"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Grenoble79_01_%28cropped%29.jpg",
-      "alt": "Photo of Bon Scott",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grenoble79_01_(cropped).jpg",
-      "creator": "Elfast"
-    }
-  },
-  {
-    "id": "lemmy",
-    "category": "music",
-    "displayName": "Lemmy",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Лемми",
-      "uk": "Леммі Кілмістер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lemmy-02.jpg",
-      "alt": "Photo of Lemmy",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemmy-02.jpg",
-      "creator": "Mark Marek Mark Marek Copyright Mark Marek Photography ©2007 URL: Motorhead Gallery on Alberta Stars",
-      "attribution": "Mark Marek Mark Marek Copyright Mark Marek Photography ©2007 URL: Motorhead Gallery on Alberta Stars, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "joe-cocker",
-    "category": "music",
-    "displayName": "Joe Cocker",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джо Кокер",
-      "uk": "Джо Кокер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Joe_cocker_1970.JPG/500px-Joe_cocker_1970.JPG",
-      "alt": "Photo of Joe Cocker",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_cocker_1970.JPG",
-      "creator": "A & M Records"
-    }
-  },
-  {
-    "id": "leonard-cohen",
-    "category": "music",
-    "displayName": "Leonard Cohen",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Леонард Коэн",
-      "uk": "Леонард Коен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Leonard_Cohen%2C_1988_01.jpg/500px-Leonard_Cohen%2C_1988_01.jpg",
-      "alt": "Photo of Leonard Cohen",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonard_Cohen,_1988_01.jpg",
-      "creator": "Gorupdebesanez",
-      "attribution": "Gorupdebesanez, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "neil-young",
-    "category": "music",
-    "displayName": "Neil Young",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Нил Янг",
-      "uk": "Ніл Янг"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Neil_Young_for_Fairy_Creek.jpg/500px-Neil_Young_for_Fairy_Creek.jpg",
-      "alt": "Photo of Neil Young",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neil_Young_for_Fairy_Creek.jpg",
-      "creator": "Billyshiverstick"
-    }
-  },
-  {
-    "id": "joni-mitchell",
-    "category": "music",
-    "displayName": "Joni Mitchell",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джони Митчелл",
-      "uk": "Джоні Мітчелл"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Joni_Mitchell_2021_Kennedy_Center_Honors_%28cropped%29.jpg/500px-Joni_Mitchell_2021_Kennedy_Center_Honors_%28cropped%29.jpg",
-      "alt": "Photo of Joni Mitchell",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joni_Mitchell_2021_Kennedy_Center_Honors_(cropped).jpg",
-      "creator": "Library of Congress Life"
-    }
-  },
-  {
     "id": "janis-joplin",
     "category": "music",
     "displayName": "Janis Joplin",
@@ -3536,23 +2844,6 @@
     }
   },
   {
-    "id": "roy-orbison",
-    "category": "music",
-    "displayName": "Roy Orbison",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Рой Орбисон",
-      "uk": "Рой Орбісон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Roy_Orbison_in_1965.jpg/500px-Roy_Orbison_in_1965.jpg",
-      "alt": "Photo of Roy Orbison",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roy_Orbison_in_1965.jpg",
-      "creator": "Jack de Nijs for Anefo"
-    }
-  },
-  {
     "id": "dean-martin",
     "category": "music",
     "displayName": "Dean Martin",
@@ -3567,74 +2858,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dean_Martin_1958.jpg",
       "creator": "NBC Photo by Elmer Holloway"
-    }
-  },
-  {
-    "id": "nat-king-cole",
-    "category": "music",
-    "displayName": "Nat King Cole",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Нэт Кинг Коул",
-      "uk": "Нет Кінг Коул"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nat_King_Cole_1947.jpg/500px-Nat_King_Cole_1947.jpg",
-      "alt": "Photo of Nat King Cole",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nat_King_Cole_1947.jpg",
-      "creator": "General Artists Corporation (management)"
-    }
-  },
-  {
-    "id": "bing-crosby",
-    "category": "music",
-    "displayName": "Bing Crosby",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Бинг Кросби",
-      "uk": "Бінг Кросбі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bing_Crosby_Paramount_Pictures.jpg/500px-Bing_Crosby_Paramount_Pictures.jpg",
-      "alt": "Photo of Bing Crosby",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bing_Crosby_Paramount_Pictures.jpg",
-      "creator": "AnonymousUnknown author"
-    }
-  },
-  {
-    "id": "sammy-davis-jr",
-    "category": "music",
-    "displayName": "Sammy Davis Jr.",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сэмми Дэвис-младший",
-      "uk": "Семмі Девіс-молодший"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sammy_Davis_Jr._1972.jpg/500px-Sammy_Davis_Jr._1972.jpg",
-      "alt": "Photo of Sammy Davis Jr.",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sammy_Davis_Jr._1972.jpg",
-      "creator": "Jay Bernstein Public Relations"
-    }
-  },
-  {
-    "id": "megan-thee-stallion",
-    "category": "music",
-    "displayName": "Megan Thee Stallion",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "uk": "Меган Ті Сталліон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Megan_Thee_Stallion_Adweek_pose.jpg/500px-Megan_Thee_Stallion_Adweek_pose.jpg",
-      "alt": "Photo of Megan Thee Stallion",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megan_Thee_Stallion_Adweek_pose.jpg",
-      "creator": "Adweek",
-      "attribution": "Adweek, CC BY 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -3670,201 +2893,412 @@
     }
   },
   {
-    "id": "halsey",
+    "id": "lil-wayne",
     "category": "music",
-    "displayName": "Halsey",
+    "displayName": "Lil Wayne",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Холзи"
+      "ru": "Лил Уэйн",
+      "uk": "Ліл Вейн"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Halsey_%40_Hollywood_Forever_10_14_2025_%2854925500921%29.jpg/500px-Halsey_%40_Hollywood_Forever_10_14_2025_%2854925500921%29.jpg",
-      "alt": "Photo of Halsey",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halsey_@_Hollywood_Forever_10_14_2025_(54925500921).jpg",
-      "creator": "Justin Higuchi",
-      "attribution": "Justin Higuchi, CC BY 4.0, via Wikimedia Commons"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lil_Wayne_%2823513397583%29.jpg/500px-Lil_Wayne_%2823513397583%29.jpg",
+      "alt": "Photo of Lil Wayne",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lil_Wayne_(23513397583).jpg",
+      "creator": "Megan Elice Meadows",
+      "attribution": "Megan Elice Meadows, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
-    "id": "charli-xcx",
+    "id": "pitbull",
     "category": "music",
-    "displayName": "Charli XCX",
+    "displayName": "Pitbull",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Charli_xcx_at_Berlinale_2026-1.jpg/500px-Charli_xcx_at_Berlinale_2026-1.jpg",
-      "alt": "Photo of Charli XCX",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charli_xcx_at_Berlinale_2026-1.jpg",
-      "creator": "Elena Ternovaja",
-      "attribution": "Elena Ternovaja, CC BY-SA 3.0, via Wikimedia Commons"
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pitbull_%2852703405994%29_%28cropped%29.jpg/500px-Pitbull_%2852703405994%29_%28cropped%29.jpg",
+      "alt": "Photo of Pitbull",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pitbull_(52703405994)_(cropped).jpg",
+      "creator": "Zach Catanzareti Photo",
+      "attribution": "Zach Catanzareti Photo, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
-    "id": "lorde",
+    "id": "sean-paul",
     "category": "music",
-    "displayName": "Lorde",
+    "displayName": "Sean Paul",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Лорд"
+      "ru": "Шон Пол",
+      "uk": "Шон Пол"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lorde_Glasto2025-9_%28cropped%29.jpg/500px-Lorde_Glasto2025-9_%28cropped%29.jpg",
-      "alt": "Photo of Lorde",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sean_Paul_2024_%28cropped%29.jpg/500px-Sean_Paul_2024_%28cropped%29.jpg",
+      "alt": "Photo of Sean Paul",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sean_Paul_2024_(cropped).jpg",
+      "creator": "BOSS TALK 101",
+      "attribution": "BOSS TALK 101, CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "nelly-furtado",
+    "category": "music",
+    "displayName": "Nelly Furtado",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нелли Фуртадо",
+      "uk": "Неллі Фуртадо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nelly_Furtado_at_Beyond_the_Valley_2022_%28cropped%29.jpg/500px-Nelly_Furtado_at_Beyond_the_Valley_2022_%28cropped%29.jpg",
+      "alt": "Photo of Nelly Furtado",
+      "license": "CC BY 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nelly_Furtado_at_Beyond_the_Valley_2022_(cropped).jpg",
+      "creator": "Martin Philbey",
+      "attribution": "Martin Philbey, CC BY 2.5, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "fergie",
+    "category": "music",
+    "displayName": "Fergie",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ферги",
+      "uk": "Ферґі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fergie_Washington_D.C_2014_%28cropped%29.jpg",
+      "alt": "Photo of Fergie",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fergie_Washington_D.C_2014_(cropped).jpg",
+      "creator": "U.S. Department of State"
+    }
+  },
+  {
+    "id": "the-black-eyed-peas",
+    "category": "music",
+    "displayName": "The Black Eyed Peas",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Black Eyed Peas"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Les_Black_Eyed_Peas_en_concert_au_VIP_Room_Paris_3_%28cropped%29.jpg/500px-Les_Black_Eyed_Peas_en_concert_au_VIP_Room_Paris_3_%28cropped%29.jpg",
+      "alt": "Photo of The Black Eyed Peas",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Les_Black_Eyed_Peas_en_concert_au_VIP_Room_Paris_3_(cropped).jpg",
+      "creator": "nicolas genin from Paris, France",
+      "attribution": "nicolas genin from Paris, France, CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "akon",
+    "category": "music",
+    "displayName": "Akon",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эйкон",
+      "uk": "Ейкон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Akon_DF2_4639_%2847859034612%29_%28cropped%29.jpg/500px-Akon_DF2_4639_%2847859034612%29_%28cropped%29.jpg",
+      "alt": "Photo of Akon",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akon_DF2_4639_(47859034612)_(cropped).jpg",
+      "creator": "Collision Conf",
+      "attribution": "Collision Conf, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jason-derulo",
+    "category": "music",
+    "displayName": "Jason Derulo",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейсон Деруло",
+      "uk": "Джейсон Деруло"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Jason_Derulo_2.0.jpg/500px-Jason_Derulo_2.0.jpg",
+      "alt": "Photo of Jason Derulo",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jason_Derulo_2.0.jpg",
+      "creator": "Amy Martin Photography",
+      "attribution": "Amy Martin Photography, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "camila-cabello",
+    "category": "music",
+    "displayName": "Camila Cabello",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Камила Кабельо",
+      "uk": "Каміла Кабельйо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Camila_Cabello_Sundance_2024_Cropped_%28cropped%29.jpg/500px-Camila_Cabello_Sundance_2024_Cropped_%28cropped%29.jpg",
+      "alt": "Photo of Camila Cabello",
       "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lorde_Glasto2025-9_(cropped).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camila_Cabello_Sundance_2024_Cropped_(cropped).jpg",
+      "creator": "ReverendPoppins",
+      "attribution": "ReverendPoppins, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "charlie-puth",
+    "category": "music",
+    "displayName": "Charlie Puth",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чарли Пут",
+      "uk": "Чарлі Пут"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Charlie_Puth.jpg/500px-Charlie_Puth.jpg",
+      "alt": "Photo of Charlie Puth",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Puth.jpg",
+      "creator": "Juan J. Carlos",
+      "attribution": "Juan J. Carlos, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "sam-smith",
+    "category": "music",
+    "displayName": "Sam Smith",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сэм Смит",
+      "uk": "Сем Сміт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SamSmith-byPhilipRomano.jpg/500px-SamSmith-byPhilipRomano.jpg",
+      "alt": "Photo of Sam Smith",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SamSmith-byPhilipRomano.jpg",
+      "creator": "PhilipRomanoPhoto",
+      "attribution": "PhilipRomanoPhoto, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "lewis-capaldi",
+    "category": "music",
+    "displayName": "Lewis Capaldi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Льюис Капальди",
+      "uk": "Льюїс Капалді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Glasto2025-41_%28cropped%29.jpg/500px-Glasto2025-41_%28cropped%29.jpg",
+      "alt": "Photo of Lewis Capaldi",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glasto2025-41_(cropped).jpg",
       "creator": "Raph_PH",
       "attribution": "Raph_PH, CC BY 4.0, via Wikimedia Commons"
     }
   },
   {
-    "id": "florence-welch",
+    "id": "zayn-malik",
     "category": "music",
-    "displayName": "Florence Welch",
+    "displayName": "Zayn Malik",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Флоренс Уэлч",
-      "uk": "Флоренс Велч"
+      "ru": "Зейн Малик",
+      "uk": "Зейн Малік"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FlorenceRAHProms110924_%2868_of_76%29_%2853989416201%29_%28cropped%29.jpg/500px-FlorenceRAHProms110924_%2868_of_76%29_%2853989416201%29_%28cropped%29.jpg",
-      "alt": "Photo of Florence Welch",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FlorenceRAHProms110924_(68_of_76)_(53989416201)_(cropped).jpg",
-      "creator": "Raph_PH",
-      "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "maneskin",
-    "category": "music",
-    "displayName": "Måneskin",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Maneskin_2018.jpg/500px-Maneskin_2018.jpg",
-      "alt": "Photo of Måneskin",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maneskin_2018.jpg",
-      "creator": "Paolo Santambrogio",
-      "attribution": "Paolo Santambrogio, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "eurythmics",
-    "category": "music",
-    "displayName": "Eurythmics",
-    "popularityTier": "widely-known",
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eurythmics_1985.jpg/500px-Eurythmics_1985.jpg",
-      "alt": "Photo of Eurythmics",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurythmics_1985.jpg",
-      "creator": "Distributed by RCA Records"
-    }
-  },
-  {
-    "id": "annie-lennox",
-    "category": "music",
-    "displayName": "Annie Lennox",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Энни Леннокс",
-      "uk": "Енні Леннокс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Annie_Lennox_March_2023.jpg/500px-Annie_Lennox_March_2023.jpg",
-      "alt": "Photo of Annie Lennox",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Annie_Lennox_March_2023.jpg",
-      "creator": "Library of Congress Life"
-    }
-  },
-  {
-    "id": "bonnie-tyler",
-    "category": "music",
-    "displayName": "Bonnie Tyler",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Бонни Тайлер",
-      "uk": "Бонні Тайлер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bonnie_Tyler_in_Moscow%2C_6_May_1997_%28cropped2%29.jpg/500px-Bonnie_Tyler_in_Moscow%2C_6_May_1997_%28cropped2%29.jpg",
-      "alt": "Photo of Bonnie Tyler",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zayn_Wiki_%28cropped%29.jpg/500px-Zayn_Wiki_%28cropped%29.jpg",
+      "alt": "Photo of Zayn Malik",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bonnie_Tyler_in_Moscow,_6_May_1997_(cropped2).jpg",
-      "creator": "Nadir Chanyshev",
-      "attribution": "Nadir Chanyshev, CC BY-SA 3.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zayn_Wiki_(cropped).jpg",
+      "creator": "First Access Entertainment",
+      "attribution": "First Access Entertainment, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
-    "id": "toto-cutugno",
+    "id": "jonas-brothers",
     "category": "music",
-    "displayName": "Toto Cutugno",
+    "displayName": "Jonas Brothers",
     "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тото Кутуньо",
-      "uk": "Тото Кутуньйо"
-    },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Toto_Cutugno.jpg",
-      "alt": "Photo of Toto Cutugno",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toto_Cutugno.jpg",
-      "creator": "Unknown authorUnknown author"
-    }
-  },
-  {
-    "id": "adriano-celentano",
-    "category": "music",
-    "displayName": "Adriano Celentano",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Адриано Челентано",
-      "uk": "Адріано Челентано"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Celentano_1961_Salsomaggiore_Terme.jpg/500px-Celentano_1961_Salsomaggiore_Terme.jpg",
-      "alt": "Photo of Adriano Celentano",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Celentano_1961_Salsomaggiore_Terme.jpg",
-      "creator": "Collezione Biblioteca Comunale G.D. Romagnosi, Salsomaggiore Terme"
-    }
-  },
-  {
-    "id": "eros-ramazzotti",
-    "category": "music",
-    "displayName": "Eros Ramazzotti",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эрос Рамаццотти",
-      "uk": "Ерос Рамаццотті"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg/500px-Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg",
-      "alt": "Photo of Eros Ramazzotti",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jonas_Brothers_4th_of_July_Show_Taping_in_Cleveland_%2851277060141%29.jpg/500px-Jonas_Brothers_4th_of_July_Show_Taping_in_Cleveland_%2851277060141%29.jpg",
+      "alt": "Photo of Jonas Brothers",
       "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eros_Ramazzotti_(21738687382)_(cropped).jpg",
-      "creator": "Nuță Lucian from Cluj-Napoca, Romania",
-      "attribution": "Nuță Lucian from Cluj-Napoca, Romania, CC BY 2.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jonas_Brothers_4th_of_July_Show_Taping_in_Cleveland_(51277060141).jpg",
+      "creator": "Erik Drost",
+      "attribution": "Erik Drost, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
-    "id": "laura-pausini",
+    "id": "arctic-monkeys",
     "category": "music",
-    "displayName": "Laura Pausini",
+    "displayName": "Arctic Monkeys",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg/500px-Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
+      "alt": "Photo of Arctic Monkeys",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
+      "creator": "Bill Ebbesen",
+      "attribution": "Bill Ebbesen, CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "sex-pistols",
+    "category": "music",
+    "displayName": "Sex Pistols",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sex_Pistols_in_Paradiso.jpg/500px-Sex_Pistols_in_Paradiso.jpg",
+      "alt": "Photo of Sex Pistols",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sex_Pistols_in_Paradiso.jpg",
+      "creator": "Photograph: Koen Suyk. In: Nationaal Archief, Den Haag, Rijksfotoarchief: Fotocollectie Algemeen Nederlands Fotopersbureau (ANEFO), 1945-1989 - negatiefstroken zwart/wit, nummer toegang 2.24.01.05, be"
+    }
+  },
+  {
+    "id": "the-doors",
+    "category": "music",
+    "displayName": "The Doors",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Doors_1968.JPG/500px-The_Doors_1968.JPG",
+      "alt": "Photo of The Doors",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Doors_1968.JPG",
+      "creator": "Joel Brodsky; Distributed by Agency for the Performing Arts (APA)"
+    }
+  },
+  {
+    "id": "village-people",
+    "category": "music",
+    "displayName": "Village People",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VillagePeople1978.jpg/500px-VillagePeople1978.jpg",
+      "alt": "Photo of Village People",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:VillagePeople1978.jpg",
+      "creator": "Mario Casciano",
+      "attribution": "Mario Casciano, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "gorillaz",
+    "category": "music",
+    "displayName": "Gorillaz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "evanescence",
+    "category": "music",
+    "displayName": "Evanescence",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Evanescence_-_Rock_am_Ring_2023-7536.jpg/500px-Evanescence_-_Rock_am_Ring_2023-7536.jpg",
+      "alt": "Photo of Evanescence",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evanescence_-_Rock_am_Ring_2023-7536.jpg",
+      "creator": "Andreas Lawen [Fotandi]",
+      "attribution": "Andreas Lawen [Fotandi], CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "fleetwood-mac",
+    "category": "music",
+    "displayName": "Fleetwood Mac",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fleetwood_Mac_Billboard_1977.jpg/500px-Fleetwood_Mac_Billboard_1977.jpg",
+      "alt": "Photo of Fleetwood Mac",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+      "creator": "Warner Bros. Records"
+    }
+  },
+  {
+    "id": "the-beach-boys",
+    "category": "music",
+    "displayName": "The Beach Boys",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg/500px-Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+      "alt": "Photo of The Beach Boys",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_Boys_1967_(cropped_and_restored).jpg",
+      "creator": "Capitol Records"
+    }
+  },
+  {
+    "id": "the-jackson-5",
+    "category": "music",
+    "displayName": "The Jackson 5",
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Jackson_5_1972.JPG/500px-The_Jackson_5_1972.JPG",
+      "alt": "Photo of The Jackson 5",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Jackson_5_1972.JPG",
+      "creator": "CBS Television"
+    }
+  },
+  {
+    "id": "alanis-morissette",
+    "category": "music",
+    "displayName": "Alanis Morissette",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Лаура Паузини",
-      "uk": "Лаура Паузіні"
+      "ru": "Аланис Мориссетт",
+      "uk": "Аланіс Моріссетт"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Laura_Pausini_a_Sanremo_2026_%28headshot%29.jpg/500px-Laura_Pausini_a_Sanremo_2026_%28headshot%29.jpg",
-      "alt": "Photo of Laura Pausini",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Glasto_2025_%2846%29_-_Alanis_Morissette_%28cropped%29.jpg/500px-Glasto_2025_%2846%29_-_Alanis_Morissette_%28cropped%29.jpg",
+      "alt": "Photo of Alanis Morissette",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glasto_2025_(46)_-_Alanis_Morissette_(cropped).jpg",
+      "creator": "Raph_PH",
+      "attribution": "Raph_PH, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "meghan-trainor",
+    "category": "music",
+    "displayName": "Meghan Trainor",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Меган Трейнор",
+      "uk": "Меган Трейнор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Meghan_Trainor_in_2024_%28cropped%29.jpg/500px-Meghan_Trainor_in_2024_%28cropped%29.jpg",
+      "alt": "Photo of Meghan Trainor",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laura_Pausini_a_Sanremo_2026_(headshot).jpg",
-      "creator": "Ferdinando Traversa",
-      "attribution": "Ferdinando Traversa, CC BY-SA 4.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meghan_Trainor_in_2024_(cropped).jpg",
+      "creator": "Macy",
+      "attribution": "Macy, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jessie-j",
+    "category": "music",
+    "displayName": "Jessie J",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джесси Джей",
+      "uk": "Джессі Джей"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/WEHO2022_%2852125746986%29_%28cropped%29.jpg/500px-WEHO2022_%2852125746986%29_%28cropped%29.jpg",
+      "alt": "Photo of Jessie J",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WEHO2022_(52125746986)_(cropped).jpg",
+      "creator": "DVSROSS",
+      "attribution": "DVSROSS, CC BY 2.0, via Wikimedia Commons"
     }
   }
 ]

@@ -8,7 +8,7 @@
  *   "Тарас Григорович Шевченко" → "Тарас Шевченко" (patronymics dropped).
  * Hand-written fixes in content-source/locale-overrides.json always win.
  *
- * Usage: npm run content:locales   (then npm run content:build)
+ * Usage: npm run content:locales [-- --refresh]   (then npm run content:build)
  */
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped MediaWiki API JSON */
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
@@ -134,8 +134,12 @@ async function main() {
     ? JSON.parse(readFileSync(OUT, 'utf8'))
     : {};
   for (const lang of LOCALES) {
-    const links = await langLinks(titles, lang);
-    console.log(`${lang}: ${links.size} / ${titles.length} titles linked`);
+    // Only look up entries that have no name in this language yet (--refresh: all).
+    const todo = process.argv.includes('--refresh')
+      ? titles
+      : [...new Set(entries.filter((e) => !result[e.displayName]?.[lang]).map((e) => e.wikiTitle))];
+    const links = await langLinks(todo, lang);
+    console.log(`${lang}: ${links.size} / ${todo.length} titles linked`);
     for (const e of entries) {
       const linked = links.get(e.wikiTitle);
       if (!linked) continue;

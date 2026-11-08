@@ -45,9 +45,6 @@
 *Venus Williams
 *Steffi Graf
 *Andre Agassi
-*Pete Sampras
-*Björn Borg
-*Martina Navratilova
 *Carl Lewis
 *Jesse Owens
 *Sergey Bubka
@@ -66,189 +63,44 @@
 *Valentino Rossi
 *Lance Armstrong
 *Tony Hawk
-*Shaun White
-*Mark Spitz
-*Eliud Kipchoge
-Haile Gebrselassie
-Mo Farah
-Florence Griffith Joyner
-Allyson Felix
-Shelly-Ann Fraser-Pryce
-Mondo Duplantis @Armand Duplantis
-Jackie Joyner-Kersee
-Edwin Moses
-Michael Johnson @Michael Johnson (sprinter)
-Daley Thompson
-Sebastian Coe
-Paavo Nurmi
-Emil Zátopek
-Abebe Bikila
-Katarina Witt
-Yuzuru Hanyu
-Evgeni Plushenko
-Alina Zagitova
-Irina Rodnina
-Ole Einar Bjørndalen
-Marit Bjørgen
 Lindsey Vonn
-Mikaela Shiffrin
-Alberto Tomba
-Ingemar Stenmark
-Hermann Maier
-Marcel Hirscher
-Ian Thorpe
-Katie Ledecky
-Larisa Latynina
-Olga Korbut
-Alexander Popov @Alexander Popov (swimmer)
-Alexander Karelin
 Hulk Hogan
 The Undertaker
-Roman Reigns
-André the Giant
 Ronda Rousey
-Jon Jones
-Georges St-Pierre
 Lennox Lewis
 Evander Holyfield
-George Foreman
-Joe Frazier
-Sugar Ray Leonard
-Rocky Marciano
 Canelo Álvarez
 Tyson Fury
-Anthony Joshua
-Vasyl Lomachenko
-Naomi Osaka
-Iga Świątek
-Aryna Sabalenka
 Carlos Alcaraz
-Jannik Sinner
 Andy Murray
-Boris Becker
-John McEnroe
-Billie Jean King
-Chris Evert
-Monica Seles
-Kim Clijsters
-Li Na
-Elina Svitolina
-Jack Nicklaus
-Arnold Palmer
-Rory McIlroy
-Scottie Scheffler
-Annika Sörenstam
-Niki Lauda
-Alain Prost
 Fernando Alonso
-Sebastian Vettel
-Kimi Räikkönen
-Juan Manuel Fangio
-Charles Leclerc
-Lando Norris
-Marc Márquez
-Eddy Merckx
-Miguel Induráin
-Tadej Pogačar
-Chris Froome
-Sachin Tendulkar
-Virat Kohli
-MS Dhoni
-Don Bradman
-Shane Warne
-Brian Lara
-Jonah Lomu
-Richie McCaw
-Jonny Wilkinson
-Dan Carter
 Kareem Abdul-Jabbar
-Larry Bird
-Wilt Chamberlain
-Bill Russell
 Dennis Rodman
-Scottie Pippen
-Kevin Durant
-Giannis Antetokounmpo
-Nikola Jokić
-Luka Dončić
-Dirk Nowitzki
 Yao Ming
-Tim Duncan
-Allen Iverson
-Victor Wembanyama
-Caitlin Clark
-Joe Montana
-Peyton Manning
-Patrick Mahomes
-Jerry Rice
-Walter Payton
-Derek Jeter
 Shohei Ohtani
-Jackie Robinson
-Mark McGwire
-Sidney Crosby
-Alexander Ovechkin
-Mario Lemieux
-Jaromír Jágr
-Bobby Orr
-Vladislav Tretiak
 Paolo Maldini
 Francesco Totti
 Alessandro Del Piero
-Andrea Pirlo
-Roberto Baggio
 Gianluigi Buffon
-Fabio Cannavaro
 Thierry Henry
-Michel Platini
-Antoine Griezmann
 Karim Benzema
 Luka Modrić
 Andrés Iniesta
-Xavi @Xavi
 Iker Casillas
 Sergio Ramos
-Raúl @Raúl (footballer)
-Fernando Torres
 Steven Gerrard
-Frank Lampard
-Alan Shearer
-Bobby Charlton
-George Best
 Eric Cantona
 Harry Kane
 Jude Bellingham
 Kevin De Bruyne
-Virgil van Dijk
-Arjen Robben
-Marco van Basten
-Ruud Gullit
-Dennis Bergkamp
-Gerd Müller
-Lothar Matthäus
-Oliver Kahn
 Manuel Neuer
-Thomas Müller
-Miroslav Klose
-Lev Yashin
-Oleg Blokhin
-Luís Figo
-Eusébio
 Kaká
-Romário
-Rivaldo
 Roberto Carlos
-Cafu
 Vinícius Júnior
 Luis Suárez @Luis Suárez (footballer, born 1987)
-Gabriel Batistuta
-Ángel Di María
-Sergio Agüero
-Hristo Stoichkov
-Gheorghe Hagi
 Didier Drogba
-Samuel Eto'o
-George Weah
 Son Heung-min
 José Mourinho
 Pep Guardiola
+Jake Paul
+Lamine Yamal

@@ -67,7 +67,6 @@
 *Pink Panther @Pink Panther (character)
 *Tintin @Tintin (character)
 *Asterix @Asterix (character)
-*Obelix
 *Smurfette
 *Woody @Sheriff Woody
 *Buzz Lightyear
@@ -99,7 +98,6 @@ Hannibal Lecter
 Freddy Krueger
 Chucky @Chucky (character)
 Ghostface @Ghostface (identity)
-Michael Myers @Michael Myers (Halloween)
 Pennywise @It (character)
 Edward Scissorhands
 Piglet @Piglet (Winnie-the-Pooh)
@@ -123,33 +121,21 @@ Maleficent
 Cruella de Vil
 Scar @Scar (The Lion King)
 Jafar
-Captain Haddock
-Lucky Luke
-Spirou @Spirou (character)
 Wednesday Addams
-Gomez Addams
-Morticia Addams
 Marge Simpson
 Lisa Simpson
 Peter Griffin
-Stewie Griffin
 Eric Cartman
 Rick Sanchez
 Fred Flintstone
-George Jetson
-Yogi Bear
 Daffy Duck
 Tweety @Tweety
 Road Runner @Road Runner (Looney Tunes)
 Wile E. Coyote
 Taz @Tasmanian Devil (Looney Tunes)
-Porky Pig
 Woody Woodpecker
-Felix the Cat
 Betty Boop
 Casper the Friendly Ghost
-Richie Rich @Richie Rich (comics)
-Dennis the Menace @Dennis the Menace (U.S. comics)
 Mowgli
 Baloo
 Bagheera
@@ -163,32 +149,22 @@ Hamlet @Prince Hamlet
 Ebenezer Scrooge
 Oliver Twist @Oliver Twist (character)
 Tom Sawyer
-Huckleberry Finn
 Robinson Crusoe @Robinson Crusoe (character)
 Gulliver @Lemuel Gulliver
 Captain Nemo
-Phileas Fogg
 D'Artagnan @Charles de Batz de Castelmore d'Artagnan
 Quasimodo
-Jean Valjean
-Long John Silver
-Pippi Longstocking
 Little Prince @The Little Prince (character)
 Shere Khan @Shere Khan
 Cheshire Cat
 Mad Hatter
-White Rabbit
 Wizard of Oz @Wizard of Oz (character)
-Dorothy Gale
-Tin Man @Tin Woodman
 Katniss Everdeen
 Bella Swan
 Edward Cullen
 Jon Snow @Jon Snow (character)
 Daenerys Targaryen
-Tyrion Lannister
 Walter White @Walter White (Breaking Bad)
-Dexter Morgan
 Eleven @Eleven (Stranger Things)
 Dr. House @Gregory House
 Sheldon Cooper
@@ -196,14 +172,11 @@ Joey Tribbiani
 Rachel Green
 Mr. Spock @Spock
 Captain Kirk @James T. Kirk
-Doctor Who @The Doctor (Doctor Who)
 Neo @Neo (The Matrix)
 Rambo @John Rambo
-Ellen Ripley
 Marty McFly
 Doc Brown @Emmett Brown
 Ace Ventura
-Austin Powers @Austin Powers (character)
 Deadpool
 Black Widow @Black Widow (Natasha Romanova)
 Black Panther @Black Panther (character)
@@ -216,34 +189,28 @@ Catwoman
 Harley Quinn
 Aquaman
 The Flash @Flash (Barry Allen)
-Green Lantern
-Lex Luthor
 Magneto @Magneto (Marvel Comics)
-Master Chief @Master Chief (Halo)
 Link @Link (The Legend of Zelda)
-Princess Zelda
 Luigi @Luigi (character)
 Princess Peach
 Bowser @Bowser (character)
 Donkey Kong @Donkey Kong (character)
-Kirby @Kirby (character)
-Kratos @Kratos (God of War)
 Geralt of Rivia
 Crash Bandicoot @Crash Bandicoot (character)
-Spyro @Spyro (character)
-Solid Snake
 Ash Ketchum
 Naruto Uzumaki
 Goku
 Sailor Moon @Sailor Moon (character)
 Totoro @My Neighbor Totoro
-Doraemon @Doraemon (character)
 Hello Kitty
 Paddington Bear
-Postman Pat @Postman Pat
 Bob the Builder @Bob the Builder (character)
 Thomas the Tank Engine
-Fireman Sam
 Masha @Masha and the Bear
-Cheburashka
-Baron Munchausen
+Venom @Venom (character)
+Hercules @Hercules (Disney character)
+Pocahontas @Pocahontas (Disney character)
+Patrick Star
+Jack Skellington
+Mike Wazowski
+Sully @James P. Sullivan (Monsters, Inc.)

@@ -10,7 +10,6 @@
 *Joe Biden
 *John F. Kennedy
 *Franklin D. Roosevelt
-*Theodore Roosevelt
 *Thomas Jefferson
 *Ronald Reagan
 *Bill Clinton
@@ -51,10 +50,6 @@
 *Martin Luther King Jr.
 *Benjamin Franklin
 *Kamala Harris
-*Narendra Modi
-*Indira Gandhi
-*Jawaharlal Nehru
-*Golda Meir
 *Benjamin Netanyahu
 *Pope Francis
 *Pope John Paul II
@@ -63,144 +58,36 @@
 *Otto von Bismarck
 *Simón Bolívar
 *Eva Perón
-*Lula da Silva @Luiz Inácio Lula da Silva
-*Jacinda Ardern
 *Recep Tayyip Erdoğan
 *Mustafa Kemal Atatürk
 *Kofi Annan
 *Ho Chi Minh
 Dwight D. Eisenhower
 Harry S. Truman
-Jimmy Carter
-George H. W. Bush
-Gerald Ford
-Lyndon B. Johnson
-Andrew Jackson
-James Madison
-John Adams
-Alexander Hamilton
-Ulysses S. Grant
-Woodrow Wilson
 Michelle Obama
-Eleanor Roosevelt
 Jacqueline Kennedy Onassis
-Robert F. Kennedy
-Bernie Sanders
-Nancy Pelosi
-Al Gore
-John McCain
-Condoleezza Rice
-Colin Powell
-Henry Kissinger
-Madeleine Albright
-Mike Pence
-JD Vance
-Theresa May
-David Cameron
-Gordon Brown
-Rishi Sunak
-Keir Starmer
-King George VI @George VI
 Prince William @William, Prince of Wales
 Prince Harry @Prince Harry, Duke of Sussex
 Meghan Markle @Meghan, Duchess of Sussex
 Kate Middleton @Catherine, Princess of Wales
-Prince Philip @Prince Philip, Duke of Edinburgh
-Oliver Cromwell
-Robespierre @Maximilien Robespierre
-François Mitterrand
-Jacques Chirac
-Nicolas Sarkozy
-Marine Le Pen
-Helmut Kohl
-Willy Brandt
-Konrad Adenauer
-Olaf Scholz
-Ursula von der Leyen
 Silvio Berlusconi
 Benito Mussolini
-Giuseppe Garibaldi
-Mario Draghi
-Giorgia Meloni
-Pedro Sánchez
-Francisco Franco
-King Juan Carlos @Juan Carlos I
-Mark Rutte
 Emperor Hirohito @Hirohito
-Shinzo Abe
-Deng Xiaoping
-Sun Yat-sen
-Chiang Kai-shek
-Kim Il Sung
-Lee Kuan Yew
-Aung San Suu Kyi
-Benazir Bhutto
-Imran Khan
-Mahmoud Abbas
 Yasser Arafat
-Anwar Sadat
-Gamal Abdel Nasser
-Ayatollah Khomeini @Ruhollah Khomeini
-King Hussein @Hussein of Jordan
-Haile Selassie
-Jomo Kenyatta
-Kwame Nkrumah
-Julius Nyerere
-Desmond Tutu
-Ellen Johnson Sirleaf
 Muammar Gaddafi
 Saddam Hussein
 Hugo Chávez
-Nicolás Maduro
-Salvador Allende
-Augusto Pinochet
-Juan Perón
-Javier Milei
-Jair Bolsonaro
-Dilma Rousseff
-Andrés Manuel López Obrador
-Emiliano Zapata
-Pancho Villa
-Raúl Castro @Raúl Castro
 Nikita Khrushchev
-Leonid Brezhnev
 Boris Yeltsin
 Leon Trotsky
 Tsar Nicholas II @Nicholas II
-Alexander II @Alexander II of Russia
 Ivan the Terrible
-Lech Wałęsa
-Václav Havel
-Josip Broz Tito
-Nicolae Ceaușescu
-Viktor Orbán
-Alexander Lukashenko
-Yulia Tymoshenko
-Bohdan Khmelnytsky
-Paul Kagame
-Cyril Ramaphosa
-Robert Mugabe
-Gro Harlem Brundtland
-Olof Palme
-Sanna Marin
-Jens Stoltenberg
-Ban Ki-moon
-António Guterres
-Kim Dae-jung
-Moon Jae-in
-Ferdinand Marcos
-Rodrigo Duterte
-Sukarno
-Pol Pot
-Hammurabi
 Ramesses II
 Tutankhamun
 Nefertiti
 Augustus
 Nero
 Caligula
-Constantine the Great
-Justinian I
 Charlemagne
 Attila
 Hannibal @Hannibal
@@ -208,19 +95,12 @@ Saladin
 Suleiman the Magnificent
 Richard the Lionheart @Richard I of England
 William the Conqueror
-Frederick the Great
-Maria Theresa
-Queen Isabella @Isabella I of Castile
-Empress Sisi @Empress Elisabeth of Austria
-Emperor Franz Joseph @Franz Joseph I of Austria
-Kaiser Wilhelm II @Wilhelm II
-Akbar the Great @Akbar
-Shah Jahan
 Montezuma @Moctezuma II
-Atahualpa
-Ashoka
 Qin Shi Huang
-Kublai Khan
 Tamerlane @Timur
 Vlad the Impaler
 Malcolm X
+Spartacus
+Leonidas I
+Pope Benedict XVI
+Pope Leo XIV

@@ -181,3 +181,13 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   back (←) return the right names, a live Wikimedia photo loads with its credit, no
   console errors. Longest names in every language fit on an iPhone SE in landscape.
 - README rewritten with screenshots from the live site (`docs/screenshots/`).
+
+## Round 3 (2026-11-08, night)
+
+- Countdown shortened to 3 s everywhere (start, next/previous, after unlock).
+- Less text: icon-only End/Menu/Photo buttons, no hint line, short notices.
+- Fullscreen = immersive: only the card (tap/swipe) and an exit-fullscreen button.
+- Bank reviewed for global recognisability: regional stars removed (Bollywood,
+  cricket, national pop/TV, regional politicians and writers). 949 names (104–214 per
+  category), 797 photos, ru 885 / uk 860 names. Tests: 100+ per category, guard list.
+- Git auto-deploy verified: merging into `ccr-e90e4d2a-a0sxbh` deploys production.

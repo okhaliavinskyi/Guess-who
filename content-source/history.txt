@@ -47,7 +47,6 @@
 *Charles Dickens
 *Leo Tolstoy
 *Fyodor Dostoevsky
-*Alexander Pushkin
 *Mark Twain
 *Ernest Hemingway
 *Jane Austen
@@ -64,187 +63,63 @@
 *Wright brothers
 *Louis Pasteur
 *Alan Turing
-*Ada Lovelace
 *Alfred Nobel
 *Dmitri Mendeleev
-Taras Shevchenko
-Lesya Ukrainka
-Ivan Franko
-Mykola Gogol @Nikolai Gogol
-Anton Chekhov
-Ivan Pavlov
 Pyotr Tchaikovsky @Pyotr Ilyich Tchaikovsky
-Sergei Rachmaninoff
-Igor Stravinsky
 Frédéric Chopin
-Franz Liszt
 Antonio Vivaldi
-Giuseppe Verdi
-Richard Wagner
-Johann Strauss II
-Franz Schubert
-George Frideric Handel
-Joseph Haydn
 Raphael
-Donatello
 Sandro Botticelli
-Caravaggio
-Titian
-Albrecht Dürer
-Johannes Vermeer
-Hieronymus Bosch
-Pieter Bruegel the Elder
-Francisco Goya
-Diego Velázquez
-El Greco
-Auguste Rodin
-Edgar Degas
-Pierre-Auguste Renoir
-Paul Cézanne
-Paul Gauguin
-Henri Matisse
-Gustav Klimt
 Edvard Munch
-Wassily Kandinsky
-Kazimir Malevich
-Marc Chagall
 Andy Warhol
 Banksy
-Jackson Pollock
-René Magritte
-Joan Miró
 Antoni Gaudí
 Gustave Eiffel
-Le Corbusier
-Rumi
-Omar Khayyam
-Lao Tzu @Laozi
 Sun Tzu
-Avicenna
-Ibn Battuta
-Euclid
-Herodotus
-Cicero
-Seneca @Seneca the Younger
-Marcus Aurelius
 Niccolò Machiavelli
 René Descartes
-Immanuel Kant
 Friedrich Nietzsche
-Jean-Jacques Rousseau
 Voltaire
-John Locke
-Thomas Hobbes
-Adam Smith
-Baruch Spinoza
-Søren Kierkegaard
-Jean-Paul Sartre
-Simone de Beauvoir
 Albert Camus
 Martin Luther
-John Calvin
-Saint Francis of Assisi @Francis of Assisi
-Saint Patrick
-Thomas Aquinas
 Nostradamus
-Johannes Kepler
-Tycho Brahe
-Michael Faraday
-James Clerk Maxwell
-Max Planck
-Niels Bohr
-Werner Heisenberg
-Erwin Schrödinger
-Richard Feynman
 Robert Oppenheimer @J. Robert Oppenheimer
-Enrico Fermi
-Carl Sagan
-Edwin Hubble
-Rosalind Franklin
-Gregor Mendel
 Alexander Fleming
-Edward Jenner
-Robert Koch
-Carl Linnaeus
-Alexander von Humboldt
-James Watt
-Guglielmo Marconi
-Samuel Morse
 Henry Ford
 Karl Benz
 Ferdinand Porsche
 Enzo Ferrari
-Rudolf Diesel
-Igor Sikorsky
-Wernher von Braun
-Sergei Korolev
-Valentina Tereshkova
 Buzz Aldrin
 Laika @Laika
-Vasco da Gama
 Ferdinand Magellan
-James Cook
-Roald Amundsen
 Edmund Hillary
-Tenzing Norgay
 Jacques Cousteau
-Charles Lindbergh
-Ernest Shackleton
-David Livingstone
-Hernán Cortés
-Leif Erikson
 Miguel de Cervantes
-Johann Wolfgang von Goethe
-Friedrich Schiller
 Franz Kafka
 Oscar Wilde
 George Orwell
 Edgar Allan Poe
 Jules Verne
-H. G. Wells
 Arthur Conan Doyle
 J. R. R. Tolkien
-C. S. Lewis
 Lewis Carroll
 Hans Christian Andersen
 Brothers Grimm
-Charles Perrault
 Antoine de Saint-Exupéry
 Alexandre Dumas
-Gabriel García Márquez
 Paulo Coelho
 Stephen King
-Virginia Woolf
-Lord Byron
-Walt Whitman
-Emily Dickinson
-Rabindranath Tagore
-Mikhail Bulgakov
-Boris Pasternak
-Aleksandr Solzhenitsyn
-Vladimir Nabokov
 Hayao Miyazaki
-Akira Kurosawa
-Buster Keaton @Buster Keaton
 Houdini @Harry Houdini
-P. T. Barnum
-Harriet Tubman
-Frederick Douglass
-Sojourner Truth
-Emmeline Pankhurst
 Christian Dior
-Yves Saint Laurent @Yves Saint Laurent (designer)
 Karl Lagerfeld
 Giorgio Armani
 Jeff Bezos
 Warren Buffett
-Larry Page
-Sam Altman
-Tim Berners-Lee
-Linus Torvalds
 Steve Wozniak
-Jane Goodall
-Dian Fossey
 Steve Irwin
 Greta Thunberg
 Malala Yousafzai
+Gianni Versace
+Al Capone
+Stan Lee

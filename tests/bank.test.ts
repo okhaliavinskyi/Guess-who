@@ -25,8 +25,10 @@ describe('character bank', () => {
     expect(issues).toEqual([]);
   });
 
-  it.runIf(production)('has at least 200 names in every category', () => {
-    for (const f of files) expect(f.data.length, f.category).toBeGreaterThanOrEqual(200);
+  // Quality over quantity: only names ordinary people know in any country.
+  it.runIf(production)('has at least 100 names in every category and 900 overall', () => {
+    for (const f of files) expect(f.data.length, f.category).toBeGreaterThanOrEqual(100);
+    expect(all.length).toBeGreaterThanOrEqual(900);
   });
 
   it('has globally unique ids and display names', () => {
@@ -68,7 +70,7 @@ describe('character bank', () => {
     for (const f of files) {
       const share = f.data.filter((c) => c.popularityTier === 'iconic').length / f.data.length;
       expect(share, f.category).toBeGreaterThan(0.1);
-      expect(share, f.category).toBeLessThan(0.6);
+      expect(share, f.category).toBeLessThan(0.85);
     }
   });
 

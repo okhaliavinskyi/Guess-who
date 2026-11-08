@@ -16,7 +16,7 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
 1. Pick a category: **Movies & TV, Music, Fictional Characters, Politics, History,
    Sports**, **Mix** (all of them) or **Custom word** (a friend types one in).
 2. Tap **Start**, then hold the phone **sideways** on your forehead, screen facing
-   your friends. A 5-second countdown gives you time.
+   your friends. A 3-second countdown gives you time.
 3. Ask yes/no questions. The name stays on screen until someone moves on.
 4. **Swipe ←** (or **Next**) for a new name, **swipe →** to go back to the previous one.
    **Tap** the card to switch between the name and a photo.
@@ -28,8 +28,8 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
 
 ## Features
 
-- **1,439 well-known people and characters**, 200+ per category.
-- **1,267 photos** from Wikimedia Commons, all freely licensed, each shown with its
+- **949 people and characters everyone knows**: only names an ordinary person in any country would recognise, 100–214 per category.
+- **797 photos** from Wikimedia Commons, all freely licensed, each shown with its
   credit and a link to its source.
 - **English, Русский, Українська**: interface and names. The language follows the
   browser and can be switched on the home screen.
@@ -39,6 +39,8 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
   locks while a name is shown, unlocking gives you another countdown first.
 - **Built for landscape.** On Android, Start goes fullscreen and locks the screen
   sideways. The screen stays on during play.
+- **Nothing in the way.** In fullscreen you see only the card, so you play with swipes
+  and taps. A small button exits fullscreen and brings the controls back.
 - Static site with no backend, accounts or tracking. The only network requests are
   the photos, and only when you tap for one.
 
@@ -49,7 +51,7 @@ Requires Node.js 20.19+.
 ```bash
 npm install
 npm run dev        # local dev server
-npm run check      # content validation, lint, types, 154 tests, production build
+npm run check      # content validation, lint, types, tests, production build
 ```
 
 The character bank is generated. Edit the lists in [`content-source/`](content-source),

@@ -71,13 +71,10 @@
 *Luciano Pavarotti
 *Andrea Bocelli
 *Édith Piaf
-*Charles Aznavour
-*Stromae
 *PSY @Psy
 *BTS
 *BLACKPINK
 *Bad Bunny
-*Elvis Costello
 *Robbie Williams
 *Tom Jones @Tom Jones (singer)
 Rod Stewart
@@ -86,24 +83,17 @@ Lionel Richie
 Diana Ross
 Janet Jackson
 Barbra Streisand
-Liza Minnelli
 Chuck Berry
 Little Richard
-Jerry Lee Lewis
-Buddy Holly
 James Brown
 Marvin Gaye
 Nina Simone
 Ella Fitzgerald
-Billie Holiday
 Miles Davis
 Bruce Springsteen
 Billy Joel
 Paul Simon
-Art Garfunkel
 Eric Clapton
-Jimmy Page
-Robert Plant
 Led Zeppelin
 Pink Floyd
 AC/DC
@@ -113,7 +103,6 @@ Guns N' Roses
 Axl Rose
 Slash @Slash (musician)
 Kiss @Kiss (band)
-Gene Simmons
 Alice Cooper
 Iron Maiden
 Rammstein
@@ -127,18 +116,13 @@ Green Day
 Oasis @Oasis (band)
 Radiohead
 Depeche Mode
-Duran Duran
 The Police
 Dire Straits
-Mark Knopfler
 Bee Gees
-Boney M.
-Modern Talking
 Roxette
 a-ha
 Spice Girls
 Backstreet Boys
-Destiny's Child
 One Direction
 Imagine Dragons
 Maroon 5
@@ -150,23 +134,12 @@ Sia @Sia (musician)
 Kylie Minogue
 Shania Twain
 Jennifer Lopez
-Selena Quintanilla @Selena
-Gloria Estefan
-Marc Anthony
 Daddy Yankee
 Luis Fonsi
 J Balvin
-Karol G
-Rosalía
-Anitta @Anitta (singer)
-Juanes
 Carlos Santana
-Mylène Farmer
-Zaz @Zaz (singer)
 Björk
 Enya
-Sinéad O'Connor
-Dolores O'Riordan
 Bryan Adams
 Shawn Mendes
 Justin Timberlake
@@ -180,7 +153,6 @@ Kendrick Lamar
 Travis Scott
 Post Malone
 Doja Cat
-SZA
 Olivia Rodrigo
 Sabrina Carpenter
 Miley Cyrus
@@ -189,46 +161,42 @@ Avicii
 David Guetta
 Calvin Harris
 Daft Punk
-Armin van Buuren
-Tiësto
 Marshmello
-Skrillex
-Moby
 Hans Zimmer
 John Williams
 Ennio Morricone
-Andrew Lloyd Webber
-Yanni
-Kenny G
 Lenny Kravitz
 Jon Bon Jovi
 Steven Tyler
 Aerosmith
-Bon Scott
-Lemmy @Lemmy
-Joe Cocker
-Leonard Cohen
-Neil Young
-Joni Mitchell
 Janis Joplin
 Jim Morrison
-Roy Orbison
 Dean Martin
-Nat King Cole
-Bing Crosby
-Sammy Davis Jr.
-Megan Thee Stallion
 Lil Nas X
 Lizzo
-Halsey @Halsey (singer)
-Charli XCX
-Lorde
-Florence Welch
-Måneskin
-Eurythmics
-Annie Lennox
-Bonnie Tyler
-Toto Cutugno
-Adriano Celentano
-Eros Ramazzotti
-Laura Pausini
+Lil Wayne
+Pitbull @Pitbull (rapper)
+Sean Paul
+Nelly Furtado
+Fergie @Fergie (singer)
+The Black Eyed Peas
+Akon
+Jason Derulo
+Camila Cabello
+Charlie Puth
+Sam Smith
+Lewis Capaldi
+Zayn Malik
+Jonas Brothers
+Arctic Monkeys
+Sex Pistols
+The Doors
+Village People
+Gorillaz
+Evanescence
+Fleetwood Mac
+The Beach Boys
+The Jackson 5
+Alanis Morissette
+Meghan Trainor
+Jessie J
