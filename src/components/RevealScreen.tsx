@@ -1,7 +1,7 @@
 import type { CSSProperties } from 'react';
 import type { ImageMetadata } from '../content/schema.ts';
 import type { WakeLockStatus } from '../hooks/useScreenWakeLock.ts';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 import { hasUsableImage } from '../content/image.ts';
 import { CharacterCard } from './CharacterCard.tsx';
 import { FullscreenButton } from './FullscreenButton.tsx';
@@ -31,6 +31,7 @@ interface Props {
  * if the image fails to load the button disappears and a short status is shown.
  */
 export function RevealScreen(p: Props) {
+  const strings = useStrings();
   const photoAvailable = hasUsableImage(p.image) && !p.photoFailed;
   return (
     <main
@@ -54,7 +55,7 @@ export function RevealScreen(p: Props) {
         onPhotoFailed={p.onPhotoFailed}
         onTap={photoAvailable ? p.onTogglePhoto : undefined}
       />
-      <nav className="bottom-bar controls" aria-label="Game controls">
+      <nav className="bottom-bar controls" aria-label={strings.controlsLabel}>
         <button
           type="button"
           className="btn btn-secondary"

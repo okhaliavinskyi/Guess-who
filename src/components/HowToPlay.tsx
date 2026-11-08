@@ -1,6 +1,7 @@
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 export function HowToPlay() {
+  const strings = useStrings();
   return (
     <details className="how-to">
       <summary>{strings.howToTitle}</summary>

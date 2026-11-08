@@ -1,8 +1,9 @@
 import { useFullscreen } from '../hooks/useFullscreen.ts';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 /** Rendered only where the Fullscreen API is available (hidden on iPhone Safari). */
 export function FullscreenButton() {
+  const strings = useStrings();
   const { supported, isFullscreen, toggle } = useFullscreen();
   if (!supported) return null;
   return (

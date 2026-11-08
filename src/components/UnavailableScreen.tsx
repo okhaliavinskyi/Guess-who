@@ -1,6 +1,7 @@
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 export function UnavailableScreen({ title, onBack }: { title: string; onBack: () => void }) {
+  const strings = useStrings();
   return (
     <main className="screen unavailable" aria-labelledby="unavailable-title">
       <div className="ready-body">

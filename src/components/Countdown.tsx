@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useCountdown } from '../hooks/useCountdown.ts';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 interface Props {
   durationMs: number;
@@ -14,6 +14,7 @@ interface Props {
  * The visual digits are aria-hidden; screen readers get one announcement only.
  */
 export function Countdown({ durationMs, onComplete, onCancel, now }: Props) {
+  const strings = useStrings();
   const { secondsLeft, totalSeconds } = useCountdown({ durationMs, onComplete, now });
   const [announcement, setAnnouncement] = useState('');
 
@@ -21,7 +22,7 @@ export function Countdown({ durationMs, onComplete, onCancel, now }: Props) {
     // Set after mount so the live region (already in the DOM) announces it once.
     const id = setTimeout(() => setAnnouncement(strings.countdownAnnouncement(totalSeconds)), 50);
     return () => clearTimeout(id);
-  }, [totalSeconds]);
+  }, [strings, totalSeconds]);
 
   return (
     <main className="screen countdown" aria-labelledby="countdown-title">

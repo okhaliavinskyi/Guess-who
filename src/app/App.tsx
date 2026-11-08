@@ -7,7 +7,9 @@ import type { Rng } from '../game/shuffleBag.ts';
 import { createGameReducer, initialGameState, isPlaying } from '../game/stateMachine.ts';
 import { useFullscreen } from '../hooks/useFullscreen.ts';
 import { useScreenWakeLock } from '../hooks/useScreenWakeLock.ts';
-import { strings } from '../i18n/strings.ts';
+import { LanguageProvider } from '../i18n/LanguageProvider.tsx';
+import { useLanguage } from '../i18n/language.ts';
+import type { Lang } from '../i18n/strings.ts';
 import { CategoryPicker } from '../components/CategoryPicker.tsx';
 import { Countdown } from '../components/Countdown.tsx';
 import { CustomWordForm } from '../components/CustomWordForm.tsx';
@@ -26,20 +28,26 @@ export interface AppProps {
   countdownMs?: number;
   /** Treat bank as demo content (defaults to BANK_STATUS). */
   isDemo?: boolean;
+  /** Start in this UI language instead of the saved/browser one (tests). */
+  lang?: Lang;
 }
 
-function userLocales(): readonly string[] {
-  if (typeof navigator === 'undefined') return ['en'];
-  return navigator.languages?.length ? navigator.languages : [navigator.language || 'en'];
+export function App({ lang, ...props }: AppProps) {
+  return (
+    <LanguageProvider initial={lang}>
+      <Game {...props} />
+    </LanguageProvider>
+  );
 }
 
-export function App({
+function Game({
   bank = getDefaultBank(),
   rng,
   now,
   countdownMs = COUNTDOWN_MS,
   isDemo = BANK_STATUS === 'demo',
-}: AppProps) {
+}: Omit<AppProps, 'lang'>) {
+  const { lang, strings } = useLanguage();
   const pools = useMemo(
     () =>
       Object.fromEntries(POOL_IDS.map((p) => [p, buildPool(bank, p)])) as Record<PoolId, string[]>,
@@ -122,7 +130,10 @@ export function App({
 
     case 'UNAVAILABLE':
       return (
-        <UnavailableScreen title={getPoolConfig(screen.pool).label} onBack={() => goHome('BACK')} />
+        <UnavailableScreen
+          title={strings.categories[screen.pool].label}
+          onBack={() => goHome('BACK')}
+        />
       );
 
     case 'READY': {
@@ -130,7 +141,11 @@ export function App({
       const config = selection.kind === 'pool' ? getPoolConfig(selection.pool) : null;
       return (
         <ReadyScreen
-          title={config?.label ?? strings.customTitle}
+          title={
+            selection.kind === 'pool'
+              ? strings.categories[selection.pool].label
+              : strings.customTitle
+          }
           emoji={config?.emoji ?? '✏️'}
           color={config?.color ?? CUSTOM_COLOR}
           deckSize={selection.kind === 'pool' ? counts[selection.pool] : null}
@@ -159,11 +174,7 @@ export function App({
       const { item, selection } = screen;
       const character = item.kind === 'character' ? bank.byId.get(item.id) : undefined;
       const name =
-        item.kind === 'custom'
-          ? item.word
-          : character
-            ? localizedName(character, userLocales())
-            : '';
+        item.kind === 'custom' ? item.word : character ? localizedName(character, [lang]) : '';
       const color = selection.kind === 'pool' ? getPoolConfig(selection.pool).color : CUSTOM_COLOR;
       return (
         <RevealScreen

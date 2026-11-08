@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import type { ImageMetadata } from '../content/schema.ts';
 import { hasUsableImage } from '../content/image.ts';
 import { useFitText } from '../hooks/useFitText.ts';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 interface Props {
   name: string;
@@ -19,6 +19,7 @@ interface Props {
  * name-only with no broken-image icon.
  */
 export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: Props) {
+  const strings = useStrings();
   const usable = hasUsableImage(image) ? image : undefined;
   const photo = showPhoto ? usable : undefined;
   const { containerRef, textRef } = useFitText<HTMLDivElement, HTMLHeadingElement>(
@@ -81,6 +82,7 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
 }
 
 function Photo({ image, onFailed }: { image: ImageMetadata; onFailed: () => void }) {
+  const strings = useStrings();
   const [loaded, setLoaded] = useState(false);
   const credit = [image.attribution ?? image.creator, image.license].filter(Boolean).join(' · ');
   return (

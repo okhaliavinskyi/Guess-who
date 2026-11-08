@@ -1,5 +1,5 @@
 import type { CSSProperties } from 'react';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 import { FullscreenButton } from './FullscreenButton.tsx';
 
 interface Props {
@@ -14,6 +14,7 @@ interface Props {
 }
 
 export function ReadyScreen(p: Props) {
+  const strings = useStrings();
   return (
     <main
       className="screen ready"

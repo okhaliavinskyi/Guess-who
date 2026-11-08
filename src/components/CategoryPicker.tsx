@@ -1,6 +1,7 @@
 import type { CSSProperties } from 'react';
 import { CATEGORIES, MIX_CATEGORY, CUSTOM_COLOR, type PoolId } from '../content/categories.ts';
-import { strings } from '../i18n/strings.ts';
+import { useLanguage } from '../i18n/language.ts';
+import { LanguageSwitcher } from './LanguageSwitcher.tsx';
 import { HowToPlay } from './HowToPlay.tsx';
 
 interface Props {
@@ -11,9 +12,11 @@ interface Props {
 }
 
 export function CategoryPicker({ onSelect, onCustom, isDemo, counts }: Props) {
+  const { strings } = useLanguage();
   return (
     <main className="screen home" aria-labelledby="home-title">
       <header className="home-header">
+        <LanguageSwitcher />
         <h1 id="home-title" className="brand" tabIndex={-1} data-autofocus>
           <span aria-hidden="true">🤔 </span>
           {strings.appName}
@@ -26,13 +29,13 @@ export function CategoryPicker({ onSelect, onCustom, isDemo, counts }: Props) {
         )}
       </header>
 
-      <ul className="tile-grid" aria-label="Categories">
+      <ul className="tile-grid" aria-label={strings.categoriesLabel}>
         {CATEGORIES.map((c) => (
           <li key={c.id}>
             <Tile
-              label={c.label}
+              label={strings.categories[c.id].label}
               emoji={c.emoji}
-              blurb={c.blurb}
+              blurb={strings.categories[c.id].blurb}
               color={c.color}
               empty={counts[c.id] === 0}
               onClick={() => onSelect(c.id)}
@@ -42,12 +45,12 @@ export function CategoryPicker({ onSelect, onCustom, isDemo, counts }: Props) {
       </ul>
 
       <h2 className="section-label">{strings.mixAndCustom}</h2>
-      <ul className="tile-grid tile-grid--wide" aria-label="More ways to play">
+      <ul className="tile-grid tile-grid--wide" aria-label={strings.moreWaysLabel}>
         <li>
           <Tile
-            label={MIX_CATEGORY.label}
+            label={strings.categories.mix.label}
             emoji={MIX_CATEGORY.emoji}
-            blurb={MIX_CATEGORY.blurb}
+            blurb={strings.categories.mix.blurb}
             color={MIX_CATEGORY.color}
             empty={counts.mix === 0}
             onClick={() => onSelect('mix')}
