@@ -65,11 +65,9 @@ Details: [`src/content/characters/README.md`](src/content/characters/README.md).
 
 ## Deploy
 
-The site is hosted on Vercel (project `guess-who`, settings in [`vercel.json`](vercel.json)):
-
-```bash
-npx vercel deploy --prod
-```
+The site is hosted on Vercel (project `guess-who`, settings in [`vercel.json`](vercel.json)).
+Every push to the production branch deploys automatically, and other branches get
+preview URLs. To deploy by hand, run `npx vercel deploy --prod`.
 
 ## Tech
 
