@@ -9,6 +9,8 @@ interface Props {
   image?: ImageMetadata;
   showPhoto: boolean;
   onPhotoFailed: () => void;
+  /** Tapping anywhere on the card adds (or removes) the photo, when one exists. */
+  onTap?: () => void;
 }
 
 /**
@@ -16,8 +18,9 @@ interface Props {
  * in a dedicated banner so it is always readable; a failed image falls back to
  * name-only with no broken-image icon.
  */
-export function CharacterCard({ name, image, showPhoto, onPhotoFailed }: Props) {
-  const photo = showPhoto && hasUsableImage(image) ? image : undefined;
+export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: Props) {
+  const usable = hasUsableImage(image) ? image : undefined;
+  const photo = showPhoto ? usable : undefined;
   const { containerRef, textRef } = useFitText<HTMLDivElement, HTMLHeadingElement>(
     `${name}|${photo ? 'photo' : 'text'}`,
     { max: photo ? 96 : 240 },
@@ -28,8 +31,30 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed }: Props) 
     headingRef.current?.focus({ preventScroll: true });
   }, []);
 
+  // Warm the cache as soon as the name is revealed so a tap shows the photo instantly.
+  const preloadSrc = usable?.src;
+  useEffect(() => {
+    if (!preloadSrc || typeof Image === 'undefined') return;
+    const img = new Image();
+    img.referrerPolicy = 'no-referrer';
+    img.src = preloadSrc;
+  }, [preloadSrc]);
+
+  const tappable = !!usable && !!onTap;
   return (
-    <div className={`card ${photo ? 'card--photo' : ''}`}>
+    <div
+      className={`card ${photo ? 'card--photo' : ''} ${tappable ? 'card--tappable' : ''}`}
+      data-testid="character-card"
+      onClick={
+        tappable
+          ? (event) => {
+              // Let the source link inside the credit work normally.
+              if ((event.target as HTMLElement).closest('a')) return;
+              onTap();
+            }
+          : undefined
+      }
+    >
       {photo && <Photo key={photo.src} image={photo} onFailed={onPhotoFailed} />}
       <div className="card-name-box" ref={containerRef}>
         <h1
@@ -46,6 +71,11 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed }: Props) 
           {name}
         </h1>
       </div>
+      {tappable && !photo && (
+        <p className="card-tap-hint" aria-hidden="true">
+          {strings.tapForPhoto}
+        </p>
+      )}
     </div>
   );
 }

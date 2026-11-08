@@ -45,7 +45,7 @@ afterEach(() => {
 });
 
 describe('home', () => {
-  it('shows the instruction, six categories, Mix, Custom, demo label and How to play', () => {
+  it('shows the instruction, six categories, Mix, Custom and How to play', () => {
     renderApp();
     expect(screen.getByRole('heading', { level: 1, name: /Guess Who/ })).toBeInTheDocument();
     expect(
@@ -54,8 +54,13 @@ describe('home', () => {
     for (const c of CATEGORIES) expect(button(new RegExp(c.label))).toBeInTheDocument();
     expect(button(/Mix/)).toBeInTheDocument();
     expect(button(/Custom word/)).toBeInTheDocument();
-    expect(screen.getByText('Demo content')).toBeInTheDocument();
+    expect(screen.queryByText('Demo content')).not.toBeInTheDocument(); // production bank
     expect(screen.getByText('How to play')).toBeInTheDocument();
+  });
+
+  it('labels a demo bank as demo content', () => {
+    render(<App now={now} rng={seededRng(11)} isDemo />);
+    expect(screen.getByText('Demo content')).toBeInTheDocument();
   });
 });
 
@@ -285,6 +290,28 @@ describe('photos', () => {
       'https://commons.wikimedia.org/wiki/File:Img.jpg',
     );
     click(button('Show name'));
+    expect(screen.queryByRole('img')).not.toBeInTheDocument();
+  });
+
+  it('tapping the card adds the photo, and tapping again removes it', () => {
+    renderApp(bankOf({ sports: [withImage] }));
+    click(button(/Sports/));
+    startAndReveal();
+    expect(screen.getByText('Tap to add photo')).toBeInTheDocument();
+    click(screen.getByTestId('character-card'));
+    expect(screen.getByRole('img', { name: 'Portrait of Image Person' })).toBeInTheDocument();
+    expect(revealedName()).toBe('Image Person');
+    expect(button('Show name')).toHaveAttribute('aria-pressed', 'true');
+    click(screen.getByTestId('character-card'));
+    expect(screen.queryByRole('img')).not.toBeInTheDocument();
+  });
+
+  it('tapping a card without a photo does nothing', () => {
+    renderApp(bankOf({ sports: [char('plain', 'sports')] }));
+    click(button(/Sports/));
+    startAndReveal();
+    expect(screen.queryByText('Tap to add photo')).not.toBeInTheDocument();
+    click(screen.getByTestId('character-card'));
     expect(screen.queryByRole('img')).not.toBeInTheDocument();
   });
 

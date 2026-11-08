@@ -563,6 +563,21 @@ input {
   text-wrap: balance;
 }
 
+.card--tappable {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  user-select: none;
+}
+
+.card-tap-hint {
+  margin: 0;
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  opacity: 0.6;
+}
+
 .card-name:focus {
   outline: none;
 }

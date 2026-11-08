@@ -36,6 +36,7 @@ export const strings = {
   endLabel: 'End game',
   showPhoto: 'Show photo',
   showName: 'Show name',
+  tapForPhoto: 'Tap to add photo',
   photoFailed: 'Photo unavailable',
   photoCredit: 'Photo',
   source: 'Source',
