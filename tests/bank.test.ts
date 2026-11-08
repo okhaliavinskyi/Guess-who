@@ -52,6 +52,16 @@ describe('character bank', () => {
     }
   });
 
+  it.runIf(production)('translates every name into ru and uk (bands may stay in Latin)', () => {
+    for (const c of all) {
+      for (const lang of ['ru', 'uk']) {
+        if (c.localeNames?.[lang]) continue;
+        // Only music acts written in Latin in ru/uk too (Queen, ABBA, 50 Cent) may skip.
+        expect(c.category, `${c.id} has no ${lang} name`).toBe('music');
+      }
+    }
+  });
+
   it.runIf(production)('has Russian and Ukrainian names for most entries', () => {
     for (const lang of ['ru', 'uk']) {
       const share = all.filter((c) => c.localeNames?.[lang]).length / all.length;

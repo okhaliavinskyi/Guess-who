@@ -761,6 +761,10 @@
     "category": "music",
     "displayName": "Snoop Dogg",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Снуп Догг",
+      "uk": "Снуп Доґ"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Snoop_Dogg%2C_WrestleMania_XL_%28cropped%29_%28cropped%29.jpg/500px-Snoop_Dogg%2C_WrestleMania_XL_%28cropped%29_%28cropped%29.jpg",
       "alt": "Photo of Snoop Dogg",
@@ -792,6 +796,10 @@
     "category": "music",
     "displayName": "Jay-Z",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джей-Зи",
+      "uk": "Джей-Зі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jay-Z_meets_with_New_York_Senate_Majority_Leader_in_Albany_%28cropped%29.webp",
       "alt": "Photo of Jay-Z",
@@ -1088,7 +1096,8 @@
     "displayName": "Cardi B",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Карди Би"
+      "ru": "Карди Би",
+      "uk": "Карді Бі"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg/500px-Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg",
@@ -1277,7 +1286,8 @@
     "displayName": "Bad Bunny",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Бэд Банни"
+      "ru": "Бэд Банни",
+      "uk": "Бед Банні"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
@@ -2138,7 +2148,8 @@
     "displayName": "Pink",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Пинк"
+      "ru": "Пинк",
+      "uk": "Пінк"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg/500px-PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg",
@@ -2155,7 +2166,8 @@
     "displayName": "Sia",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Сиа"
+      "ru": "Сиа",
+      "uk": "Сія"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sia_%28cropped_2%29.jpg/500px-Sia_%28cropped_2%29.jpg",
@@ -2262,7 +2274,8 @@
     "displayName": "J Balvin",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Джей Бальвин"
+      "ru": "Джей Бальвин",
+      "uk": "Джей Бальвін"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg/500px-J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg",
@@ -2434,7 +2447,8 @@
     "displayName": "Dr. Dre",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Доктор Дре"
+      "ru": "Доктор Дре",
+      "uk": "Доктор Дре"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dr_Dre_sig.svg/500px-Dr_Dre_sig.svg.png",
@@ -2450,7 +2464,8 @@
     "displayName": "Ice Cube",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Айс Кьюб"
+      "ru": "Айс Кьюб",
+      "uk": "Айс К’юб"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ice_Cube_September_2025.png/500px-Ice_Cube_September_2025.png",
@@ -2511,6 +2526,10 @@
     "category": "music",
     "displayName": "Post Malone",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пост Малон",
+      "uk": "Пост Мелоун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/500px-Post_Malone_July_2021_%28cropped%29.jpg",
       "alt": "Photo of Post Malone",
@@ -2525,6 +2544,10 @@
     "category": "music",
     "displayName": "Doja Cat",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Доджа Кэт",
+      "uk": "Доджа Кет"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Doja_Cat_x_Amazon1.1_%28cropped%29.jpg/500px-Doja_Cat_x_Amazon1.1_%28cropped%29.jpg",
       "alt": "Photo of Doja Cat",
@@ -2612,7 +2635,8 @@
     "displayName": "Avicii",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Авичи"
+      "ru": "Авичи",
+      "uk": "Авічі"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Avicii_2014_003cr.jpg/500px-Avicii_2014_003cr.jpg",
@@ -2865,6 +2889,10 @@
     "category": "music",
     "displayName": "Lil Nas X",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лил Нас Икс",
+      "uk": "Ліл Нас Ікс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lil_Nas_X_Talks_About_Gaining_His_Father%27s_Acceptance%2C_Growing_Up_in_Atlanta%2C_%26_FINDING_HIMSELF_7-32_screenshot_%28headshot%29.jpg/500px-Lil_Nas_X_Talks_About_Gaining_His_Father%27s_Acceptance%2C_Growing_Up_in_Atlanta%2C_%26_FINDING_HIMSELF_7-32_screenshot_%28headshot%29.jpg",
       "alt": "Photo of Lil Nas X",
@@ -2915,6 +2943,10 @@
     "category": "music",
     "displayName": "Pitbull",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Питбуль",
+      "uk": "Пітбуль"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pitbull_%2852703405994%29_%28cropped%29.jpg/500px-Pitbull_%2852703405994%29_%28cropped%29.jpg",
       "alt": "Photo of Pitbull",
