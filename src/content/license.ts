@@ -22,3 +22,9 @@ export function isAllowedLicense(license: string): boolean {
     l === 'godl-india'
   );
 }
+
+/**
+ * License label for copyrighted images Wikipedia uses under fair use (cartoon and
+ * film characters). Opted into by the site owner for this non-commercial game.
+ */
+export const NON_FREE_LICENSE = 'Non-free (fair use)';

@@ -32,8 +32,9 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
 ## Features
 
 - **949 people and characters everyone knows**: only names an ordinary person in any country would recognise, 100–214 per category.
-- **797 photos** from Wikimedia Commons, all freely licensed, each shown with its
-  credit and a link to its source.
+- **Photos for 929 of 949 names.** Real people come from Wikimedia Commons under free
+  licenses. Cartoon and film characters use the copyrighted image from their Wikipedia
+  article, credited to the owner. Every photo shows its credit and a link to its source.
 - **English, Русский, Українська**: interface and names. The language follows the
   browser and can be switched on the home screen.
 - **No repeats in a session.** A name you've already seen won't come up again in any
@@ -79,6 +80,7 @@ preview URLs. To deploy by hand, run `npx vercel deploy --prod`.
 Vite, React 19 and TypeScript, tested with Vitest and Testing Library. The specs are
 in [`docs/`](docs), and the build history is in [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md).
 
-Photos belong to their authors under the licenses shown in the app (public domain,
-CC0, CC BY, CC BY-SA). Names and photos are used only to identify the people and
-characters, and don't imply any endorsement.
+Photos belong to their authors. People's photos are public domain, CC0, CC BY or
+CC BY-SA. Character images are copyrighted by their owners (Disney, Pixar, Warner
+Bros. and others) and are shown only for identification in this personal,
+non-commercial game. Nothing here implies endorsement.
