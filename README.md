@@ -1,163 +1,81 @@
-# Guess Who
+# 🤔 Guess Who
 
-**Live:** https://guesswhogame.vercel.app (Vercel project `guess-who`, production)
+**Play now → [guesswhogame.vercel.app](https://guesswhogame.vercel.app)**
 
-A zero-friction party guessing game for phones and tablets. Each player opens the
-site on their own device, picks a category, taps **Start**, and has **5 seconds** to
-raise the phone to their forehead (screen facing friends). Then a famous person or
-character appears and **stays on screen until someone taps Next** — no guessing
-timer. Ask yes/no questions until you get it.
+A party game for phones. Put your phone on your forehead and ask yes/no questions
+until you guess who you are. No app, no sign-up: everyone just opens the site.
 
-- Static site: Vite + React + TypeScript. No backend, accounts, database, analytics
-  or APIs. The only runtime requests are optional photos, loaded from Wikimedia
-  Commons (`upload.wikimedia.org`) when a player taps the card.
-- Categories: Movies & TV, Music, Fictional Characters, Politics, History, Sports,
-  plus **Mix** (all six) and **Custom word**.
-- **1,439 names** (200+ per category), 1,267 with a freely licensed photo, names in
-  English, Russian and Ukrainian. Built from `content-source/` — see
-  [`src/content/characters/README.md`](src/content/characters/README.md).
-- UI in **English / Русский / Українська** (switcher on the home screen).
-
-Specs: [`docs/PRD.md`](docs/PRD.md), [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
-Build log and acceptance audit: [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md).
+<p>
+  <img src="docs/screenshots/home.jpg" alt="Home screen with six categories and a language switcher" height="380">
+  <img src="docs/screenshots/reveal-name.jpg" alt="A revealed name in landscape" height="185">
+  <img src="docs/screenshots/reveal-photo.jpg" alt="The same card switched to a photo with its credit" height="185">
+</p>
 
 ## How to play
 
-1. Everyone opens the site on their own phone and agrees on a category (devices are not linked).
-2. Tap the category, then **Start**. A 5→1 countdown shows — no name yet.
-3. Put the phone on your forehead, screen out. Friends see the name.
-4. Ask yes/no questions. Take as long as you like.
-5. **Next** (or swipe ←) starts a new countdown with a different name; swipe → goes back
-   to the previous one (also through a countdown). **Menu** / **End** go back home.
-6. Tap the card to switch between the name and a photo.
+1. Pick a category: **Movies & TV, Music, Fictional Characters, Politics, History,
+   Sports**, **Mix** (all of them) or **Custom word** (a friend types one in).
+2. Tap **Start**, then hold the phone **sideways** on your forehead, screen facing
+   your friends. A 5-second countdown gives you time.
+3. Ask yes/no questions. The name stays on screen until someone moves on.
+4. **Swipe ←** (or **Next**) for a new name, **swipe →** to go back to the previous one.
+   **Tap** the card to switch between the name and a photo.
 
-Play is landscape-first: Start enters fullscreen and locks landscape where the
-browser allows it (Android); portrait players see a rotate hint. Names already shown
-are not repeated in the same browser session (in any category, including Mix) until a
-category runs out. If the screen locks while a name is shown, the same name comes back
-only after a new countdown, so whoever unlocks the phone does not see it.
+<p>
+  <img src="docs/screenshots/ready.jpg" alt="Ready screen" width="49%">
+  <img src="docs/screenshots/countdown.jpg" alt="Countdown before the name appears" width="49%">
+</p>
 
-**Custom word:** a friend types any name or word (any script or emoji, up to 80
-characters) and taps Start; it appears only after the same countdown. It is kept in
-memory only — never stored, put in the URL, or sent anywhere.
+## Features
 
-## Local development
+- **1,439 well-known people and characters**, 200+ per category.
+- **1,267 photos** from Wikimedia Commons, all freely licensed, each shown with its
+  credit and a link to its source.
+- **English, Русский, Українська**: interface and names. The language follows the
+  browser and can be switched on the home screen.
+- **No repeats in a session.** A name you've already seen won't come up again in any
+  category, Mix included, until that category runs out.
+- **No peeking.** Every new or previous name appears after a countdown. If the screen
+  locks while a name is shown, unlocking gives you another countdown first.
+- **Built for landscape.** On Android, Start goes fullscreen and locks the screen
+  sideways. The screen stays on during play.
+- Static site with no backend, accounts or tracking. The only network requests are
+  the photos, and only when you tap for one.
 
-Requires Node.js ≥ 20.19 (CI uses 22).
+## Development
+
+Requires Node.js 20.19+.
 
 ```bash
 npm install
-npm run dev          # http://localhost:5173 (use --host to open on a phone on the same Wi-Fi)
+npm run dev        # local dev server
+npm run check      # content validation, lint, types, 154 tests, production build
 ```
 
-| Command                           | What it does                                                  |
-| --------------------------------- | ------------------------------------------------------------- |
-| `npm run content:validate`        | Validate `src/content/characters/*.json` (fails on any error) |
-| `npm run lint`                    | ESLint                                                        |
-| `npm run typecheck`               | TypeScript project check (app, tests, scripts)                |
-| `npm test -- --run`               | Vitest unit + component/integration tests                     |
-| `npm run build`                   | Validate content, typecheck, build static site to `dist/`     |
-| `npm run preview`                 | Serve the production build locally                            |
-| `npm run check`                   | Everything above in sequence                                  |
-| `npm run format` / `format:check` | Prettier                                                      |
+The character bank is generated. Edit the lists in [`content-source/`](content-source),
+then rebuild:
 
-Note: Wake Lock requires a secure context. `localhost` counts; a LAN IP over plain
-HTTP does not, so test wake lock on the HTTPS Vercel deployment.
-
-## Deploy to Vercel
-
-The repo includes `vercel.json` (framework `vite`, `npm ci`, `npm run build`, output
-`dist`, long-cache headers for hashed assets, and a `Permissions-Policy` that allows
-only wake lock and fullscreen). No environment variables or secrets are needed.
-
-1. Push the repository to GitHub.
-2. In Vercel: **Add New… → Project → Import** the repository.
-3. Framework preset **Vite** (auto-detected; settings come from `vercel.json`):
-   build command `npm run build`, output directory `dist`.
-4. Deploy. Every push redeploys; pull requests get preview URLs.
-
-Or from a terminal: `npx vercel` (preview) then `npx vercel --prod`.
-
-The app is a single route, so no SPA rewrite is required. If client-side routes are
-added later, add a rewrite to `/index.html`.
-
-After deploying, verify on **real devices over HTTPS** (desktop emulation is not
-sufficient): iPhone Safari and Android Chrome, portrait + landscape, leave a name on
-screen for several minutes.
-
-## Screen wake lock & fullscreen — limitations
-
-- The app requests the [Screen Wake Lock](https://developer.mozilla.org/docs/Web/API/Screen_Wake_Lock_API)
-  when you tap Start/Next, holds it during the countdown and while a name is shown,
-  re-acquires it when the tab becomes visible again, and releases it on End/Category.
-- It is **best effort**. Browsers may refuse or revoke it (unsupported browser, low-power
-  mode, policy, non-HTTPS). Then a subtle notice says: _"Your device may lock its screen.
-  Increase Auto-Lock time in device settings."_ The app cannot override the power button,
-  OS policy or a dead battery, and uses no hidden-video hacks.
-- Supported broadly in current Chrome/Edge/Android and Safari 16.4+ (iOS 16.4+);
-  older iOS versions and some in-app browsers show the notice.
-- **Fullscreen** is an optional button shown only where the Fullscreen API is enabled.
-  iPhone Safari does not offer it; the game is designed to work in the normal browser
-  viewport (edge-to-edge with safe-area insets). "Add to Home Screen" gives a
-  standalone window via the web manifest but does not bypass auto-lock policy.
-- If the tab is hidden during the countdown, the countdown is cancelled (nothing is
-  revealed or skipped); tap Start again.
-
-## Content bank
-
-- Characters: `src/content/characters/<category>.json`, typed by `src/content/schema.ts`.
-- Validation: `scripts/validate-content.ts` — runs before every build and in CI.
-- Demo/production flag: `src/content/bankStatus.ts`.
-- To populate the production bank, run a separate session using
-  [`CONTENT_BANK_HANDOFF.md`](CONTENT_BANK_HANDOFF.md). No code changes are needed.
-
-### Image rights process
-
-Photos are optional; text always works on its own.
-
-1. Find a candidate on a source with explicit reuse terms (e.g. a Wikimedia Commons
-   **file page**). Do not use Google Images, IMDb, Instagram, fan wikis, or Wikipedia
-   article thumbnails as a license.
-2. Read that page's exact license, attribution requirements and any personality/trademark
-   restrictions. Prefer public domain / CC0 / CC BY / CC BY-SA.
-3. Download into `public/images/<category>/<id>.<ext>` (small, web-optimized).
-4. Fill `image.src`, `alt`, `license`, `sourceUrl`, and `creator`/`attribution` as required.
-5. `npm run content:validate`. The app shows **Show photo** only for entries with complete
-   metadata, lazy-loads the photo on tap, always keeps the name in a banner, displays the
-   credit and a source link, and falls back to the name if the image fails to load.
-
-Copyrighted fictional characters stay text-only unless properly licensed imagery exists.
-No images are fetched or generated at runtime.
-
-## Privacy
-
-No cookies, analytics, trackers, accounts or network calls after load. The only stored
-data is the shuffle order of bank ids in `sessionStorage` (cleared when the tab closes)
-so an accidental reload doesn't immediately repeat names. Custom words are never stored.
-
-## Project layout
-
-```text
-src/
-  app/App.tsx                 screen routing + wiring of state machine, wake lock, countdown
-  components/                 CategoryPicker, ReadyScreen, CustomWordForm, Countdown,
-                              RevealScreen, CharacterCard, WakeLockNotice, FullscreenButton, …
-  content/categories.ts       category config (labels, colours, order)
-  content/schema.ts           Character types + validation rules (shared with the CLI)
-  content/loader.ts           bundles JSON via import.meta.glob, drops invalid entries, pools
-  content/characters/*.json   DEMO FIXTURES
-  game/stateMachine.ts        pure reducer: HOME → READY → COUNTDOWN → REVEALED …
-  game/shuffleBag.ts          Fisher–Yates shuffle bag, no back-to-back repeats
-  game/customWord.ts          trim / 80 code point validation
-  game/sessionBags.ts         optional sessionStorage of bag state (ids only)
-  hooks/                      useCountdown, useScreenWakeLock, useFullscreen, useFitText
-  i18n/strings.ts             UI copy (English; ready for more locales)
-  styles/global.css           mobile-first styles, safe areas, dvh, landscape, reduced motion
-scripts/validate-content.ts   content validator CLI
-tests/                        Vitest + Testing Library
-public/                       manifest, icons, images/ (licensed assets only)
+```bash
+npm run content:images   # look up licensed photos for new names (Wikimedia Commons)
+npm run content:locales  # look up Russian / Ukrainian names (Wikipedia)
+npm run content:build    # regenerate src/content/characters/*.json
 ```
 
-## Product decisions beyond the spec
+Details: [`src/content/characters/README.md`](src/content/characters/README.md).
 
-See "Decisions" in [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md).
+## Deploy
+
+The site is hosted on Vercel (project `guess-who`, settings in [`vercel.json`](vercel.json)):
+
+```bash
+npx vercel deploy --prod
+```
+
+## Tech
+
+Vite, React 19 and TypeScript, tested with Vitest and Testing Library. The specs are
+in [`docs/`](docs), and the build history is in [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md).
+
+Photos belong to their authors under the licenses shown in the app (public domain,
+CC0, CC BY, CC BY-SA). Names and photos are used only to identify the people and
+characters, and don't imply any endorsement.
