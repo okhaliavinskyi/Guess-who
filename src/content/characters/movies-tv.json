@@ -72,24 +72,6 @@
     }
   },
   {
-    "id": "shah-rukh-khan",
-    "category": "movies-tv",
-    "displayName": "Shah Rukh Khan",
-    "popularityTier": "iconic",
-    "localeNames": {
-      "ru": "Шахрух Хан",
-      "uk": "Шахрух Хан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
-      "alt": "Photo of Shah Rukh Khan",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
-      "creator": "Bollywood Hungama",
-      "attribution": "Bollywood Hungama, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "brad-pitt",
     "category": "movies-tv",
     "displayName": "Brad Pitt",
@@ -1589,165 +1571,6 @@
     }
   },
   {
-    "id": "alain-delon",
-    "category": "movies-tv",
-    "displayName": "Alain Delon",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ален Делон",
-      "uk": "Ален Делон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alain_Delon_1961.jpg",
-      "alt": "Photo of Alain Delon",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alain_Delon_1961.jpg",
-      "creator": "Reporters Associati & Archivi\\Mondadori"
-    }
-  },
-  {
-    "id": "catherine-deneuve",
-    "category": "movies-tv",
-    "displayName": "Catherine Deneuve",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Катрин Денёв",
-      "uk": "Катрін Денев"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Catherine_Deneuve_Berlinale_2017.jpg/500px-Catherine_Deneuve_Berlinale_2017.jpg",
-      "alt": "Photo of Catherine Deneuve",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catherine_Deneuve_Berlinale_2017.jpg",
-      "creator": "Martin Kraft",
-      "attribution": "Martin Kraft, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "marion-cotillard",
-    "category": "movies-tv",
-    "displayName": "Marion Cotillard",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Марион Котийяр",
-      "uk": "Маріон Котіяр"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marion_Cotillard-1061.jpg/500px-Marion_Cotillard-1061.jpg",
-      "alt": "Photo of Marion Cotillard",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marion_Cotillard-1061.jpg",
-      "creator": "Harald Krichel",
-      "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "juliette-binoche",
-    "category": "movies-tv",
-    "displayName": "Juliette Binoche",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жюльет Бинош",
-      "uk": "Жульєт Бінош"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Juliette_Binoche_at_Berlinale_2026-2.jpg/500px-Juliette_Binoche_at_Berlinale_2026-2.jpg",
-      "alt": "Photo of Juliette Binoche",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juliette_Binoche_at_Berlinale_2026-2.jpg",
-      "creator": "Elena Ternovaja",
-      "attribution": "Elena Ternovaja, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "audrey-tautou",
-    "category": "movies-tv",
-    "displayName": "Audrey Tautou",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Одри Тоту",
-      "uk": "Одрі Тоту"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Audrey_Tautou_Berlin_2015.jpg/500px-Audrey_Tautou_Berlin_2015.jpg",
-      "alt": "Photo of Audrey Tautou",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Audrey_Tautou_Berlin_2015.jpg",
-      "creator": "Siebbi",
-      "attribution": "Siebbi, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "omar-sy",
-    "category": "movies-tv",
-    "displayName": "Omar Sy",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Омар Си",
-      "uk": "Омар Сі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Omar_Sy_%282020%29.jpg/500px-Omar_Sy_%282020%29.jpg",
-      "alt": "Photo of Omar Sy",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Omar_Sy_(2020).jpg",
-      "creator": "Harald Krichel",
-      "attribution": "Harald Krichel, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "vincent-cassel",
-    "category": "movies-tv",
-    "displayName": "Vincent Cassel",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Венсан Кассель",
-      "uk": "Венсан Кассель"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vincent_Cassel_Cannes_2018.jpg/500px-Vincent_Cassel_Cannes_2018.jpg",
-      "alt": "Photo of Vincent Cassel",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vincent_Cassel_Cannes_2018.jpg",
-      "creator": "Georges Biard",
-      "attribution": "Georges Biard, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "louis-de-funes",
-    "category": "movies-tv",
-    "displayName": "Louis de Funès",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Луи де Фюнес",
-      "uk": "Луї де Фюнес"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Louis_de_Fun%C3%A8s_1970.jpg/500px-Louis_de_Fun%C3%A8s_1970.jpg",
-      "alt": "Photo of Louis de Funès",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_de_Fun%C3%A8s_1970.jpg",
-      "creator": "Marisa Rastellini (Mondadori Publisher)"
-    }
-  },
-  {
-    "id": "jean-paul-belmondo",
-    "category": "movies-tv",
-    "displayName": "Jean-Paul Belmondo",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Жан-Поль Бельмондо",
-      "uk": "Жан-Поль Бельмондо"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Belmondo_1960.jpg/500px-Belmondo_1960.jpg",
-      "alt": "Photo of Jean-Paul Belmondo",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belmondo_1960.jpg",
-      "creator": "Keystone/Hulton Archive"
-    }
-  },
-  {
     "id": "jean-claude-van-damme",
     "category": "movies-tv",
     "displayName": "Jean-Claude Van Damme",
@@ -2000,24 +1823,6 @@
     }
   },
   {
-    "id": "helen-mirren",
-    "category": "movies-tv",
-    "displayName": "Helen Mirren",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Хелен Миррен",
-      "uk": "Гелен Міррен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg/500px-Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg",
-      "alt": "Photo of Helen Mirren",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg",
-      "creator": "Sarran Hamilton",
-      "attribution": "Sarran Hamilton, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "judi-dench",
     "category": "movies-tv",
     "displayName": "Judi Dench",
@@ -2189,24 +1994,6 @@
     }
   },
   {
-    "id": "emma-thompson",
-    "category": "movies-tv",
-    "displayName": "Emma Thompson",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эмма Томпсон",
-      "uk": "Емма Томпсон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Emma_Thompson_at_the_78th_Locarno_Film_Festival_photocall_01_%28cropped%29.jpg/500px-Emma_Thompson_at_the_78th_Locarno_Film_Festival_photocall_01_%28cropped%29.jpg",
-      "alt": "Photo of Emma Thompson",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emma_Thompson_at_the_78th_Locarno_Film_Festival_photocall_01_(cropped).jpg",
-      "creator": "Kalai Ramu",
-      "attribution": "Kalai Ramu, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "kristen-stewart",
     "category": "movies-tv",
     "displayName": "Kristen Stewart",
@@ -2329,24 +2116,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Costner_at_81st_Venice_Film_Festival_(cropped).jpg",
       "creator": "Ariela Ortiz-Barrantes",
       "attribution": "Ariela Ortiz-Barrantes, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "kevin-spacey",
-    "category": "movies-tv",
-    "displayName": "Kevin Spacey",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кевин Спейси",
-      "uk": "Кевін Спейсі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kevin_Spacey-9243.jpg/500px-Kevin_Spacey-9243.jpg",
-      "alt": "Photo of Kevin Spacey",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Spacey-9243.jpg",
-      "creator": "Harald Krichel",
-      "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2493,24 +2262,6 @@
     }
   },
   {
-    "id": "wesley-snipes",
-    "category": "movies-tv",
-    "displayName": "Wesley Snipes",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Уэсли Снайпс",
-      "uk": "Веслі Снайпс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wesley_Snipes_%2841969097750%29_%28cropped%29.jpg/500px-Wesley_Snipes_%2841969097750%29_%28cropped%29.jpg",
-      "alt": "Photo of Wesley Snipes",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wesley_Snipes_(41969097750)_(cropped).jpg",
-      "creator": "Gage Skidmore from Peoria, AZ, United States of America",
-      "attribution": "Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "bruce-willis",
     "category": "movies-tv",
     "displayName": "Bruce Willis",
@@ -2637,24 +2388,6 @@
     }
   },
   {
-    "id": "goldie-hawn",
-    "category": "movies-tv",
-    "displayName": "Goldie Hawn",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Голди Хоун",
-      "uk": "Голді Гоун"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Goldie_Hawn_in_2021.jpg/500px-Goldie_Hawn_in_2021.jpg",
-      "alt": "Photo of Goldie Hawn",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldie_Hawn_in_2021.jpg",
-      "creator": "Peabody Awards",
-      "attribution": "Peabody Awards, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "jane-fonda",
     "category": "movies-tv",
     "displayName": "Jane Fonda",
@@ -2670,24 +2403,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jane_Fonda_gaslit-65.jpg",
       "creator": "Colleen Sturtevant",
       "attribution": "Colleen Sturtevant, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "diane-keaton",
-    "category": "movies-tv",
-    "displayName": "Diane Keaton",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дайан Китон",
-      "uk": "Даян Кітон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/500px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg",
-      "alt": "Photo of Diane Keaton",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diane_Keaton_2012-1_(cropped)_(cropped).jpg",
-      "creator": "es:Ruven Afanador",
-      "attribution": "es:Ruven Afanador, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -2724,42 +2439,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jodie_Foster_Taxi_Driver_Tribeca_Festival_2026-20_(cropped).jpg",
       "creator": "Bryan Berlin",
       "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "glenn-close",
-    "category": "movies-tv",
-    "displayName": "Glenn Close",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Гленн Клоуз",
-      "uk": "Гленн Клоуз"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glenn_Close_TIFF_2025_%28cropped%29.jpg/500px-Glenn_Close_TIFF_2025_%28cropped%29.jpg",
-      "alt": "Photo of Glenn Close",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glenn_Close_TIFF_2025_(cropped).jpg",
-      "creator": "Max Surprenant",
-      "attribution": "Max Surprenant, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "susan-sarandon",
-    "category": "movies-tv",
-    "displayName": "Susan Sarandon",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Сьюзан Сарандон",
-      "uk": "Сьюзен Серендон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg/500px-Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg",
-      "alt": "Photo of Susan Sarandon",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Susan_Sarandon_(cropped).jpg",
-      "creator": "Pedro J Pacheco",
-      "attribution": "Pedro J Pacheco, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2812,23 +2491,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tell_Them_Willie_Boy_Is_Here_%E2%80%93_Robert_Redford_photo.jpg",
       "creator": "NBC Television"
-    }
-  },
-  {
-    "id": "steve-mcqueen",
-    "category": "movies-tv",
-    "displayName": "Steve McQueen",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Стив Маккуин",
-      "uk": "Стів Макквін"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve-McQueen-1968_%28cropped%29.jpg/500px-Steve-McQueen-1968_%28cropped%29.jpg",
-      "alt": "Photo of Steve McQueen",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve-McQueen-1968_(cropped).jpg",
-      "creator": "Unknown authorUnknown author"
     }
   },
   {
@@ -2901,23 +2563,6 @@
     }
   },
   {
-    "id": "greta-garbo",
-    "category": "movies-tv",
-    "displayName": "Greta Garbo",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Грета Гарбо",
-      "uk": "Грета Гарбо"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Garbo_in_Inspiration.jpg",
-      "alt": "Photo of Greta Garbo",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garbo_in_Inspiration.jpg",
-      "creator": "Metro-Goldwyn-Mayer (work for hire)"
-    }
-  },
-  {
     "id": "ingrid-bergman",
     "category": "movies-tv",
     "displayName": "Ingrid Bergman",
@@ -2932,23 +2577,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ingrid_Bergman_by_Whitey_Schafer_1940.jpg",
       "creator": "Whitey Schafer"
-    }
-  },
-  {
-    "id": "marlene-dietrich",
-    "category": "movies-tv",
-    "displayName": "Marlene Dietrich",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Марлен Дитрих",
-      "uk": "Марлен Дітріх"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png/500px-Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png",
-      "alt": "Photo of Marlene Dietrich",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marlene_Dietrich_in_No_Highway_(1951)_(Cropped).png",
-      "creator": "Marlene_Dietrich_in_No_Highway_(1951).jpg: Twentieth Century Fox derivative work: TonyPolar (talk)"
     }
   },
   {
@@ -2969,23 +2597,6 @@
     }
   },
   {
-    "id": "vivien-leigh",
-    "category": "movies-tv",
-    "displayName": "Vivien Leigh",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Вивьен Ли",
-      "uk": "Вів'єн Лі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vivien_Leigh_Scarlet.jpg/500px-Vivien_Leigh_Scarlet.jpg",
-      "alt": "Photo of Vivien Leigh",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vivien_Leigh_Scarlet.jpg",
-      "creator": "Fawcett Publications"
-    }
-  },
-  {
     "id": "judy-garland",
     "category": "movies-tv",
     "displayName": "Judy Garland",
@@ -3003,40 +2614,6 @@
     }
   },
   {
-    "id": "fred-astaire",
-    "category": "movies-tv",
-    "displayName": "Fred Astaire",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Фред Астер",
-      "uk": "Фред Астер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Astaire%2C_Fred_-_Never_Get_Rich.jpg/500px-Astaire%2C_Fred_-_Never_Get_Rich.jpg",
-      "alt": "Photo of Fred Astaire",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astaire,_Fred_-_Never_Get_Rich.jpg",
-      "creator": "Studio publicity still"
-    }
-  },
-  {
-    "id": "gene-kelly",
-    "category": "movies-tv",
-    "displayName": "Gene Kelly",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Джин Келли",
-      "uk": "Джин Келлі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Committee_for_Free_Spain._Portrait_of_M._Woolf_and_Jack_%28possibly_Captain_Jack_White%29_Taken_for_the_Committee._%28Includes_photo_of_film_star_Gene_Kelly%29._Sep_1946_Slide_2_Trim_Edit.png/500px-thumbnail.png",
-      "alt": "Photo of Gene Kelly",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Committee_for_Free_Spain._Portrait_of_M._Woolf_and_Jack_(possibly_Captain_Jack_White)_Taken_for_the_Committee._(Includes_photo_of_film_star_Gene_Kelly)._Sep_1946_Slide_2_Trim_Edit.png",
-      "creator": "Metro-Goldwyn-Mayer"
-    }
-  },
-  {
     "id": "john-wayne",
     "category": "movies-tv",
     "displayName": "John Wayne",
@@ -3051,57 +2628,6 @@
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Wayne_-_still_portrait.jpg",
       "creator": "Unknown photographer"
-    }
-  },
-  {
-    "id": "charlton-heston",
-    "category": "movies-tv",
-    "displayName": "Charlton Heston",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Чарлтон Хестон",
-      "uk": "Чарлтон Гестон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CharltonHestonCivilRightsMarch1963Retouched.jpg/500px-CharltonHestonCivilRightsMarch1963Retouched.jpg",
-      "alt": "Photo of Charlton Heston",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CharltonHestonCivilRightsMarch1963Retouched.jpg",
-      "creator": "Rowland Scherman"
-    }
-  },
-  {
-    "id": "gregory-peck",
-    "category": "movies-tv",
-    "displayName": "Gregory Peck",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Грегори Пек",
-      "uk": "Грегорі Пек"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gregory_Peck_1948.jpg/500px-Gregory_Peck_1948.jpg",
-      "alt": "Photo of Gregory Peck",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gregory_Peck_1948.jpg",
-      "creator": "Studio"
-    }
-  },
-  {
-    "id": "kirk-douglas",
-    "category": "movies-tv",
-    "displayName": "Kirk Douglas",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кирк Дуглас",
-      "uk": "Кірк Дуглас"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Studio_publicity_Kirk_Douglas.jpg",
-      "alt": "Photo of Kirk Douglas",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Studio_publicity_Kirk_Douglas.jpg",
-      "creator": "Unknown authorUnknown author"
     }
   },
   {
@@ -3159,24 +2685,6 @@
     }
   },
   {
-    "id": "chow-yun-fat",
-    "category": "movies-tv",
-    "displayName": "Chow Yun-fat",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Чоу Юньфат",
-      "uk": "Чоу Юньфат"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chow_Yun_Fat_for_wiki.jpg/500px-Chow_Yun_Fat_for_wiki.jpg",
-      "alt": "Photo of Chow Yun-fat",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chow_Yun_Fat_for_wiki.jpg",
-      "creator": "Sliceof",
-      "attribution": "Sliceof, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "michelle-yeoh",
     "category": "movies-tv",
     "displayName": "Michelle Yeoh",
@@ -3195,186 +2703,6 @@
     }
   },
   {
-    "id": "zhang-ziyi",
-    "category": "movies-tv",
-    "displayName": "Zhang Ziyi",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Чжан Цзыи",
-      "uk": "Чжан Цзиї"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Zhang_Ziyi-63357.jpg/500px-Zhang_Ziyi-63357.jpg",
-      "alt": "Photo of Zhang Ziyi",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhang_Ziyi-63357.jpg",
-      "creator": "Harald Krichel",
-      "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "gong-li",
-    "category": "movies-tv",
-    "displayName": "Gong Li",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Гун Ли",
-      "uk": "Ґун Лі"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gong_Li_Cannes_2016.jpg/500px-Gong_Li_Cannes_2016.jpg",
-      "alt": "Photo of Gong Li",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg",
-      "creator": "Georges Biard",
-      "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "aamir-khan",
-    "category": "movies-tv",
-    "displayName": "Aamir Khan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Аамир Хан",
-      "uk": "Аамір Хан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Aamir_Khan_at_the_success_bash_of_Secret_Superstar.jpg",
-      "alt": "Photo of Aamir Khan",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aamir_Khan_at_the_success_bash_of_Secret_Superstar.jpg",
-      "creator": "Bollywood Hungama",
-      "attribution": "Bollywood Hungama, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "salman-khan",
-    "category": "movies-tv",
-    "displayName": "Salman Khan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Салман Хан",
-      "uk": "Салман Кхан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Salman_Khan_in_2023_%28cropped%29.jpg",
-      "alt": "Photo of Salman Khan",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salman_Khan_in_2023_(cropped).jpg",
-      "creator": "Bollywood Hungama",
-      "attribution": "Bollywood Hungama, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "amitabh-bachchan",
-    "category": "movies-tv",
-    "displayName": "Amitabh Bachchan",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Амитабх Баччан",
-      "uk": "Амітаб Баччан"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Indian_actor_Amitabh_Bachchan.jpg/500px-Indian_actor_Amitabh_Bachchan.jpg",
-      "alt": "Photo of Amitabh Bachchan",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_actor_Amitabh_Bachchan.jpg",
-      "creator": "File:Amitabh Bacchan and Shrinivas Kulkarni.jpg: Shrinivaskulkarni1388 derivative work: Junior Jumper",
-      "attribution": "File:Amitabh Bacchan and Shrinivas Kulkarni.jpg: Shrinivaskulkarni1388 derivative work: Junior Jumper, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "priyanka-chopra",
-    "category": "movies-tv",
-    "displayName": "Priyanka Chopra",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Приянка Чопра",
-      "uk": "Пріянка Чопра"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Priyanka_Chopra_at_Bulgary_launch%2C_2024_%28cropped%29.jpg",
-      "alt": "Photo of Priyanka Chopra",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Priyanka_Chopra_at_Bulgary_launch,_2024_(cropped).jpg",
-      "creator": "Bollywood Hungama",
-      "attribution": "Bollywood Hungama, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "aishwarya-rai",
-    "category": "movies-tv",
-    "displayName": "Aishwarya Rai",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Айшвария Рай",
-      "uk": "Айшварія Рай"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aishwarya_Rai_Cannes_2017.jpg/500px-Aishwarya_Rai_Cannes_2017.jpg",
-      "alt": "Photo of Aishwarya Rai",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aishwarya_Rai_Cannes_2017.jpg",
-      "creator": "Georges Biard",
-      "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "deepika-padukone",
-    "category": "movies-tv",
-    "displayName": "Deepika Padukone",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дипика Падуконе",
-      "uk": "Діпіка Падуконе"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Deepika_Padukone_2025_%281%29.png/500px-Deepika_Padukone_2025_%281%29.png",
-      "alt": "Photo of Deepika Padukone",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deepika_Padukone_2025_(1).png",
-      "creator": "Narendra Modi",
-      "attribution": "Narendra Modi, CC BY 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "ken-watanabe",
-    "category": "movies-tv",
-    "displayName": "Ken Watanabe",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кэн Ватанабэ",
-      "uk": "Кен Ватанабе"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ken_Watanabe_20220615.jpg/500px-Ken_Watanabe_20220615.jpg",
-      "alt": "Photo of Ken Watanabe",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ken_Watanabe_20220615.jpg",
-      "creator": "在ロサンゼルス日本国総領事館 Consulate-General of Japan in Los Angeles",
-      "attribution": "在ロサンゼルス日本国総領事館 Consulate-General of Japan in Los Angeles, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "lee-byung-hun",
-    "category": "movies-tv",
-    "displayName": "Lee Byung-hun",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Ли Бёнхон",
-      "uk": "Лі Бьонхон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg/500px-Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg",
-      "alt": "Photo of Lee Byung-hun",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lee_Byung-hun_2025_Toronto_(cropped).jpg",
-      "creator": "Desmond Herzfelder",
-      "attribution": "Desmond Herzfelder, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "rami-malek",
     "category": "movies-tv",
     "displayName": "Rami Malek",
@@ -3390,96 +2718,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rami_Malek_at_the_2026_Cannes_Film_Festival-69448.jpg",
       "creator": "Harald Krichel",
       "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "mads-mikkelsen",
-    "category": "movies-tv",
-    "displayName": "Mads Mikkelsen",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Мадс Миккельсен",
-      "uk": "Мадс Міккельсен"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mads_Mikkelsen_at_82nd_Venice_International_Film_Festival_%28cropped2%29.jpg/500px-Mads_Mikkelsen_at_82nd_Venice_International_Film_Festival_%28cropped2%29.jpg",
-      "alt": "Photo of Mads Mikkelsen",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mads_Mikkelsen_at_82nd_Venice_International_Film_Festival_(cropped2).jpg",
-      "creator": "LucaFazPhoto",
-      "attribution": "LucaFazPhoto, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "alicia-vikander",
-    "category": "movies-tv",
-    "displayName": "Alicia Vikander",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Алисия Викандер",
-      "uk": "Алісія Вікандер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg/500px-Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg",
-      "alt": "Photo of Alicia Vikander",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg",
-      "creator": "Ondine Goat",
-      "attribution": "Ondine Goat, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "christoph-waltz",
-    "category": "movies-tv",
-    "displayName": "Christoph Waltz",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Кристоф Вальц",
-      "uk": "Крістоф Вальц"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
-      "alt": "Photo of Christoph Waltz",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_(cropped).jpg",
-      "creator": "LucaFazPhoto",
-      "attribution": "LucaFazPhoto, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "til-schweiger",
-    "category": "movies-tv",
-    "displayName": "Til Schweiger",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тиль Швайгер",
-      "uk": "Тіль Швайґер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/2022_Til_Schweiger_%28cropped%29.jpg",
-      "alt": "Photo of Til Schweiger",
-      "license": "CC BY-SA 3.0 de",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Til_Schweiger_(cropped).jpg",
-      "creator": "Stefan Brending (2eight)",
-      "attribution": "Stefan Brending (2eight), CC BY-SA 3.0 de, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "jennifer-garner",
-    "category": "movies-tv",
-    "displayName": "Jennifer Garner",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дженнифер Гарнер",
-      "uk": "Дженніфер Гарнер"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jennifer_Garner_-_2024_%2854106107278%29_%28cropped%29.jpg/500px-Jennifer_Garner_-_2024_%2854106107278%29_%28cropped%29.jpg",
-      "alt": "Photo of Jennifer Garner",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jennifer_Garner_-_2024_(54106107278)_(cropped).jpg",
-      "creator": "Gage Skidmore from Surprise, AZ, United States of America",
-      "attribution": "Gage Skidmore from Surprise, AZ, United States of America, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -3733,24 +2971,6 @@
     }
   },
   {
-    "id": "aaron-paul",
-    "category": "movies-tv",
-    "displayName": "Aaron Paul",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Аарон Пол",
-      "uk": "Аарон Пол"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aaron_Paul_-_AMC_The_Grove_-_Ash.jpg/500px-Aaron_Paul_-_AMC_The_Grove_-_Ash.jpg",
-      "alt": "Photo of Aaron Paul",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aaron_Paul_-_AMC_The_Grove_-_Ash.jpg",
-      "creator": "Kevin Paul",
-      "attribution": "Kevin Paul, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "hugh-laurie",
     "category": "movies-tv",
     "displayName": "Hugh Laurie",
@@ -3766,24 +2986,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hugh_Laurie,_from_a_bit_of_Fry_%26_Laurie,_http---en.wikipedia.org-wiki-Hugh_laurie_(9450843901)_(cropped).jpg",
       "creator": "Jeroen Komen from Utrecht, Netherlands",
       "attribution": "Jeroen Komen from Utrecht, Netherlands, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "jennifer-coolidge",
-    "category": "movies-tv",
-    "displayName": "Jennifer Coolidge",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Дженнифер Кулидж",
-      "uk": "Дженніфер Кулідж"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jennifer_Coolidge_-_Cropped.jpg/500px-Jennifer_Coolidge_-_Cropped.jpg",
-      "alt": "Photo of Jennifer Coolidge",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jennifer_Coolidge_-_Cropped.jpg",
-      "creator": "Thibault from Paris, France",
-      "attribution": "Thibault from Paris, France, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -3877,42 +3079,6 @@
     }
   },
   {
-    "id": "viola-davis",
-    "category": "movies-tv",
-    "displayName": "Viola Davis",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Виола Дэвис",
-      "uk": "Віола Девіс"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_Davis_2026_%28cropped%29.jpg/500px-Viola_Davis_2026_%28cropped%29.jpg",
-      "alt": "Photo of Viola Davis",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viola_Davis_2026_(cropped).jpg",
-      "creator": "Maryland GovPics",
-      "attribution": "Maryland GovPics, CC BY 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "lupita-nyongo",
-    "category": "movies-tv",
-    "displayName": "Lupita Nyong'o",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Лупита Нионго",
-      "uk": "Люпіта Ніонго"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LupitaNyongo-byPhilipRomano3.jpg/500px-LupitaNyongo-byPhilipRomano3.jpg",
-      "alt": "Photo of Lupita Nyong'o",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LupitaNyongo-byPhilipRomano3.jpg",
-      "creator": "PhilipRomano",
-      "attribution": "PhilipRomano, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "chadwick-boseman",
     "category": "movies-tv",
     "displayName": "Chadwick Boseman",
@@ -3928,77 +3094,6 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chadwick_Boseman_by_Gage_Skidmore_July_2017_(cropped).jpg",
       "creator": "Gage Skidmore",
       "attribution": "Gage Skidmore, CC BY-SA 2.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "eddie-redmayne",
-    "category": "movies-tv",
-    "displayName": "Eddie Redmayne",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Эдди Редмэйн",
-      "uk": "Едді Редмейн"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eddie_Redmayne_Broadway_2024.jpg/500px-Eddie_Redmayne_Broadway_2024.jpg",
-      "alt": "Photo of Eddie Redmayne",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eddie_Redmayne_Broadway_2024.jpg",
-      "creator": "VeeTee776"
-    }
-  },
-  {
-    "id": "tilda-swinton",
-    "category": "movies-tv",
-    "displayName": "Tilda Swinton",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Тильда Суинтон",
-      "uk": "Тільда Свінтон"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tilda_Swinton_at_Berlinale_2025-2.jpg/500px-Tilda_Swinton_at_Berlinale_2025-2.jpg",
-      "alt": "Photo of Tilda Swinton",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tilda_Swinton_at_Berlinale_2025-2.jpg",
-      "creator": "Elena Ternovaja",
-      "attribution": "Elena Ternovaja, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "florence-pugh",
-    "category": "movies-tv",
-    "displayName": "Florence Pugh",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Флоренс Пью",
-      "uk": "Флоренс П'ю"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Florence_Pugh_2026.jpg/500px-Florence_Pugh_2026.jpg",
-      "alt": "Photo of Florence Pugh",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Pugh_2026.jpg",
-      "creator": "Marlene Landu",
-      "attribution": "Marlene Landu, CC BY-SA 4.0, via Wikimedia Commons"
-    }
-  },
-  {
-    "id": "anya-taylor-joy",
-    "category": "movies-tv",
-    "displayName": "Anya Taylor-Joy",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Аня Тейлор-Джой",
-      "uk": "Аня Тейлор-Джой"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg/500px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg",
-      "alt": "Photo of Anya Taylor-Joy",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_(cropped).jpg",
-      "creator": "Sara Komatsu",
-      "attribution": "Sara Komatsu, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -4164,24 +3259,6 @@
     }
   },
   {
-    "id": "mr-t",
-    "category": "movies-tv",
-    "displayName": "Mr. T",
-    "popularityTier": "widely-known",
-    "localeNames": {
-      "ru": "Мистер Ти",
-      "uk": "Містер Ті"
-    },
-    "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mr_T_by_Gage_Skidmore.jpg/500px-Mr_T_by_Gage_Skidmore.jpg",
-      "alt": "Photo of Mr. T",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mr_T_by_Gage_Skidmore.jpg",
-      "creator": "Gage Skidmore",
-      "attribution": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons"
-    }
-  },
-  {
     "id": "john-cena",
     "category": "movies-tv",
     "displayName": "John Cena",
@@ -4198,5 +3275,125 @@
       "creator": "Gage Skidmore",
       "attribution": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons"
     }
+  },
+  {
+    "id": "liam-neeson",
+    "category": "movies-tv",
+    "displayName": "Liam Neeson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ewan-mcgregor",
+    "category": "movies-tv",
+    "displayName": "Ewan McGregor",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jared-leto",
+    "category": "movies-tv",
+    "displayName": "Jared Leto",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bradley-cooper",
+    "category": "movies-tv",
+    "displayName": "Bradley Cooper",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jake-gyllenhaal",
+    "category": "movies-tv",
+    "displayName": "Jake Gyllenhaal",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andrew-garfield",
+    "category": "movies-tv",
+    "displayName": "Andrew Garfield",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tobey-maguire",
+    "category": "movies-tv",
+    "displayName": "Tobey Maguire",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jamie-foxx",
+    "category": "movies-tv",
+    "displayName": "Jamie Foxx",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kevin-hart",
+    "category": "movies-tv",
+    "displayName": "Kevin Hart",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "steve-martin",
+    "category": "movies-tv",
+    "displayName": "Steve Martin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tom-hardy",
+    "category": "movies-tv",
+    "displayName": "Tom Hardy",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "zac-efron",
+    "category": "movies-tv",
+    "displayName": "Zac Efron",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "channing-tatum",
+    "category": "movies-tv",
+    "displayName": "Channing Tatum",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mark-wahlberg",
+    "category": "movies-tv",
+    "displayName": "Mark Wahlberg",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sean-penn",
+    "category": "movies-tv",
+    "displayName": "Sean Penn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "megan-fox",
+    "category": "movies-tv",
+    "displayName": "Megan Fox",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jessica-alba",
+    "category": "movies-tv",
+    "displayName": "Jessica Alba",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dakota-johnson",
+    "category": "movies-tv",
+    "displayName": "Dakota Johnson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "charlie-sheen",
+    "category": "movies-tv",
+    "displayName": "Charlie Sheen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mrbeast",
+    "category": "movies-tv",
+    "displayName": "MrBeast",
+    "popularityTier": "widely-known"
   }
 ]

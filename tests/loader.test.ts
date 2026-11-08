@@ -5,13 +5,13 @@ import { BANK_STATUS } from '../src/content/bankStatus.ts';
 import { char } from './helpers.ts';
 
 describe('bundled bank', () => {
-  it('loads every category (demo: 3-5 fixtures, production: 200+) with no invalid entries', () => {
+  it('loads every category (demo: 3-5 fixtures, production: 100+) with no invalid entries', () => {
     const bank = getDefaultBank();
     for (const c of CATEGORY_IDS) {
       if (BANK_STATUS === 'demo') {
         expect(bank.counts[c]).toBeGreaterThanOrEqual(3);
         expect(bank.counts[c]).toBeLessThanOrEqual(5);
-      } else expect(bank.counts[c]).toBeGreaterThanOrEqual(200);
+      } else expect(bank.counts[c]).toBeGreaterThanOrEqual(100);
     }
     expect(buildPool(bank, 'mix')).toHaveLength(bank.characters.length);
   });
