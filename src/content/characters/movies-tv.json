@@ -3622,6 +3622,10 @@
     "category": "movies-tv",
     "displayName": "MrBeast",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мистер Бист",
+      "uk": "Містер Біст"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MrBeast_in_2026_%28cropped_4%29.png/500px-MrBeast_in_2026_%28cropped_4%29.png",
       "alt": "Photo of MrBeast",

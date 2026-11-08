@@ -484,6 +484,10 @@
     "category": "fictional",
     "displayName": "Pac-Man",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Пакман",
+      "uk": "Пакмен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pac-Man_ingame_and_2D_alternative_design.png/500px-Pac-Man_ingame_and_2D_alternative_design.png",
       "alt": "Image of Pac-Man",
@@ -729,7 +733,8 @@
     "displayName": "Cookie Monster",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Коржик"
+      "ru": "Коржик",
+      "uk": "Коржик"
     }
   },
   {
@@ -755,7 +760,8 @@
     "displayName": "Elmo",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Элмо"
+      "ru": "Элмо",
+      "uk": "Елмо"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Elmo.jpg/500px-Elmo.jpg",
@@ -857,7 +863,8 @@
     "displayName": "Smurfette",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Смурфетта"
+      "ru": "Смурфетта",
+      "uk": "Смурфетта"
     }
   },
   {
@@ -969,7 +976,8 @@
     "displayName": "Moana",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Моана"
+      "ru": "Моана",
+      "uk": "Ваяна"
     }
   },
   {
@@ -993,7 +1001,11 @@
     "id": "belle",
     "category": "fictional",
     "displayName": "Belle",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Белль",
+      "uk": "Белль"
+    }
   },
   {
     "id": "captain-jack-sparrow",
@@ -1103,7 +1115,11 @@
     "id": "dora-the-explorer",
     "category": "fictional",
     "displayName": "Dora the Explorer",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Даша-путешественница",
+      "uk": "Дора-мандрівниця"
+    }
   },
   {
     "id": "optimus-prime",
@@ -1153,7 +1169,11 @@
     "id": "et",
     "category": "fictional",
     "displayName": "E.T.",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Инопланетянин E.T.",
+      "uk": "Іншопланетянин E.T."
+    }
   },
   {
     "id": "terminator",
@@ -1221,7 +1241,8 @@
     "displayName": "Chucky",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Чаки"
+      "ru": "Чаки",
+      "uk": "Чакі"
     }
   },
   {
@@ -1260,7 +1281,8 @@
     "displayName": "Piglet",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Пятачок"
+      "ru": "Пятачок",
+      "uk": "П’ятачок"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Piglet_EHShepard.jpg/500px-Piglet_EHShepard.jpg",
@@ -1276,7 +1298,8 @@
     "displayName": "Tigger",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Тигра"
+      "ru": "Тигра",
+      "uk": "Тигрик"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pooh_meets_Tigger%2C_illustration_by_EH_Shepard.gif",
@@ -1349,14 +1372,19 @@
     "displayName": "Dory",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Дори"
+      "ru": "Дори",
+      "uk": "Дорі"
     }
   },
   {
     "id": "wall-e",
     "category": "fictional",
     "displayName": "Wall-E",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "ВАЛЛ-И",
+      "uk": "ВОЛЛ-І"
+    }
   },
   {
     "id": "minions",
@@ -1382,7 +1410,8 @@
     "displayName": "Gru",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Грю"
+      "ru": "Грю",
+      "uk": "Грю"
     }
   },
   {
@@ -1429,7 +1458,11 @@
     "id": "olaf",
     "category": "fictional",
     "displayName": "Olaf",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Олаф",
+      "uk": "Олаф"
+    }
   },
   {
     "id": "ursula",
@@ -1477,7 +1510,8 @@
     "displayName": "Jafar",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Джафар"
+      "ru": "Джафар",
+      "uk": "Джафар"
     }
   },
   {
@@ -1553,7 +1587,8 @@
     "displayName": "Fred Flintstone",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Фред Флинтстоун"
+      "ru": "Фред Флинтстоун",
+      "uk": "Фред Флінстоун"
     }
   },
   {
@@ -1592,7 +1627,8 @@
     "displayName": "Wile E. Coyote",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Вайл И. Койот"
+      "ru": "Вайл И. Койот",
+      "uk": "Койот Вайлі"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coyote_solitario_%282359483236%29.jpg/500px-Coyote_solitario_%282359483236%29.jpg",
@@ -1645,6 +1681,10 @@
     "category": "fictional",
     "displayName": "Casper the Friendly Ghost",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Каспер",
+      "uk": "Каспер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cover_of_Casper_the_Friendly_Ghost_no._34_%28July_1955%29.jpg/500px-Cover_of_Casper_the_Friendly_Ghost_no._34_%28July_1955%29.jpg",
       "alt": "Image of Casper the Friendly Ghost",
@@ -1948,7 +1988,11 @@
     "id": "little-prince",
     "category": "fictional",
     "displayName": "Little Prince",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Маленький принц",
+      "uk": "Маленький принц"
+    }
   },
   {
     "id": "shere-khan",
@@ -2007,7 +2051,8 @@
     "displayName": "Wizard of Oz",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Волшебник Оз"
+      "ru": "Волшебник Оз",
+      "uk": "Чарівник країни Оз"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wizard_of_Oz.png/500px-Wizard_of_Oz.png",
@@ -2223,7 +2268,8 @@
     "displayName": "Ace Ventura",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Эйс Вентура"
+      "ru": "Эйс Вентура",
+      "uk": "Ейс Вентура"
     }
   },
   {
@@ -2430,7 +2476,8 @@
     "displayName": "Crash Bandicoot",
     "popularityTier": "widely-known",
     "localeNames": {
-      "ru": "Крэш Бандикут"
+      "ru": "Крэш Бандикут",
+      "uk": "Креш Бандікут"
     }
   },
   {
@@ -2487,7 +2534,11 @@
     "id": "hello-kitty",
     "category": "fictional",
     "displayName": "Hello Kitty",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хелло Китти",
+      "uk": "Хелло Кітті"
+    }
   },
   {
     "id": "paddington-bear",
@@ -2511,13 +2562,21 @@
     "id": "bob-the-builder",
     "category": "fictional",
     "displayName": "Bob the Builder",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Боб-строитель",
+      "uk": "Боб-будівельник"
+    }
   },
   {
     "id": "thomas-the-tank-engine",
     "category": "fictional",
     "displayName": "Thomas the Tank Engine",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Паровозик Томас",
+      "uk": "Паровозик Томас"
+    }
   },
   {
     "id": "masha",
