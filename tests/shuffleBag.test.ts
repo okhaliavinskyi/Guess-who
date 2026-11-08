@@ -78,3 +78,26 @@ describe('drawFromBag', () => {
     expect(new Set(ids).size).toBe(2);
   });
 });
+
+describe('drawFromBag with a session seen-set', () => {
+  it('skips seen ids, including ones already queued in the bag', () => {
+    const bag = { remaining: ['a', 'b', 'c'], lastId: null };
+    const r = drawFromBag(bag, ['a', 'b', 'c'], seededRng(1), new Set(['a']));
+    expect(r.id).toBe('b');
+    expect(r.cycleReset).toBe(false);
+  });
+
+  it('builds a new cycle only from unseen ids', () => {
+    for (let seed = 1; seed < 30; seed += 1) {
+      const r = drawFromBag(EMPTY_BAG, ['a', 'b', 'c', 'd'], seededRng(seed), new Set(['a', 'c']));
+      expect(['b', 'd']).toContain(r.id);
+      expect(r.bag.remaining.every((id) => id === 'b' || id === 'd')).toBe(true);
+    }
+  });
+
+  it('resets when every id of the pool was seen', () => {
+    const r = drawFromBag(EMPTY_BAG, ['a', 'b'], seededRng(2), new Set(['a', 'b']));
+    expect(['a', 'b']).toContain(r.id);
+    expect(r.cycleReset).toBe(true);
+  });
+});

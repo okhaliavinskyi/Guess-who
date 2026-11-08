@@ -15,6 +15,8 @@
  * - Cancelling or backgrounding the countdown never consumes a bag entry.
  * - The revealed item is fixed for the REVEALED phase; rerenders and rotation
  *   cannot change it.
+ * - Session shadow ban: a revealed id is not drawn again from any pool in the same
+ *   session until that pool has shown everything else.
  * - Any event not valid for the current phase returns the identical state object.
  */
 import type { PoolId } from '../content/categories.ts';
@@ -41,6 +43,11 @@ export interface GameState {
   round: number;
   /** Per-pool shuffle bags, kept across category switches for the session. */
   bags: Partial<Record<PoolId, BagState>>;
+  /**
+   * Session "shadow ban": every bank id revealed so far in this session, across all
+   * pools. Drawing skips these until a pool is exhausted (see drawFromBag).
+   */
+  seen: readonly string[];
 }
 
 export type GameEvent =
@@ -63,8 +70,11 @@ export interface MachineDeps {
   rng?: Rng;
 }
 
-export function initialGameState(bags: GameState['bags'] = {}): GameState {
-  return { screen: { phase: 'HOME' }, round: 0, bags };
+export function initialGameState(
+  bags: GameState['bags'] = {},
+  seen: GameState['seen'] = [],
+): GameState {
+  return { screen: { phase: 'HOME' }, round: 0, bags, seen };
 }
 
 const HOME: Screen = { phase: 'HOME' };
@@ -122,12 +132,20 @@ export function createGameReducer({ getPool, rng = Math.random }: MachineDeps) {
           };
         }
         const pool = getPool(selection.pool);
-        const { id, bag } = drawFromBag(state.bags[selection.pool] ?? EMPTY_BAG, pool, rng);
+        const { id, bag, cycleReset } = drawFromBag(
+          state.bags[selection.pool] ?? EMPTY_BAG,
+          pool,
+          rng,
+          new Set(state.seen),
+        );
         if (id === null)
           return { ...state, screen: { phase: 'UNAVAILABLE', pool: selection.pool } };
+        const inPool = new Set(pool);
+        const kept = cycleReset ? state.seen.filter((s) => !inPool.has(s)) : state.seen;
         return {
           ...state,
           bags: { ...state.bags, [selection.pool]: bag },
+          seen: [...kept, id],
           screen: {
             phase: 'REVEALED',
             selection,

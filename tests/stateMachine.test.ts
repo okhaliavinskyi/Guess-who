@@ -138,3 +138,44 @@ describe('game state machine', () => {
     expect(back.bags.music).toBeDefined(); // bag state kept for the session
   });
 });
+
+describe('session shadow ban', () => {
+  const revealedId = (s: GameState) =>
+    s.screen.phase === 'REVEALED' && s.screen.item.kind === 'character' ? s.screen.item.id : null;
+
+  function play(pool: PoolId, rounds: number, from: GameState = initialGameState()) {
+    let s = run([{ type: 'SELECT_POOL', pool }, { type: 'START' }], from);
+    const ids: string[] = [];
+    for (let i = 0; i < rounds; i += 1) {
+      if (i > 0) s = reduce(s, { type: 'NEXT' });
+      s = completeCurrent(s);
+      ids.push(revealedId(s)!);
+    }
+    return { s: reduce(s, { type: 'END' }), ids };
+  }
+
+  it('records every revealed id', () => {
+    const { s, ids } = play('music', 2);
+    expect(s.seen).toEqual(ids);
+  });
+
+  it('names already shown in a category are not offered again in Mix', () => {
+    const music = play('music', 3); // all of music seen
+    const mix = play('mix', 1, music.s);
+    expect(mix.ids).toEqual(['s1']);
+  });
+
+  it('starts a new cycle for a pool once everything in it was seen', () => {
+    const first = play('music', 3);
+    expect(new Set(first.ids).size).toBe(3);
+    const second = play('music', 1, first.s);
+    expect(pools.music).toContain(second.ids[0]);
+    // Only this pool's ids are forgotten; the new draw is recorded.
+    expect(second.s.seen).toEqual([second.ids[0]]);
+  });
+
+  it('a restored seen list (page reload) is respected', () => {
+    const { ids } = play('music', 2, initialGameState({}, ['m1', 'm2']));
+    expect(ids[0]).toBe('m3');
+  });
+});

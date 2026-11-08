@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useReducer, useState } from 'react';
 import { BANK_STATUS } from '../content/bankStatus.ts';
 import { CATEGORY_IDS, CUSTOM_COLOR, getPoolConfig, type PoolId } from '../content/categories.ts';
 import { buildPool, getDefaultBank, localizedName, type CharacterBank } from '../content/loader.ts';
-import { loadBags, saveBags } from '../game/sessionBags.ts';
+import { loadBags, loadSeen, saveBags, saveSeen } from '../game/sessionBags.ts';
 import type { Rng } from '../game/shuffleBag.ts';
 import { createGameReducer, initialGameState, isPlaying } from '../game/stateMachine.ts';
 import { useFullscreen } from '../hooks/useFullscreen.ts';
@@ -50,7 +50,9 @@ export function App({
     [pools],
   );
   const reducer = useMemo(() => createGameReducer({ getPool: (p) => pools[p], rng }), [pools, rng]);
-  const [state, dispatch] = useReducer(reducer, undefined, () => initialGameState(loadBags()));
+  const [state, dispatch] = useReducer(reducer, undefined, () =>
+    initialGameState(loadBags(), loadSeen()),
+  );
   const { screen } = state;
   const playing = isPlaying(screen.phase);
   const wakeLock = useScreenWakeLock(playing);
@@ -58,6 +60,7 @@ export function App({
   const [photoFailedRound, setPhotoFailedRound] = useState<number | null>(null);
 
   useEffect(() => saveBags(state.bags), [state.bags]);
+  useEffect(() => saveSeen(state.seen), [state.seen]);
 
   // Backgrounding during the countdown cancels it: never reveal (or skip) unseen.
   useEffect(() => {
