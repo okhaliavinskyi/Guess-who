@@ -1,5 +1,7 @@
 # Guess Who
 
+**Live:** https://guess-who-jade-mu.vercel.app (Vercel project `guess-who`, production)
+
 A zero-friction party guessing game for phones and tablets. Each player opens the
 site on their own device, picks a category, taps **Start**, and has **5 seconds** to
 raise the phone to their forehead (screen facing friends). Then a famous person or

@@ -142,5 +142,15 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   once the content session adds images.
 - Content is demo-only; production bank is a separate session (`CONTENT_BANK_HANDOFF.md`).
 - Dev-only `npm audit` moderate advisory (see Phase 0).
-- Not deployed: no Vercel credentials in this environment.
 - CI workflow not active yet: copy `docs/ci-workflow.yml` to `.github/workflows/ci.yml`.
+
+## Deployment (2026-11-08)
+
+- Deployed to Vercel production with the Vercel CLI: https://guess-who-jade-mu.vercel.app
+  (project `guess-who`, preset Vite, `npm run build`, output `dist`).
+- Deployment protection set to Standard (`prod_deployment_urls_and_all_previews`): the
+  production domain is public, per-deployment and preview URLs require Vercel login.
+- Verified live in Chromium (390×844): full Music round, Next, no console errors;
+  security headers from `vercel.json` present; manifest and icons served.
+- Git auto-deploy is not connected yet: run `vercel git connect` (or connect the repo in
+  the Vercel dashboard) so every push to the production branch redeploys.
