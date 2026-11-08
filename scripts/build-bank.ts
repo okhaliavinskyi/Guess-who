@@ -8,7 +8,8 @@
  *
  * Existing ids and image metadata are preserved (ids are immutable); new entries get
  * a slug of the display name. Image metadata comes from scripts/fetch-images.ts via
- * content-source/images.json.
+ * content-source/images.json; ru/uk names from scripts/fetch-locale-names.ts via
+ * content-source/locale-names.json, corrected by content-source/locale-overrides.json.
  *
  * Usage: npm run content:build
  */
@@ -58,6 +59,12 @@ type ImageMap = Record<string, ImageMetadata | null>;
 
 function main() {
   const sources = readAllSources();
+  const readJson = <T>(path: string, fallback: T): T =>
+    existsSync(path) ? (JSON.parse(readFileSync(path, 'utf8')) as T) : fallback;
+  // Russian/Ukrainian names: fetched from Wikipedia, then hand-written overrides win.
+  type LocaleMap = Record<string, Record<string, string>>;
+  const fetchedLocales = readJson<LocaleMap>('content-source/locale-names.json', {});
+  const localeOverrides = readJson<LocaleMap>('content-source/locale-overrides.json', {});
   const images: ImageMap = existsSync('content-source/images.json')
     ? (JSON.parse(readFileSync('content-source/images.json', 'utf8')) as ImageMap)
     : {};
@@ -93,6 +100,13 @@ function main() {
       displayName: s.displayName,
       popularityTier: s.iconic ? 'iconic' : 'widely-known',
     };
+    const localeNames = Object.fromEntries(
+      Object.entries({
+        ...fetchedLocales[s.displayName],
+        ...localeOverrides[s.displayName],
+      }).filter(([, name]) => name && name !== s.displayName),
+    );
+    if (Object.keys(localeNames).length > 0) character.localeNames = localeNames;
     const image = images[id];
     if (image) character.image = image;
     byCategory[s.category]!.push(character);
