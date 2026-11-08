@@ -424,7 +424,7 @@
       "uk": "Лорд Волдеморт"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2a/Voldemort_book_and_film.jpg/500px-Voldemort_book_and_film.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Voldemort_book_and_film.jpg/500px-Voldemort_book_and_film.jpg",
       "alt": "Image of Lord Voldemort",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Voldemort_book_and_film.jpg",
@@ -526,7 +526,7 @@
       "uk": "Багз Банні"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/500px-Bugs_Bunny.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/500px-Bugs_Bunny.svg.png",
       "alt": "Image of Bugs Bunny",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Bugs_Bunny.svg",
@@ -628,7 +628,7 @@
       "uk": "Губка Боб Квадратні Штани"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/500px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/500px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png",
       "alt": "Image of SpongeBob SquarePants",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:SpongeBob_SquarePants_logo_by_Nickelodeon.svg",
@@ -1020,7 +1020,7 @@
       "uk": "Гарфілд"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/500px-Garfield_the_Cat.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/500px-Garfield_the_Cat.svg.png",
       "alt": "Image of Garfield",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Garfield_the_Cat.svg",
@@ -1105,7 +1105,7 @@
       "uk": "Тентен"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a5/Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg/500px-Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg/500px-Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_%281929%29.jpg",
       "alt": "Image of Tintin",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Tintin_and_Snowy_from_Tintin_in_the_Land_of_the_Soviets_(1929).jpg",
@@ -1916,7 +1916,7 @@
       "uk": "Стіч"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/500px-Stitch_%28Lilo_%26_Stitch%29.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/500px-Stitch_%28Lilo_%26_Stitch%29.svg.png",
       "alt": "Image of Stitch",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Stitch_(Lilo_%26_Stitch).svg",
@@ -2140,7 +2140,7 @@
       "uk": "Даффі Дак"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/500px-Daffy_Duck.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/500px-Daffy_Duck.svg.png",
       "alt": "Image of Daffy Duck",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Daffy_Duck.svg",
@@ -2157,7 +2157,7 @@
       "uk": "Твіті"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/500px-Tweety.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/500px-Tweety.svg.png",
       "alt": "Image of Tweety",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Tweety.svg",
@@ -2209,7 +2209,7 @@
       "uk": "Тасманійський диявол"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/500px-Taz-Looney_Tunes.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/500px-Taz-Looney_Tunes.svg.png",
       "alt": "Image of Taz",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Taz-Looney_Tunes.svg",
@@ -2226,7 +2226,7 @@
       "uk": "Вуді Вудпекер"
     },
     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e4/Woody_Woodpecker.svg/500px-Woody_Woodpecker.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Woody_Woodpecker.svg/500px-Woody_Woodpecker.svg.png",
       "alt": "Image of Woody Woodpecker",
       "license": "Non-free (fair use)",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Woody_Woodpecker.svg",

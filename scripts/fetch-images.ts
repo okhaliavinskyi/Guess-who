@@ -134,7 +134,9 @@ async function lookupFiles(
       if (nonFree) {
         const owner = stripHtml(meta.Artist?.value ?? '').slice(0, 120) || 'rights holder';
         result.set(file, {
-          src: String(info.thumburl ?? info.url).replace(/\?utm_.*$/, ''),
+          src: String(info.thumburl ?? info.url)
+            .replace(/\?utm_.*$/, '')
+            .replace('https://thumb.wikimedia.org/', 'https://upload.wikimedia.org/'),
           alt: '',
           license: NON_FREE_LICENSE,
           sourceUrl: info.descriptionurl,
