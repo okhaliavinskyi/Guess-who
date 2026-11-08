@@ -22,5 +22,1325 @@
     "category": "politics",
     "displayName": "Mahatma Gandhi",
     "popularityTier": "iconic"
+  },
+  {
+    "id": "george-washington",
+    "category": "politics",
+    "displayName": "George Washington",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "barack-obama",
+    "category": "politics",
+    "displayName": "Barack Obama",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "donald-trump",
+    "category": "politics",
+    "displayName": "Donald Trump",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "joe-biden",
+    "category": "politics",
+    "displayName": "Joe Biden",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "john-f-kennedy",
+    "category": "politics",
+    "displayName": "John F. Kennedy",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "franklin-d-roosevelt",
+    "category": "politics",
+    "displayName": "Franklin D. Roosevelt",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "theodore-roosevelt",
+    "category": "politics",
+    "displayName": "Theodore Roosevelt",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "thomas-jefferson",
+    "category": "politics",
+    "displayName": "Thomas Jefferson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ronald-reagan",
+    "category": "politics",
+    "displayName": "Ronald Reagan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bill-clinton",
+    "category": "politics",
+    "displayName": "Bill Clinton",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "hillary-clinton",
+    "category": "politics",
+    "displayName": "Hillary Clinton",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "george-w-bush",
+    "category": "politics",
+    "displayName": "George W. Bush",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "richard-nixon",
+    "category": "politics",
+    "displayName": "Richard Nixon",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "queen-elizabeth-ii",
+    "category": "politics",
+    "displayName": "Queen Elizabeth II",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "king-charles-iii",
+    "category": "politics",
+    "displayName": "King Charles III",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "princess-diana",
+    "category": "politics",
+    "displayName": "Princess Diana",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "queen-victoria",
+    "category": "politics",
+    "displayName": "Queen Victoria",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "margaret-thatcher",
+    "category": "politics",
+    "displayName": "Margaret Thatcher",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tony-blair",
+    "category": "politics",
+    "displayName": "Tony Blair",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "boris-johnson",
+    "category": "politics",
+    "displayName": "Boris Johnson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "angela-merkel",
+    "category": "politics",
+    "displayName": "Angela Merkel",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "napoleon-bonaparte",
+    "category": "politics",
+    "displayName": "Napoleon Bonaparte",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "charles-de-gaulle",
+    "category": "politics",
+    "displayName": "Charles de Gaulle",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "emmanuel-macron",
+    "category": "politics",
+    "displayName": "Emmanuel Macron",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "vladimir-putin",
+    "category": "politics",
+    "displayName": "Vladimir Putin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "volodymyr-zelenskyy",
+    "category": "politics",
+    "displayName": "Volodymyr Zelenskyy",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mikhail-gorbachev",
+    "category": "politics",
+    "displayName": "Mikhail Gorbachev",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "vladimir-lenin",
+    "category": "politics",
+    "displayName": "Vladimir Lenin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "joseph-stalin",
+    "category": "politics",
+    "displayName": "Joseph Stalin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "fidel-castro",
+    "category": "politics",
+    "displayName": "Fidel Castro",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "che-guevara",
+    "category": "politics",
+    "displayName": "Che Guevara",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mao-zedong",
+    "category": "politics",
+    "displayName": "Mao Zedong",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "xi-jinping",
+    "category": "politics",
+    "displayName": "Xi Jinping",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kim-jong-un",
+    "category": "politics",
+    "displayName": "Kim Jong Un",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "julius-caesar",
+    "category": "politics",
+    "displayName": "Julius Caesar",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "cleopatra",
+    "category": "politics",
+    "displayName": "Cleopatra",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alexander-the-great",
+    "category": "politics",
+    "displayName": "Alexander the Great",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "genghis-khan",
+    "category": "politics",
+    "displayName": "Genghis Khan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "peter-the-great",
+    "category": "politics",
+    "displayName": "Peter the Great",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "catherine-the-great",
+    "category": "politics",
+    "displayName": "Catherine the Great",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "queen-elizabeth-i",
+    "category": "politics",
+    "displayName": "Queen Elizabeth I",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "henry-viii",
+    "category": "politics",
+    "displayName": "Henry VIII",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "louis-xiv",
+    "category": "politics",
+    "displayName": "Louis XIV",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "marie-antoinette",
+    "category": "politics",
+    "displayName": "Marie Antoinette",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "martin-luther-king-jr",
+    "category": "politics",
+    "displayName": "Martin Luther King Jr.",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "benjamin-franklin",
+    "category": "politics",
+    "displayName": "Benjamin Franklin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kamala-harris",
+    "category": "politics",
+    "displayName": "Kamala Harris",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "narendra-modi",
+    "category": "politics",
+    "displayName": "Narendra Modi",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "indira-gandhi",
+    "category": "politics",
+    "displayName": "Indira Gandhi",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jawaharlal-nehru",
+    "category": "politics",
+    "displayName": "Jawaharlal Nehru",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "golda-meir",
+    "category": "politics",
+    "displayName": "Golda Meir",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "benjamin-netanyahu",
+    "category": "politics",
+    "displayName": "Benjamin Netanyahu",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pope-francis",
+    "category": "politics",
+    "displayName": "Pope Francis",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pope-john-paul-ii",
+    "category": "politics",
+    "displayName": "Pope John Paul II",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dalai-lama",
+    "category": "politics",
+    "displayName": "Dalai Lama",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "justin-trudeau",
+    "category": "politics",
+    "displayName": "Justin Trudeau",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "otto-von-bismarck",
+    "category": "politics",
+    "displayName": "Otto von Bismarck",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "simon-bolivar",
+    "category": "politics",
+    "displayName": "Simón Bolívar",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "eva-peron",
+    "category": "politics",
+    "displayName": "Eva Perón",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lula-da-silva",
+    "category": "politics",
+    "displayName": "Lula da Silva",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jacinda-ardern",
+    "category": "politics",
+    "displayName": "Jacinda Ardern",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "recep-tayyip-erdogan",
+    "category": "politics",
+    "displayName": "Recep Tayyip Erdoğan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mustafa-kemal-ataturk",
+    "category": "politics",
+    "displayName": "Mustafa Kemal Atatürk",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kofi-annan",
+    "category": "politics",
+    "displayName": "Kofi Annan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ho-chi-minh",
+    "category": "politics",
+    "displayName": "Ho Chi Minh",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dwight-d-eisenhower",
+    "category": "politics",
+    "displayName": "Dwight D. Eisenhower",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "harry-s-truman",
+    "category": "politics",
+    "displayName": "Harry S. Truman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jimmy-carter",
+    "category": "politics",
+    "displayName": "Jimmy Carter",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-h-w-bush",
+    "category": "politics",
+    "displayName": "George H. W. Bush",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gerald-ford",
+    "category": "politics",
+    "displayName": "Gerald Ford",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "category": "politics",
+    "displayName": "Lyndon B. Johnson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andrew-jackson",
+    "category": "politics",
+    "displayName": "Andrew Jackson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "james-madison",
+    "category": "politics",
+    "displayName": "James Madison",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "john-adams",
+    "category": "politics",
+    "displayName": "John Adams",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-hamilton",
+    "category": "politics",
+    "displayName": "Alexander Hamilton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ulysses-s-grant",
+    "category": "politics",
+    "displayName": "Ulysses S. Grant",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "woodrow-wilson",
+    "category": "politics",
+    "displayName": "Woodrow Wilson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "michelle-obama",
+    "category": "politics",
+    "displayName": "Michelle Obama",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eleanor-roosevelt",
+    "category": "politics",
+    "displayName": "Eleanor Roosevelt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jacqueline-kennedy-onassis",
+    "category": "politics",
+    "displayName": "Jacqueline Kennedy Onassis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robert-f-kennedy",
+    "category": "politics",
+    "displayName": "Robert F. Kennedy",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bernie-sanders",
+    "category": "politics",
+    "displayName": "Bernie Sanders",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nancy-pelosi",
+    "category": "politics",
+    "displayName": "Nancy Pelosi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "al-gore",
+    "category": "politics",
+    "displayName": "Al Gore",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "john-mccain",
+    "category": "politics",
+    "displayName": "John McCain",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "condoleezza-rice",
+    "category": "politics",
+    "displayName": "Condoleezza Rice",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "colin-powell",
+    "category": "politics",
+    "displayName": "Colin Powell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "henry-kissinger",
+    "category": "politics",
+    "displayName": "Henry Kissinger",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "madeleine-albright",
+    "category": "politics",
+    "displayName": "Madeleine Albright",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mike-pence",
+    "category": "politics",
+    "displayName": "Mike Pence",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jd-vance",
+    "category": "politics",
+    "displayName": "JD Vance",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "theresa-may",
+    "category": "politics",
+    "displayName": "Theresa May",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "david-cameron",
+    "category": "politics",
+    "displayName": "David Cameron",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gordon-brown",
+    "category": "politics",
+    "displayName": "Gordon Brown",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rishi-sunak",
+    "category": "politics",
+    "displayName": "Rishi Sunak",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "keir-starmer",
+    "category": "politics",
+    "displayName": "Keir Starmer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "king-george-vi",
+    "category": "politics",
+    "displayName": "King George VI",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "prince-william",
+    "category": "politics",
+    "displayName": "Prince William",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "prince-harry",
+    "category": "politics",
+    "displayName": "Prince Harry",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "meghan-markle",
+    "category": "politics",
+    "displayName": "Meghan Markle",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kate-middleton",
+    "category": "politics",
+    "displayName": "Kate Middleton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "prince-philip",
+    "category": "politics",
+    "displayName": "Prince Philip",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "oliver-cromwell",
+    "category": "politics",
+    "displayName": "Oliver Cromwell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robespierre",
+    "category": "politics",
+    "displayName": "Robespierre",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "francois-mitterrand",
+    "category": "politics",
+    "displayName": "François Mitterrand",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jacques-chirac",
+    "category": "politics",
+    "displayName": "Jacques Chirac",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nicolas-sarkozy",
+    "category": "politics",
+    "displayName": "Nicolas Sarkozy",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marine-le-pen",
+    "category": "politics",
+    "displayName": "Marine Le Pen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "helmut-kohl",
+    "category": "politics",
+    "displayName": "Helmut Kohl",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "willy-brandt",
+    "category": "politics",
+    "displayName": "Willy Brandt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "konrad-adenauer",
+    "category": "politics",
+    "displayName": "Konrad Adenauer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "olaf-scholz",
+    "category": "politics",
+    "displayName": "Olaf Scholz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ursula-von-der-leyen",
+    "category": "politics",
+    "displayName": "Ursula von der Leyen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "silvio-berlusconi",
+    "category": "politics",
+    "displayName": "Silvio Berlusconi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "benito-mussolini",
+    "category": "politics",
+    "displayName": "Benito Mussolini",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "giuseppe-garibaldi",
+    "category": "politics",
+    "displayName": "Giuseppe Garibaldi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mario-draghi",
+    "category": "politics",
+    "displayName": "Mario Draghi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "giorgia-meloni",
+    "category": "politics",
+    "displayName": "Giorgia Meloni",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pedro-sanchez",
+    "category": "politics",
+    "displayName": "Pedro Sánchez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "francisco-franco",
+    "category": "politics",
+    "displayName": "Francisco Franco",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "king-juan-carlos",
+    "category": "politics",
+    "displayName": "King Juan Carlos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mark-rutte",
+    "category": "politics",
+    "displayName": "Mark Rutte",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "emperor-hirohito",
+    "category": "politics",
+    "displayName": "Emperor Hirohito",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shinzo-abe",
+    "category": "politics",
+    "displayName": "Shinzo Abe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "deng-xiaoping",
+    "category": "politics",
+    "displayName": "Deng Xiaoping",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sun-yat-sen",
+    "category": "politics",
+    "displayName": "Sun Yat-sen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chiang-kai-shek",
+    "category": "politics",
+    "displayName": "Chiang Kai-shek",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kim-il-sung",
+    "category": "politics",
+    "displayName": "Kim Il Sung",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lee-kuan-yew",
+    "category": "politics",
+    "displayName": "Lee Kuan Yew",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "aung-san-suu-kyi",
+    "category": "politics",
+    "displayName": "Aung San Suu Kyi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "benazir-bhutto",
+    "category": "politics",
+    "displayName": "Benazir Bhutto",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "imran-khan",
+    "category": "politics",
+    "displayName": "Imran Khan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mahmoud-abbas",
+    "category": "politics",
+    "displayName": "Mahmoud Abbas",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yasser-arafat",
+    "category": "politics",
+    "displayName": "Yasser Arafat",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "anwar-sadat",
+    "category": "politics",
+    "displayName": "Anwar Sadat",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gamal-abdel-nasser",
+    "category": "politics",
+    "displayName": "Gamal Abdel Nasser",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ayatollah-khomeini",
+    "category": "politics",
+    "displayName": "Ayatollah Khomeini",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "king-hussein",
+    "category": "politics",
+    "displayName": "King Hussein",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "haile-selassie",
+    "category": "politics",
+    "displayName": "Haile Selassie",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jomo-kenyatta",
+    "category": "politics",
+    "displayName": "Jomo Kenyatta",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kwame-nkrumah",
+    "category": "politics",
+    "displayName": "Kwame Nkrumah",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "julius-nyerere",
+    "category": "politics",
+    "displayName": "Julius Nyerere",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "desmond-tutu",
+    "category": "politics",
+    "displayName": "Desmond Tutu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ellen-johnson-sirleaf",
+    "category": "politics",
+    "displayName": "Ellen Johnson Sirleaf",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "muammar-gaddafi",
+    "category": "politics",
+    "displayName": "Muammar Gaddafi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "saddam-hussein",
+    "category": "politics",
+    "displayName": "Saddam Hussein",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hugo-chavez",
+    "category": "politics",
+    "displayName": "Hugo Chávez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nicolas-maduro",
+    "category": "politics",
+    "displayName": "Nicolás Maduro",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "salvador-allende",
+    "category": "politics",
+    "displayName": "Salvador Allende",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "augusto-pinochet",
+    "category": "politics",
+    "displayName": "Augusto Pinochet",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "juan-peron",
+    "category": "politics",
+    "displayName": "Juan Perón",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "javier-milei",
+    "category": "politics",
+    "displayName": "Javier Milei",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jair-bolsonaro",
+    "category": "politics",
+    "displayName": "Jair Bolsonaro",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dilma-rousseff",
+    "category": "politics",
+    "displayName": "Dilma Rousseff",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andres-manuel-lopez-obrador",
+    "category": "politics",
+    "displayName": "Andrés Manuel López Obrador",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "emiliano-zapata",
+    "category": "politics",
+    "displayName": "Emiliano Zapata",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pancho-villa",
+    "category": "politics",
+    "displayName": "Pancho Villa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "raul-castro",
+    "category": "politics",
+    "displayName": "Raúl Castro",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nikita-khrushchev",
+    "category": "politics",
+    "displayName": "Nikita Khrushchev",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "leonid-brezhnev",
+    "category": "politics",
+    "displayName": "Leonid Brezhnev",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "boris-yeltsin",
+    "category": "politics",
+    "displayName": "Boris Yeltsin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "leon-trotsky",
+    "category": "politics",
+    "displayName": "Leon Trotsky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tsar-nicholas-ii",
+    "category": "politics",
+    "displayName": "Tsar Nicholas II",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-ii",
+    "category": "politics",
+    "displayName": "Alexander II",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ivan-the-terrible",
+    "category": "politics",
+    "displayName": "Ivan the Terrible",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lech-walesa",
+    "category": "politics",
+    "displayName": "Lech Wałęsa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vaclav-havel",
+    "category": "politics",
+    "displayName": "Václav Havel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "josip-broz-tito",
+    "category": "politics",
+    "displayName": "Josip Broz Tito",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nicolae-ceausescu",
+    "category": "politics",
+    "displayName": "Nicolae Ceaușescu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "viktor-orban",
+    "category": "politics",
+    "displayName": "Viktor Orbán",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-lukashenko",
+    "category": "politics",
+    "displayName": "Alexander Lukashenko",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yulia-tymoshenko",
+    "category": "politics",
+    "displayName": "Yulia Tymoshenko",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bohdan-khmelnytsky",
+    "category": "politics",
+    "displayName": "Bohdan Khmelnytsky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paul-kagame",
+    "category": "politics",
+    "displayName": "Paul Kagame",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "cyril-ramaphosa",
+    "category": "politics",
+    "displayName": "Cyril Ramaphosa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robert-mugabe",
+    "category": "politics",
+    "displayName": "Robert Mugabe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gro-harlem-brundtland",
+    "category": "politics",
+    "displayName": "Gro Harlem Brundtland",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "olof-palme",
+    "category": "politics",
+    "displayName": "Olof Palme",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sanna-marin",
+    "category": "politics",
+    "displayName": "Sanna Marin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jens-stoltenberg",
+    "category": "politics",
+    "displayName": "Jens Stoltenberg",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ban-ki-moon",
+    "category": "politics",
+    "displayName": "Ban Ki-moon",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "antonio-guterres",
+    "category": "politics",
+    "displayName": "António Guterres",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kim-dae-jung",
+    "category": "politics",
+    "displayName": "Kim Dae-jung",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "moon-jae-in",
+    "category": "politics",
+    "displayName": "Moon Jae-in",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ferdinand-marcos",
+    "category": "politics",
+    "displayName": "Ferdinand Marcos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rodrigo-duterte",
+    "category": "politics",
+    "displayName": "Rodrigo Duterte",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sukarno",
+    "category": "politics",
+    "displayName": "Sukarno",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pol-pot",
+    "category": "politics",
+    "displayName": "Pol Pot",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hammurabi",
+    "category": "politics",
+    "displayName": "Hammurabi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ramesses-ii",
+    "category": "politics",
+    "displayName": "Ramesses II",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tutankhamun",
+    "category": "politics",
+    "displayName": "Tutankhamun",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nefertiti",
+    "category": "politics",
+    "displayName": "Nefertiti",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "augustus",
+    "category": "politics",
+    "displayName": "Augustus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nero",
+    "category": "politics",
+    "displayName": "Nero",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "caligula",
+    "category": "politics",
+    "displayName": "Caligula",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "constantine-the-great",
+    "category": "politics",
+    "displayName": "Constantine the Great",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "justinian-i",
+    "category": "politics",
+    "displayName": "Justinian I",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "charlemagne",
+    "category": "politics",
+    "displayName": "Charlemagne",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "attila",
+    "category": "politics",
+    "displayName": "Attila",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hannibal",
+    "category": "politics",
+    "displayName": "Hannibal",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "saladin",
+    "category": "politics",
+    "displayName": "Saladin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "suleiman-the-magnificent",
+    "category": "politics",
+    "displayName": "Suleiman the Magnificent",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "richard-the-lionheart",
+    "category": "politics",
+    "displayName": "Richard the Lionheart",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "william-the-conqueror",
+    "category": "politics",
+    "displayName": "William the Conqueror",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "frederick-the-great",
+    "category": "politics",
+    "displayName": "Frederick the Great",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "maria-theresa",
+    "category": "politics",
+    "displayName": "Maria Theresa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "queen-isabella",
+    "category": "politics",
+    "displayName": "Queen Isabella",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "empress-sisi",
+    "category": "politics",
+    "displayName": "Empress Sisi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "emperor-franz-joseph",
+    "category": "politics",
+    "displayName": "Emperor Franz Joseph",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kaiser-wilhelm-ii",
+    "category": "politics",
+    "displayName": "Kaiser Wilhelm II",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "akbar-the-great",
+    "category": "politics",
+    "displayName": "Akbar the Great",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shah-jahan",
+    "category": "politics",
+    "displayName": "Shah Jahan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "montezuma",
+    "category": "politics",
+    "displayName": "Montezuma",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "atahualpa",
+    "category": "politics",
+    "displayName": "Atahualpa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ashoka",
+    "category": "politics",
+    "displayName": "Ashoka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "qin-shi-huang",
+    "category": "politics",
+    "displayName": "Qin Shi Huang",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kublai-khan",
+    "category": "politics",
+    "displayName": "Kublai Khan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tamerlane",
+    "category": "politics",
+    "displayName": "Tamerlane",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vlad-the-impaler",
+    "category": "politics",
+    "displayName": "Vlad the Impaler",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "malcolm-x",
+    "category": "politics",
+    "displayName": "Malcolm X",
+    "popularityTier": "widely-known"
   }
 ]

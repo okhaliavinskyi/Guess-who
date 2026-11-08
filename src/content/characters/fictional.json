@@ -28,5 +28,1457 @@
     "category": "fictional",
     "displayName": "Spider-Man",
     "popularityTier": "iconic"
+  },
+  {
+    "id": "batman",
+    "category": "fictional",
+    "displayName": "Batman",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "superman",
+    "category": "fictional",
+    "displayName": "Superman",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wonder-woman",
+    "category": "fictional",
+    "displayName": "Wonder Woman",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "iron-man",
+    "category": "fictional",
+    "displayName": "Iron Man",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "captain-america",
+    "category": "fictional",
+    "displayName": "Captain America",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "hulk",
+    "category": "fictional",
+    "displayName": "Hulk",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "thor",
+    "category": "fictional",
+    "displayName": "Thor",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wolverine",
+    "category": "fictional",
+    "displayName": "Wolverine",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "joker",
+    "category": "fictional",
+    "displayName": "Joker",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "darth-vader",
+    "category": "fictional",
+    "displayName": "Darth Vader",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "luke-skywalker",
+    "category": "fictional",
+    "displayName": "Luke Skywalker",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "princess-leia",
+    "category": "fictional",
+    "displayName": "Princess Leia",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "yoda",
+    "category": "fictional",
+    "displayName": "Yoda",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "han-solo",
+    "category": "fictional",
+    "displayName": "Han Solo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "james-bond",
+    "category": "fictional",
+    "displayName": "James Bond",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "indiana-jones",
+    "category": "fictional",
+    "displayName": "Indiana Jones",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "frodo-baggins",
+    "category": "fictional",
+    "displayName": "Frodo Baggins",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "gandalf",
+    "category": "fictional",
+    "displayName": "Gandalf",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "gollum",
+    "category": "fictional",
+    "displayName": "Gollum",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "hermione-granger",
+    "category": "fictional",
+    "displayName": "Hermione Granger",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lord-voldemort",
+    "category": "fictional",
+    "displayName": "Lord Voldemort",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "albus-dumbledore",
+    "category": "fictional",
+    "displayName": "Albus Dumbledore",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ron-weasley",
+    "category": "fictional",
+    "displayName": "Ron Weasley",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "donald-duck",
+    "category": "fictional",
+    "displayName": "Donald Duck",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "goofy",
+    "category": "fictional",
+    "displayName": "Goofy",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "winnie-the-pooh",
+    "category": "fictional",
+    "displayName": "Winnie-the-Pooh",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bugs-bunny",
+    "category": "fictional",
+    "displayName": "Bugs Bunny",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tom-cat",
+    "category": "fictional",
+    "displayName": "Tom Cat",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jerry-mouse",
+    "category": "fictional",
+    "displayName": "Jerry Mouse",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "scooby-doo",
+    "category": "fictional",
+    "displayName": "Scooby-Doo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "homer-simpson",
+    "category": "fictional",
+    "displayName": "Homer Simpson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bart-simpson",
+    "category": "fictional",
+    "displayName": "Bart Simpson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "spongebob-squarepants",
+    "category": "fictional",
+    "displayName": "SpongeBob SquarePants",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "shrek",
+    "category": "fictional",
+    "displayName": "Shrek",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pikachu",
+    "category": "fictional",
+    "displayName": "Pikachu",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "sonic-the-hedgehog",
+    "category": "fictional",
+    "displayName": "Sonic the Hedgehog",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lara-croft",
+    "category": "fictional",
+    "displayName": "Lara Croft",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pac-man",
+    "category": "fictional",
+    "displayName": "Pac-Man",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "cinderella",
+    "category": "fictional",
+    "displayName": "Cinderella",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "snow-white",
+    "category": "fictional",
+    "displayName": "Snow White",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "little-red-riding-hood",
+    "category": "fictional",
+    "displayName": "Little Red Riding Hood",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pinocchio",
+    "category": "fictional",
+    "displayName": "Pinocchio",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "peter-pan",
+    "category": "fictional",
+    "displayName": "Peter Pan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alice",
+    "category": "fictional",
+    "displayName": "Alice",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dracula",
+    "category": "fictional",
+    "displayName": "Dracula",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "frankensteins-monster",
+    "category": "fictional",
+    "displayName": "Frankenstein's monster",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "robin-hood",
+    "category": "fictional",
+    "displayName": "Robin Hood",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tarzan",
+    "category": "fictional",
+    "displayName": "Tarzan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "zorro",
+    "category": "fictional",
+    "displayName": "Zorro",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "santa-claus",
+    "category": "fictional",
+    "displayName": "Santa Claus",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "barbie",
+    "category": "fictional",
+    "displayName": "Barbie",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mr-bean",
+    "category": "fictional",
+    "displayName": "Mr. Bean",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "cookie-monster",
+    "category": "fictional",
+    "displayName": "Cookie Monster",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kermit-the-frog",
+    "category": "fictional",
+    "displayName": "Kermit the Frog",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "elmo",
+    "category": "fictional",
+    "displayName": "Elmo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "garfield",
+    "category": "fictional",
+    "displayName": "Garfield",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "snoopy",
+    "category": "fictional",
+    "displayName": "Snoopy",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "charlie-brown",
+    "category": "fictional",
+    "displayName": "Charlie Brown",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "popeye",
+    "category": "fictional",
+    "displayName": "Popeye",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pink-panther",
+    "category": "fictional",
+    "displayName": "Pink Panther",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tintin",
+    "category": "fictional",
+    "displayName": "Tintin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "asterix",
+    "category": "fictional",
+    "displayName": "Asterix",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "obelix",
+    "category": "fictional",
+    "displayName": "Obelix",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "smurfette",
+    "category": "fictional",
+    "displayName": "Smurfette",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "woody",
+    "category": "fictional",
+    "displayName": "Woody",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "buzz-lightyear",
+    "category": "fictional",
+    "displayName": "Buzz Lightyear",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "simba",
+    "category": "fictional",
+    "displayName": "Simba",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "elsa",
+    "category": "fictional",
+    "displayName": "Elsa",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ariel",
+    "category": "fictional",
+    "displayName": "Ariel",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "aladdin",
+    "category": "fictional",
+    "displayName": "Aladdin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "genie",
+    "category": "fictional",
+    "displayName": "Genie",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mulan",
+    "category": "fictional",
+    "displayName": "Mulan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "moana",
+    "category": "fictional",
+    "displayName": "Moana",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "rapunzel",
+    "category": "fictional",
+    "displayName": "Rapunzel",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "belle",
+    "category": "fictional",
+    "displayName": "Belle",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "captain-jack-sparrow",
+    "category": "fictional",
+    "displayName": "Captain Jack Sparrow",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "captain-hook",
+    "category": "fictional",
+    "displayName": "Captain Hook",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tinker-bell",
+    "category": "fictional",
+    "displayName": "Tinker Bell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mary-poppins",
+    "category": "fictional",
+    "displayName": "Mary Poppins",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "willy-wonka",
+    "category": "fictional",
+    "displayName": "Willy Wonka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "peppa-pig",
+    "category": "fictional",
+    "displayName": "Peppa Pig",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dora-the-explorer",
+    "category": "fictional",
+    "displayName": "Dora the Explorer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "optimus-prime",
+    "category": "fictional",
+    "displayName": "Optimus Prime",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "godzilla",
+    "category": "fictional",
+    "displayName": "Godzilla",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "king-kong",
+    "category": "fictional",
+    "displayName": "King Kong",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "et",
+    "category": "fictional",
+    "displayName": "E.T.",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "terminator",
+    "category": "fictional",
+    "displayName": "Terminator",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robocop",
+    "category": "fictional",
+    "displayName": "RoboCop",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rocky-balboa",
+    "category": "fictional",
+    "displayName": "Rocky Balboa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "forrest-gump",
+    "category": "fictional",
+    "displayName": "Forrest Gump",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hannibal-lecter",
+    "category": "fictional",
+    "displayName": "Hannibal Lecter",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "freddy-krueger",
+    "category": "fictional",
+    "displayName": "Freddy Krueger",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chucky",
+    "category": "fictional",
+    "displayName": "Chucky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ghostface",
+    "category": "fictional",
+    "displayName": "Ghostface",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "michael-myers",
+    "category": "fictional",
+    "displayName": "Michael Myers",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pennywise",
+    "category": "fictional",
+    "displayName": "Pennywise",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edward-scissorhands",
+    "category": "fictional",
+    "displayName": "Edward Scissorhands",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "piglet",
+    "category": "fictional",
+    "displayName": "Piglet",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tigger",
+    "category": "fictional",
+    "displayName": "Tigger",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eeyore",
+    "category": "fictional",
+    "displayName": "Eeyore",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bambi",
+    "category": "fictional",
+    "displayName": "Bambi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dumbo",
+    "category": "fictional",
+    "displayName": "Dumbo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lightning-mcqueen",
+    "category": "fictional",
+    "displayName": "Lightning McQueen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nemo",
+    "category": "fictional",
+    "displayName": "Nemo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dory",
+    "category": "fictional",
+    "displayName": "Dory",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wall-e",
+    "category": "fictional",
+    "displayName": "Wall-E",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "minions",
+    "category": "fictional",
+    "displayName": "Minions",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gru",
+    "category": "fictional",
+    "displayName": "Gru",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "po",
+    "category": "fictional",
+    "displayName": "Po",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "puss-in-boots",
+    "category": "fictional",
+    "displayName": "Puss in Boots",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "donkey",
+    "category": "fictional",
+    "displayName": "Donkey",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "stitch",
+    "category": "fictional",
+    "displayName": "Stitch",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "olaf",
+    "category": "fictional",
+    "displayName": "Olaf",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ursula",
+    "category": "fictional",
+    "displayName": "Ursula",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "maleficent",
+    "category": "fictional",
+    "displayName": "Maleficent",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "cruella-de-vil",
+    "category": "fictional",
+    "displayName": "Cruella de Vil",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "scar",
+    "category": "fictional",
+    "displayName": "Scar",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jafar",
+    "category": "fictional",
+    "displayName": "Jafar",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "captain-haddock",
+    "category": "fictional",
+    "displayName": "Captain Haddock",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lucky-luke",
+    "category": "fictional",
+    "displayName": "Lucky Luke",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "spirou",
+    "category": "fictional",
+    "displayName": "Spirou",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wednesday-addams",
+    "category": "fictional",
+    "displayName": "Wednesday Addams",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gomez-addams",
+    "category": "fictional",
+    "displayName": "Gomez Addams",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "morticia-addams",
+    "category": "fictional",
+    "displayName": "Morticia Addams",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marge-simpson",
+    "category": "fictional",
+    "displayName": "Marge Simpson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lisa-simpson",
+    "category": "fictional",
+    "displayName": "Lisa Simpson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "peter-griffin",
+    "category": "fictional",
+    "displayName": "Peter Griffin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "stewie-griffin",
+    "category": "fictional",
+    "displayName": "Stewie Griffin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eric-cartman",
+    "category": "fictional",
+    "displayName": "Eric Cartman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rick-sanchez",
+    "category": "fictional",
+    "displayName": "Rick Sanchez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "fred-flintstone",
+    "category": "fictional",
+    "displayName": "Fred Flintstone",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-jetson",
+    "category": "fictional",
+    "displayName": "George Jetson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yogi-bear",
+    "category": "fictional",
+    "displayName": "Yogi Bear",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "daffy-duck",
+    "category": "fictional",
+    "displayName": "Daffy Duck",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tweety",
+    "category": "fictional",
+    "displayName": "Tweety",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "road-runner",
+    "category": "fictional",
+    "displayName": "Road Runner",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wile-e-coyote",
+    "category": "fictional",
+    "displayName": "Wile E. Coyote",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "taz",
+    "category": "fictional",
+    "displayName": "Taz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "porky-pig",
+    "category": "fictional",
+    "displayName": "Porky Pig",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "woody-woodpecker",
+    "category": "fictional",
+    "displayName": "Woody Woodpecker",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "felix-the-cat",
+    "category": "fictional",
+    "displayName": "Felix the Cat",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "betty-boop",
+    "category": "fictional",
+    "displayName": "Betty Boop",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "casper-the-friendly-ghost",
+    "category": "fictional",
+    "displayName": "Casper the Friendly Ghost",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "richie-rich",
+    "category": "fictional",
+    "displayName": "Richie Rich",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dennis-the-menace",
+    "category": "fictional",
+    "displayName": "Dennis the Menace",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mowgli",
+    "category": "fictional",
+    "displayName": "Mowgli",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "baloo",
+    "category": "fictional",
+    "displayName": "Baloo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bagheera",
+    "category": "fictional",
+    "displayName": "Bagheera",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dr-watson",
+    "category": "fictional",
+    "displayName": "Dr. Watson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hercule-poirot",
+    "category": "fictional",
+    "displayName": "Hercule Poirot",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "miss-marple",
+    "category": "fictional",
+    "displayName": "Miss Marple",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "don-quixote",
+    "category": "fictional",
+    "displayName": "Don Quixote",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "romeo-montague",
+    "category": "fictional",
+    "displayName": "Romeo Montague",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "juliet-capulet",
+    "category": "fictional",
+    "displayName": "Juliet Capulet",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hamlet",
+    "category": "fictional",
+    "displayName": "Hamlet",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ebenezer-scrooge",
+    "category": "fictional",
+    "displayName": "Ebenezer Scrooge",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "oliver-twist",
+    "category": "fictional",
+    "displayName": "Oliver Twist",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tom-sawyer",
+    "category": "fictional",
+    "displayName": "Tom Sawyer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "huckleberry-finn",
+    "category": "fictional",
+    "displayName": "Huckleberry Finn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robinson-crusoe",
+    "category": "fictional",
+    "displayName": "Robinson Crusoe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gulliver",
+    "category": "fictional",
+    "displayName": "Gulliver",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "captain-nemo",
+    "category": "fictional",
+    "displayName": "Captain Nemo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "phileas-fogg",
+    "category": "fictional",
+    "displayName": "Phileas Fogg",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dartagnan",
+    "category": "fictional",
+    "displayName": "D'Artagnan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "quasimodo",
+    "category": "fictional",
+    "displayName": "Quasimodo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jean-valjean",
+    "category": "fictional",
+    "displayName": "Jean Valjean",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "long-john-silver",
+    "category": "fictional",
+    "displayName": "Long John Silver",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pippi-longstocking",
+    "category": "fictional",
+    "displayName": "Pippi Longstocking",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "little-prince",
+    "category": "fictional",
+    "displayName": "Little Prince",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shere-khan",
+    "category": "fictional",
+    "displayName": "Shere Khan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "cheshire-cat",
+    "category": "fictional",
+    "displayName": "Cheshire Cat",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mad-hatter",
+    "category": "fictional",
+    "displayName": "Mad Hatter",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "white-rabbit",
+    "category": "fictional",
+    "displayName": "White Rabbit",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wizard-of-oz",
+    "category": "fictional",
+    "displayName": "Wizard of Oz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dorothy-gale",
+    "category": "fictional",
+    "displayName": "Dorothy Gale",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tin-man",
+    "category": "fictional",
+    "displayName": "Tin Man",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "katniss-everdeen",
+    "category": "fictional",
+    "displayName": "Katniss Everdeen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bella-swan",
+    "category": "fictional",
+    "displayName": "Bella Swan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edward-cullen",
+    "category": "fictional",
+    "displayName": "Edward Cullen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jon-snow",
+    "category": "fictional",
+    "displayName": "Jon Snow",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "daenerys-targaryen",
+    "category": "fictional",
+    "displayName": "Daenerys Targaryen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tyrion-lannister",
+    "category": "fictional",
+    "displayName": "Tyrion Lannister",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "walter-white",
+    "category": "fictional",
+    "displayName": "Walter White",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dexter-morgan",
+    "category": "fictional",
+    "displayName": "Dexter Morgan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eleven",
+    "category": "fictional",
+    "displayName": "Eleven",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dr-house",
+    "category": "fictional",
+    "displayName": "Dr. House",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sheldon-cooper",
+    "category": "fictional",
+    "displayName": "Sheldon Cooper",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joey-tribbiani",
+    "category": "fictional",
+    "displayName": "Joey Tribbiani",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rachel-green",
+    "category": "fictional",
+    "displayName": "Rachel Green",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mr-spock",
+    "category": "fictional",
+    "displayName": "Mr. Spock",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "captain-kirk",
+    "category": "fictional",
+    "displayName": "Captain Kirk",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "doctor-who",
+    "category": "fictional",
+    "displayName": "Doctor Who",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "neo",
+    "category": "fictional",
+    "displayName": "Neo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rambo",
+    "category": "fictional",
+    "displayName": "Rambo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ellen-ripley",
+    "category": "fictional",
+    "displayName": "Ellen Ripley",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marty-mcfly",
+    "category": "fictional",
+    "displayName": "Marty McFly",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "doc-brown",
+    "category": "fictional",
+    "displayName": "Doc Brown",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ace-ventura",
+    "category": "fictional",
+    "displayName": "Ace Ventura",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "austin-powers",
+    "category": "fictional",
+    "displayName": "Austin Powers",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "deadpool",
+    "category": "fictional",
+    "displayName": "Deadpool",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "black-widow",
+    "category": "fictional",
+    "displayName": "Black Widow",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "black-panther",
+    "category": "fictional",
+    "displayName": "Black Panther",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "captain-marvel",
+    "category": "fictional",
+    "displayName": "Captain Marvel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "doctor-strange",
+    "category": "fictional",
+    "displayName": "Doctor Strange",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "thanos",
+    "category": "fictional",
+    "displayName": "Thanos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "groot",
+    "category": "fictional",
+    "displayName": "Groot",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "loki",
+    "category": "fictional",
+    "displayName": "Loki",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "catwoman",
+    "category": "fictional",
+    "displayName": "Catwoman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "harley-quinn",
+    "category": "fictional",
+    "displayName": "Harley Quinn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "aquaman",
+    "category": "fictional",
+    "displayName": "Aquaman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "the-flash",
+    "category": "fictional",
+    "displayName": "The Flash",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "green-lantern",
+    "category": "fictional",
+    "displayName": "Green Lantern",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lex-luthor",
+    "category": "fictional",
+    "displayName": "Lex Luthor",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "magneto",
+    "category": "fictional",
+    "displayName": "Magneto",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "master-chief",
+    "category": "fictional",
+    "displayName": "Master Chief",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "link",
+    "category": "fictional",
+    "displayName": "Link",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "princess-zelda",
+    "category": "fictional",
+    "displayName": "Princess Zelda",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "luigi",
+    "category": "fictional",
+    "displayName": "Luigi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "princess-peach",
+    "category": "fictional",
+    "displayName": "Princess Peach",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bowser",
+    "category": "fictional",
+    "displayName": "Bowser",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "donkey-kong",
+    "category": "fictional",
+    "displayName": "Donkey Kong",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kirby",
+    "category": "fictional",
+    "displayName": "Kirby",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kratos",
+    "category": "fictional",
+    "displayName": "Kratos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "geralt-of-rivia",
+    "category": "fictional",
+    "displayName": "Geralt of Rivia",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "crash-bandicoot",
+    "category": "fictional",
+    "displayName": "Crash Bandicoot",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "spyro",
+    "category": "fictional",
+    "displayName": "Spyro",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "solid-snake",
+    "category": "fictional",
+    "displayName": "Solid Snake",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ash-ketchum",
+    "category": "fictional",
+    "displayName": "Ash Ketchum",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "naruto-uzumaki",
+    "category": "fictional",
+    "displayName": "Naruto Uzumaki",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "goku",
+    "category": "fictional",
+    "displayName": "Goku",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sailor-moon",
+    "category": "fictional",
+    "displayName": "Sailor Moon",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "totoro",
+    "category": "fictional",
+    "displayName": "Totoro",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "doraemon",
+    "category": "fictional",
+    "displayName": "Doraemon",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hello-kitty",
+    "category": "fictional",
+    "displayName": "Hello Kitty",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paddington-bear",
+    "category": "fictional",
+    "displayName": "Paddington Bear",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "postman-pat",
+    "category": "fictional",
+    "displayName": "Postman Pat",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bob-the-builder",
+    "category": "fictional",
+    "displayName": "Bob the Builder",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "thomas-the-tank-engine",
+    "category": "fictional",
+    "displayName": "Thomas the Tank Engine",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "fireman-sam",
+    "category": "fictional",
+    "displayName": "Fireman Sam",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "masha",
+    "category": "fictional",
+    "displayName": "Masha",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "cheburashka",
+    "category": "fictional",
+    "displayName": "Cheburashka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "baron-munchausen",
+    "category": "fictional",
+    "displayName": "Baron Munchausen",
+    "popularityTier": "widely-known"
   }
 ]

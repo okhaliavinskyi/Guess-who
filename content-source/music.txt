@@ -1,0 +1,234 @@
+# Music — singers, front persons, major artists and composers of popular music.
+# Format: [*]Display Name [@Wikipedia title]   (* = iconic; else widely-known)
+*Michael Jackson
+*Madonna @Madonna
+*Elvis Presley
+*Beyoncé
+*Freddie Mercury
+*John Lennon
+*Paul McCartney
+*Bob Marley
+*Bob Dylan
+*Elton John
+*David Bowie
+*Mick Jagger
+*Taylor Swift
+*Lady Gaga
+*Rihanna
+*Whitney Houston
+*Celine Dion
+*Frank Sinatra
+*Louis Armstrong
+*Ray Charles
+*Stevie Wonder
+*Prince @Prince (musician)
+*Tina Turner
+*Aretha Franklin
+*Britney Spears
+*Justin Bieber
+*Adele
+*Ed Sheeran
+*Shakira
+*Eminem
+*Kurt Cobain
+*Jimi Hendrix
+*Johnny Cash
+*Dolly Parton
+*Cher
+*ABBA
+*The Beatles
+*Queen @Queen (band)
+*The Rolling Stones
+*Ozzy Osbourne
+*Bruno Mars
+*Billie Eilish
+*Ariana Grande
+*Katy Perry
+*Snoop Dogg
+*Kanye West
+*Jay-Z
+*Tupac Shakur
+*Mariah Carey
+*Sting @Sting (musician)
+*Bono
+*Ringo Starr
+*George Michael
+*Amy Winehouse
+*Lana Del Rey
+*Dua Lipa
+*The Weeknd
+*Drake @Drake (musician)
+*Pharrell Williams
+*Christina Aguilera
+*Jennifer Hudson
+*Alicia Keys
+*Nicki Minaj
+*Cardi B
+*Harry Styles
+*Ricky Martin
+*Enrique Iglesias
+*Julio Iglesias
+*Luciano Pavarotti
+*Andrea Bocelli
+*Édith Piaf
+*Charles Aznavour
+*Stromae
+*PSY @Psy
+*BTS
+*BLACKPINK
+*Bad Bunny
+*Elvis Costello
+*Robbie Williams
+*Tom Jones @Tom Jones (singer)
+Rod Stewart
+Phil Collins
+Lionel Richie
+Diana Ross
+Janet Jackson
+Barbra Streisand
+Liza Minnelli
+Chuck Berry
+Little Richard
+Jerry Lee Lewis
+Buddy Holly
+James Brown
+Marvin Gaye
+Nina Simone
+Ella Fitzgerald
+Billie Holiday
+Miles Davis
+Bruce Springsteen
+Billy Joel
+Paul Simon
+Art Garfunkel
+Eric Clapton
+Jimmy Page
+Robert Plant
+Led Zeppelin
+Pink Floyd
+AC/DC
+Metallica
+Nirvana @Nirvana (band)
+Guns N' Roses
+Axl Rose
+Slash @Slash (musician)
+Kiss @Kiss (band)
+Gene Simmons
+Alice Cooper
+Iron Maiden
+Rammstein
+Scorpions @Scorpions (band)
+U2
+Coldplay
+Chris Martin
+Linkin Park
+Red Hot Chili Peppers
+Green Day
+Oasis @Oasis (band)
+Radiohead
+Depeche Mode
+Duran Duran
+The Police
+Dire Straits
+Mark Knopfler
+Bee Gees
+Boney M.
+Modern Talking
+Roxette
+a-ha
+Spice Girls
+Backstreet Boys
+Destiny's Child
+One Direction
+Imagine Dragons
+Maroon 5
+Adam Levine
+Gwen Stefani
+Avril Lavigne
+Pink @Pink (singer)
+Sia @Sia (musician)
+Kylie Minogue
+Shania Twain
+Jennifer Lopez
+Selena Quintanilla @Selena
+Gloria Estefan
+Marc Anthony
+Daddy Yankee
+Luis Fonsi
+J Balvin
+Karol G
+Rosalía
+Anitta @Anitta (singer)
+Juanes
+Carlos Santana
+Mylène Farmer
+Zaz @Zaz (singer)
+Björk
+Enya
+Sinéad O'Connor
+Dolores O'Riordan
+Bryan Adams
+Shawn Mendes
+Justin Timberlake
+Usher @Usher (musician)
+Chris Brown
+50 Cent
+Dr. Dre
+Ice Cube
+Notorious B.I.G. @The Notorious B.I.G.
+Kendrick Lamar
+Travis Scott
+Post Malone
+Doja Cat
+SZA
+Olivia Rodrigo
+Sabrina Carpenter
+Miley Cyrus
+Demi Lovato
+Avicii
+David Guetta
+Calvin Harris
+Daft Punk
+Armin van Buuren
+Tiësto
+Marshmello
+Skrillex
+Moby
+Hans Zimmer
+John Williams
+Ennio Morricone
+Andrew Lloyd Webber
+Yanni
+Kenny G
+Lenny Kravitz
+Jon Bon Jovi
+Steven Tyler
+Aerosmith
+Bon Scott
+Lemmy @Lemmy
+Joe Cocker
+Leonard Cohen
+Neil Young
+Joni Mitchell
+Janis Joplin
+Jim Morrison
+Roy Orbison
+Dean Martin
+Nat King Cole
+Bing Crosby
+Sammy Davis Jr.
+Megan Thee Stallion
+Lil Nas X
+Lizzo
+Halsey @Halsey (singer)
+Charli XCX
+Lorde
+Florence Welch
+Måneskin
+Eurythmics
+Annie Lennox
+Bonnie Tyler
+Toto Cutugno
+Adriano Celentano
+Eros Ramazzotti
+Laura Pausini

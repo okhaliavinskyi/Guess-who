@@ -28,5 +28,1487 @@
     "category": "sports",
     "displayName": "Cristiano Ronaldo",
     "popularityTier": "iconic"
+  },
+  {
+    "id": "pele",
+    "category": "sports",
+    "displayName": "Pelé",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "diego-maradona",
+    "category": "sports",
+    "displayName": "Diego Maradona",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "muhammad-ali",
+    "category": "sports",
+    "displayName": "Muhammad Ali",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mike-tyson",
+    "category": "sports",
+    "displayName": "Mike Tyson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "roger-federer",
+    "category": "sports",
+    "displayName": "Roger Federer",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "rafael-nadal",
+    "category": "sports",
+    "displayName": "Rafael Nadal",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "novak-djokovic",
+    "category": "sports",
+    "displayName": "Novak Djokovic",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tiger-woods",
+    "category": "sports",
+    "displayName": "Tiger Woods",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "michael-phelps",
+    "category": "sports",
+    "displayName": "Michael Phelps",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lebron-james",
+    "category": "sports",
+    "displayName": "LeBron James",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kobe-bryant",
+    "category": "sports",
+    "displayName": "Kobe Bryant",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "michael-schumacher",
+    "category": "sports",
+    "displayName": "Michael Schumacher",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lewis-hamilton",
+    "category": "sports",
+    "displayName": "Lewis Hamilton",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ayrton-senna",
+    "category": "sports",
+    "displayName": "Ayrton Senna",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "david-beckham",
+    "category": "sports",
+    "displayName": "David Beckham",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "zinedine-zidane",
+    "category": "sports",
+    "displayName": "Zinedine Zidane",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ronaldinho",
+    "category": "sports",
+    "displayName": "Ronaldinho",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ronaldo-nazario",
+    "category": "sports",
+    "displayName": "Ronaldo Nazário",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kylian-mbappe",
+    "category": "sports",
+    "displayName": "Kylian Mbappé",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "neymar",
+    "category": "sports",
+    "displayName": "Neymar",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "erling-haaland",
+    "category": "sports",
+    "displayName": "Erling Haaland",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "zlatan-ibrahimovic",
+    "category": "sports",
+    "displayName": "Zlatan Ibrahimović",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wayne-rooney",
+    "category": "sports",
+    "displayName": "Wayne Rooney",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "johan-cruyff",
+    "category": "sports",
+    "displayName": "Johan Cruyff",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "franz-beckenbauer",
+    "category": "sports",
+    "displayName": "Franz Beckenbauer",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "andriy-shevchenko",
+    "category": "sports",
+    "displayName": "Andriy Shevchenko",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mohamed-salah",
+    "category": "sports",
+    "displayName": "Mohamed Salah",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "robert-lewandowski",
+    "category": "sports",
+    "displayName": "Robert Lewandowski",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "simone-biles",
+    "category": "sports",
+    "displayName": "Simone Biles",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "nadia-comaneci",
+    "category": "sports",
+    "displayName": "Nadia Comăneci",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wayne-gretzky",
+    "category": "sports",
+    "displayName": "Wayne Gretzky",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "shaquille-oneal",
+    "category": "sports",
+    "displayName": "Shaquille O'Neal",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "stephen-curry",
+    "category": "sports",
+    "displayName": "Stephen Curry",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "magic-johnson",
+    "category": "sports",
+    "displayName": "Magic Johnson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "babe-ruth",
+    "category": "sports",
+    "displayName": "Babe Ruth",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tom-brady",
+    "category": "sports",
+    "displayName": "Tom Brady",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "maria-sharapova",
+    "category": "sports",
+    "displayName": "Maria Sharapova",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "venus-williams",
+    "category": "sports",
+    "displayName": "Venus Williams",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "steffi-graf",
+    "category": "sports",
+    "displayName": "Steffi Graf",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "andre-agassi",
+    "category": "sports",
+    "displayName": "Andre Agassi",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pete-sampras",
+    "category": "sports",
+    "displayName": "Pete Sampras",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bjorn-borg",
+    "category": "sports",
+    "displayName": "Björn Borg",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "martina-navratilova",
+    "category": "sports",
+    "displayName": "Martina Navratilova",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "carl-lewis",
+    "category": "sports",
+    "displayName": "Carl Lewis",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jesse-owens",
+    "category": "sports",
+    "displayName": "Jesse Owens",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "sergey-bubka",
+    "category": "sports",
+    "displayName": "Sergey Bubka",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "yelena-isinbayeva",
+    "category": "sports",
+    "displayName": "Yelena Isinbayeva",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "garry-kasparov",
+    "category": "sports",
+    "displayName": "Garry Kasparov",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "magnus-carlsen",
+    "category": "sports",
+    "displayName": "Magnus Carlsen",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bobby-fischer",
+    "category": "sports",
+    "displayName": "Bobby Fischer",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "vitali-klitschko",
+    "category": "sports",
+    "displayName": "Vitali Klitschko",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wladimir-klitschko",
+    "category": "sports",
+    "displayName": "Wladimir Klitschko",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "oleksandr-usyk",
+    "category": "sports",
+    "displayName": "Oleksandr Usyk",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "manny-pacquiao",
+    "category": "sports",
+    "displayName": "Manny Pacquiao",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "floyd-mayweather-jr",
+    "category": "sports",
+    "displayName": "Floyd Mayweather Jr.",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "conor-mcgregor",
+    "category": "sports",
+    "displayName": "Conor McGregor",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "khabib-nurmagomedov",
+    "category": "sports",
+    "displayName": "Khabib Nurmagomedov",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "max-verstappen",
+    "category": "sports",
+    "displayName": "Max Verstappen",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "valentino-rossi",
+    "category": "sports",
+    "displayName": "Valentino Rossi",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lance-armstrong",
+    "category": "sports",
+    "displayName": "Lance Armstrong",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tony-hawk",
+    "category": "sports",
+    "displayName": "Tony Hawk",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "shaun-white",
+    "category": "sports",
+    "displayName": "Shaun White",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mark-spitz",
+    "category": "sports",
+    "displayName": "Mark Spitz",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "eliud-kipchoge",
+    "category": "sports",
+    "displayName": "Eliud Kipchoge",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "haile-gebrselassie",
+    "category": "sports",
+    "displayName": "Haile Gebrselassie",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mo-farah",
+    "category": "sports",
+    "displayName": "Mo Farah",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "florence-griffith-joyner",
+    "category": "sports",
+    "displayName": "Florence Griffith Joyner",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "allyson-felix",
+    "category": "sports",
+    "displayName": "Allyson Felix",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shelly-ann-fraser-pryce",
+    "category": "sports",
+    "displayName": "Shelly-Ann Fraser-Pryce",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mondo-duplantis",
+    "category": "sports",
+    "displayName": "Mondo Duplantis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jackie-joyner-kersee",
+    "category": "sports",
+    "displayName": "Jackie Joyner-Kersee",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edwin-moses",
+    "category": "sports",
+    "displayName": "Edwin Moses",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "michael-johnson",
+    "category": "sports",
+    "displayName": "Michael Johnson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "daley-thompson",
+    "category": "sports",
+    "displayName": "Daley Thompson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sebastian-coe",
+    "category": "sports",
+    "displayName": "Sebastian Coe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paavo-nurmi",
+    "category": "sports",
+    "displayName": "Paavo Nurmi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "emil-zatopek",
+    "category": "sports",
+    "displayName": "Emil Zátopek",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "abebe-bikila",
+    "category": "sports",
+    "displayName": "Abebe Bikila",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "katarina-witt",
+    "category": "sports",
+    "displayName": "Katarina Witt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yuzuru-hanyu",
+    "category": "sports",
+    "displayName": "Yuzuru Hanyu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "evgeni-plushenko",
+    "category": "sports",
+    "displayName": "Evgeni Plushenko",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alina-zagitova",
+    "category": "sports",
+    "displayName": "Alina Zagitova",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "irina-rodnina",
+    "category": "sports",
+    "displayName": "Irina Rodnina",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ole-einar-bjorndalen",
+    "category": "sports",
+    "displayName": "Ole Einar Bjørndalen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marit-bjorgen",
+    "category": "sports",
+    "displayName": "Marit Bjørgen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lindsey-vonn",
+    "category": "sports",
+    "displayName": "Lindsey Vonn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mikaela-shiffrin",
+    "category": "sports",
+    "displayName": "Mikaela Shiffrin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alberto-tomba",
+    "category": "sports",
+    "displayName": "Alberto Tomba",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ingemar-stenmark",
+    "category": "sports",
+    "displayName": "Ingemar Stenmark",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hermann-maier",
+    "category": "sports",
+    "displayName": "Hermann Maier",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marcel-hirscher",
+    "category": "sports",
+    "displayName": "Marcel Hirscher",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ian-thorpe",
+    "category": "sports",
+    "displayName": "Ian Thorpe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "katie-ledecky",
+    "category": "sports",
+    "displayName": "Katie Ledecky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "larisa-latynina",
+    "category": "sports",
+    "displayName": "Larisa Latynina",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "olga-korbut",
+    "category": "sports",
+    "displayName": "Olga Korbut",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-popov",
+    "category": "sports",
+    "displayName": "Alexander Popov",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-karelin",
+    "category": "sports",
+    "displayName": "Alexander Karelin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hulk-hogan",
+    "category": "sports",
+    "displayName": "Hulk Hogan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "the-undertaker",
+    "category": "sports",
+    "displayName": "The Undertaker",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "roman-reigns",
+    "category": "sports",
+    "displayName": "Roman Reigns",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andre-the-giant",
+    "category": "sports",
+    "displayName": "André the Giant",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ronda-rousey",
+    "category": "sports",
+    "displayName": "Ronda Rousey",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jon-jones",
+    "category": "sports",
+    "displayName": "Jon Jones",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "georges-st-pierre",
+    "category": "sports",
+    "displayName": "Georges St-Pierre",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lennox-lewis",
+    "category": "sports",
+    "displayName": "Lennox Lewis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "evander-holyfield",
+    "category": "sports",
+    "displayName": "Evander Holyfield",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-foreman",
+    "category": "sports",
+    "displayName": "George Foreman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joe-frazier",
+    "category": "sports",
+    "displayName": "Joe Frazier",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sugar-ray-leonard",
+    "category": "sports",
+    "displayName": "Sugar Ray Leonard",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rocky-marciano",
+    "category": "sports",
+    "displayName": "Rocky Marciano",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "canelo-alvarez",
+    "category": "sports",
+    "displayName": "Canelo Álvarez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tyson-fury",
+    "category": "sports",
+    "displayName": "Tyson Fury",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "anthony-joshua",
+    "category": "sports",
+    "displayName": "Anthony Joshua",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vasyl-lomachenko",
+    "category": "sports",
+    "displayName": "Vasyl Lomachenko",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "naomi-osaka",
+    "category": "sports",
+    "displayName": "Naomi Osaka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "iga-swiatek",
+    "category": "sports",
+    "displayName": "Iga Świątek",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "aryna-sabalenka",
+    "category": "sports",
+    "displayName": "Aryna Sabalenka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "carlos-alcaraz",
+    "category": "sports",
+    "displayName": "Carlos Alcaraz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jannik-sinner",
+    "category": "sports",
+    "displayName": "Jannik Sinner",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andy-murray",
+    "category": "sports",
+    "displayName": "Andy Murray",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "boris-becker",
+    "category": "sports",
+    "displayName": "Boris Becker",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "john-mcenroe",
+    "category": "sports",
+    "displayName": "John McEnroe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "billie-jean-king",
+    "category": "sports",
+    "displayName": "Billie Jean King",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chris-evert",
+    "category": "sports",
+    "displayName": "Chris Evert",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "monica-seles",
+    "category": "sports",
+    "displayName": "Monica Seles",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kim-clijsters",
+    "category": "sports",
+    "displayName": "Kim Clijsters",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "li-na",
+    "category": "sports",
+    "displayName": "Li Na",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "elina-svitolina",
+    "category": "sports",
+    "displayName": "Elina Svitolina",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jack-nicklaus",
+    "category": "sports",
+    "displayName": "Jack Nicklaus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "arnold-palmer",
+    "category": "sports",
+    "displayName": "Arnold Palmer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rory-mcilroy",
+    "category": "sports",
+    "displayName": "Rory McIlroy",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "scottie-scheffler",
+    "category": "sports",
+    "displayName": "Scottie Scheffler",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "annika-sorenstam",
+    "category": "sports",
+    "displayName": "Annika Sörenstam",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "niki-lauda",
+    "category": "sports",
+    "displayName": "Niki Lauda",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alain-prost",
+    "category": "sports",
+    "displayName": "Alain Prost",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "fernando-alonso",
+    "category": "sports",
+    "displayName": "Fernando Alonso",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sebastian-vettel",
+    "category": "sports",
+    "displayName": "Sebastian Vettel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kimi-raikkonen",
+    "category": "sports",
+    "displayName": "Kimi Räikkönen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "juan-manuel-fangio",
+    "category": "sports",
+    "displayName": "Juan Manuel Fangio",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "charles-leclerc",
+    "category": "sports",
+    "displayName": "Charles Leclerc",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lando-norris",
+    "category": "sports",
+    "displayName": "Lando Norris",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marc-marquez",
+    "category": "sports",
+    "displayName": "Marc Márquez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eddy-merckx",
+    "category": "sports",
+    "displayName": "Eddy Merckx",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "miguel-indurain",
+    "category": "sports",
+    "displayName": "Miguel Induráin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tadej-pogacar",
+    "category": "sports",
+    "displayName": "Tadej Pogačar",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chris-froome",
+    "category": "sports",
+    "displayName": "Chris Froome",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sachin-tendulkar",
+    "category": "sports",
+    "displayName": "Sachin Tendulkar",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "virat-kohli",
+    "category": "sports",
+    "displayName": "Virat Kohli",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ms-dhoni",
+    "category": "sports",
+    "displayName": "MS Dhoni",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "don-bradman",
+    "category": "sports",
+    "displayName": "Don Bradman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shane-warne",
+    "category": "sports",
+    "displayName": "Shane Warne",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "brian-lara",
+    "category": "sports",
+    "displayName": "Brian Lara",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jonah-lomu",
+    "category": "sports",
+    "displayName": "Jonah Lomu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "richie-mccaw",
+    "category": "sports",
+    "displayName": "Richie McCaw",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jonny-wilkinson",
+    "category": "sports",
+    "displayName": "Jonny Wilkinson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dan-carter",
+    "category": "sports",
+    "displayName": "Dan Carter",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kareem-abdul-jabbar",
+    "category": "sports",
+    "displayName": "Kareem Abdul-Jabbar",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "larry-bird",
+    "category": "sports",
+    "displayName": "Larry Bird",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wilt-chamberlain",
+    "category": "sports",
+    "displayName": "Wilt Chamberlain",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bill-russell",
+    "category": "sports",
+    "displayName": "Bill Russell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dennis-rodman",
+    "category": "sports",
+    "displayName": "Dennis Rodman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "scottie-pippen",
+    "category": "sports",
+    "displayName": "Scottie Pippen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kevin-durant",
+    "category": "sports",
+    "displayName": "Kevin Durant",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "giannis-antetokounmpo",
+    "category": "sports",
+    "displayName": "Giannis Antetokounmpo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nikola-jokic",
+    "category": "sports",
+    "displayName": "Nikola Jokić",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "luka-doncic",
+    "category": "sports",
+    "displayName": "Luka Dončić",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dirk-nowitzki",
+    "category": "sports",
+    "displayName": "Dirk Nowitzki",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yao-ming",
+    "category": "sports",
+    "displayName": "Yao Ming",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tim-duncan",
+    "category": "sports",
+    "displayName": "Tim Duncan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "allen-iverson",
+    "category": "sports",
+    "displayName": "Allen Iverson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "victor-wembanyama",
+    "category": "sports",
+    "displayName": "Victor Wembanyama",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "caitlin-clark",
+    "category": "sports",
+    "displayName": "Caitlin Clark",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joe-montana",
+    "category": "sports",
+    "displayName": "Joe Montana",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "peyton-manning",
+    "category": "sports",
+    "displayName": "Peyton Manning",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "patrick-mahomes",
+    "category": "sports",
+    "displayName": "Patrick Mahomes",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jerry-rice",
+    "category": "sports",
+    "displayName": "Jerry Rice",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "walter-payton",
+    "category": "sports",
+    "displayName": "Walter Payton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "derek-jeter",
+    "category": "sports",
+    "displayName": "Derek Jeter",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shohei-ohtani",
+    "category": "sports",
+    "displayName": "Shohei Ohtani",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jackie-robinson",
+    "category": "sports",
+    "displayName": "Jackie Robinson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mark-mcgwire",
+    "category": "sports",
+    "displayName": "Mark McGwire",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sidney-crosby",
+    "category": "sports",
+    "displayName": "Sidney Crosby",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-ovechkin",
+    "category": "sports",
+    "displayName": "Alexander Ovechkin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mario-lemieux",
+    "category": "sports",
+    "displayName": "Mario Lemieux",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jaromir-jagr",
+    "category": "sports",
+    "displayName": "Jaromír Jágr",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bobby-orr",
+    "category": "sports",
+    "displayName": "Bobby Orr",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vladislav-tretiak",
+    "category": "sports",
+    "displayName": "Vladislav Tretiak",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paolo-maldini",
+    "category": "sports",
+    "displayName": "Paolo Maldini",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "francesco-totti",
+    "category": "sports",
+    "displayName": "Francesco Totti",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alessandro-del-piero",
+    "category": "sports",
+    "displayName": "Alessandro Del Piero",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andrea-pirlo",
+    "category": "sports",
+    "displayName": "Andrea Pirlo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "roberto-baggio",
+    "category": "sports",
+    "displayName": "Roberto Baggio",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gianluigi-buffon",
+    "category": "sports",
+    "displayName": "Gianluigi Buffon",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "fabio-cannavaro",
+    "category": "sports",
+    "displayName": "Fabio Cannavaro",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "thierry-henry",
+    "category": "sports",
+    "displayName": "Thierry Henry",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "michel-platini",
+    "category": "sports",
+    "displayName": "Michel Platini",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "antoine-griezmann",
+    "category": "sports",
+    "displayName": "Antoine Griezmann",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "karim-benzema",
+    "category": "sports",
+    "displayName": "Karim Benzema",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "luka-modric",
+    "category": "sports",
+    "displayName": "Luka Modrić",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andres-iniesta",
+    "category": "sports",
+    "displayName": "Andrés Iniesta",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "xavi",
+    "category": "sports",
+    "displayName": "Xavi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "iker-casillas",
+    "category": "sports",
+    "displayName": "Iker Casillas",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sergio-ramos",
+    "category": "sports",
+    "displayName": "Sergio Ramos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "raul",
+    "category": "sports",
+    "displayName": "Raúl",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "fernando-torres",
+    "category": "sports",
+    "displayName": "Fernando Torres",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "steven-gerrard",
+    "category": "sports",
+    "displayName": "Steven Gerrard",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "frank-lampard",
+    "category": "sports",
+    "displayName": "Frank Lampard",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alan-shearer",
+    "category": "sports",
+    "displayName": "Alan Shearer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bobby-charlton",
+    "category": "sports",
+    "displayName": "Bobby Charlton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-best",
+    "category": "sports",
+    "displayName": "George Best",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eric-cantona",
+    "category": "sports",
+    "displayName": "Eric Cantona",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "harry-kane",
+    "category": "sports",
+    "displayName": "Harry Kane",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jude-bellingham",
+    "category": "sports",
+    "displayName": "Jude Bellingham",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kevin-de-bruyne",
+    "category": "sports",
+    "displayName": "Kevin De Bruyne",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "virgil-van-dijk",
+    "category": "sports",
+    "displayName": "Virgil van Dijk",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "arjen-robben",
+    "category": "sports",
+    "displayName": "Arjen Robben",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marco-van-basten",
+    "category": "sports",
+    "displayName": "Marco van Basten",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ruud-gullit",
+    "category": "sports",
+    "displayName": "Ruud Gullit",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dennis-bergkamp",
+    "category": "sports",
+    "displayName": "Dennis Bergkamp",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gerd-muller",
+    "category": "sports",
+    "displayName": "Gerd Müller",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lothar-matthaus",
+    "category": "sports",
+    "displayName": "Lothar Matthäus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "oliver-kahn",
+    "category": "sports",
+    "displayName": "Oliver Kahn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "manuel-neuer",
+    "category": "sports",
+    "displayName": "Manuel Neuer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "thomas-muller",
+    "category": "sports",
+    "displayName": "Thomas Müller",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "miroslav-klose",
+    "category": "sports",
+    "displayName": "Miroslav Klose",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lev-yashin",
+    "category": "sports",
+    "displayName": "Lev Yashin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "oleg-blokhin",
+    "category": "sports",
+    "displayName": "Oleg Blokhin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "luis-figo",
+    "category": "sports",
+    "displayName": "Luís Figo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eusebio",
+    "category": "sports",
+    "displayName": "Eusébio",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kaka",
+    "category": "sports",
+    "displayName": "Kaká",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "romario",
+    "category": "sports",
+    "displayName": "Romário",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rivaldo",
+    "category": "sports",
+    "displayName": "Rivaldo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "roberto-carlos",
+    "category": "sports",
+    "displayName": "Roberto Carlos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "cafu",
+    "category": "sports",
+    "displayName": "Cafu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vinicius-junior",
+    "category": "sports",
+    "displayName": "Vinícius Júnior",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "luis-suarez",
+    "category": "sports",
+    "displayName": "Luis Suárez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gabriel-batistuta",
+    "category": "sports",
+    "displayName": "Gabriel Batistuta",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "angel-di-maria",
+    "category": "sports",
+    "displayName": "Ángel Di María",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sergio-aguero",
+    "category": "sports",
+    "displayName": "Sergio Agüero",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hristo-stoichkov",
+    "category": "sports",
+    "displayName": "Hristo Stoichkov",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gheorghe-hagi",
+    "category": "sports",
+    "displayName": "Gheorghe Hagi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "didier-drogba",
+    "category": "sports",
+    "displayName": "Didier Drogba",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "samuel-etoo",
+    "category": "sports",
+    "displayName": "Samuel Eto'o",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-weah",
+    "category": "sports",
+    "displayName": "George Weah",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "son-heung-min",
+    "category": "sports",
+    "displayName": "Son Heung-min",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jose-mourinho",
+    "category": "sports",
+    "displayName": "José Mourinho",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pep-guardiola",
+    "category": "sports",
+    "displayName": "Pep Guardiola",
+    "popularityTier": "widely-known"
   }
 ]

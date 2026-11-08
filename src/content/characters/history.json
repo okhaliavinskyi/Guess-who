@@ -28,5 +28,1463 @@
     "category": "history",
     "displayName": "Isaac Newton",
     "popularityTier": "iconic"
+  },
+  {
+    "id": "galileo-galilei",
+    "category": "history",
+    "displayName": "Galileo Galilei",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "charles-darwin",
+    "category": "history",
+    "displayName": "Charles Darwin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "nikola-tesla",
+    "category": "history",
+    "displayName": "Nikola Tesla",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "thomas-edison",
+    "category": "history",
+    "displayName": "Thomas Edison",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pablo-picasso",
+    "category": "history",
+    "displayName": "Pablo Picasso",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "vincent-van-gogh",
+    "category": "history",
+    "displayName": "Vincent van Gogh",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "michelangelo",
+    "category": "history",
+    "displayName": "Michelangelo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wolfgang-amadeus-mozart",
+    "category": "history",
+    "displayName": "Wolfgang Amadeus Mozart",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ludwig-van-beethoven",
+    "category": "history",
+    "displayName": "Ludwig van Beethoven",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "johann-sebastian-bach",
+    "category": "history",
+    "displayName": "Johann Sebastian Bach",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "christopher-columbus",
+    "category": "history",
+    "displayName": "Christopher Columbus",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "socrates",
+    "category": "history",
+    "displayName": "Socrates",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "plato",
+    "category": "history",
+    "displayName": "Plato",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "aristotle",
+    "category": "history",
+    "displayName": "Aristotle",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "confucius",
+    "category": "history",
+    "displayName": "Confucius",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "sigmund-freud",
+    "category": "history",
+    "displayName": "Sigmund Freud",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "karl-marx",
+    "category": "history",
+    "displayName": "Karl Marx",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "stephen-hawking",
+    "category": "history",
+    "displayName": "Stephen Hawking",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "steve-jobs",
+    "category": "history",
+    "displayName": "Steve Jobs",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bill-gates",
+    "category": "history",
+    "displayName": "Bill Gates",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mark-zuckerberg",
+    "category": "history",
+    "displayName": "Mark Zuckerberg",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "elon-musk",
+    "category": "history",
+    "displayName": "Elon Musk",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "walt-disney",
+    "category": "history",
+    "displayName": "Walt Disney",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "neil-armstrong",
+    "category": "history",
+    "displayName": "Neil Armstrong",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "yuri-gagarin",
+    "category": "history",
+    "displayName": "Yuri Gagarin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "amelia-earhart",
+    "category": "history",
+    "displayName": "Amelia Earhart",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "anne-frank",
+    "category": "history",
+    "displayName": "Anne Frank",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "helen-keller",
+    "category": "history",
+    "displayName": "Helen Keller",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "florence-nightingale",
+    "category": "history",
+    "displayName": "Florence Nightingale",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mother-teresa",
+    "category": "history",
+    "displayName": "Mother Teresa",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "joan-of-arc",
+    "category": "history",
+    "displayName": "Joan of Arc",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "rosa-parks",
+    "category": "history",
+    "displayName": "Rosa Parks",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "frida-kahlo",
+    "category": "history",
+    "displayName": "Frida Kahlo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "salvador-dali",
+    "category": "history",
+    "displayName": "Salvador Dalí",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "claude-monet",
+    "category": "history",
+    "displayName": "Claude Monet",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "rembrandt",
+    "category": "history",
+    "displayName": "Rembrandt",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "coco-chanel",
+    "category": "history",
+    "displayName": "Coco Chanel",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "agatha-christie",
+    "category": "history",
+    "displayName": "Agatha Christie",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "j-k-rowling",
+    "category": "history",
+    "displayName": "J. K. Rowling",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "charles-dickens",
+    "category": "history",
+    "displayName": "Charles Dickens",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "leo-tolstoy",
+    "category": "history",
+    "displayName": "Leo Tolstoy",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "fyodor-dostoevsky",
+    "category": "history",
+    "displayName": "Fyodor Dostoevsky",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alexander-pushkin",
+    "category": "history",
+    "displayName": "Alexander Pushkin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mark-twain",
+    "category": "history",
+    "displayName": "Mark Twain",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ernest-hemingway",
+    "category": "history",
+    "displayName": "Ernest Hemingway",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jane-austen",
+    "category": "history",
+    "displayName": "Jane Austen",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "victor-hugo",
+    "category": "history",
+    "displayName": "Victor Hugo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "homer",
+    "category": "history",
+    "displayName": "Homer",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dante-alighieri",
+    "category": "history",
+    "displayName": "Dante Alighieri",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "marco-polo",
+    "category": "history",
+    "displayName": "Marco Polo",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "archimedes",
+    "category": "history",
+    "displayName": "Archimedes",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pythagoras",
+    "category": "history",
+    "displayName": "Pythagoras",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "hippocrates",
+    "category": "history",
+    "displayName": "Hippocrates",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "nicolaus-copernicus",
+    "category": "history",
+    "displayName": "Nicolaus Copernicus",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "johannes-gutenberg",
+    "category": "history",
+    "displayName": "Johannes Gutenberg",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alexander-graham-bell",
+    "category": "history",
+    "displayName": "Alexander Graham Bell",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "wright-brothers",
+    "category": "history",
+    "displayName": "Wright brothers",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "louis-pasteur",
+    "category": "history",
+    "displayName": "Louis Pasteur",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alan-turing",
+    "category": "history",
+    "displayName": "Alan Turing",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ada-lovelace",
+    "category": "history",
+    "displayName": "Ada Lovelace",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alfred-nobel",
+    "category": "history",
+    "displayName": "Alfred Nobel",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dmitri-mendeleev",
+    "category": "history",
+    "displayName": "Dmitri Mendeleev",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "taras-shevchenko",
+    "category": "history",
+    "displayName": "Taras Shevchenko",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lesya-ukrainka",
+    "category": "history",
+    "displayName": "Lesya Ukrainka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ivan-franko",
+    "category": "history",
+    "displayName": "Ivan Franko",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mykola-gogol",
+    "category": "history",
+    "displayName": "Mykola Gogol",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "anton-chekhov",
+    "category": "history",
+    "displayName": "Anton Chekhov",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ivan-pavlov",
+    "category": "history",
+    "displayName": "Ivan Pavlov",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pyotr-tchaikovsky",
+    "category": "history",
+    "displayName": "Pyotr Tchaikovsky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sergei-rachmaninoff",
+    "category": "history",
+    "displayName": "Sergei Rachmaninoff",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "igor-stravinsky",
+    "category": "history",
+    "displayName": "Igor Stravinsky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "frederic-chopin",
+    "category": "history",
+    "displayName": "Frédéric Chopin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "franz-liszt",
+    "category": "history",
+    "displayName": "Franz Liszt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "antonio-vivaldi",
+    "category": "history",
+    "displayName": "Antonio Vivaldi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "giuseppe-verdi",
+    "category": "history",
+    "displayName": "Giuseppe Verdi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "richard-wagner",
+    "category": "history",
+    "displayName": "Richard Wagner",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "johann-strauss-ii",
+    "category": "history",
+    "displayName": "Johann Strauss II",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "franz-schubert",
+    "category": "history",
+    "displayName": "Franz Schubert",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-frideric-handel",
+    "category": "history",
+    "displayName": "George Frideric Handel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joseph-haydn",
+    "category": "history",
+    "displayName": "Joseph Haydn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "raphael",
+    "category": "history",
+    "displayName": "Raphael",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "donatello",
+    "category": "history",
+    "displayName": "Donatello",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sandro-botticelli",
+    "category": "history",
+    "displayName": "Sandro Botticelli",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "caravaggio",
+    "category": "history",
+    "displayName": "Caravaggio",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "titian",
+    "category": "history",
+    "displayName": "Titian",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "albrecht-durer",
+    "category": "history",
+    "displayName": "Albrecht Dürer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "johannes-vermeer",
+    "category": "history",
+    "displayName": "Johannes Vermeer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hieronymus-bosch",
+    "category": "history",
+    "displayName": "Hieronymus Bosch",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pieter-bruegel-the-elder",
+    "category": "history",
+    "displayName": "Pieter Bruegel the Elder",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "francisco-goya",
+    "category": "history",
+    "displayName": "Francisco Goya",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "diego-velazquez",
+    "category": "history",
+    "displayName": "Diego Velázquez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "el-greco",
+    "category": "history",
+    "displayName": "El Greco",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "auguste-rodin",
+    "category": "history",
+    "displayName": "Auguste Rodin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edgar-degas",
+    "category": "history",
+    "displayName": "Edgar Degas",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pierre-auguste-renoir",
+    "category": "history",
+    "displayName": "Pierre-Auguste Renoir",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paul-cezanne",
+    "category": "history",
+    "displayName": "Paul Cézanne",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paul-gauguin",
+    "category": "history",
+    "displayName": "Paul Gauguin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "henri-matisse",
+    "category": "history",
+    "displayName": "Henri Matisse",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gustav-klimt",
+    "category": "history",
+    "displayName": "Gustav Klimt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edvard-munch",
+    "category": "history",
+    "displayName": "Edvard Munch",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wassily-kandinsky",
+    "category": "history",
+    "displayName": "Wassily Kandinsky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kazimir-malevich",
+    "category": "history",
+    "displayName": "Kazimir Malevich",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marc-chagall",
+    "category": "history",
+    "displayName": "Marc Chagall",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andy-warhol",
+    "category": "history",
+    "displayName": "Andy Warhol",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "banksy",
+    "category": "history",
+    "displayName": "Banksy",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jackson-pollock",
+    "category": "history",
+    "displayName": "Jackson Pollock",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rene-magritte",
+    "category": "history",
+    "displayName": "René Magritte",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joan-miro",
+    "category": "history",
+    "displayName": "Joan Miró",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "antoni-gaudi",
+    "category": "history",
+    "displayName": "Antoni Gaudí",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gustave-eiffel",
+    "category": "history",
+    "displayName": "Gustave Eiffel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "le-corbusier",
+    "category": "history",
+    "displayName": "Le Corbusier",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rumi",
+    "category": "history",
+    "displayName": "Rumi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "omar-khayyam",
+    "category": "history",
+    "displayName": "Omar Khayyam",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lao-tzu",
+    "category": "history",
+    "displayName": "Lao Tzu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sun-tzu",
+    "category": "history",
+    "displayName": "Sun Tzu",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "avicenna",
+    "category": "history",
+    "displayName": "Avicenna",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ibn-battuta",
+    "category": "history",
+    "displayName": "Ibn Battuta",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "euclid",
+    "category": "history",
+    "displayName": "Euclid",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "herodotus",
+    "category": "history",
+    "displayName": "Herodotus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "cicero",
+    "category": "history",
+    "displayName": "Cicero",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "seneca",
+    "category": "history",
+    "displayName": "Seneca",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marcus-aurelius",
+    "category": "history",
+    "displayName": "Marcus Aurelius",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "niccolo-machiavelli",
+    "category": "history",
+    "displayName": "Niccolò Machiavelli",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rene-descartes",
+    "category": "history",
+    "displayName": "René Descartes",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "immanuel-kant",
+    "category": "history",
+    "displayName": "Immanuel Kant",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "friedrich-nietzsche",
+    "category": "history",
+    "displayName": "Friedrich Nietzsche",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jean-jacques-rousseau",
+    "category": "history",
+    "displayName": "Jean-Jacques Rousseau",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "voltaire",
+    "category": "history",
+    "displayName": "Voltaire",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "john-locke",
+    "category": "history",
+    "displayName": "John Locke",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "thomas-hobbes",
+    "category": "history",
+    "displayName": "Thomas Hobbes",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "adam-smith",
+    "category": "history",
+    "displayName": "Adam Smith",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "baruch-spinoza",
+    "category": "history",
+    "displayName": "Baruch Spinoza",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "soren-kierkegaard",
+    "category": "history",
+    "displayName": "Søren Kierkegaard",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jean-paul-sartre",
+    "category": "history",
+    "displayName": "Jean-Paul Sartre",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "simone-de-beauvoir",
+    "category": "history",
+    "displayName": "Simone de Beauvoir",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "albert-camus",
+    "category": "history",
+    "displayName": "Albert Camus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "martin-luther",
+    "category": "history",
+    "displayName": "Martin Luther",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "john-calvin",
+    "category": "history",
+    "displayName": "John Calvin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "saint-francis-of-assisi",
+    "category": "history",
+    "displayName": "Saint Francis of Assisi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "saint-patrick",
+    "category": "history",
+    "displayName": "Saint Patrick",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "thomas-aquinas",
+    "category": "history",
+    "displayName": "Thomas Aquinas",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nostradamus",
+    "category": "history",
+    "displayName": "Nostradamus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "johannes-kepler",
+    "category": "history",
+    "displayName": "Johannes Kepler",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tycho-brahe",
+    "category": "history",
+    "displayName": "Tycho Brahe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "michael-faraday",
+    "category": "history",
+    "displayName": "Michael Faraday",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "james-clerk-maxwell",
+    "category": "history",
+    "displayName": "James Clerk Maxwell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "max-planck",
+    "category": "history",
+    "displayName": "Max Planck",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "niels-bohr",
+    "category": "history",
+    "displayName": "Niels Bohr",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "werner-heisenberg",
+    "category": "history",
+    "displayName": "Werner Heisenberg",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "erwin-schrodinger",
+    "category": "history",
+    "displayName": "Erwin Schrödinger",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "richard-feynman",
+    "category": "history",
+    "displayName": "Richard Feynman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robert-oppenheimer",
+    "category": "history",
+    "displayName": "Robert Oppenheimer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "enrico-fermi",
+    "category": "history",
+    "displayName": "Enrico Fermi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "carl-sagan",
+    "category": "history",
+    "displayName": "Carl Sagan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edwin-hubble",
+    "category": "history",
+    "displayName": "Edwin Hubble",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rosalind-franklin",
+    "category": "history",
+    "displayName": "Rosalind Franklin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gregor-mendel",
+    "category": "history",
+    "displayName": "Gregor Mendel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-fleming",
+    "category": "history",
+    "displayName": "Alexander Fleming",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edward-jenner",
+    "category": "history",
+    "displayName": "Edward Jenner",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robert-koch",
+    "category": "history",
+    "displayName": "Robert Koch",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "carl-linnaeus",
+    "category": "history",
+    "displayName": "Carl Linnaeus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexander-von-humboldt",
+    "category": "history",
+    "displayName": "Alexander von Humboldt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "james-watt",
+    "category": "history",
+    "displayName": "James Watt",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "guglielmo-marconi",
+    "category": "history",
+    "displayName": "Guglielmo Marconi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "samuel-morse",
+    "category": "history",
+    "displayName": "Samuel Morse",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "henry-ford",
+    "category": "history",
+    "displayName": "Henry Ford",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "karl-benz",
+    "category": "history",
+    "displayName": "Karl Benz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ferdinand-porsche",
+    "category": "history",
+    "displayName": "Ferdinand Porsche",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "enzo-ferrari",
+    "category": "history",
+    "displayName": "Enzo Ferrari",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rudolf-diesel",
+    "category": "history",
+    "displayName": "Rudolf Diesel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "igor-sikorsky",
+    "category": "history",
+    "displayName": "Igor Sikorsky",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "wernher-von-braun",
+    "category": "history",
+    "displayName": "Wernher von Braun",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sergei-korolev",
+    "category": "history",
+    "displayName": "Sergei Korolev",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "valentina-tereshkova",
+    "category": "history",
+    "displayName": "Valentina Tereshkova",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "buzz-aldrin",
+    "category": "history",
+    "displayName": "Buzz Aldrin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "laika",
+    "category": "history",
+    "displayName": "Laika",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vasco-da-gama",
+    "category": "history",
+    "displayName": "Vasco da Gama",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ferdinand-magellan",
+    "category": "history",
+    "displayName": "Ferdinand Magellan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "james-cook",
+    "category": "history",
+    "displayName": "James Cook",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "roald-amundsen",
+    "category": "history",
+    "displayName": "Roald Amundsen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edmund-hillary",
+    "category": "history",
+    "displayName": "Edmund Hillary",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tenzing-norgay",
+    "category": "history",
+    "displayName": "Tenzing Norgay",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jacques-cousteau",
+    "category": "history",
+    "displayName": "Jacques Cousteau",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "charles-lindbergh",
+    "category": "history",
+    "displayName": "Charles Lindbergh",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ernest-shackleton",
+    "category": "history",
+    "displayName": "Ernest Shackleton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "david-livingstone",
+    "category": "history",
+    "displayName": "David Livingstone",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hernan-cortes",
+    "category": "history",
+    "displayName": "Hernán Cortés",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "leif-erikson",
+    "category": "history",
+    "displayName": "Leif Erikson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "miguel-de-cervantes",
+    "category": "history",
+    "displayName": "Miguel de Cervantes",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "johann-wolfgang-von-goethe",
+    "category": "history",
+    "displayName": "Johann Wolfgang von Goethe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "friedrich-schiller",
+    "category": "history",
+    "displayName": "Friedrich Schiller",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "franz-kafka",
+    "category": "history",
+    "displayName": "Franz Kafka",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "oscar-wilde",
+    "category": "history",
+    "displayName": "Oscar Wilde",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "george-orwell",
+    "category": "history",
+    "displayName": "George Orwell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "edgar-allan-poe",
+    "category": "history",
+    "displayName": "Edgar Allan Poe",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jules-verne",
+    "category": "history",
+    "displayName": "Jules Verne",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "h-g-wells",
+    "category": "history",
+    "displayName": "H. G. Wells",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "arthur-conan-doyle",
+    "category": "history",
+    "displayName": "Arthur Conan Doyle",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "j-r-r-tolkien",
+    "category": "history",
+    "displayName": "J. R. R. Tolkien",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "c-s-lewis",
+    "category": "history",
+    "displayName": "C. S. Lewis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lewis-carroll",
+    "category": "history",
+    "displayName": "Lewis Carroll",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hans-christian-andersen",
+    "category": "history",
+    "displayName": "Hans Christian Andersen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "brothers-grimm",
+    "category": "history",
+    "displayName": "Brothers Grimm",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "charles-perrault",
+    "category": "history",
+    "displayName": "Charles Perrault",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "antoine-de-saint-exupery",
+    "category": "history",
+    "displayName": "Antoine de Saint-Exupéry",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alexandre-dumas",
+    "category": "history",
+    "displayName": "Alexandre Dumas",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gabriel-garcia-marquez",
+    "category": "history",
+    "displayName": "Gabriel García Márquez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paulo-coelho",
+    "category": "history",
+    "displayName": "Paulo Coelho",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "stephen-king",
+    "category": "history",
+    "displayName": "Stephen King",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "virginia-woolf",
+    "category": "history",
+    "displayName": "Virginia Woolf",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lord-byron",
+    "category": "history",
+    "displayName": "Lord Byron",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "walt-whitman",
+    "category": "history",
+    "displayName": "Walt Whitman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "emily-dickinson",
+    "category": "history",
+    "displayName": "Emily Dickinson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rabindranath-tagore",
+    "category": "history",
+    "displayName": "Rabindranath Tagore",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mikhail-bulgakov",
+    "category": "history",
+    "displayName": "Mikhail Bulgakov",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "boris-pasternak",
+    "category": "history",
+    "displayName": "Boris Pasternak",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "aleksandr-solzhenitsyn",
+    "category": "history",
+    "displayName": "Aleksandr Solzhenitsyn",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "vladimir-nabokov",
+    "category": "history",
+    "displayName": "Vladimir Nabokov",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hayao-miyazaki",
+    "category": "history",
+    "displayName": "Hayao Miyazaki",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "akira-kurosawa",
+    "category": "history",
+    "displayName": "Akira Kurosawa",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "buster-keaton",
+    "category": "history",
+    "displayName": "Buster Keaton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "houdini",
+    "category": "history",
+    "displayName": "Houdini",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "p-t-barnum",
+    "category": "history",
+    "displayName": "P. T. Barnum",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "harriet-tubman",
+    "category": "history",
+    "displayName": "Harriet Tubman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "frederick-douglass",
+    "category": "history",
+    "displayName": "Frederick Douglass",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sojourner-truth",
+    "category": "history",
+    "displayName": "Sojourner Truth",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "emmeline-pankhurst",
+    "category": "history",
+    "displayName": "Emmeline Pankhurst",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "christian-dior",
+    "category": "history",
+    "displayName": "Christian Dior",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yves-saint-laurent",
+    "category": "history",
+    "displayName": "Yves Saint Laurent",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "karl-lagerfeld",
+    "category": "history",
+    "displayName": "Karl Lagerfeld",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "giorgio-armani",
+    "category": "history",
+    "displayName": "Giorgio Armani",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jeff-bezos",
+    "category": "history",
+    "displayName": "Jeff Bezos",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "warren-buffett",
+    "category": "history",
+    "displayName": "Warren Buffett",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "larry-page",
+    "category": "history",
+    "displayName": "Larry Page",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sam-altman",
+    "category": "history",
+    "displayName": "Sam Altman",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tim-berners-lee",
+    "category": "history",
+    "displayName": "Tim Berners-Lee",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "linus-torvalds",
+    "category": "history",
+    "displayName": "Linus Torvalds",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "steve-wozniak",
+    "category": "history",
+    "displayName": "Steve Wozniak",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jane-goodall",
+    "category": "history",
+    "displayName": "Jane Goodall",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dian-fossey",
+    "category": "history",
+    "displayName": "Dian Fossey",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "steve-irwin",
+    "category": "history",
+    "displayName": "Steve Irwin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "greta-thunberg",
+    "category": "history",
+    "displayName": "Greta Thunberg",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "malala-yousafzai",
+    "category": "history",
+    "displayName": "Malala Yousafzai",
+    "popularityTier": "widely-known"
   }
 ]

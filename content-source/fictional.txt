@@ -1,0 +1,249 @@
+# Fictional Characters — the character, not the actor or the franchise.
+# Format: [*]Display Name [@Wikipedia title]   (* = iconic; else widely-known)
+*Harry Potter @Harry Potter (character)
+*Mickey Mouse
+*Sherlock Holmes
+*Super Mario @Mario
+*Spider-Man
+*Batman
+*Superman
+*Wonder Woman
+*Iron Man
+*Captain America
+*Hulk @Hulk
+*Thor @Thor (Marvel Comics)
+*Wolverine @Wolverine (character)
+*Joker @Joker (character)
+*Darth Vader
+*Luke Skywalker
+*Princess Leia
+*Yoda
+*Han Solo
+*James Bond
+*Indiana Jones @Indiana Jones (character)
+*Frodo Baggins
+*Gandalf
+*Gollum
+*Hermione Granger
+*Lord Voldemort
+*Albus Dumbledore
+*Ron Weasley
+*Donald Duck
+*Goofy
+*Winnie-the-Pooh
+*Bugs Bunny
+*Tom Cat @Tom Cat
+*Jerry Mouse @Jerry Mouse
+*Scooby-Doo
+*Homer Simpson
+*Bart Simpson
+*SpongeBob SquarePants
+*Shrek @Shrek (character)
+*Pikachu
+*Sonic the Hedgehog @Sonic the Hedgehog (character)
+*Lara Croft
+*Pac-Man @Pac-Man (character)
+*Cinderella
+*Snow White
+*Little Red Riding Hood
+*Pinocchio
+*Peter Pan
+*Alice @Alice (Alice's Adventures in Wonderland)
+*Dracula @Count Dracula
+*Frankenstein's monster
+*Robin Hood
+*Tarzan
+*Zorro
+*Santa Claus
+*Barbie @Barbie
+*Mr. Bean
+*Cookie Monster
+*Kermit the Frog
+*Elmo
+*Garfield @Garfield (character)
+*Snoopy
+*Charlie Brown
+*Popeye
+*Pink Panther @Pink Panther (character)
+*Tintin @Tintin (character)
+*Asterix @Asterix (character)
+*Obelix
+*Smurfette
+*Woody @Sheriff Woody
+*Buzz Lightyear
+*Simba
+*Elsa @Elsa (Frozen)
+*Ariel @Ariel (The Little Mermaid)
+*Aladdin @Aladdin (Disney character)
+*Genie @Genie (Aladdin)
+*Mulan @Fa Mulan (Disney)
+*Moana @Moana (character)
+*Rapunzel
+*Belle @Belle (Beauty and the Beast)
+*Captain Jack Sparrow @Jack Sparrow
+Captain Hook
+Tinker Bell
+Mary Poppins @Mary Poppins (character)
+Willy Wonka
+Peppa Pig @Peppa Pig (character)
+Dora the Explorer @Dora Márquez
+Optimus Prime
+Godzilla
+King Kong
+E.T. @E.T. the Extra-Terrestrial (character)
+Terminator @Terminator (character)
+RoboCop @RoboCop (character)
+Rocky Balboa
+Forrest Gump @Forrest Gump (character)
+Hannibal Lecter
+Freddy Krueger
+Chucky @Chucky
+Ghostface @Ghostface (identity)
+Michael Myers @Michael Myers (Halloween)
+Pennywise @It (character)
+Edward Scissorhands
+Piglet @Piglet (Winnie-the-Pooh)
+Tigger
+Eeyore
+Bambi
+Dumbo
+Lightning McQueen
+Nemo @Nemo (Finding Nemo)
+Dory @Dory (Finding Nemo)
+Wall-E @WALL-E (character)
+Minions @Minions (Despicable Me)
+Gru @Gru (Despicable Me)
+Po @Po (Kung Fu Panda)
+Puss in Boots @Puss in Boots (Shrek)
+Donkey @Donkey (Shrek)
+Stitch @Stitch (Lilo & Stitch)
+Olaf @Olaf (Frozen)
+Ursula @Ursula (The Little Mermaid)
+Maleficent
+Cruella de Vil
+Scar @Scar (The Lion King)
+Jafar
+Captain Haddock
+Lucky Luke
+Spirou
+Wednesday Addams
+Gomez Addams
+Morticia Addams
+Marge Simpson
+Lisa Simpson
+Peter Griffin
+Stewie Griffin
+Eric Cartman
+Rick Sanchez
+Fred Flintstone
+George Jetson
+Yogi Bear
+Daffy Duck
+Tweety @Tweety
+Road Runner @Road Runner (Looney Tunes)
+Wile E. Coyote
+Taz @Tasmanian Devil (Looney Tunes)
+Porky Pig
+Woody Woodpecker
+Felix the Cat
+Betty Boop
+Casper the Friendly Ghost
+Richie Rich
+Dennis the Menace @Dennis the Menace (U.S. comics)
+Mowgli
+Baloo
+Bagheera
+Dr. Watson @Dr. Watson
+Hercule Poirot
+Miss Marple
+Don Quixote
+Romeo Montague @Romeo
+Juliet Capulet @Juliet
+Hamlet @Prince Hamlet
+Ebenezer Scrooge
+Oliver Twist @Oliver Twist (character)
+Tom Sawyer
+Huckleberry Finn
+Robinson Crusoe @Robinson Crusoe (character)
+Gulliver @Lemuel Gulliver
+Captain Nemo
+Phileas Fogg
+D'Artagnan @D'Artagnan (character)
+Quasimodo
+Jean Valjean
+Long John Silver
+Pippi Longstocking
+Little Prince @The Little Prince (character)
+Shere Khan @Shere Khan
+Cheshire Cat
+Mad Hatter
+White Rabbit
+Wizard of Oz @Wizard of Oz (character)
+Dorothy Gale
+Tin Man @Tin Woodman
+Katniss Everdeen
+Bella Swan
+Edward Cullen
+Jon Snow @Jon Snow (character)
+Daenerys Targaryen
+Tyrion Lannister
+Walter White @Walter White (Breaking Bad)
+Dexter Morgan
+Eleven @Eleven (Stranger Things)
+Dr. House @Gregory House
+Sheldon Cooper
+Joey Tribbiani
+Rachel Green
+Mr. Spock @Spock
+Captain Kirk @James T. Kirk
+Doctor Who @The Doctor (Doctor Who)
+Neo @Neo (The Matrix)
+Rambo @John Rambo
+Ellen Ripley
+Marty McFly
+Doc Brown @Emmett Brown
+Ace Ventura
+Austin Powers @Austin Powers (character)
+Deadpool
+Black Widow @Black Widow (Natasha Romanova)
+Black Panther @Black Panther (character)
+Captain Marvel @Carol Danvers
+Doctor Strange
+Thanos
+Groot
+Loki @Loki (Marvel Comics)
+Catwoman
+Harley Quinn
+Aquaman
+The Flash @Flash (Barry Allen)
+Green Lantern
+Lex Luthor
+Magneto @Magneto (Marvel Comics)
+Master Chief @Master Chief (Halo)
+Link @Link (The Legend of Zelda)
+Princess Zelda
+Luigi
+Princess Peach
+Bowser @Bowser (character)
+Donkey Kong @Donkey Kong (character)
+Kirby @Kirby (character)
+Kratos @Kratos (God of War)
+Geralt of Rivia
+Crash Bandicoot @Crash Bandicoot (character)
+Spyro @Spyro (character)
+Solid Snake
+Ash Ketchum
+Naruto Uzumaki
+Goku
+Sailor Moon @Sailor Moon (character)
+Totoro @My Neighbor Totoro
+Doraemon @Doraemon (character)
+Hello Kitty
+Paddington Bear
+Postman Pat @Postman Pat
+Bob the Builder @Bob the Builder (character)
+Thomas the Tank Engine
+Fireman Sam
+Masha @Masha and the Bear
+Cheburashka
+Baron Munchausen

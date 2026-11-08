@@ -28,5 +28,1367 @@
     "category": "music",
     "displayName": "Freddie Mercury",
     "popularityTier": "iconic"
+  },
+  {
+    "id": "john-lennon",
+    "category": "music",
+    "displayName": "John Lennon",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "paul-mccartney",
+    "category": "music",
+    "displayName": "Paul McCartney",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bob-marley",
+    "category": "music",
+    "displayName": "Bob Marley",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bob-dylan",
+    "category": "music",
+    "displayName": "Bob Dylan",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "elton-john",
+    "category": "music",
+    "displayName": "Elton John",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "david-bowie",
+    "category": "music",
+    "displayName": "David Bowie",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mick-jagger",
+    "category": "music",
+    "displayName": "Mick Jagger",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "taylor-swift",
+    "category": "music",
+    "displayName": "Taylor Swift",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lady-gaga",
+    "category": "music",
+    "displayName": "Lady Gaga",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "rihanna",
+    "category": "music",
+    "displayName": "Rihanna",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "whitney-houston",
+    "category": "music",
+    "displayName": "Whitney Houston",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "celine-dion",
+    "category": "music",
+    "displayName": "Celine Dion",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "frank-sinatra",
+    "category": "music",
+    "displayName": "Frank Sinatra",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "louis-armstrong",
+    "category": "music",
+    "displayName": "Louis Armstrong",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ray-charles",
+    "category": "music",
+    "displayName": "Ray Charles",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "stevie-wonder",
+    "category": "music",
+    "displayName": "Stevie Wonder",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "prince",
+    "category": "music",
+    "displayName": "Prince",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tina-turner",
+    "category": "music",
+    "displayName": "Tina Turner",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "aretha-franklin",
+    "category": "music",
+    "displayName": "Aretha Franklin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "britney-spears",
+    "category": "music",
+    "displayName": "Britney Spears",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "justin-bieber",
+    "category": "music",
+    "displayName": "Justin Bieber",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "adele",
+    "category": "music",
+    "displayName": "Adele",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ed-sheeran",
+    "category": "music",
+    "displayName": "Ed Sheeran",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "shakira",
+    "category": "music",
+    "displayName": "Shakira",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "eminem",
+    "category": "music",
+    "displayName": "Eminem",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kurt-cobain",
+    "category": "music",
+    "displayName": "Kurt Cobain",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jimi-hendrix",
+    "category": "music",
+    "displayName": "Jimi Hendrix",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "johnny-cash",
+    "category": "music",
+    "displayName": "Johnny Cash",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dolly-parton",
+    "category": "music",
+    "displayName": "Dolly Parton",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "cher",
+    "category": "music",
+    "displayName": "Cher",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "abba",
+    "category": "music",
+    "displayName": "ABBA",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "the-beatles",
+    "category": "music",
+    "displayName": "The Beatles",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "queen",
+    "category": "music",
+    "displayName": "Queen",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "the-rolling-stones",
+    "category": "music",
+    "displayName": "The Rolling Stones",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ozzy-osbourne",
+    "category": "music",
+    "displayName": "Ozzy Osbourne",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bruno-mars",
+    "category": "music",
+    "displayName": "Bruno Mars",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "billie-eilish",
+    "category": "music",
+    "displayName": "Billie Eilish",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ariana-grande",
+    "category": "music",
+    "displayName": "Ariana Grande",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "katy-perry",
+    "category": "music",
+    "displayName": "Katy Perry",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "snoop-dogg",
+    "category": "music",
+    "displayName": "Snoop Dogg",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "kanye-west",
+    "category": "music",
+    "displayName": "Kanye West",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jay-z",
+    "category": "music",
+    "displayName": "Jay-Z",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tupac-shakur",
+    "category": "music",
+    "displayName": "Tupac Shakur",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "mariah-carey",
+    "category": "music",
+    "displayName": "Mariah Carey",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "sting",
+    "category": "music",
+    "displayName": "Sting",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bono",
+    "category": "music",
+    "displayName": "Bono",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ringo-starr",
+    "category": "music",
+    "displayName": "Ringo Starr",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "george-michael",
+    "category": "music",
+    "displayName": "George Michael",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "amy-winehouse",
+    "category": "music",
+    "displayName": "Amy Winehouse",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "lana-del-rey",
+    "category": "music",
+    "displayName": "Lana Del Rey",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "dua-lipa",
+    "category": "music",
+    "displayName": "Dua Lipa",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "the-weeknd",
+    "category": "music",
+    "displayName": "The Weeknd",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "drake",
+    "category": "music",
+    "displayName": "Drake",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "pharrell-williams",
+    "category": "music",
+    "displayName": "Pharrell Williams",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "christina-aguilera",
+    "category": "music",
+    "displayName": "Christina Aguilera",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "jennifer-hudson",
+    "category": "music",
+    "displayName": "Jennifer Hudson",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "alicia-keys",
+    "category": "music",
+    "displayName": "Alicia Keys",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "nicki-minaj",
+    "category": "music",
+    "displayName": "Nicki Minaj",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "cardi-b",
+    "category": "music",
+    "displayName": "Cardi B",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "harry-styles",
+    "category": "music",
+    "displayName": "Harry Styles",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "ricky-martin",
+    "category": "music",
+    "displayName": "Ricky Martin",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "enrique-iglesias",
+    "category": "music",
+    "displayName": "Enrique Iglesias",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "julio-iglesias",
+    "category": "music",
+    "displayName": "Julio Iglesias",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "luciano-pavarotti",
+    "category": "music",
+    "displayName": "Luciano Pavarotti",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "andrea-bocelli",
+    "category": "music",
+    "displayName": "Andrea Bocelli",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "edith-piaf",
+    "category": "music",
+    "displayName": "Édith Piaf",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "charles-aznavour",
+    "category": "music",
+    "displayName": "Charles Aznavour",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "stromae",
+    "category": "music",
+    "displayName": "Stromae",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "psy",
+    "category": "music",
+    "displayName": "PSY",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bts",
+    "category": "music",
+    "displayName": "BTS",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "blackpink",
+    "category": "music",
+    "displayName": "BLACKPINK",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "bad-bunny",
+    "category": "music",
+    "displayName": "Bad Bunny",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "elvis-costello",
+    "category": "music",
+    "displayName": "Elvis Costello",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "robbie-williams",
+    "category": "music",
+    "displayName": "Robbie Williams",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "tom-jones",
+    "category": "music",
+    "displayName": "Tom Jones",
+    "popularityTier": "iconic"
+  },
+  {
+    "id": "rod-stewart",
+    "category": "music",
+    "displayName": "Rod Stewart",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "phil-collins",
+    "category": "music",
+    "displayName": "Phil Collins",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lionel-richie",
+    "category": "music",
+    "displayName": "Lionel Richie",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "diana-ross",
+    "category": "music",
+    "displayName": "Diana Ross",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "janet-jackson",
+    "category": "music",
+    "displayName": "Janet Jackson",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "barbra-streisand",
+    "category": "music",
+    "displayName": "Barbra Streisand",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "liza-minnelli",
+    "category": "music",
+    "displayName": "Liza Minnelli",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chuck-berry",
+    "category": "music",
+    "displayName": "Chuck Berry",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "little-richard",
+    "category": "music",
+    "displayName": "Little Richard",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jerry-lee-lewis",
+    "category": "music",
+    "displayName": "Jerry Lee Lewis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "buddy-holly",
+    "category": "music",
+    "displayName": "Buddy Holly",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "james-brown",
+    "category": "music",
+    "displayName": "James Brown",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marvin-gaye",
+    "category": "music",
+    "displayName": "Marvin Gaye",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nina-simone",
+    "category": "music",
+    "displayName": "Nina Simone",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ella-fitzgerald",
+    "category": "music",
+    "displayName": "Ella Fitzgerald",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "billie-holiday",
+    "category": "music",
+    "displayName": "Billie Holiday",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "miles-davis",
+    "category": "music",
+    "displayName": "Miles Davis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bruce-springsteen",
+    "category": "music",
+    "displayName": "Bruce Springsteen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "billy-joel",
+    "category": "music",
+    "displayName": "Billy Joel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "paul-simon",
+    "category": "music",
+    "displayName": "Paul Simon",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "art-garfunkel",
+    "category": "music",
+    "displayName": "Art Garfunkel",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eric-clapton",
+    "category": "music",
+    "displayName": "Eric Clapton",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jimmy-page",
+    "category": "music",
+    "displayName": "Jimmy Page",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "robert-plant",
+    "category": "music",
+    "displayName": "Robert Plant",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "led-zeppelin",
+    "category": "music",
+    "displayName": "Led Zeppelin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pink-floyd",
+    "category": "music",
+    "displayName": "Pink Floyd",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ac-dc",
+    "category": "music",
+    "displayName": "AC/DC",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "metallica",
+    "category": "music",
+    "displayName": "Metallica",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nirvana",
+    "category": "music",
+    "displayName": "Nirvana",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "guns-n-roses",
+    "category": "music",
+    "displayName": "Guns N' Roses",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "axl-rose",
+    "category": "music",
+    "displayName": "Axl Rose",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "slash",
+    "category": "music",
+    "displayName": "Slash",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kiss",
+    "category": "music",
+    "displayName": "Kiss",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gene-simmons",
+    "category": "music",
+    "displayName": "Gene Simmons",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "alice-cooper",
+    "category": "music",
+    "displayName": "Alice Cooper",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "iron-maiden",
+    "category": "music",
+    "displayName": "Iron Maiden",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rammstein",
+    "category": "music",
+    "displayName": "Rammstein",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "scorpions",
+    "category": "music",
+    "displayName": "Scorpions",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "u2",
+    "category": "music",
+    "displayName": "U2",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "coldplay",
+    "category": "music",
+    "displayName": "Coldplay",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chris-martin",
+    "category": "music",
+    "displayName": "Chris Martin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "linkin-park",
+    "category": "music",
+    "displayName": "Linkin Park",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "red-hot-chili-peppers",
+    "category": "music",
+    "displayName": "Red Hot Chili Peppers",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "green-day",
+    "category": "music",
+    "displayName": "Green Day",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "oasis",
+    "category": "music",
+    "displayName": "Oasis",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "radiohead",
+    "category": "music",
+    "displayName": "Radiohead",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "depeche-mode",
+    "category": "music",
+    "displayName": "Depeche Mode",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "duran-duran",
+    "category": "music",
+    "displayName": "Duran Duran",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "the-police",
+    "category": "music",
+    "displayName": "The Police",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dire-straits",
+    "category": "music",
+    "displayName": "Dire Straits",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mark-knopfler",
+    "category": "music",
+    "displayName": "Mark Knopfler",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bee-gees",
+    "category": "music",
+    "displayName": "Bee Gees",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "boney-m",
+    "category": "music",
+    "displayName": "Boney M.",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "modern-talking",
+    "category": "music",
+    "displayName": "Modern Talking",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "roxette",
+    "category": "music",
+    "displayName": "Roxette",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "a-ha",
+    "category": "music",
+    "displayName": "a-ha",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "spice-girls",
+    "category": "music",
+    "displayName": "Spice Girls",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "backstreet-boys",
+    "category": "music",
+    "displayName": "Backstreet Boys",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "destinys-child",
+    "category": "music",
+    "displayName": "Destiny's Child",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "one-direction",
+    "category": "music",
+    "displayName": "One Direction",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "imagine-dragons",
+    "category": "music",
+    "displayName": "Imagine Dragons",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "maroon-5",
+    "category": "music",
+    "displayName": "Maroon 5",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "adam-levine",
+    "category": "music",
+    "displayName": "Adam Levine",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gwen-stefani",
+    "category": "music",
+    "displayName": "Gwen Stefani",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "avril-lavigne",
+    "category": "music",
+    "displayName": "Avril Lavigne",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "pink",
+    "category": "music",
+    "displayName": "Pink",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sia",
+    "category": "music",
+    "displayName": "Sia",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kylie-minogue",
+    "category": "music",
+    "displayName": "Kylie Minogue",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shania-twain",
+    "category": "music",
+    "displayName": "Shania Twain",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jennifer-lopez",
+    "category": "music",
+    "displayName": "Jennifer Lopez",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "selena-quintanilla",
+    "category": "music",
+    "displayName": "Selena Quintanilla",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "gloria-estefan",
+    "category": "music",
+    "displayName": "Gloria Estefan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marc-anthony",
+    "category": "music",
+    "displayName": "Marc Anthony",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "daddy-yankee",
+    "category": "music",
+    "displayName": "Daddy Yankee",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "luis-fonsi",
+    "category": "music",
+    "displayName": "Luis Fonsi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "j-balvin",
+    "category": "music",
+    "displayName": "J Balvin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "karol-g",
+    "category": "music",
+    "displayName": "Karol G",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "rosalia",
+    "category": "music",
+    "displayName": "Rosalía",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "anitta",
+    "category": "music",
+    "displayName": "Anitta",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "juanes",
+    "category": "music",
+    "displayName": "Juanes",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "carlos-santana",
+    "category": "music",
+    "displayName": "Carlos Santana",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "mylene-farmer",
+    "category": "music",
+    "displayName": "Mylène Farmer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "zaz",
+    "category": "music",
+    "displayName": "Zaz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bjork",
+    "category": "music",
+    "displayName": "Björk",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "enya",
+    "category": "music",
+    "displayName": "Enya",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sinead-oconnor",
+    "category": "music",
+    "displayName": "Sinéad O'Connor",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dolores-oriordan",
+    "category": "music",
+    "displayName": "Dolores O'Riordan",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bryan-adams",
+    "category": "music",
+    "displayName": "Bryan Adams",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "shawn-mendes",
+    "category": "music",
+    "displayName": "Shawn Mendes",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "justin-timberlake",
+    "category": "music",
+    "displayName": "Justin Timberlake",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "usher",
+    "category": "music",
+    "displayName": "Usher",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "chris-brown",
+    "category": "music",
+    "displayName": "Chris Brown",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "50-cent",
+    "category": "music",
+    "displayName": "50 Cent",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dr-dre",
+    "category": "music",
+    "displayName": "Dr. Dre",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ice-cube",
+    "category": "music",
+    "displayName": "Ice Cube",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "notorious-big",
+    "category": "music",
+    "displayName": "Notorious B.I.G.",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kendrick-lamar",
+    "category": "music",
+    "displayName": "Kendrick Lamar",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "travis-scott",
+    "category": "music",
+    "displayName": "Travis Scott",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "post-malone",
+    "category": "music",
+    "displayName": "Post Malone",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "doja-cat",
+    "category": "music",
+    "displayName": "Doja Cat",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sza",
+    "category": "music",
+    "displayName": "SZA",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "olivia-rodrigo",
+    "category": "music",
+    "displayName": "Olivia Rodrigo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sabrina-carpenter",
+    "category": "music",
+    "displayName": "Sabrina Carpenter",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "miley-cyrus",
+    "category": "music",
+    "displayName": "Miley Cyrus",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "demi-lovato",
+    "category": "music",
+    "displayName": "Demi Lovato",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "avicii",
+    "category": "music",
+    "displayName": "Avicii",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "david-guetta",
+    "category": "music",
+    "displayName": "David Guetta",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "calvin-harris",
+    "category": "music",
+    "displayName": "Calvin Harris",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "daft-punk",
+    "category": "music",
+    "displayName": "Daft Punk",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "armin-van-buuren",
+    "category": "music",
+    "displayName": "Armin van Buuren",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "tiesto",
+    "category": "music",
+    "displayName": "Tiësto",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "marshmello",
+    "category": "music",
+    "displayName": "Marshmello",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "skrillex",
+    "category": "music",
+    "displayName": "Skrillex",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "moby",
+    "category": "music",
+    "displayName": "Moby",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "hans-zimmer",
+    "category": "music",
+    "displayName": "Hans Zimmer",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "john-williams",
+    "category": "music",
+    "displayName": "John Williams",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "ennio-morricone",
+    "category": "music",
+    "displayName": "Ennio Morricone",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "andrew-lloyd-webber",
+    "category": "music",
+    "displayName": "Andrew Lloyd Webber",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "yanni",
+    "category": "music",
+    "displayName": "Yanni",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "kenny-g",
+    "category": "music",
+    "displayName": "Kenny G",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lenny-kravitz",
+    "category": "music",
+    "displayName": "Lenny Kravitz",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jon-bon-jovi",
+    "category": "music",
+    "displayName": "Jon Bon Jovi",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "steven-tyler",
+    "category": "music",
+    "displayName": "Steven Tyler",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "aerosmith",
+    "category": "music",
+    "displayName": "Aerosmith",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bon-scott",
+    "category": "music",
+    "displayName": "Bon Scott",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lemmy",
+    "category": "music",
+    "displayName": "Lemmy",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joe-cocker",
+    "category": "music",
+    "displayName": "Joe Cocker",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "leonard-cohen",
+    "category": "music",
+    "displayName": "Leonard Cohen",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "neil-young",
+    "category": "music",
+    "displayName": "Neil Young",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "joni-mitchell",
+    "category": "music",
+    "displayName": "Joni Mitchell",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "janis-joplin",
+    "category": "music",
+    "displayName": "Janis Joplin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "jim-morrison",
+    "category": "music",
+    "displayName": "Jim Morrison",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "roy-orbison",
+    "category": "music",
+    "displayName": "Roy Orbison",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "dean-martin",
+    "category": "music",
+    "displayName": "Dean Martin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "nat-king-cole",
+    "category": "music",
+    "displayName": "Nat King Cole",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bing-crosby",
+    "category": "music",
+    "displayName": "Bing Crosby",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "sammy-davis-jr",
+    "category": "music",
+    "displayName": "Sammy Davis Jr.",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "megan-thee-stallion",
+    "category": "music",
+    "displayName": "Megan Thee Stallion",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lil-nas-x",
+    "category": "music",
+    "displayName": "Lil Nas X",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lizzo",
+    "category": "music",
+    "displayName": "Lizzo",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "halsey",
+    "category": "music",
+    "displayName": "Halsey",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "charli-xcx",
+    "category": "music",
+    "displayName": "Charli XCX",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "lorde",
+    "category": "music",
+    "displayName": "Lorde",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "florence-welch",
+    "category": "music",
+    "displayName": "Florence Welch",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "maneskin",
+    "category": "music",
+    "displayName": "Måneskin",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eurythmics",
+    "category": "music",
+    "displayName": "Eurythmics",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "annie-lennox",
+    "category": "music",
+    "displayName": "Annie Lennox",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "bonnie-tyler",
+    "category": "music",
+    "displayName": "Bonnie Tyler",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "toto-cutugno",
+    "category": "music",
+    "displayName": "Toto Cutugno",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "adriano-celentano",
+    "category": "music",
+    "displayName": "Adriano Celentano",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "eros-ramazzotti",
+    "category": "music",
+    "displayName": "Eros Ramazzotti",
+    "popularityTier": "widely-known"
+  },
+  {
+    "id": "laura-pausini",
+    "category": "music",
+    "displayName": "Laura Pausini",
+    "popularityTier": "widely-known"
   }
 ]

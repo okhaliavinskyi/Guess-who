@@ -17,6 +17,8 @@
     "format:check": "prettier --check .",
     "test": "vitest",
     "content:validate": "tsx scripts/validate-content.ts",
+    "content:build": "tsx scripts/build-bank.ts",
+    "content:images": "NODE_USE_ENV_PROXY=1 tsx scripts/fetch-images.ts",
     "check": "npm run content:validate && npm run lint && npm run typecheck && vitest --run && vite build"
   },
   "dependencies": {
