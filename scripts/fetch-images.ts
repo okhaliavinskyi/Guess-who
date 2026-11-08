@@ -14,6 +14,7 @@
  *
  * Usage: npm run content:images [-- --refresh] [-- --non-free]   (then npm run content:build)
  *   --non-free also fills remaining gaps with the (copyrighted) image Wikipedia uses.
+ *   content-source/image-picks.json pins a specific file for a name.
  */
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped MediaWiki API JSON */
@@ -26,7 +27,7 @@ const REPORT = 'content-source/images-report.txt';
 const UA = 'GuessWhoContentBuilder/1.0 (https://github.com/okhaliavinskyi/guess-who)';
 const THUMB_WIDTH = 500;
 /** Lead images reviewed by hand and rejected (not a picture of the person). */
-const SKIP = new Set(['alexander-fleming']);
+const SKIP = new Set<string>(); // replaced by hand-picks in image-picks.json
 
 export function stripHtml(html: string): string {
   return html
@@ -248,6 +249,29 @@ async function main() {
       const page = anyPages.get(e.wikiTitle);
       const file = page?.file ? anyFiles.get(page.file) : undefined;
       if (file && typeof file !== 'string') out[idOf(e)] = { ...file, alt: altText(e) };
+    }
+  }
+
+  // Hand-picked files (content-source/image-picks.json: display name → file name) win
+  // over everything else. Each is checked on Commons first (free license), then on
+  // English Wikipedia (fair use, credited to the owner).
+  const PICKS = 'content-source/image-picks.json';
+  if (existsSync(PICKS)) {
+    const picks = JSON.parse(readFileSync(PICKS, 'utf8')) as Record<string, string>;
+    const byName = new Map(entries.map((e) => [e.displayName, e]));
+    const files = Object.values(picks);
+    const free = await lookupFiles(files);
+    const nonFreeFiles = files.filter((f) => typeof free.get(f) === 'string');
+    const local = nonFreeFiles.length ? await lookupFiles(nonFreeFiles, true) : new Map();
+    for (const [name, file] of Object.entries(picks)) {
+      const e = byName.get(name);
+      if (!e) {
+        console.warn(`pick for unknown name: ${name}`);
+        continue;
+      }
+      const meta = [free.get(file), local.get(file)].find((m) => m && typeof m !== 'string');
+      if (meta && typeof meta !== 'string') out[idOf(e)] = { ...meta, alt: altText(e) };
+      else console.warn(`pick not found: ${name} → ${file}`);
     }
   }
 

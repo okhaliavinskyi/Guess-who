@@ -43,6 +43,14 @@
     "localeNames": {
       "ru": "Усэйн Болт",
       "uk": "Усейн Болт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Usain_Bolt_portrait.jpg",
+      "alt": "Photo of Usain Bolt",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_portrait.jpg",
+      "creator": "Samsung Belgium",
+      "attribution": "Samsung Belgium, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {

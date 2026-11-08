@@ -195,3 +195,7 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   the fair-use image from their Wikipedia article (`content:images -- --non-free`),
   credited to the rights holder. Images now: 929 of 949 entries;
   201 of 214 fictional characters. All ru/uk names filled (bands stay in Latin).
+- Hand-picked images for the last 20 names (`content-source/image-picks.json`), each
+  checked visually: every one of the 949 names now has an image (test enforces it).
+  Gianni Versace has no free portrait anywhere on Wikimedia, so his entry shows the
+  Versace Medusa logo.

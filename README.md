@@ -32,7 +32,7 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
 ## Features
 
 - **949 people and characters everyone knows**: only names an ordinary person in any country would recognise, 100–214 per category.
-- **Photos for 929 of 949 names.** Real people come from Wikimedia Commons under free
+- **A photo for every name.** Real people come from Wikimedia Commons under free
   licenses. Cartoon and film characters use the copyrighted image from their Wikipedia
   article, credited to the owner. Every photo shows its credit and a link to its source.
 - **English, Русский, Українська**: interface and names. The language follows the
