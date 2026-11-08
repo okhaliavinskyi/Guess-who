@@ -88,7 +88,9 @@ Files: `src/hooks/useScreenWakeLock.ts`, `src/hooks/useFullscreen.ts`,
 ## Phase 5 — QA and release readiness
 
 - `npm run check` = content:validate → lint → typecheck → 99 tests → build: all pass.
-- Prettier clean. CI workflow `.github/workflows/ci.yml` runs the same steps.
+- Prettier clean. A GitHub Actions workflow running the same steps is provided as
+  `docs/ci-workflow.yml` (the session's GitHub token cannot push workflow files; copy it to
+  `.github/workflows/ci.yml` to enable CI).
 - Build: ~248 kB JS (78 kB gzip), 9 kB CSS.
 - Docs: `README.md`, `CONTENT_BANK_HANDOFF.md`, this log. `vercel.json` added.
 
@@ -141,3 +143,4 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
 - Content is demo-only; production bank is a separate session (`CONTENT_BANK_HANDOFF.md`).
 - Dev-only `npm audit` moderate advisory (see Phase 0).
 - Not deployed: no Vercel credentials in this environment.
+- CI workflow not active yet: copy `docs/ci-workflow.yml` to `.github/workflows/ci.yml`.
