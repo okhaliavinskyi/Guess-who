@@ -885,6 +885,14 @@
     "localeNames": {
       "ru": "Папа Франциск",
       "uk": "Папа Франциск"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pope_Francis_Korea_Haemi_Castle_19_%28cropped%29.jpg/500px-Pope_Francis_Korea_Haemi_Castle_19_%28cropped%29.jpg",
+      "alt": "Photo of Pope Francis",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pope_Francis_Korea_Haemi_Castle_19_(cropped).jpg",
+      "creator": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han), CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -1535,6 +1543,14 @@
     "localeNames": {
       "ru": "Аттила",
       "uk": "Аттіла"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Attila_the_Hun_modern_rendition.jpg",
+      "alt": "Photo of Attila",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Attila_the_Hun_modern_rendition.jpg",
+      "creator": "George S. Stuart",
+      "attribution": "George S. Stuart, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -1754,6 +1770,14 @@
     "localeNames": {
       "ru": "Папа Бенедикт XVI",
       "uk": "Папа Бенедикт XVI"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Benedict_XVI_Blessing-1.jpg/500px-Benedict_XVI_Blessing-1.jpg",
+      "alt": "Photo of Pope Benedict XVI",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benedict_XVI_Blessing-1.jpg",
+      "creator": "Pope_Benedict_XVI_Blessing.jpg: Rvin88 derivative work: Jüppsche",
+      "attribution": "Pope_Benedict_XVI_Blessing.jpg: Rvin88 derivative work: Jüppsche, CC BY 3.0, via Wikimedia Commons"
     }
   },
   {

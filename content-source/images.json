@@ -284,7 +284,13 @@
     "creator": "Barcex",
     "attribution": "Barcex, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "alexander-fleming": null,
+  "alexander-fleming": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Professor_Alexander_Fleming_at_work_in_his_laboratory_at_St_Mary%27s_Hospital%2C_London%2C_during_the_Second_World_War._D17801.jpg/500px-Professor_Alexander_Fleming_at_work_in_his_laboratory_at_St_Mary%27s_Hospital%2C_London%2C_during_the_Second_World_War._D17801.jpg",
+    "alt": "Photo of Alexander Fleming",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Professor_Alexander_Fleming_at_work_in_his_laboratory_at_St_Mary%27s_Hospital,_London,_during_the_Second_World_War._D17801.jpg",
+    "creator": "Ministry of Information Photo Division Photographer"
+  },
   "alexander-graham-bell": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/500px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
     "alt": "Photo of Alexander Graham Bell",
@@ -838,7 +844,14 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atahuallpa,_Inca_XIIII_From_Berlin_Ethnologisches_Museum,_Staatliche_Museen,_Berlin,_Germany.png",
     "creator": "anonymous"
   },
-  "attila": null,
+  "attila": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Attila_the_Hun_modern_rendition.jpg",
+    "alt": "Photo of Attila",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Attila_the_Hun_modern_rendition.jpg",
+    "creator": "George S. Stuart",
+    "attribution": "George S. Stuart, CC BY-SA 4.0, via Wikimedia Commons"
+  },
   "audrey-hepburn": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/500px-AudreyKHepburn.jpg",
     "alt": "Photo of Audrey Hepburn",
@@ -1055,7 +1068,13 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/File:Bella_Swan.jpg",
     "attribution": "© rights holder, via Wikipedia"
   },
-  "belle": null,
+  "belle": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d5/Belle_disney.png",
+    "alt": "Image of Belle",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Belle_disney.png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "ben-affleck": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ben_Affleck_at_83rd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Ben_Affleck_at_83rd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
     "alt": "Photo of Ben Affleck",
@@ -1550,7 +1569,13 @@
     "creator": "Box Azteca",
     "attribution": "Box Azteca, CC BY 3.0, via Wikimedia Commons"
   },
-  "captain-america": null,
+  "captain-america": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f4/Captain_America.png",
+    "alt": "Image of Captain America",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Captain_America.png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "captain-haddock": null,
   "captain-hook": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Captain_Hook.PNG/500px-Captain_Hook.PNG",
@@ -3131,7 +3156,14 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_(1-E-939).jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "et": null,
+  "et": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/E.T._figure_at_Madame_Tussauds_London.jpg/500px-E.T._figure_at_Madame_Tussauds_London.jpg",
+    "alt": "Image of E.T.",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:E.T._figure_at_Madame_Tussauds_London.jpg",
+    "creator": "Luke Rauscher",
+    "attribution": "Luke Rauscher, CC BY 2.0, via Wikimedia Commons"
+  },
   "euclid": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Italian_-_Euclid_-_Google_Art_Project.jpg/500px-Italian_-_Euclid_-_Google_Art_Project.jpg",
     "alt": "Photo of Euclid",
@@ -3471,7 +3503,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Friedrich_Schiller_by_Ludovike_Simanowiz.jpg",
     "creator": "Ludovike Simanowiz"
   },
-  "frodo-baggins": null,
+  "frodo-baggins": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4e/Elijah_Wood_as_Frodo_Baggins.png",
+    "alt": "Image of Frodo Baggins",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Elijah_Wood_as_Frodo_Baggins.png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "fyodor-dostoevsky": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/500px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "alt": "Photo of Fyodor Dostoevsky",
@@ -3695,7 +3733,13 @@
     "creator": "Partidul Social Democrat from Romania",
     "attribution": "Partidul Social Democrat from Romania, CC BY 2.0, via Wikimedia Commons"
   },
-  "ghostface": null,
+  "ghostface": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/74/Ghostface_costume_cutout_%28Scream_VI%29.png",
+    "alt": "Image of Ghostface",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Ghostface_costume_cutout_(Scream_VI).png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "gianluigi-buffon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg/500px-Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg",
     "alt": "Photo of Gianluigi Buffon",
@@ -3704,7 +3748,13 @@
     "creator": "MichaelEmilio",
     "attribution": "MichaelEmilio, CC BY 4.0, via Wikimedia Commons"
   },
-  "gianni-versace": null,
+  "gianni-versace": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Versace_old_logo.svg/500px-Versace_old_logo.svg.png",
+    "alt": "Photo of Gianni Versace",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Versace_old_logo.svg",
+    "creator": "Gianni Versace S.p.A."
+  },
   "giannis-antetokounmpo": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg/500px-Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg",
     "alt": "Photo of Giannis Antetokounmpo",
@@ -4563,7 +4613,13 @@
     "creator": "PantherNational",
     "attribution": "PantherNational, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "jack-skellington": null,
+  "jack-skellington": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/Jack_Skellington.png",
+    "alt": "Image of Jack Skellington",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jack_Skellington.png",
+    "attribution": "© Walt Disney Company, via Wikipedia"
+  },
   "jackie-chan": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jackie_Chan.jpg/500px-Jackie_Chan.jpg",
     "alt": "Photo of Jackie Chan",
@@ -4609,7 +4665,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cousteau1972_(cropped).jpg",
     "creator": "Hans Peters for Anefo ."
   },
-  "jafar": null,
+  "jafar": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c3/Jafar%28Disney%29Character.png",
+    "alt": "Image of Jafar",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jafar(Disney)Character.png",
+    "attribution": "© Disney, via Wikipedia"
+  },
   "jair-bolsonaro": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg/500px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg",
     "alt": "Photo of Jair Bolsonaro",
@@ -6233,7 +6295,13 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/File:Lisa_Simpson.png",
     "attribution": "© rights holder, via Wikipedia"
   },
-  "little-prince": null,
+  "little-prince": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/05/Littleprince.JPG",
+    "alt": "Image of Little Prince",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Littleprince.JPG",
+    "attribution": "© Antoine de Saint-Exupéry (1900–1944), via Wikipedia"
+  },
   "little-red-riding-hood": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Little_Red_Riding_Hood_-_J._W._Smith.jpg/500px-Little_Red_Riding_Hood_-_J._W._Smith.jpg",
     "alt": "Image of Little Red Riding Hood",
@@ -6624,7 +6692,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
     "creator": "derivative work by Begoon"
   },
-  "marge-simpson": null,
+  "marge-simpson": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
+    "alt": "Image of Marge Simpson",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Marge_Simpson.png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "margot-robbie": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg/500px-Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg",
     "alt": "Photo of Margot Robbie",
@@ -6862,7 +6936,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mary_Poppins_screen_2_(cropped).jpg",
     "creator": "Disney trailer screenshot"
   },
-  "masha": null,
+  "masha": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Masha_and_the_Bear_2019_stamp_of_Russia_1a.jpg",
+    "alt": "Image of Masha",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masha_and_the_Bear_2019_stamp_of_Russia_1a.jpg",
+    "creator": "A. Povarikhin (Russian: А. Поварихин )"
+  },
   "master-chief": null,
   "matt-damon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MattDamon-byPhilipRomano2.jpg/500px-MattDamon-byPhilipRomano2.jpg",
@@ -8178,7 +8258,13 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/File:Po_from_DreamWorks_Animation%27s_Kung_Fu_Panda.png",
     "attribution": "© DreamWorks Animation, via Wikipedia"
   },
-  "pocahontas": null,
+  "pocahontas": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f2/Pocahontas_Disney.png",
+    "alt": "Image of Pocahontas",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Pocahontas_Disney.png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "pol-pot": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pol_Pot_%28cropped%29.jpg",
     "alt": "Photo of Pol Pot",
@@ -8186,8 +8272,22 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pol_Pot_(cropped).jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "pope-benedict-xvi": null,
-  "pope-francis": null,
+  "pope-benedict-xvi": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Benedict_XVI_Blessing-1.jpg/500px-Benedict_XVI_Blessing-1.jpg",
+    "alt": "Photo of Pope Benedict XVI",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benedict_XVI_Blessing-1.jpg",
+    "creator": "Pope_Benedict_XVI_Blessing.jpg: Rvin88 derivative work: Jüppsche",
+    "attribution": "Pope_Benedict_XVI_Blessing.jpg: Rvin88 derivative work: Jüppsche, CC BY 3.0, via Wikimedia Commons"
+  },
+  "pope-francis": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pope_Francis_Korea_Haemi_Castle_19_%28cropped%29.jpg/500px-Pope_Francis_Korea_Haemi_Castle_19_%28cropped%29.jpg",
+    "alt": "Photo of Pope Francis",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pope_Francis_Korea_Haemi_Castle_19_(cropped).jpg",
+    "creator": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+    "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han), CC BY-SA 2.0, via Wikimedia Commons"
+  },
   "pope-john-paul-ii": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
     "alt": "Photo of Pope John Paul II",
@@ -9794,7 +9894,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
     "creator": "Circle of Titian"
   },
-  "sully": null,
+  "sully": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",
+    "alt": "Image of Sully",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Monsters_Inc.JPG",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "sun-tzu": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
     "alt": "Photo of Sun Tzu",
@@ -9891,7 +9997,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenzing_Norgay_(cropped).jpg",
     "creator": "SAS Scandinavian Airlines"
   },
-  "terminator": null,
+  "terminator": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/T-800_Model_101_%28Arnold_Schwarzenegger%29_T2_1991_cutout.png",
+    "alt": "Image of Terminator",
+    "license": "Non-free (fair use)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:T-800_Model_101_(Arnold_Schwarzenegger)_T2_1991_cutout.png",
+    "attribution": "© rights holder, via Wikipedia"
+  },
   "thanos": {
     "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/Thanos_%28Infobox_image%29.png",
     "alt": "Image of Thanos",
@@ -10331,7 +10443,14 @@
     "creator": "European People's Party",
     "attribution": "European People's Party, CC BY 2.0, via Wikimedia Commons"
   },
-  "usain-bolt": null,
+  "usain-bolt": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Usain_Bolt_portrait.jpg",
+    "alt": "Photo of Usain Bolt",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_portrait.jpg",
+    "creator": "Samsung Belgium",
+    "attribution": "Samsung Belgium, CC BY 2.0, via Wikimedia Commons"
+  },
   "usher": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Usher_Milan_2026.jpg",
     "alt": "Photo of Usher",
@@ -10409,7 +10528,14 @@
     "creator": "Frenchieinportland",
     "attribution": "Frenchieinportland, CC BY 4.0, via Wikimedia Commons"
   },
-  "viggo-mortensen": null,
+  "viggo-mortensen": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Viggo_Mortensen_2012.jpg",
+    "alt": "Photo of Viggo Mortensen",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viggo_Mortensen_2012.jpg",
+    "creator": "Alan Langford",
+    "attribution": "Alan Langford, CC BY-SA 2.0, via Wikimedia Commons"
+  },
   "viktor-orban": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Viktor_Orban_2025_%28cropped%29.jpg",
     "alt": "Photo of Viktor Orbán",

@@ -1445,6 +1445,13 @@
     "localeNames": {
       "ru": "Александр Флеминг",
       "uk": "Александер Флемінг"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Professor_Alexander_Fleming_at_work_in_his_laboratory_at_St_Mary%27s_Hospital%2C_London%2C_during_the_Second_World_War._D17801.jpg/500px-Professor_Alexander_Fleming_at_work_in_his_laboratory_at_St_Mary%27s_Hospital%2C_London%2C_during_the_Second_World_War._D17801.jpg",
+      "alt": "Photo of Alexander Fleming",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Professor_Alexander_Fleming_at_work_in_his_laboratory_at_St_Mary%27s_Hospital,_London,_during_the_Second_World_War._D17801.jpg",
+      "creator": "Ministry of Information Photo Division Photographer"
     }
   },
   {
@@ -2061,6 +2068,13 @@
     "localeNames": {
       "ru": "Джанни Версаче",
       "uk": "Джанні Версаче"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Versace_old_logo.svg/500px-Versace_old_logo.svg.png",
+      "alt": "Photo of Gianni Versace",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Versace_old_logo.svg",
+      "creator": "Gianni Versace S.p.A."
     }
   },
   {

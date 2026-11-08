@@ -1937,6 +1937,14 @@
     "localeNames": {
       "ru": "Вигго Мортенсен",
       "uk": "Вігго Мортенсен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Viggo_Mortensen_2012.jpg",
+      "alt": "Photo of Viggo Mortensen",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viggo_Mortensen_2012.jpg",
+      "creator": "Alan Langford",
+      "attribution": "Alan Langford, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {

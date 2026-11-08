@@ -112,6 +112,10 @@ describe('bank photos', () => {
     }
   });
 
+  it.runIf(production)('has an image for every name', () => {
+    expect(all.filter((c) => !c.image).map((c) => c.id)).toEqual([]);
+  });
+
   it('only uses usable images with full licensing metadata', () => {
     for (const c of withImages) {
       const image = c.image!;

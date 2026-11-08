@@ -161,6 +161,13 @@
     "localeNames": {
       "ru": "Капитан Америка",
       "uk": "Капітан Америка"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f4/Captain_America.png",
+      "alt": "Image of Captain America",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Captain_America.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -360,6 +367,13 @@
     "localeNames": {
       "ru": "Фродо Бэггинс",
       "uk": "Фродо Торбин"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4e/Elijah_Wood_as_Frodo_Baggins.png",
+      "alt": "Image of Frodo Baggins",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Elijah_Wood_as_Frodo_Baggins.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1327,6 +1341,13 @@
     "localeNames": {
       "ru": "Белль",
       "uk": "Белль"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d5/Belle_disney.png",
+      "alt": "Image of Belle",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Belle_disney.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1509,6 +1530,14 @@
     "localeNames": {
       "ru": "Инопланетянин E.T.",
       "uk": "Іншопланетянин E.T."
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/E.T._figure_at_Madame_Tussauds_London.jpg/500px-E.T._figure_at_Madame_Tussauds_London.jpg",
+      "alt": "Image of E.T.",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:E.T._figure_at_Madame_Tussauds_London.jpg",
+      "creator": "Luke Rauscher",
+      "attribution": "Luke Rauscher, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -1519,6 +1548,13 @@
     "localeNames": {
       "ru": "Терминатор",
       "uk": "Термінатор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/T-800_Model_101_%28Arnold_Schwarzenegger%29_T2_1991_cutout.png",
+      "alt": "Image of Terminator",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:T-800_Model_101_(Arnold_Schwarzenegger)_T2_1991_cutout.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -1631,6 +1667,13 @@
     "localeNames": {
       "ru": "Призрачное лицо",
       "uk": "Примарне обличчя"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/74/Ghostface_costume_cutout_%28Scream_VI%29.png",
+      "alt": "Image of Ghostface",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ghostface_costume_cutout_(Scream_VI).png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2016,6 +2059,13 @@
     "localeNames": {
       "ru": "Джафар",
       "uk": "Джафар"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c3/Jafar%28Disney%29Character.png",
+      "alt": "Image of Jafar",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jafar(Disney)Character.png",
+      "attribution": "© Disney, via Wikipedia"
     }
   },
   {
@@ -2043,6 +2093,13 @@
     "localeNames": {
       "ru": "Мардж Симпсон",
       "uk": "Мардж Сімпсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
+      "alt": "Image of Marge Simpson",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Marge_Simpson.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -2580,6 +2637,13 @@
     "localeNames": {
       "ru": "Маленький принц",
       "uk": "Маленький принц"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/05/Littleprince.JPG",
+      "alt": "Image of Little Prince",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Littleprince.JPG",
+      "attribution": "© Antoine de Saint-Exupéry (1900–1944), via Wikipedia"
     }
   },
   {
@@ -3461,6 +3525,13 @@
     "localeNames": {
       "ru": "Маша",
       "uk": "Маша"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Masha_and_the_Bear_2019_stamp_of_Russia_1a.jpg",
+      "alt": "Image of Masha",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masha_and_the_Bear_2019_stamp_of_Russia_1a.jpg",
+      "creator": "A. Povarikhin (Russian: А. Поварихин )"
     }
   },
   {
@@ -3505,6 +3576,13 @@
     "localeNames": {
       "ru": "Покахонтас",
       "uk": "Покахонтас"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f2/Pocahontas_Disney.png",
+      "alt": "Image of Pocahontas",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pocahontas_Disney.png",
+      "attribution": "© rights holder, via Wikipedia"
     }
   },
   {
@@ -3533,6 +3611,13 @@
     "localeNames": {
       "ru": "Джек Скеллингтон",
       "uk": "Джек Скеллінгтон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/Jack_Skellington.png",
+      "alt": "Image of Jack Skellington",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jack_Skellington.png",
+      "attribution": "© Walt Disney Company, via Wikipedia"
     }
   },
   {
@@ -3560,6 +3645,13 @@
     "localeNames": {
       "ru": "Салли",
       "uk": "Саллі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",
+      "alt": "Image of Sully",
+      "license": "Non-free (fair use)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Monsters_Inc.JPG",
+      "attribution": "© rights holder, via Wikipedia"
     }
   }
 ]
