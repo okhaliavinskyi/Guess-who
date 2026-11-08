@@ -34,6 +34,29 @@ describe('character bank', () => {
     expect(new Set(all.map((c) => normalizeName(c.displayName))).size).toBe(all.length);
   });
 
+  it('has unique, clean Russian and Ukrainian names', () => {
+    for (const lang of ['ru', 'uk']) {
+      const seen = new Map<string, string>();
+      for (const c of all) {
+        const name = c.localeNames?.[lang];
+        if (!name) continue;
+        expect(name, `${c.id} ${lang}`).not.toMatch(/[,()«»]|^Список|^Серия|\s{2}/);
+        const key = normalizeName(name);
+        expect(seen.get(key), `${lang} "${name}" used by ${c.id} and ${seen.get(key)}`).toBe(
+          undefined,
+        );
+        seen.set(key, c.id);
+      }
+    }
+  });
+
+  it.runIf(production)('has Russian and Ukrainian names for most entries', () => {
+    for (const lang of ['ru', 'uk']) {
+      const share = all.filter((c) => c.localeNames?.[lang]).length / all.length;
+      expect(share, lang).toBeGreaterThan(0.85);
+    }
+  });
+
   it('has clean display names (no list syntax, brackets or double spaces)', () => {
     for (const c of all) {
       expect(c.displayName, c.id).not.toMatch(/[@*()[\]{}|]|\s{2}|^\s|\s$/);

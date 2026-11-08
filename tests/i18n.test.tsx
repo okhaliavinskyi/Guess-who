@@ -101,3 +101,61 @@ describe('string tables', () => {
     expect(STRINGS.uk.namesInDeck(12)).toBe('12 імен у колоді');
   });
 });
+
+describe('no untranslated UI text', () => {
+  const withPhoto = createBank(
+    CATEGORY_IDS.map((category, i) => ({
+      file: `${category}.json`,
+      category,
+      data: [
+        char(`${category}-p`, category, {
+          displayName: ['Анна', 'Борис', 'Вера', 'Глеб', 'Дарья', 'Егор'][i]!,
+          image: {
+            src: '/images/x.jpg',
+            alt: 'Photo of someone',
+            license: 'CC BY 4.0',
+            creator: 'Автор',
+            sourceUrl: 'https://commons.wikimedia.org/wiki/File:X.jpg',
+          },
+        }),
+      ],
+    })),
+  );
+  // The language switcher (EN / RU / UA, "English") and license names stay Latin.
+  const ALLOWED = /CC BY 4\.0/g;
+
+  function latinText() {
+    const body = document.body.cloneNode(true) as HTMLElement;
+    body.querySelectorAll('.lang-switch').forEach((el) => el.remove());
+    const texts: string[] = [body.textContent ?? ''];
+    for (const el of body.querySelectorAll('[aria-label],[alt],[title],[placeholder]'))
+      for (const attr of ['aria-label', 'alt', 'title', 'placeholder'])
+        texts.push(el.getAttribute(attr) ?? '');
+    return texts
+      .join(' ')
+      .replace(ALLOWED, '')
+      .match(/[A-Za-z]{2,}/g);
+  }
+
+  it.each([
+    ['ru', 'Старт', 'Сменить категорию', 'Своё слово'],
+    ['uk', 'Старт', 'Змінити категорію', 'Своє слово'],
+  ] as const)('%s: every screen is fully translated', (lang, start, change, custom) => {
+    render(<App bank={withPhoto} rng={seededRng(1)} lang={lang} />);
+    expect(latinText()).toBeNull(); // home
+    click(
+      screen.getAllByRole('button', { name: new RegExp(lang === 'ru' ? 'Музыка' : 'Музика') })[0]!,
+    );
+    expect(latinText()).toBeNull(); // ready
+    click(button(start));
+    expect(latinText()).toBeNull(); // countdown
+    act(() => void vi.advanceTimersByTime(5000));
+    expect(latinText()).toBeNull(); // revealed
+    click(screen.getByTestId('character-card'));
+    expect(screen.getByRole('img')).toBeInTheDocument();
+    expect(latinText()).toBeNull(); // photo with credit
+    click(button(change));
+    click(button(new RegExp(custom)));
+    expect(latinText()).toBeNull(); // custom word form
+  });
+});

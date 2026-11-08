@@ -18,7 +18,7 @@ export const LOCALES = ['ru', 'uk'] as const;
 const OUT = 'content-source/locale-names.json';
 const UA = 'GuessWhoContentBuilder/1.0 (https://github.com/okhaliavinskyi/guess-who)';
 
-const PATRONYMIC = /^\p{Lu}\p{Ll}+(ович|евич|ьевич|йович|івна|ївна|овна|евна|ична|інична|ич)$/u;
+const PATRONYMIC = /^\p{Lu}\p{Ll}+(ович|евич|ьевич|йович|івна|ївна|овна|евна|ична|інична|ич|іч)$/u;
 
 /** Converts a ru/uk Wikipedia article title into a natural display name. */
 export function titleToName(title: string): string {
@@ -30,6 +30,32 @@ export function titleToName(title: string): string {
   const words = name.split(/\s+/);
   if (words.length >= 3) name = words.filter((w, i) => i === 0 || !PATRONYMIC.test(w)).join(' ');
   return name.replace(/\s+/g, ' ').trim();
+}
+
+/** Rough cross-alphabet key so "Шевченко" (ru) and "Шевченко" (uk) compare equal. */
+function key(word: string): string {
+  return word
+    .toLowerCase()
+    .replace(/[эє]/g, 'е')
+    .replace(/[ыії]/g, 'и')
+    .replace(/ё/g, 'е')
+    .replace(/[йґ]/g, (c) => (c === 'й' ? 'и' : 'г'))
+    .slice(0, 3);
+}
+
+/**
+ * Ukrainian Wikipedia often titles people "Прізвище Ім'я" without a comma
+ * ("Шевченко Тарас"). When the Russian name has the same surname last, move the
+ * Ukrainian surname to the end as well: "Тарас Шевченко".
+ */
+export function fixUkrainianOrder(ru: string | undefined, uk: string): string {
+  if (!ru) return uk;
+  const r = ru.split(' ');
+  const u = uk.split(' ');
+  if (r.length < 2 || u.length !== r.length) return uk;
+  if (key(u[0]!) === key(r[r.length - 1]!) && key(u[0]!) !== key(r[0]!))
+    return [...u.slice(1), u[0]].join(' ');
+  return uk;
 }
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -82,7 +108,26 @@ async function langLinks(titles: string[], lang: string): Promise<Map<string, st
   return out;
 }
 
+/** Final cleanup applied to every stored name (also runnable offline: --reprocess). */
+function cleanup(result: Record<string, Record<string, string>>) {
+  for (const names of Object.values(result)) {
+    for (const lang of LOCALES) if (names[lang]) names[lang] = titleToName(names[lang]);
+    if (names.uk) names.uk = fixUkrainianOrder(names.ru, names.uk);
+  }
+}
+
+function write(result: Record<string, Record<string, string>>) {
+  const sorted = Object.fromEntries(Object.entries(result).sort(([a], [b]) => a.localeCompare(b)));
+  writeFileSync(OUT, `${JSON.stringify(sorted, null, 2)}\n`);
+}
+
 async function main() {
+  if (process.argv.includes('--reprocess')) {
+    const stored = JSON.parse(readFileSync(OUT, 'utf8'));
+    cleanup(stored);
+    write(stored);
+    return;
+  }
   const entries = readAllSources();
   const titles = [...new Set(entries.map((e) => e.wikiTitle))];
   const result: Record<string, Record<string, string>> = existsSync(OUT)
@@ -97,8 +142,8 @@ async function main() {
       (result[e.displayName] ??= {})[lang] = titleToName(linked);
     }
   }
-  const sorted = Object.fromEntries(Object.entries(result).sort(([a], [b]) => a.localeCompare(b)));
-  writeFileSync(OUT, `${JSON.stringify(sorted, null, 2)}\n`);
+  cleanup(result);
+  write(result);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) void main();

@@ -4,6 +4,10 @@
     "category": "music",
     "displayName": "Michael Jackson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Майкл Джексон",
+      "uk": "Майкл Джексон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/500px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
       "alt": "Photo of Michael Jackson",
@@ -17,6 +21,10 @@
     "category": "music",
     "displayName": "Madonna",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мадонна",
+      "uk": "Мадонна"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/500px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg",
       "alt": "Photo of Madonna",
@@ -31,6 +39,10 @@
     "category": "music",
     "displayName": "Elvis Presley",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Элвис Пресли",
+      "uk": "Елвіс Преслі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/500px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
       "alt": "Photo of Elvis Presley",
@@ -44,6 +56,10 @@
     "category": "music",
     "displayName": "Beyoncé",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Бейонсе",
+      "uk": "Бейонсе"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg/500px-Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg",
       "alt": "Photo of Beyoncé",
@@ -58,6 +74,10 @@
     "category": "music",
     "displayName": "Freddie Mercury",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Фредди Меркьюри",
+      "uk": "Фредді Мерк'юрі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg/500px-Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
       "alt": "Photo of Freddie Mercury",
@@ -72,6 +92,10 @@
     "category": "music",
     "displayName": "John Lennon",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джон Леннон",
+      "uk": "Джон Леннон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
       "alt": "Photo of John Lennon",
@@ -85,6 +109,10 @@
     "category": "music",
     "displayName": "Paul McCartney",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Пол Маккартни",
+      "uk": "Пол Маккартні"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg/500px-MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg",
       "alt": "Photo of Paul McCartney",
@@ -99,6 +127,10 @@
     "category": "music",
     "displayName": "Bob Marley",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Боб Марли",
+      "uk": "Боб Марлі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bob_Marley_circa_1976_%28cropped%29.jpg/500px-Bob_Marley_circa_1976_%28cropped%29.jpg",
       "alt": "Photo of Bob Marley",
@@ -112,6 +144,10 @@
     "category": "music",
     "displayName": "Bob Dylan",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Боб Дилан",
+      "uk": "Боб Ділан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/500px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
       "alt": "Photo of Bob Dylan",
@@ -126,6 +162,10 @@
     "category": "music",
     "displayName": "Elton John",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Элтон Джон",
+      "uk": "Елтон Джон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/500px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg",
       "alt": "Photo of Elton John",
@@ -140,6 +180,10 @@
     "category": "music",
     "displayName": "David Bowie",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дэвид Боуи",
+      "uk": "Девід Боуї"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
       "alt": "Photo of David Bowie",
@@ -154,6 +198,10 @@
     "category": "music",
     "displayName": "Mick Jagger",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мик Джаггер",
+      "uk": "Мік Джаггер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg/500px-RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg",
       "alt": "Photo of Mick Jagger",
@@ -168,6 +216,10 @@
     "category": "music",
     "displayName": "Taylor Swift",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тейлор Свифт",
+      "uk": "Тейлор Свіфт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/500px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
       "alt": "Photo of Taylor Swift",
@@ -182,6 +234,10 @@
     "category": "music",
     "displayName": "Lady Gaga",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Леди Гага",
+      "uk": "Леді Гага"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/500px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
       "alt": "Photo of Lady Gaga",
@@ -196,6 +252,10 @@
     "category": "music",
     "displayName": "Rihanna",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Рианна",
+      "uk": "Ріанна"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/500px-Rihanna_Fenty_2018.png",
       "alt": "Photo of Rihanna",
@@ -210,6 +270,10 @@
     "category": "music",
     "displayName": "Whitney Houston",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Уитни Хьюстон",
+      "uk": "Вітні Г'юстон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/500px-Whitney_Houston_%28cropped3%29.JPEG",
       "alt": "Photo of Whitney Houston",
@@ -223,6 +287,10 @@
     "category": "music",
     "displayName": "Celine Dion",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Селин Дион",
+      "uk": "Селін Діон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/500px-C%C3%A9line_Dion_2012.jpg",
       "alt": "Photo of Celine Dion",
@@ -237,6 +305,10 @@
     "category": "music",
     "displayName": "Frank Sinatra",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Фрэнк Синатра",
+      "uk": "Френк Сінатра"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/500px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg",
       "alt": "Photo of Frank Sinatra",
@@ -250,6 +322,10 @@
     "category": "music",
     "displayName": "Louis Armstrong",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Луи Армстронг",
+      "uk": "Луї Армстронг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Louis_Armstrong_in_Color_%28restored%29.jpg/500px-Louis_Armstrong_in_Color_%28restored%29.jpg",
       "alt": "Photo of Louis Armstrong",
@@ -263,6 +339,10 @@
     "category": "music",
     "displayName": "Ray Charles",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Рэй Чарльз",
+      "uk": "Рей Чарльз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ray_Charles_classic_piano_pose.jpg/500px-Ray_Charles_classic_piano_pose.jpg",
       "alt": "Photo of Ray Charles",
@@ -276,6 +356,10 @@
     "category": "music",
     "displayName": "Stevie Wonder",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Стиви Уандер",
+      "uk": "Стіві Вандер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SWonderBSTHyde060719-72_%28cropped%29.jpg/500px-SWonderBSTHyde060719-72_%28cropped%29.jpg",
       "alt": "Photo of Stevie Wonder",
@@ -290,6 +374,10 @@
     "category": "music",
     "displayName": "Prince",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Принс",
+      "uk": "Прінс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Prince_promo_picture_%281988%3B_cropped_and_retouched%29.png/500px-Prince_promo_picture_%281988%3B_cropped_and_retouched%29.png",
       "alt": "Photo of Prince",
@@ -303,6 +391,10 @@
     "category": "music",
     "displayName": "Tina Turner",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тина Тёрнер",
+      "uk": "Тіна Тернер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tina_Turner_Breaks_All_the_Rules.png/500px-Tina_Turner_Breaks_All_the_Rules.png",
       "alt": "Photo of Tina Turner",
@@ -316,6 +408,10 @@
     "category": "music",
     "displayName": "Aretha Franklin",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Арета Франклин",
+      "uk": "Арета Франклін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aretha_Franklin_1968.jpg/500px-Aretha_Franklin_1968.jpg",
       "alt": "Photo of Aretha Franklin",
@@ -329,6 +425,10 @@
     "category": "music",
     "displayName": "Britney Spears",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Бритни Спирс",
+      "uk": "Брітні Спірс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg/500px-Britney_Spears_2013_%28Straighten_Crop%29.jpg",
       "alt": "Photo of Britney Spears",
@@ -343,6 +443,10 @@
     "category": "music",
     "displayName": "Justin Bieber",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джастин Бибер",
+      "uk": "Джастін Бібер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg/500px-P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg",
       "alt": "Photo of Justin Bieber",
@@ -356,6 +460,10 @@
     "category": "music",
     "displayName": "Adele",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Адель",
+      "uk": "Адель"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/500px-Adele_2016.jpg",
       "alt": "Photo of Adele",
@@ -370,6 +478,10 @@
     "category": "music",
     "displayName": "Ed Sheeran",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эд Ширан",
+      "uk": "Ед Ширан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ed_Sheeran_2022_%283x4_crop%29.jpg/500px-Ed_Sheeran_2022_%283x4_crop%29.jpg",
       "alt": "Photo of Ed Sheeran",
@@ -384,6 +496,10 @@
     "category": "music",
     "displayName": "Shakira",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шакира",
+      "uk": "Шакіра"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
       "alt": "Photo of Shakira",
@@ -398,6 +514,10 @@
     "category": "music",
     "displayName": "Eminem",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эминем",
+      "uk": "Емінем"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eminem_2021_Color_Corrected.jpg/500px-Eminem_2021_Color_Corrected.jpg",
       "alt": "Photo of Eminem",
@@ -411,6 +531,10 @@
     "category": "music",
     "displayName": "Kurt Cobain",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Курт Кобейн",
+      "uk": "Курт Кобейн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg",
       "alt": "Photo of Kurt Cobain",
@@ -425,6 +549,10 @@
     "category": "music",
     "displayName": "Jimi Hendrix",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джими Хендрикс",
+      "uk": "Джимі Гендрікс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg/500px-Jimi_Hendrix_%281967%29_%28cropped%29.jpg",
       "alt": "Photo of Jimi Hendrix",
@@ -438,6 +566,10 @@
     "category": "music",
     "displayName": "Johnny Cash",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джонни Кэш",
+      "uk": "Джонні Кеш"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/500px-Johnny_Cash_1977.jpg",
       "alt": "Photo of Johnny Cash",
@@ -451,6 +583,10 @@
     "category": "music",
     "displayName": "Dolly Parton",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Долли Партон",
+      "uk": "Доллі Партон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Young-Dolly-Parton_%28higher_quality_scan%29_%28cropped%29.jpg/500px-Young-Dolly-Parton_%28higher_quality_scan%29_%28cropped%29.jpg",
       "alt": "Photo of Dolly Parton",
@@ -464,6 +600,10 @@
     "category": "music",
     "displayName": "Cher",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шер",
+      "uk": "Шер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cher_in_2019_cropped.jpg/500px-Cher_in_2019_cropped.jpg",
       "alt": "Photo of Cher",
@@ -532,6 +672,10 @@
     "category": "music",
     "displayName": "Ozzy Osbourne",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Оззи Осборн",
+      "uk": "Оззі Осборн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ozzy_Osbourne_in_1970_%28medium-sized_crop%29.jpg/500px-Ozzy_Osbourne_in_1970_%28medium-sized_crop%29.jpg",
       "alt": "Photo of Ozzy Osbourne",
@@ -545,6 +689,10 @@
     "category": "music",
     "displayName": "Bruno Mars",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Бруно Марс",
+      "uk": "Бруно Марс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/500px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg",
       "alt": "Photo of Bruno Mars",
@@ -559,6 +707,10 @@
     "category": "music",
     "displayName": "Billie Eilish",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Билли Айлиш",
+      "uk": "Біллі Айліш"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg/500px-BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg",
       "alt": "Photo of Billie Eilish",
@@ -573,6 +725,10 @@
     "category": "music",
     "displayName": "Ariana Grande",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ариана Гранде",
+      "uk": "Аріана Гранде"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg/500px-Ariana_Grande_promoting_Wicked_%282024%29.jpg",
       "alt": "Photo of Ariana Grande",
@@ -587,6 +743,10 @@
     "category": "music",
     "displayName": "Katy Perry",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Кэти Перри",
+      "uk": "Кеті Перрі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Katy_Perry_2026_Tribeca_Film_Festival_%28cropped_1%29.jpg/500px-Katy_Perry_2026_Tribeca_Film_Festival_%28cropped_1%29.jpg",
       "alt": "Photo of Katy Perry",
@@ -615,6 +775,10 @@
     "category": "music",
     "displayName": "Kanye West",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Канье Уэст",
+      "uk": "Каньє Вест"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/500px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg",
       "alt": "Photo of Kanye West",
@@ -642,6 +806,10 @@
     "category": "music",
     "displayName": "Tupac Shakur",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тупак Шакур",
+      "uk": "Тупак Шакур"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tupac_Shakur_in_1995.jpg/500px-Tupac_Shakur_in_1995.jpg",
       "alt": "Photo of Tupac Shakur",
@@ -655,6 +823,10 @@
     "category": "music",
     "displayName": "Mariah Carey",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мэрайя Кэри",
+      "uk": "Мерая Кері"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mariah_Carey_Library_of_Congress_2023_1_Cropped_3.png",
       "alt": "Photo of Mariah Carey",
@@ -668,6 +840,10 @@
     "category": "music",
     "displayName": "Sting",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Стинг",
+      "uk": "Стінг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sting_at_2026_Montreux_Jazz_Festival-12-CA_%28cropped%29.jpg/500px-Sting_at_2026_Montreux_Jazz_Festival-12-CA_%28cropped%29.jpg",
       "alt": "Photo of Sting",
@@ -682,6 +858,10 @@
     "category": "music",
     "displayName": "Bono",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Боно",
+      "uk": "Боно"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bono_singing_in_Indianapolis_on_Joshua_Tree_Tour_2017_9-10-17.jpg/500px-Bono_singing_in_Indianapolis_on_Joshua_Tree_Tour_2017_9-10-17.jpg",
       "alt": "Photo of Bono",
@@ -696,6 +876,10 @@
     "category": "music",
     "displayName": "Ringo Starr",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ринго Старр",
+      "uk": "Рінго Старр"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg/500px-ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg",
       "alt": "Photo of Ringo Starr",
@@ -710,6 +894,10 @@
     "category": "music",
     "displayName": "George Michael",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джордж Майкл",
+      "uk": "Джордж Майкл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Michael.jpeg/500px-George_Michael.jpeg",
       "alt": "Photo of George Michael",
@@ -723,6 +911,10 @@
     "category": "music",
     "displayName": "Amy Winehouse",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эми Уайнхаус",
+      "uk": "Емі Вайнгауз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Amy_Winehouse_f4962007_crop.jpg/500px-Amy_Winehouse_f4962007_crop.jpg",
       "alt": "Photo of Amy Winehouse",
@@ -737,6 +929,10 @@
     "category": "music",
     "displayName": "Lana Del Rey",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Лана Дель Рей",
+      "uk": "Лана Дель Рей"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/LanaDRPrimavera310524_%2832_of_147%29_%2853765476960%29_%28cropped%29.jpg/500px-LanaDRPrimavera310524_%2832_of_147%29_%2853765476960%29_%28cropped%29.jpg",
       "alt": "Photo of Lana Del Rey",
@@ -751,6 +947,10 @@
     "category": "music",
     "displayName": "Dua Lipa",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дуа Липа",
+      "uk": "Дуа Ліпа"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dua_Lipa-69798_%28cropped%29.jpg/500px-Dua_Lipa-69798_%28cropped%29.jpg",
       "alt": "Photo of Dua Lipa",
@@ -779,6 +979,10 @@
     "category": "music",
     "displayName": "Drake",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дрейк",
+      "uk": "Дрейк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg/500px-Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg",
       "alt": "Photo of Drake",
@@ -793,6 +997,10 @@
     "category": "music",
     "displayName": "Pharrell Williams",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Фаррелл Уильямс",
+      "uk": "Фаррелл Вільямс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pharrell_Williams_2024_%2854133384149%29.jpg/500px-Pharrell_Williams_2024_%2854133384149%29.jpg",
       "alt": "Photo of Pharrell Williams",
@@ -807,6 +1015,10 @@
     "category": "music",
     "displayName": "Christina Aguilera",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Кристина Агилера",
+      "uk": "Крістіна Агілера"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Christina_Aguilera_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851440742748%29_%28cropped3%29.jpg/500px-Christina_Aguilera_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851440742748%29_%28cropped3%29.jpg",
       "alt": "Photo of Christina Aguilera",
@@ -821,6 +1033,10 @@
     "category": "music",
     "displayName": "Jennifer Hudson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дженнифер Хадсон",
+      "uk": "Дженніфер Гадсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jennifer_Hudson_at_MVAAFF_2025_%28cropped%29.jpg/500px-Jennifer_Hudson_at_MVAAFF_2025_%28cropped%29.jpg",
       "alt": "Photo of Jennifer Hudson",
@@ -835,6 +1051,10 @@
     "category": "music",
     "displayName": "Alicia Keys",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Алиша Киз",
+      "uk": "Аліша Кіз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alicia_Keys_%282025%29.jpg/500px-Alicia_Keys_%282025%29.jpg",
       "alt": "Photo of Alicia Keys",
@@ -849,6 +1069,10 @@
     "category": "music",
     "displayName": "Nicki Minaj",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ники Минаж",
+      "uk": "Нікі Мінаж"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nicki_Minaj_%2855022495106%29_%28cropped%29.jpg/500px-Nicki_Minaj_%2855022495106%29_%28cropped%29.jpg",
       "alt": "Photo of Nicki Minaj",
@@ -863,6 +1087,9 @@
     "category": "music",
     "displayName": "Cardi B",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Карди Би"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg/500px-Cardi_B_at_2026_Essence_Festival_of_Culture_02_%28cropped%29_%28cropped%29.jpg",
       "alt": "Photo of Cardi B",
@@ -877,6 +1104,10 @@
     "category": "music",
     "displayName": "Harry Styles",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гарри Стайлз",
+      "uk": "Гаррі Стайлс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/500px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg",
       "alt": "Photo of Harry Styles",
@@ -891,6 +1122,10 @@
     "category": "music",
     "displayName": "Ricky Martin",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Рики Мартин",
+      "uk": "Рікі Мартін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ricky_Martin-4262.jpg/500px-Ricky_Martin-4262.jpg",
       "alt": "Photo of Ricky Martin",
@@ -905,6 +1140,10 @@
     "category": "music",
     "displayName": "Enrique Iglesias",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Энрике Иглесиас",
+      "uk": "Енріке Іглесіас"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Enrique_Iglesias_2011%2C_2_%28cropped%29.jpg/500px-Enrique_Iglesias_2011%2C_2_%28cropped%29.jpg",
       "alt": "Photo of Enrique Iglesias",
@@ -919,6 +1158,10 @@
     "category": "music",
     "displayName": "Julio Iglesias",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Хулио Иглесиас",
+      "uk": "Хуліо Іглесіас"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Julio_Iglesias09.jpg/500px-Julio_Iglesias09.jpg",
       "alt": "Photo of Julio Iglesias",
@@ -932,6 +1175,10 @@
     "category": "music",
     "displayName": "Luciano Pavarotti",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Лучано Паваротти",
+      "uk": "Лучано Паваротті"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Luciano_Pavarotti_2004.jpg/500px-Luciano_Pavarotti_2004.jpg",
       "alt": "Photo of Luciano Pavarotti",
@@ -946,6 +1193,10 @@
     "category": "music",
     "displayName": "Andrea Bocelli",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Андреа Бочелли",
+      "uk": "Андреа Бочеллі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2025_Andrea_Bocelli_in_the_White_House_Oval_Office_on_October_17_%28cropped%29.jpg",
       "alt": "Photo of Andrea Bocelli",
@@ -959,6 +1210,10 @@
     "category": "music",
     "displayName": "Édith Piaf",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эдит Пиаф",
+      "uk": "Едіт Піаф"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Piaf_Harcourt_1946_2.jpg",
       "alt": "Photo of Édith Piaf",
@@ -972,6 +1227,10 @@
     "category": "music",
     "displayName": "Charles Aznavour",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шарль Азнавур",
+      "uk": "Шарль Азнавур"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charles_Aznavour_1961.jpg/500px-Charles_Aznavour_1961.jpg",
       "alt": "Photo of Charles Aznavour",
@@ -999,6 +1258,10 @@
     "category": "music",
     "displayName": "PSY",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Psy",
+      "uk": "Psy"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PSY_EMTV_logo_27_%288198008711%29.jpg/500px-PSY_EMTV_logo_27_%288198008711%29.jpg",
       "alt": "Photo of PSY",
@@ -1026,6 +1289,10 @@
     "category": "music",
     "displayName": "BLACKPINK",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Blackpink",
+      "uk": "Blackpink"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/20240809_Blackpink_Pink_Carpet_09.png/500px-20240809_Blackpink_Pink_Carpet_09.png",
       "alt": "Photo of BLACKPINK",
@@ -1040,6 +1307,9 @@
     "category": "music",
     "displayName": "Bad Bunny",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Бэд Банни"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/500px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
       "alt": "Photo of Bad Bunny",
@@ -1054,6 +1324,10 @@
     "category": "music",
     "displayName": "Elvis Costello",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Элвис Костелло",
+      "uk": "Елвіс Костелло"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Elvis_Costello_%2851409611378%29.jpg/500px-Elvis_Costello_%2851409611378%29.jpg",
       "alt": "Photo of Elvis Costello",
@@ -1068,6 +1342,10 @@
     "category": "music",
     "displayName": "Robbie Williams",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Робби Уильямс",
+      "uk": "Роббі Вільямс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Robbie_Williams_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/500px-Robbie_Williams_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Robbie Williams",
@@ -1082,6 +1360,10 @@
     "category": "music",
     "displayName": "Tom Jones",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Том Джонс",
+      "uk": "Том Джонс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sir_Tom_Jones_at_The_Queen%27s_Birthday_Party_%28cropped-2%29.jpg",
       "alt": "Photo of Tom Jones",
@@ -1096,6 +1378,10 @@
     "category": "music",
     "displayName": "Rod Stewart",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Род Стюарт",
+      "uk": "Род Стюарт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rod_Stewart_at_Coca-Cola_Amphitheater%2C_Birmingham%2C_Alabama_2025.jpg/500px-Rod_Stewart_at_Coca-Cola_Amphitheater%2C_Birmingham%2C_Alabama_2025.jpg",
       "alt": "Photo of Rod Stewart",
@@ -1110,6 +1396,10 @@
     "category": "music",
     "displayName": "Phil Collins",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Фил Коллинз",
+      "uk": "Філ Коллінз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Phil_Collins%2C_2025_for_%22Eras%22_%28cropped%29.jpg/500px-Phil_Collins%2C_2025_for_%22Eras%22_%28cropped%29.jpg",
       "alt": "Photo of Phil Collins",
@@ -1124,6 +1414,10 @@
     "category": "music",
     "displayName": "Lionel Richie",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лайонел Ричи",
+      "uk": "Лайонел Річі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lionel_Richie_2022_%2851930307118%29_%28cropped%29.jpg/500px-Lionel_Richie_2022_%2851930307118%29_%28cropped%29.jpg",
       "alt": "Photo of Lionel Richie",
@@ -1137,6 +1431,10 @@
     "category": "music",
     "displayName": "Diana Ross",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дайана Росс",
+      "uk": "Даяна Росс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DRossLongleat010722_%289_of_43%29_%2852189231585%29_%28cropped%29.jpg/500px-DRossLongleat010722_%289_of_43%29_%2852189231585%29_%28cropped%29.jpg",
       "alt": "Photo of Diana Ross",
@@ -1151,6 +1449,10 @@
     "category": "music",
     "displayName": "Janet Jackson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джанет Джексон",
+      "uk": "Джанет Джексон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/JanetJacksonUnbreakableTourSanFran2015_%28cropped%29.jpg/500px-JanetJacksonUnbreakableTourSanFran2015_%28cropped%29.jpg",
       "alt": "Photo of Janet Jackson",
@@ -1165,6 +1467,10 @@
     "category": "music",
     "displayName": "Barbra Streisand",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Барбра Стрейзанд",
+      "uk": "Барбра Стрейзанд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg/500px-Barbra_Streisand_with_Francis_Collins_and_Anthony_Fauci_%2827806589237%29_%28cropped%29.jpg",
       "alt": "Photo of Barbra Streisand",
@@ -1178,6 +1484,10 @@
     "category": "music",
     "displayName": "Liza Minnelli",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лайза Миннелли",
+      "uk": "Лайза Міннеллі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Liza_Minnelli.jpg",
       "alt": "Photo of Liza Minnelli",
@@ -1192,6 +1502,10 @@
     "category": "music",
     "displayName": "Chuck Berry",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чак Берри",
+      "uk": "Чак Беррі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/500px-Chuck_Berry_1957.jpg",
       "alt": "Photo of Chuck Berry",
@@ -1205,6 +1519,10 @@
     "category": "music",
     "displayName": "Little Richard",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Литл Ричард",
+      "uk": "Літл Річард"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Little_Richard_1984_%28cropped%29.jpg/500px-Little_Richard_1984_%28cropped%29.jpg",
       "alt": "Photo of Little Richard",
@@ -1219,6 +1537,10 @@
     "category": "music",
     "displayName": "Jerry Lee Lewis",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джерри Ли Льюис",
+      "uk": "Джеррі Лі Льюїс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg/500px-Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg",
       "alt": "Photo of Jerry Lee Lewis",
@@ -1232,6 +1554,10 @@
     "category": "music",
     "displayName": "Buddy Holly",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бадди Холли",
+      "uk": "Бадді Голлі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Buddy_Holly_Brunswick_Records.jpg/500px-Buddy_Holly_Brunswick_Records.jpg",
       "alt": "Photo of Buddy Holly",
@@ -1245,6 +1571,10 @@
     "category": "music",
     "displayName": "James Brown",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джеймс Браун",
+      "uk": "Джеймс Браун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/James_Brown_1996_%28HQ%29.jpg/500px-James_Brown_1996_%28HQ%29.jpg",
       "alt": "Photo of James Brown",
@@ -1259,6 +1589,10 @@
     "category": "music",
     "displayName": "Marvin Gaye",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марвин Гэй",
+      "uk": "Марвін Ґей"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marvin_Gaye_in_1973.jpg/500px-Marvin_Gaye_in_1973.jpg",
       "alt": "Photo of Marvin Gaye",
@@ -1272,6 +1606,10 @@
     "category": "music",
     "displayName": "Nina Simone",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нина Симон",
+      "uk": "Ніна Сімон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nina_Simone_-1969.jpg/500px-Nina_Simone_-1969.jpg",
       "alt": "Photo of Nina Simone",
@@ -1286,6 +1624,10 @@
     "category": "music",
     "displayName": "Ella Fitzgerald",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Элла Фицджеральд",
+      "uk": "Елла Фіцджеральд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ella_Fitzgerald_6_%28cropped%29.jpg/500px-Ella_Fitzgerald_6_%28cropped%29.jpg",
       "alt": "Photo of Ella Fitzgerald",
@@ -1299,6 +1641,10 @@
     "category": "music",
     "displayName": "Billie Holiday",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Билли Холидей",
+      "uk": "Біллі Голідей"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg/500px-Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg",
       "alt": "Photo of Billie Holiday",
@@ -1312,6 +1658,10 @@
     "category": "music",
     "displayName": "Miles Davis",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майлз Дэвис",
+      "uk": "Майлз Девіс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Miles_Davis_by_Palumbo_cropped.jpg/500px-Miles_Davis_by_Palumbo_cropped.jpg",
       "alt": "Photo of Miles Davis",
@@ -1326,6 +1676,10 @@
     "category": "music",
     "displayName": "Bruce Springsteen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Брюс Спрингстин",
+      "uk": "Брюс Спрінгстін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg/500px-Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg",
       "alt": "Photo of Bruce Springsteen",
@@ -1340,6 +1694,10 @@
     "category": "music",
     "displayName": "Billy Joel",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Билли Джоэл",
+      "uk": "Біллі Джоел"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BillyJoelHydeP070723_%2857_of_112%29_%2853031688782%29_%28cropped%29.jpg/500px-BillyJoelHydeP070723_%2857_of_112%29_%2853031688782%29_%28cropped%29.jpg",
       "alt": "Photo of Billy Joel",
@@ -1354,6 +1712,10 @@
     "category": "music",
     "displayName": "Paul Simon",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пол Саймон",
+      "uk": "Пол Саймон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Paul_Simon_at_the_9-30_Club_%28b%29.jpg/500px-Paul_Simon_at_the_9-30_Club_%28b%29.jpg",
       "alt": "Photo of Paul Simon",
@@ -1368,6 +1730,10 @@
     "category": "music",
     "displayName": "Art Garfunkel",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Арт Гарфанкел",
+      "uk": "Арт Гарфанкел"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ArtGarfunkelPall230717-17_%28cropped%29.jpg/500px-ArtGarfunkelPall230717-17_%28cropped%29.jpg",
       "alt": "Photo of Art Garfunkel",
@@ -1382,6 +1748,10 @@
     "category": "music",
     "displayName": "Eric Clapton",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эрик Клэптон",
+      "uk": "Ерік Клептон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ClaptonGingerEventim170220-38_%28cropped%29.jpg/500px-ClaptonGingerEventim170220-38_%28cropped%29.jpg",
       "alt": "Photo of Eric Clapton",
@@ -1396,6 +1766,10 @@
     "category": "music",
     "displayName": "Jimmy Page",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джимми Пейдж",
+      "uk": "Джиммі Пейдж"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg/500px-Jimmy_Page_at_the_Echo_music_award_2013.jpg",
       "alt": "Photo of Jimmy Page",
@@ -1410,6 +1784,10 @@
     "category": "music",
     "displayName": "Robert Plant",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Роберт Плант",
+      "uk": "Роберт Плант"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg/500px-RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg",
       "alt": "Photo of Robert Plant",
@@ -1484,6 +1862,9 @@
     "category": "music",
     "displayName": "Guns N' Roses",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Guns N’ Roses"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GNR_Belgrade_2025_05_%28cropped%29.jpg/500px-GNR_Belgrade_2025_05_%28cropped%29.jpg",
       "alt": "Photo of Guns N' Roses",
@@ -1497,6 +1878,10 @@
     "category": "music",
     "displayName": "Axl Rose",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эксл Роуз",
+      "uk": "Ексл Роуз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Glasto2023_%28239_of_468%29_%2853009325175%29_%28cropped%29.jpg/500px-Glasto2023_%28239_of_468%29_%2853009325175%29_%28cropped%29.jpg",
       "alt": "Photo of Axl Rose",
@@ -1511,6 +1896,10 @@
     "category": "music",
     "displayName": "Slash",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Слэш",
+      "uk": "Слеш"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Slash_live_in_London_2022_%28Cropped_-_upright%29.jpg/500px-Slash_live_in_London_2022_%28Cropped_-_upright%29.jpg",
       "alt": "Photo of Slash",
@@ -1538,6 +1927,10 @@
     "category": "music",
     "displayName": "Gene Simmons",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джин Симмонс",
+      "uk": "Джин Сіммонс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gene_Simmons_-_Wacken_Open_Air_2024_05_%28cropped%29.jpg/500px-Gene_Simmons_-_Wacken_Open_Air_2024_05_%28cropped%29.jpg",
       "alt": "Photo of Gene Simmons",
@@ -1552,6 +1945,10 @@
     "category": "music",
     "displayName": "Alice Cooper",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Элис Купер",
+      "uk": "Еліс Купер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024_Alice_Cooper_-_by_2eight_-_9SC8435.jpg/500px-2024_Alice_Cooper_-_by_2eight_-_9SC8435.jpg",
       "alt": "Photo of Alice Cooper",
@@ -1635,6 +2032,10 @@
     "category": "music",
     "displayName": "Chris Martin",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Крис Мартин",
+      "uk": "Кріс Мартін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ChrisMartinManch030623_%28cropped%29.jpg/500px-ChrisMartinManch030623_%28cropped%29.jpg",
       "alt": "Photo of Chris Martin",
@@ -1773,6 +2174,10 @@
     "category": "music",
     "displayName": "Mark Knopfler",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марк Нопфлер",
+      "uk": "Марк Нопфлер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mar-Knopfler-Pensa-Blue.jpg/500px-Mar-Knopfler-Pensa-Blue.jpg",
       "alt": "Photo of Mark Knopfler",
@@ -1840,6 +2245,10 @@
     "category": "music",
     "displayName": "a-ha",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "A-ha",
+      "uk": "A-ha"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A-haVistalegre19.JPG/500px-A-haVistalegre19.JPG",
       "alt": "Photo of a-ha",
@@ -1881,6 +2290,9 @@
     "category": "music",
     "displayName": "Destiny's Child",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Destiny’s Child"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg/500px-Destiny_Child_at_Super_Bowl_XLVII_halftime_show.jpg",
       "alt": "Photo of Destiny's Child",
@@ -1936,6 +2348,10 @@
     "category": "music",
     "displayName": "Adam Levine",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Адам Левин",
+      "uk": "Адам Левін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Maroon_5_11_19_2016_-58_%2831101308922%29_%28cropped%29.jpg/500px-Maroon_5_11_19_2016_-58_%2831101308922%29_%28cropped%29.jpg",
       "alt": "Photo of Adam Levine",
@@ -1950,6 +2366,10 @@
     "category": "music",
     "displayName": "Gwen Stefani",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гвен Стефани",
+      "uk": "Гвен Стефані"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Barack_Obama_and_Gwen_Stefani_State_Dinner_performance_%28cropped%29_%28cropped%29.jpg/500px-Barack_Obama_and_Gwen_Stefani_State_Dinner_performance_%28cropped%29_%28cropped%29.jpg",
       "alt": "Photo of Gwen Stefani",
@@ -1963,6 +2383,10 @@
     "category": "music",
     "displayName": "Avril Lavigne",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аврил Лавин",
+      "uk": "Авріл Лавін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/500px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg",
       "alt": "Photo of Avril Lavigne",
@@ -1977,6 +2401,9 @@
     "category": "music",
     "displayName": "Pink",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пинк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg/500px-PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg",
       "alt": "Photo of Pink",
@@ -1991,6 +2418,9 @@
     "category": "music",
     "displayName": "Sia",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сиа"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sia_%28cropped_2%29.jpg/500px-Sia_%28cropped_2%29.jpg",
       "alt": "Photo of Sia",
@@ -2005,6 +2435,10 @@
     "category": "music",
     "displayName": "Kylie Minogue",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кайли Миноуг",
+      "uk": "Кайлі Міноуг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/KylieMinogue-byPhilipRomano.jpg/500px-KylieMinogue-byPhilipRomano.jpg",
       "alt": "Photo of Kylie Minogue",
@@ -2019,6 +2453,10 @@
     "category": "music",
     "displayName": "Shania Twain",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шанайя Твейн",
+      "uk": "Шаная Твейн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Shania_Twain_Glaston2024_2806_300624_%2822_of_173%29_%2853838020769%29_%28cropped%29.jpg/500px-Shania_Twain_Glaston2024_2806_300624_%2822_of_173%29_%2853838020769%29_%28cropped%29.jpg",
       "alt": "Photo of Shania Twain",
@@ -2033,6 +2471,10 @@
     "category": "music",
     "displayName": "Jennifer Lopez",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дженнифер Лопес",
+      "uk": "Дженніфер Лопес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg/500px-Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg",
       "alt": "Photo of Jennifer Lopez",
@@ -2047,6 +2489,10 @@
     "category": "music",
     "displayName": "Selena Quintanilla",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Селена",
+      "uk": "Селена Кінтанілья-Перес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Selena_Quintanilla_1986.png/500px-Selena_Quintanilla_1986.png",
       "alt": "Photo of Selena Quintanilla",
@@ -2060,6 +2506,10 @@
     "category": "music",
     "displayName": "Gloria Estefan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Глория Эстефан",
+      "uk": "Глорія Естефан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gloria_Estefan_in_2017.jpg/500px-Gloria_Estefan_in_2017.jpg",
       "alt": "Photo of Gloria Estefan",
@@ -2073,6 +2523,10 @@
     "category": "music",
     "displayName": "Marc Anthony",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марк Энтони",
+      "uk": "Марк Ентоні"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Interview_with_Marc_Anthony_%28cropped%29.png/500px-Interview_with_Marc_Anthony_%28cropped%29.png",
       "alt": "Photo of Marc Anthony",
@@ -2087,6 +2541,10 @@
     "category": "music",
     "displayName": "Daddy Yankee",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэдди Янки",
+      "uk": "Дедді Янкі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daddy_Yankee_-_The_Kingdom_%28Official_Q_%26_A%29.png",
       "alt": "Photo of Daddy Yankee",
@@ -2101,6 +2559,10 @@
     "category": "music",
     "displayName": "Luis Fonsi",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Луис Фонси",
+      "uk": "Луїс Фонсі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Luis_Fonsi_2015_%28cropped%29.JPG/500px-Luis_Fonsi_2015_%28cropped%29.JPG",
       "alt": "Photo of Luis Fonsi",
@@ -2115,6 +2577,9 @@
     "category": "music",
     "displayName": "J Balvin",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джей Бальвин"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg/500px-J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg",
       "alt": "Photo of J Balvin",
@@ -2129,6 +2594,9 @@
     "category": "music",
     "displayName": "Karol G",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кароль Джи"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg",
       "alt": "Photo of Karol G",
@@ -2143,6 +2611,10 @@
     "category": "music",
     "displayName": "Rosalía",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Розалия",
+      "uk": "Розалія"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg",
       "alt": "Photo of Rosalía",
@@ -2157,6 +2629,9 @@
     "category": "music",
     "displayName": "Anitta",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Анитта"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Anitta_for_Attractive_Mindset_podcast_02.jpg",
       "alt": "Photo of Anitta",
@@ -2171,6 +2646,10 @@
     "category": "music",
     "displayName": "Juanes",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хуанес",
+      "uk": "Хуанес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg",
       "alt": "Photo of Juanes",
@@ -2185,6 +2664,10 @@
     "category": "music",
     "displayName": "Carlos Santana",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Карлос Сантана",
+      "uk": "Карлос Сантана"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg/500px-Santana_Acer_Arena_%285558151833%29_%28cropped%29.jpg",
       "alt": "Photo of Carlos Santana",
@@ -2199,6 +2682,10 @@
     "category": "music",
     "displayName": "Mylène Farmer",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Милен Фармер",
+      "uk": "Мілен Фармер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Myl%C3%A8ne_farmer_Live_2019_%28cropped%29.jpg/500px-Myl%C3%A8ne_farmer_Live_2019_%28cropped%29.jpg",
       "alt": "Photo of Mylène Farmer",
@@ -2227,6 +2714,10 @@
     "category": "music",
     "displayName": "Björk",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бьорк",
+      "uk": "Б'єрк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bjork_Orkestral_Paris_%28cropped%29.png/500px-Bjork_Orkestral_Paris_%28cropped%29.png",
       "alt": "Photo of Björk",
@@ -2241,6 +2732,10 @@
     "category": "music",
     "displayName": "Enya",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эния",
+      "uk": "Енія"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Enya_-_The_Orlando_Sentinel_%281989%29_%28cropped%29.jpg/500px-Enya_-_The_Orlando_Sentinel_%281989%29_%28cropped%29.jpg",
       "alt": "Photo of Enya",
@@ -2254,6 +2749,10 @@
     "category": "music",
     "displayName": "Sinéad O'Connor",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шинейд О’Коннор",
+      "uk": "Шинейд О'Коннор"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg/500px-Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg",
       "alt": "Photo of Sinéad O'Connor",
@@ -2268,6 +2767,10 @@
     "category": "music",
     "displayName": "Dolores O'Riordan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Долорес О’Риордан",
+      "uk": "Долорес О'Ріордан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dolores_O%27Riordan_2016_%28cropped%29.jpeg/500px-Dolores_O%27Riordan_2016_%28cropped%29.jpeg",
       "alt": "Photo of Dolores O'Riordan",
@@ -2282,6 +2785,10 @@
     "category": "music",
     "displayName": "Bryan Adams",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Брайан Адамс",
+      "uk": "Браян Адамс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BryAdamsMargate130624_%2839_of_43%29_%2853789411882%29_Cropped.jpg/500px-BryAdamsMargate130624_%2839_of_43%29_%2853789411882%29_Cropped.jpg",
       "alt": "Photo of Bryan Adams",
@@ -2296,6 +2803,10 @@
     "category": "music",
     "displayName": "Shawn Mendes",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шон Мендес",
+      "uk": "Шон Мендес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png/500px-191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png",
       "alt": "Photo of Shawn Mendes",
@@ -2310,6 +2821,10 @@
     "category": "music",
     "displayName": "Justin Timberlake",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джастин Тимберлейк",
+      "uk": "Джастін Тімберлейк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Justin_Timberlake_by_Gage_Skidmore.jpg/500px-Justin_Timberlake_by_Gage_Skidmore.jpg",
       "alt": "Photo of Justin Timberlake",
@@ -2324,6 +2839,10 @@
     "category": "music",
     "displayName": "Usher",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ашер",
+      "uk": "Ашер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Usher_Milan_2026.jpg",
       "alt": "Photo of Usher",
@@ -2337,6 +2856,10 @@
     "category": "music",
     "displayName": "Chris Brown",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Крис Браун",
+      "uk": "Кріс Браун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/A1_Chris_Brown_2025.jpg/500px-A1_Chris_Brown_2025.jpg",
       "alt": "Photo of Chris Brown",
@@ -2364,6 +2887,9 @@
     "category": "music",
     "displayName": "Dr. Dre",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Доктор Дре"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dr_Dre_sig.svg/500px-Dr_Dre_sig.svg.png",
       "alt": "Photo of Dr. Dre",
@@ -2377,6 +2903,9 @@
     "category": "music",
     "displayName": "Ice Cube",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Айс Кьюб"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ice_Cube_September_2025.png/500px-Ice_Cube_September_2025.png",
       "alt": "Photo of Ice Cube",
@@ -2390,13 +2919,21 @@
     "id": "notorious-big",
     "category": "music",
     "displayName": "Notorious B.I.G.",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "The Notorious B.I.G.",
+      "uk": "The Notorious B.I.G."
+    }
   },
   {
     "id": "kendrick-lamar",
     "category": "music",
     "displayName": "Kendrick Lamar",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кендрик Ламар",
+      "uk": "Кендрік Ламар"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg/500px-KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg",
       "alt": "Photo of Kendrick Lamar",
@@ -2411,6 +2948,10 @@
     "category": "music",
     "displayName": "Travis Scott",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Трэвис Скотт",
+      "uk": "Тревіс Скотт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Travis_Scott_sig.svg/500px-Travis_Scott_sig.svg.png",
       "alt": "Photo of Travis Scott",
@@ -2466,6 +3007,10 @@
     "category": "music",
     "displayName": "Olivia Rodrigo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Оливия Родриго",
+      "uk": "Олівія Родріґо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Glasto2025-546_%28cropped%29_2.jpg/500px-Glasto2025-546_%28cropped%29_2.jpg",
       "alt": "Photo of Olivia Rodrigo",
@@ -2480,6 +3025,10 @@
     "category": "music",
     "displayName": "Sabrina Carpenter",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сабрина Карпентер",
+      "uk": "Сабріна Карпентер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sabrina_Carpenter_-_O2_Arena_2025_-_086_%28cropped_2%29.jpg/500px-Sabrina_Carpenter_-_O2_Arena_2025_-_086_%28cropped_2%29.jpg",
       "alt": "Photo of Sabrina Carpenter",
@@ -2494,6 +3043,10 @@
     "category": "music",
     "displayName": "Miley Cyrus",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майли Сайрус",
+      "uk": "Майлі Сайрус"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg/500px-Miley_Cyrus_Primavera19_-226_%2848986293772%29_%28cropped%29.jpg",
       "alt": "Photo of Miley Cyrus",
@@ -2508,6 +3061,10 @@
     "category": "music",
     "displayName": "Demi Lovato",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Деми Ловато",
+      "uk": "Демі Ловато"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Demi_Lovato_Interview_Feb_2020.png",
       "alt": "Photo of Demi Lovato",
@@ -2522,6 +3079,9 @@
     "category": "music",
     "displayName": "Avicii",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Авичи"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Avicii_2014_003cr.jpg/500px-Avicii_2014_003cr.jpg",
       "alt": "Photo of Avicii",
@@ -2536,6 +3096,10 @@
     "category": "music",
     "displayName": "David Guetta",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Давид Гетта",
+      "uk": "Девід Гетта"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2023-11-16_Gala_de_los_Latin_Grammy%2C_22_%28David_Guetta%29.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_22_%28David_Guetta%29.jpg",
       "alt": "Photo of David Guetta",
@@ -2550,6 +3114,10 @@
     "category": "music",
     "displayName": "Calvin Harris",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кельвин Харрис",
+      "uk": "Калвін Гарріс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Calvin_Harris_-_Press_Image_1.tif/lossy-page1-500px-Calvin_Harris_-_Press_Image_1.tif.jpg",
       "alt": "Photo of Calvin Harris",
@@ -2578,6 +3146,10 @@
     "category": "music",
     "displayName": "Armin van Buuren",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Армин Ван Бюрен",
+      "uk": "Армін ван Бюрен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Armin_van_Buuren%2C_November_2025_%28cropped%29.jpg/500px-Armin_van_Buuren%2C_November_2025_%28cropped%29.jpg",
       "alt": "Photo of Armin van Buuren",
@@ -2620,6 +3192,9 @@
     "category": "music",
     "displayName": "Skrillex",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Скриллекс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_%28cropped%29.jpg/500px-From_First_To_Last_-_Emo_Nite_2_-_PH_Carl_Pocket_%28cropped%29.jpg",
       "alt": "Photo of Skrillex",
@@ -2634,6 +3209,9 @@
     "category": "music",
     "displayName": "Moby",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Моби"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg/500px-Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg",
       "alt": "Photo of Moby",
@@ -2648,6 +3226,10 @@
     "category": "music",
     "displayName": "Hans Zimmer",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ханс Циммер",
+      "uk": "Ганс Ціммер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/500px-Hans-Zimmer-profile.jpg",
       "alt": "Photo of Hans Zimmer",
@@ -2662,6 +3244,10 @@
     "category": "music",
     "displayName": "John Williams",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Уильямс",
+      "uk": "Джон Вільямс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/John_Williams_2024.jpg",
       "alt": "Photo of John Williams",
@@ -2676,6 +3262,10 @@
     "category": "music",
     "displayName": "Ennio Morricone",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эннио Морриконе",
+      "uk": "Енніо Морріконе"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ennio_Morricone_Cannes_2007.jpg/500px-Ennio_Morricone_Cannes_2007.jpg",
       "alt": "Photo of Ennio Morricone",
@@ -2690,6 +3280,10 @@
     "category": "music",
     "displayName": "Andrew Lloyd Webber",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эндрю Ллойд Уэббер",
+      "uk": "Ендрю Ллойд Веббер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/AndrewLloydWebber-byPhilipRomano.jpg/500px-AndrewLloydWebber-byPhilipRomano.jpg",
       "alt": "Photo of Andrew Lloyd Webber",
@@ -2704,6 +3298,10 @@
     "category": "music",
     "displayName": "Yanni",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Янни",
+      "uk": "Янні"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YanniPressPhoto.jpg/500px-YanniPressPhoto.jpg",
       "alt": "Photo of Yanni",
@@ -2718,6 +3316,10 @@
     "category": "music",
     "displayName": "Kenny G",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кенни Джи",
+      "uk": "Кенні Джі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/KennyGHWOFMay2013.jpg/500px-KennyGHWOFMay2013.jpg",
       "alt": "Photo of Kenny G",
@@ -2732,6 +3334,10 @@
     "category": "music",
     "displayName": "Lenny Kravitz",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ленни Кравиц",
+      "uk": "Ленні Кравіц"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Untold_2024_-_Lenny_Kravitz_56.jpg/500px-Untold_2024_-_Lenny_Kravitz_56.jpg",
       "alt": "Photo of Lenny Kravitz",
@@ -2746,6 +3352,10 @@
     "category": "music",
     "displayName": "Jon Bon Jovi",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Бон Джови",
+      "uk": "Джон Бон Джові"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/NEG_0062-2_%2854119957209%29.jpg/500px-NEG_0062-2_%2854119957209%29.jpg",
       "alt": "Photo of Jon Bon Jovi",
@@ -2760,6 +3370,10 @@
     "category": "music",
     "displayName": "Steven Tyler",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стивен Тайлер",
+      "uk": "Стівен Тайлер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Steven_Tyler_by_Gage_Skidmore_3.jpg/500px-Steven_Tyler_by_Gage_Skidmore_3.jpg",
       "alt": "Photo of Steven Tyler",
@@ -2788,6 +3402,10 @@
     "category": "music",
     "displayName": "Bon Scott",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бон Скотт",
+      "uk": "Бон Скотт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Grenoble79_01_%28cropped%29.jpg",
       "alt": "Photo of Bon Scott",
@@ -2801,6 +3419,10 @@
     "category": "music",
     "displayName": "Lemmy",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лемми",
+      "uk": "Леммі Кілмістер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lemmy-02.jpg",
       "alt": "Photo of Lemmy",
@@ -2815,6 +3437,10 @@
     "category": "music",
     "displayName": "Joe Cocker",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джо Кокер",
+      "uk": "Джо Кокер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Joe_cocker_1970.JPG/500px-Joe_cocker_1970.JPG",
       "alt": "Photo of Joe Cocker",
@@ -2828,6 +3454,10 @@
     "category": "music",
     "displayName": "Leonard Cohen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Леонард Коэн",
+      "uk": "Леонард Коен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Leonard_Cohen%2C_1988_01.jpg/500px-Leonard_Cohen%2C_1988_01.jpg",
       "alt": "Photo of Leonard Cohen",
@@ -2842,6 +3472,10 @@
     "category": "music",
     "displayName": "Neil Young",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нил Янг",
+      "uk": "Ніл Янг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Neil_Young_for_Fairy_Creek.jpg/500px-Neil_Young_for_Fairy_Creek.jpg",
       "alt": "Photo of Neil Young",
@@ -2855,6 +3489,10 @@
     "category": "music",
     "displayName": "Joni Mitchell",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джони Митчелл",
+      "uk": "Джоні Мітчелл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Joni_Mitchell_2021_Kennedy_Center_Honors_%28cropped%29.jpg/500px-Joni_Mitchell_2021_Kennedy_Center_Honors_%28cropped%29.jpg",
       "alt": "Photo of Joni Mitchell",
@@ -2868,6 +3506,10 @@
     "category": "music",
     "displayName": "Janis Joplin",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дженис Джоплин",
+      "uk": "Дженіс Джоплін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Janis_Joplin_1970.JPG/500px-Janis_Joplin_1970.JPG",
       "alt": "Photo of Janis Joplin",
@@ -2881,6 +3523,10 @@
     "category": "music",
     "displayName": "Jim Morrison",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джим Моррисон",
+      "uk": "Джим Моррісон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg/500px-Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg",
       "alt": "Photo of Jim Morrison",
@@ -2894,6 +3540,10 @@
     "category": "music",
     "displayName": "Roy Orbison",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рой Орбисон",
+      "uk": "Рой Орбісон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Roy_Orbison_in_1965.jpg/500px-Roy_Orbison_in_1965.jpg",
       "alt": "Photo of Roy Orbison",
@@ -2907,6 +3557,10 @@
     "category": "music",
     "displayName": "Dean Martin",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дин Мартин",
+      "uk": "Дін Мартін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/500px-Dean_Martin_1958.jpg",
       "alt": "Photo of Dean Martin",
@@ -2920,6 +3574,10 @@
     "category": "music",
     "displayName": "Nat King Cole",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нэт Кинг Коул",
+      "uk": "Нет Кінг Коул"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nat_King_Cole_1947.jpg/500px-Nat_King_Cole_1947.jpg",
       "alt": "Photo of Nat King Cole",
@@ -2933,6 +3591,10 @@
     "category": "music",
     "displayName": "Bing Crosby",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бинг Кросби",
+      "uk": "Бінг Кросбі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bing_Crosby_Paramount_Pictures.jpg/500px-Bing_Crosby_Paramount_Pictures.jpg",
       "alt": "Photo of Bing Crosby",
@@ -2946,6 +3608,10 @@
     "category": "music",
     "displayName": "Sammy Davis Jr.",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сэмми Дэвис-младший",
+      "uk": "Семмі Девіс-молодший"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sammy_Davis_Jr._1972.jpg/500px-Sammy_Davis_Jr._1972.jpg",
       "alt": "Photo of Sammy Davis Jr.",
@@ -2959,6 +3625,9 @@
     "category": "music",
     "displayName": "Megan Thee Stallion",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "uk": "Меган Ті Сталліон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Megan_Thee_Stallion_Adweek_pose.jpg/500px-Megan_Thee_Stallion_Adweek_pose.jpg",
       "alt": "Photo of Megan Thee Stallion",
@@ -2987,6 +3656,10 @@
     "category": "music",
     "displayName": "Lizzo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лиззо",
+      "uk": "Ліззо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lizzo_September_2025.png",
       "alt": "Photo of Lizzo",
@@ -3001,6 +3674,9 @@
     "category": "music",
     "displayName": "Halsey",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Холзи"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Halsey_%40_Hollywood_Forever_10_14_2025_%2854925500921%29.jpg/500px-Halsey_%40_Hollywood_Forever_10_14_2025_%2854925500921%29.jpg",
       "alt": "Photo of Halsey",
@@ -3029,6 +3705,9 @@
     "category": "music",
     "displayName": "Lorde",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лорд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lorde_Glasto2025-9_%28cropped%29.jpg/500px-Lorde_Glasto2025-9_%28cropped%29.jpg",
       "alt": "Photo of Lorde",
@@ -3043,6 +3722,10 @@
     "category": "music",
     "displayName": "Florence Welch",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Флоренс Уэлч",
+      "uk": "Флоренс Велч"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FlorenceRAHProms110924_%2868_of_76%29_%2853989416201%29_%28cropped%29.jpg/500px-FlorenceRAHProms110924_%2868_of_76%29_%2853989416201%29_%28cropped%29.jpg",
       "alt": "Photo of Florence Welch",
@@ -3084,6 +3767,10 @@
     "category": "music",
     "displayName": "Annie Lennox",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Энни Леннокс",
+      "uk": "Енні Леннокс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Annie_Lennox_March_2023.jpg/500px-Annie_Lennox_March_2023.jpg",
       "alt": "Photo of Annie Lennox",
@@ -3097,6 +3784,10 @@
     "category": "music",
     "displayName": "Bonnie Tyler",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бонни Тайлер",
+      "uk": "Бонні Тайлер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bonnie_Tyler_in_Moscow%2C_6_May_1997_%28cropped2%29.jpg/500px-Bonnie_Tyler_in_Moscow%2C_6_May_1997_%28cropped2%29.jpg",
       "alt": "Photo of Bonnie Tyler",
@@ -3111,6 +3802,10 @@
     "category": "music",
     "displayName": "Toto Cutugno",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тото Кутуньо",
+      "uk": "Тото Кутуньйо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Toto_Cutugno.jpg",
       "alt": "Photo of Toto Cutugno",
@@ -3124,6 +3819,10 @@
     "category": "music",
     "displayName": "Adriano Celentano",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Адриано Челентано",
+      "uk": "Адріано Челентано"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Celentano_1961_Salsomaggiore_Terme.jpg/500px-Celentano_1961_Salsomaggiore_Terme.jpg",
       "alt": "Photo of Adriano Celentano",
@@ -3137,6 +3836,10 @@
     "category": "music",
     "displayName": "Eros Ramazzotti",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эрос Рамаццотти",
+      "uk": "Ерос Рамаццотті"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg/500px-Eros_Ramazzotti_%2821738687382%29_%28cropped%29.jpg",
       "alt": "Photo of Eros Ramazzotti",
@@ -3151,6 +3854,10 @@
     "category": "music",
     "displayName": "Laura Pausini",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лаура Паузини",
+      "uk": "Лаура Паузіні"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Laura_Pausini_a_Sanremo_2026_%28headshot%29.jpg/500px-Laura_Pausini_a_Sanremo_2026_%28headshot%29.jpg",
       "alt": "Photo of Laura Pausini",

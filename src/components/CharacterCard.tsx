@@ -56,7 +56,14 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
           : undefined
       }
     >
-      {photo && <Photo key={photo.src} image={photo} onFailed={onPhotoFailed} />}
+      {photo && (
+        <Photo
+          key={photo.src}
+          image={photo}
+          alt={strings.photoAlt(name)}
+          onFailed={onPhotoFailed}
+        />
+      )}
       <div className="card-name-box" ref={containerRef}>
         <h1
           className="card-name"
@@ -81,15 +88,25 @@ export function CharacterCard({ name, image, showPhoto, onPhotoFailed, onTap }: 
   );
 }
 
-function Photo({ image, onFailed }: { image: ImageMetadata; onFailed: () => void }) {
+function Photo({
+  image,
+  alt,
+  onFailed,
+}: {
+  image: ImageMetadata;
+  /** Localized alt text (the bank's `image.alt` is English). */
+  alt: string;
+  onFailed: () => void;
+}) {
   const strings = useStrings();
   const [loaded, setLoaded] = useState(false);
-  const credit = [image.attribution ?? image.creator, image.license].filter(Boolean).join(' · ');
+  // A full attribution line already names the license; otherwise show creator · license.
+  const credit = image.attribution ?? [image.creator, image.license].filter(Boolean).join(' · ');
   return (
     <figure className="card-photo" data-loaded={loaded || undefined}>
       <img
         src={image.src}
-        alt={image.alt}
+        alt={alt}
         loading="lazy"
         decoding="async"
         referrerPolicy="no-referrer"

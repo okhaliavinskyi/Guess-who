@@ -12,6 +12,7 @@ export function LanguageProvider({ initial, children }: { initial?: Lang; childr
   }, []);
   useEffect(() => {
     document.documentElement.lang = lang;
+    document.title = STRINGS[lang].documentTitle;
   }, [lang]);
   const value = useMemo(() => ({ lang, strings: STRINGS[lang], setLang }), [lang, setLang]);
   return <LanguageContext.Provider value={value}>{children}</LanguageContext.Provider>;

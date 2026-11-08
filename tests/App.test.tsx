@@ -281,7 +281,7 @@ describe('photos', () => {
     startAndReveal();
     expect(screen.queryByRole('img')).not.toBeInTheDocument(); // not loaded until asked
     click(button('Show photo'));
-    const img = screen.getByRole('img', { name: 'Portrait of Image Person' });
+    const img = screen.getByRole('img', { name: 'Photo: Image Person' });
     expect(img).toHaveAttribute('loading', 'lazy');
     expect(revealedName()).toBe('Image Person');
     expect(screen.getByText(/Jane Photographer · CC BY 4.0/)).toBeInTheDocument();
@@ -299,7 +299,7 @@ describe('photos', () => {
     startAndReveal();
     expect(screen.getByText('Tap to add photo')).toBeInTheDocument();
     click(screen.getByTestId('character-card'));
-    expect(screen.getByRole('img', { name: 'Portrait of Image Person' })).toBeInTheDocument();
+    expect(screen.getByRole('img', { name: 'Photo: Image Person' })).toBeInTheDocument();
     expect(revealedName()).toBe('Image Person');
     expect(button('Show name')).toHaveAttribute('aria-pressed', 'true');
     click(screen.getByTestId('character-card'));

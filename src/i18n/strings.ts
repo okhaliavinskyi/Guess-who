@@ -90,6 +90,8 @@ const en = {
   unavailableBody: 'This category has no names available right now. Please pick another one.',
   revealedLabel: 'Character',
   controlsLabel: 'Game controls',
+  photoAlt: (name: string) => `Photo: ${name}`,
+  documentTitle: 'Guess Who — party guessing game',
 };
 
 export type Strings = typeof en;
@@ -133,12 +135,12 @@ const ru: Strings = {
   cancel: 'Отмена',
   next: 'Дальше',
   newWord: 'Новое слово',
-  changeCategory: 'Категория',
+  changeCategory: 'Меню',
   changeCategoryLabel: 'Сменить категорию',
   end: 'Конец',
   endLabel: 'Закончить игру',
-  showPhoto: 'Показать фото',
-  showName: 'Показать имя',
+  showPhoto: 'Фото',
+  showName: 'Имя',
   tapForPhoto: 'Нажми, чтобы добавить фото',
   photoFailed: 'Фото недоступно',
   photoCredit: 'Фото',
@@ -157,6 +159,8 @@ const ru: Strings = {
   unavailableBody: 'В этой категории сейчас нет доступных имён. Выбери другую.',
   revealedLabel: 'Персонаж',
   controlsLabel: 'Управление игрой',
+  photoAlt: (name: string) => `Фото: ${name}`,
+  documentTitle: 'Угадай, кто я — игра для компании',
 };
 
 const uk: Strings = {
@@ -198,12 +202,12 @@ const uk: Strings = {
   cancel: 'Скасувати',
   next: 'Далі',
   newWord: 'Нове слово',
-  changeCategory: 'Категорія',
+  changeCategory: 'Меню',
   changeCategoryLabel: 'Змінити категорію',
   end: 'Кінець',
   endLabel: 'Завершити гру',
-  showPhoto: 'Показати фото',
-  showName: 'Показати ім’я',
+  showPhoto: 'Фото',
+  showName: 'Ім’я',
   tapForPhoto: 'Натисни, щоб додати фото',
   photoFailed: 'Фото недоступне',
   photoCredit: 'Фото',
@@ -222,6 +226,8 @@ const uk: Strings = {
   unavailableBody: 'У цій категорії зараз немає доступних імен. Обери іншу.',
   revealedLabel: 'Персонаж',
   controlsLabel: 'Керування грою',
+  photoAlt: (name: string) => `Фото: ${name}`,
+  documentTitle: 'Вгадай, хто я — гра для компанії',
 };
 
 export const STRINGS: Record<Lang, Strings> = { en, ru, uk };

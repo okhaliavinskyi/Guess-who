@@ -4,6 +4,10 @@
     "category": "fictional",
     "displayName": "Harry Potter",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гарри Поттер",
+      "uk": "Гаррі Поттер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daniel_Radcliffe_as_Harry_Potter.jpg",
       "alt": "Image of Harry Potter",
@@ -18,6 +22,10 @@
     "category": "fictional",
     "displayName": "Mickey Mouse",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Микки Маус",
+      "uk": "Мікі Маус"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/500px-Mickey_Mouse_%28poster_version%29.svg.png",
       "alt": "Image of Mickey Mouse",
@@ -31,6 +39,10 @@
     "category": "fictional",
     "displayName": "Sherlock Holmes",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шерлок Холмс",
+      "uk": "Шерлок Холмс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sherlock_Holmes_Portrait_Paget.jpg",
       "alt": "Image of Sherlock Holmes",
@@ -43,79 +55,131 @@
     "id": "mario-nintendo",
     "category": "fictional",
     "displayName": "Super Mario",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Супер Марио",
+      "uk": "Супер Маріо"
+    }
   },
   {
     "id": "spider-man",
     "category": "fictional",
     "displayName": "Spider-Man",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Человек-паук",
+      "uk": "Людина-павук"
+    }
   },
   {
     "id": "batman",
     "category": "fictional",
     "displayName": "Batman",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Бэтмен",
+      "uk": "Бетмен"
+    }
   },
   {
     "id": "superman",
     "category": "fictional",
     "displayName": "Superman",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Супермен",
+      "uk": "Супермен"
+    }
   },
   {
     "id": "wonder-woman",
     "category": "fictional",
     "displayName": "Wonder Woman",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Чудо-женщина",
+      "uk": "Диво-жінка"
+    }
   },
   {
     "id": "iron-man",
     "category": "fictional",
     "displayName": "Iron Man",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Железный человек",
+      "uk": "Залізна людина"
+    }
   },
   {
     "id": "captain-america",
     "category": "fictional",
     "displayName": "Captain America",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Капитан Америка",
+      "uk": "Капітан Америка"
+    }
   },
   {
     "id": "hulk",
     "category": "fictional",
     "displayName": "Hulk",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Халк",
+      "uk": "Галк"
+    }
   },
   {
     "id": "thor",
     "category": "fictional",
     "displayName": "Thor",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тор",
+      "uk": "Тор"
+    }
   },
   {
     "id": "wolverine",
     "category": "fictional",
     "displayName": "Wolverine",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Росомаха",
+      "uk": "Росомаха"
+    }
   },
   {
     "id": "joker",
     "category": "fictional",
     "displayName": "Joker",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джокер",
+      "uk": "Джокер"
+    }
   },
   {
     "id": "darth-vader",
     "category": "fictional",
     "displayName": "Darth Vader",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дарт Вейдер",
+      "uk": "Дарт Вейдер"
+    }
   },
   {
     "id": "luke-skywalker",
     "category": "fictional",
     "displayName": "Luke Skywalker",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Люк Скайуокер",
+      "uk": "Люк Скайвокер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Luke_Skywalker_-_Welcome_Banner_%28Cropped%29.jpg",
       "alt": "Image of Luke Skywalker",
@@ -129,31 +193,51 @@
     "id": "princess-leia",
     "category": "fictional",
     "displayName": "Princess Leia",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Принцесса Лея",
+      "uk": "Принцеса Лея"
+    }
   },
   {
     "id": "yoda",
     "category": "fictional",
     "displayName": "Yoda",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Йода",
+      "uk": "Йода"
+    }
   },
   {
     "id": "han-solo",
     "category": "fictional",
     "displayName": "Han Solo",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Хан Соло",
+      "uk": "Хан Соло"
+    }
   },
   {
     "id": "james-bond",
     "category": "fictional",
     "displayName": "James Bond",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джеймс Бонд",
+      "uk": "Джеймс Бонд"
+    }
   },
   {
     "id": "indiana-jones",
     "category": "fictional",
     "displayName": "Indiana Jones",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Индиана Джонс",
+      "uk": "Індіана Джонс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Indianajones4.jpg/500px-Indianajones4.jpg",
       "alt": "Image of Indiana Jones",
@@ -167,19 +251,31 @@
     "id": "frodo-baggins",
     "category": "fictional",
     "displayName": "Frodo Baggins",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Фродо Бэггинс",
+      "uk": "Фродо Торбин"
+    }
   },
   {
     "id": "gandalf",
     "category": "fictional",
     "displayName": "Gandalf",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гэндальф",
+      "uk": "Ґандальф"
+    }
   },
   {
     "id": "gollum",
     "category": "fictional",
     "displayName": "Gollum",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Голлум",
+      "uk": "Ґолум"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gollum_at_Wellington_Airport.jpg/500px-Gollum_at_Wellington_Airport.jpg",
       "alt": "Image of Gollum",
@@ -193,43 +289,71 @@
     "id": "hermione-granger",
     "category": "fictional",
     "displayName": "Hermione Granger",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гермиона Грейнджер",
+      "uk": "Герміона Ґрейнджер"
+    }
   },
   {
     "id": "lord-voldemort",
     "category": "fictional",
     "displayName": "Lord Voldemort",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Волан-де-Морт",
+      "uk": "Лорд Волдеморт"
+    }
   },
   {
     "id": "albus-dumbledore",
     "category": "fictional",
     "displayName": "Albus Dumbledore",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Альбус Дамблдор",
+      "uk": "Албус Дамблдор"
+    }
   },
   {
     "id": "ron-weasley",
     "category": "fictional",
     "displayName": "Ron Weasley",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Рон Уизли",
+      "uk": "Рон Візлі"
+    }
   },
   {
     "id": "donald-duck",
     "category": "fictional",
     "displayName": "Donald Duck",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дональд Дак",
+      "uk": "Дональд Дак"
+    }
   },
   {
     "id": "goofy",
     "category": "fictional",
     "displayName": "Goofy",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гуфи",
+      "uk": "Ґуфі"
+    }
   },
   {
     "id": "winnie-the-pooh",
     "category": "fictional",
     "displayName": "Winnie-the-Pooh",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Винни-Пух",
+      "uk": "Вінні-Пух"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pooh_Shepard1928.jpg/500px-Pooh_Shepard1928.jpg",
       "alt": "Image of Winnie-the-Pooh",
@@ -242,25 +366,41 @@
     "id": "bugs-bunny",
     "category": "fictional",
     "displayName": "Bugs Bunny",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Багз Банни",
+      "uk": "Багз Банні"
+    }
   },
   {
     "id": "tom-cat",
     "category": "fictional",
     "displayName": "Tom Cat",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Кот Том",
+      "uk": "Кіт Том"
+    }
   },
   {
     "id": "jerry-mouse",
     "category": "fictional",
     "displayName": "Jerry Mouse",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мышонок Джерри",
+      "uk": "Мишеня Джеррі"
+    }
   },
   {
     "id": "scooby-doo",
     "category": "fictional",
     "displayName": "Scooby-Doo",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Скуби-Ду",
+      "uk": "Скубі-Ду"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scooby_doo_logo.png/500px-Scooby_doo_logo.png",
       "alt": "Image of Scooby-Doo",
@@ -273,43 +413,71 @@
     "id": "homer-simpson",
     "category": "fictional",
     "displayName": "Homer Simpson",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гомер Симпсон",
+      "uk": "Гомер Сімпсон"
+    }
   },
   {
     "id": "bart-simpson",
     "category": "fictional",
     "displayName": "Bart Simpson",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Барт Симпсон",
+      "uk": "Барт Сімпсон"
+    }
   },
   {
     "id": "spongebob-squarepants",
     "category": "fictional",
     "displayName": "SpongeBob SquarePants",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Губка Боб Квадратные Штаны",
+      "uk": "Губка Боб Квадратні Штани"
+    }
   },
   {
     "id": "shrek",
     "category": "fictional",
     "displayName": "Shrek",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шрек",
+      "uk": "Шрек"
+    }
   },
   {
     "id": "pikachu",
     "category": "fictional",
     "displayName": "Pikachu",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Пикачу",
+      "uk": "Пікачу"
+    }
   },
   {
     "id": "sonic-the-hedgehog",
     "category": "fictional",
     "displayName": "Sonic the Hedgehog",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ёж Соник",
+      "uk": "Їжак Сонік"
+    }
   },
   {
     "id": "lara-croft",
     "category": "fictional",
     "displayName": "Lara Croft",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Лара Крофт",
+      "uk": "Лара Крофт"
+    }
   },
   {
     "id": "pac-man",
@@ -330,6 +498,10 @@
     "category": "fictional",
     "displayName": "Cinderella",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Золушка",
+      "uk": "Попелюшка"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cendrillon.jpg/500px-Cendrillon.jpg",
       "alt": "Image of Cinderella",
@@ -343,6 +515,10 @@
     "category": "fictional",
     "displayName": "Snow White",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Белоснежка",
+      "uk": "Білосніжка"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Snow_White_and_the_Seven_Dwarfs_2.png/500px-Snow_White_and_the_Seven_Dwarfs_2.png",
       "alt": "Image of Snow White",
@@ -355,6 +531,10 @@
     "category": "fictional",
     "displayName": "Little Red Riding Hood",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Красная Шапочка",
+      "uk": "Червона шапочка"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Little_Red_Riding_Hood_-_J._W._Smith.jpg/500px-Little_Red_Riding_Hood_-_J._W._Smith.jpg",
       "alt": "Image of Little Red Riding Hood",
@@ -368,6 +548,10 @@
     "category": "fictional",
     "displayName": "Pinocchio",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Пиноккио",
+      "uk": "Піноккіо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pinocchio.jpg/500px-Pinocchio.jpg",
       "alt": "Image of Pinocchio",
@@ -381,6 +565,10 @@
     "category": "fictional",
     "displayName": "Peter Pan",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Питер Пэн",
+      "uk": "Пітер Пен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Peter_pan_1911_pipes_%28cropped%29.jpg",
       "alt": "Image of Peter Pan",
@@ -394,6 +582,10 @@
     "category": "fictional",
     "displayName": "Alice",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Алиса",
+      "uk": "Аліса"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Alice_par_John_Tenniel_04.png",
       "alt": "Image of Alice",
@@ -407,6 +599,10 @@
     "category": "fictional",
     "displayName": "Dracula",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дракула",
+      "uk": "Дракула"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bela_Lugosi_as_Dracula.jpg/500px-Bela_Lugosi_as_Dracula.jpg",
       "alt": "Image of Dracula",
@@ -420,6 +616,10 @@
     "category": "fictional",
     "displayName": "Frankenstein's monster",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Чудовище Франкенштейна",
+      "uk": "Потвора Франкенштайна"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg/500px-Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg",
       "alt": "Image of Frankenstein's monster",
@@ -433,6 +633,10 @@
     "category": "fictional",
     "displayName": "Robin Hood",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Робин Гуд",
+      "uk": "Робін Гуд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Robin_Hood_on_a_Horse.jpg/500px-Robin_Hood_on_a_Horse.jpg",
       "alt": "Image of Robin Hood",
@@ -446,6 +650,10 @@
     "category": "fictional",
     "displayName": "Tarzan",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тарзан",
+      "uk": "Тарзан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tarzan_of_the_Apes_in_color.jpg",
       "alt": "Image of Tarzan",
@@ -459,6 +667,10 @@
     "category": "fictional",
     "displayName": "Zorro",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Зорро",
+      "uk": "Зорро"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Zorro_Productions%2C_Inc._logo.svg/500px-Zorro_Productions%2C_Inc._logo.svg.png",
       "alt": "Image of Zorro",
@@ -472,6 +684,10 @@
     "category": "fictional",
     "displayName": "Santa Claus",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Санта-Клаус",
+      "uk": "Санта-Клаус"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Merry_Old_Santa_Claus_by_Thomas_Nast.jpg/500px-Merry_Old_Santa_Claus_by_Thomas_Nast.jpg",
       "alt": "Image of Santa Claus",
@@ -485,6 +701,10 @@
     "category": "fictional",
     "displayName": "Barbie",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Барби",
+      "uk": "Барбі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/500px-Barbie_Logo.svg.png",
       "alt": "Image of Barbie",
@@ -497,19 +717,30 @@
     "id": "mr-bean",
     "category": "fictional",
     "displayName": "Mr. Bean",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мистер Бин",
+      "uk": "Містер Бін"
+    }
   },
   {
     "id": "cookie-monster",
     "category": "fictional",
     "displayName": "Cookie Monster",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Коржик"
+    }
   },
   {
     "id": "kermit-the-frog",
     "category": "fictional",
     "displayName": "Kermit the Frog",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Лягушонок Кермит",
+      "uk": "Жабеня Керміт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kermit_puppet.jpg/500px-Kermit_puppet.jpg",
       "alt": "Image of Kermit the Frog",
@@ -523,6 +754,9 @@
     "category": "fictional",
     "displayName": "Elmo",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Элмо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Elmo.jpg/500px-Elmo.jpg",
       "alt": "Image of Elmo",
@@ -536,25 +770,41 @@
     "id": "garfield",
     "category": "fictional",
     "displayName": "Garfield",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гарфилд",
+      "uk": "Гарфілд"
+    }
   },
   {
     "id": "snoopy",
     "category": "fictional",
     "displayName": "Snoopy",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Снупи",
+      "uk": "Снупі"
+    }
   },
   {
     "id": "charlie-brown",
     "category": "fictional",
     "displayName": "Charlie Brown",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Чарли Браун",
+      "uk": "Чарлі Браун"
+    }
   },
   {
     "id": "popeye",
     "category": "fictional",
     "displayName": "Popeye",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Моряк Попай",
+      "uk": "Моряк Попай"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Popeye_transparent.png/500px-Popeye_transparent.png",
       "alt": "Image of Popeye",
@@ -567,19 +817,31 @@
     "id": "pink-panther",
     "category": "fictional",
     "displayName": "Pink Panther",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Розовая пантера",
+      "uk": "Рожева пантера"
+    }
   },
   {
     "id": "tintin",
     "category": "fictional",
     "displayName": "Tintin",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тинтин",
+      "uk": "Тентен"
+    }
   },
   {
     "id": "asterix",
     "category": "fictional",
     "displayName": "Asterix",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Астерикс",
+      "uk": "Астерікс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Asterix.jpg/500px-Asterix.jpg",
       "alt": "Image of Asterix",
@@ -593,19 +855,29 @@
     "id": "obelix",
     "category": "fictional",
     "displayName": "Obelix",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Обеликс"
+    }
   },
   {
     "id": "smurfette",
     "category": "fictional",
     "displayName": "Smurfette",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Смурфетта"
+    }
   },
   {
     "id": "woody",
     "category": "fictional",
     "displayName": "Woody",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Вуди",
+      "uk": "Шериф Вуді"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg/500px-Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg",
       "alt": "Image of Woody",
@@ -620,6 +892,10 @@
     "category": "fictional",
     "displayName": "Buzz Lightyear",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Базз Лайтер",
+      "uk": "Базз Лайтер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg/500px-Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg",
       "alt": "Image of Buzz Lightyear",
@@ -633,37 +909,61 @@
     "id": "simba",
     "category": "fictional",
     "displayName": "Simba",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Симба",
+      "uk": "Сімба"
+    }
   },
   {
     "id": "elsa",
     "category": "fictional",
     "displayName": "Elsa",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эльза",
+      "uk": "Ельза"
+    }
   },
   {
     "id": "ariel",
     "category": "fictional",
     "displayName": "Ariel",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ариэль",
+      "uk": "Аріель"
+    }
   },
   {
     "id": "aladdin",
     "category": "fictional",
     "displayName": "Aladdin",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Аладдин",
+      "uk": "Аладдін"
+    }
   },
   {
     "id": "genie",
     "category": "fictional",
     "displayName": "Genie",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джинн",
+      "uk": "Джин"
+    }
   },
   {
     "id": "mulan",
     "category": "fictional",
     "displayName": "Mulan",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Хуа Мулань",
+      "uk": "Хуа Мулань"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E7%95%AB%E9%BA%97%E7%8F%A0%E8%90%83%E7%A7%80_Gathering_Gems_of_Beauty_%28%E6%A2%81%E6%9C%A8%E8%98%AD%29_2.jpg",
       "alt": "Image of Mulan",
@@ -676,13 +976,20 @@
     "id": "moana",
     "category": "fictional",
     "displayName": "Moana",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Моана"
+    }
   },
   {
     "id": "rapunzel",
     "category": "fictional",
     "displayName": "Rapunzel",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Рапунцель",
+      "uk": "Рапунцель"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rapunzel-Paul-Hey.jpg/500px-Rapunzel-Paul-Hey.jpg",
       "alt": "Image of Rapunzel",
@@ -702,6 +1009,10 @@
     "category": "fictional",
     "displayName": "Captain Jack Sparrow",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джек Воробей",
+      "uk": "Джек Спарроу"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johnny_Depp_as_Captain_Jack_Sparrow_in_Queensland%2C_Australia.jpg/500px-Johnny_Depp_as_Captain_Jack_Sparrow_in_Queensland%2C_Australia.jpg",
       "alt": "Image of Captain Jack Sparrow",
@@ -716,6 +1027,10 @@
     "category": "fictional",
     "displayName": "Captain Hook",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Капитан Крюк",
+      "uk": "Капітан Гак"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Captain_Hook.PNG/500px-Captain_Hook.PNG",
       "alt": "Image of Captain Hook",
@@ -729,6 +1044,10 @@
     "category": "fictional",
     "displayName": "Tinker Bell",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Динь-Динь",
+      "uk": "Дінь-Дінь"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tinkclose-1-.jpg",
       "alt": "Image of Tinker Bell",
@@ -742,6 +1061,10 @@
     "category": "fictional",
     "displayName": "Mary Poppins",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мэри Поппинс",
+      "uk": "Мері Поппінс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mary_Poppins_screen_2_%28cropped%29.jpg/500px-Mary_Poppins_screen_2_%28cropped%29.jpg",
       "alt": "Image of Mary Poppins",
@@ -755,6 +1078,10 @@
     "category": "fictional",
     "displayName": "Willy Wonka",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вилли Вонка",
+      "uk": "Віллі Вонка"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Charlie_and_the_Chocolate_Factory_%281964%29_front_cover%2C_first_US_edition_%28cropped%29.jpg",
       "alt": "Image of Willy Wonka",
@@ -768,6 +1095,10 @@
     "category": "fictional",
     "displayName": "Peppa Pig",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Свинка Пеппа",
+      "uk": "Свинка Пеппа"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/PeppaPigAldridge2009.jpg/500px-PeppaPigAldridge2009.jpg",
       "alt": "Image of Peppa Pig",
@@ -787,13 +1118,21 @@
     "id": "optimus-prime",
     "category": "fictional",
     "displayName": "Optimus Prime",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Оптимус Прайм",
+      "uk": "Оптімус Прайм"
+    }
   },
   {
     "id": "godzilla",
     "category": "fictional",
     "displayName": "Godzilla",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Годзилла",
+      "uk": "Ґодзілла"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Godzilla_%281954%29_%28cropped%29.jpg/500px-Godzilla_%281954%29_%28cropped%29.jpg",
       "alt": "Image of Godzilla",
@@ -807,6 +1146,10 @@
     "category": "fictional",
     "displayName": "King Kong",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кинг-Конг",
+      "uk": "Кінг-Конг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/King_Kong_1933_Promotional_Image.png/500px-King_Kong_1933_Promotional_Image.png",
       "alt": "Image of King Kong",
@@ -825,73 +1168,119 @@
     "id": "terminator",
     "category": "fictional",
     "displayName": "Terminator",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Терминатор",
+      "uk": "Термінатор"
+    }
   },
   {
     "id": "robocop",
     "category": "fictional",
     "displayName": "RoboCop",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Робокоп",
+      "uk": "Робокоп"
+    }
   },
   {
     "id": "rocky-balboa",
     "category": "fictional",
     "displayName": "Rocky Balboa",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рокки Бальбоа",
+      "uk": "Роккі Бальбоа"
+    }
   },
   {
     "id": "forrest-gump",
     "category": "fictional",
     "displayName": "Forrest Gump",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Форрест Гамп",
+      "uk": "Форрест Ґамп"
+    }
   },
   {
     "id": "hannibal-lecter",
     "category": "fictional",
     "displayName": "Hannibal Lecter",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ганнибал Лектер",
+      "uk": "Ганнібал Лектер"
+    }
   },
   {
     "id": "freddy-krueger",
     "category": "fictional",
     "displayName": "Freddy Krueger",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Фредди Крюгер",
+      "uk": "Фредді Крюгер"
+    }
   },
   {
     "id": "chucky",
     "category": "fictional",
     "displayName": "Chucky",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чаки"
+    }
   },
   {
     "id": "ghostface",
     "category": "fictional",
     "displayName": "Ghostface",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Призрачное лицо",
+      "uk": "Примарне обличчя"
+    }
   },
   {
     "id": "michael-myers",
     "category": "fictional",
     "displayName": "Michael Myers",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майкл Майерс",
+      "uk": "Майкл Маєрс"
+    }
   },
   {
     "id": "pennywise",
     "category": "fictional",
     "displayName": "Pennywise",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пеннивайз",
+      "uk": "Пеннівайз"
+    }
   },
   {
     "id": "edward-scissorhands",
     "category": "fictional",
     "displayName": "Edward Scissorhands",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эдвард Руки-ножницы",
+      "uk": "Едвард Руки-ножиці"
+    }
   },
   {
     "id": "piglet",
     "category": "fictional",
     "displayName": "Piglet",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пятачок"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Piglet_EHShepard.jpg/500px-Piglet_EHShepard.jpg",
       "alt": "Image of Piglet",
@@ -905,6 +1294,9 @@
     "category": "fictional",
     "displayName": "Tigger",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тигра"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pooh_meets_Tigger%2C_illustration_by_EH_Shepard.gif",
       "alt": "Image of Tigger",
@@ -918,6 +1310,10 @@
     "category": "fictional",
     "displayName": "Eeyore",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Иа-Иа",
+      "uk": "Іа-Іа"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Winnie-the-Pooh_166-1.png/500px-Winnie-the-Pooh_166-1.png",
       "alt": "Image of Eeyore",
@@ -930,31 +1326,50 @@
     "id": "bambi",
     "category": "fictional",
     "displayName": "Bambi",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бэмби",
+      "uk": "Бембі"
+    }
   },
   {
     "id": "dumbo",
     "category": "fictional",
     "displayName": "Dumbo",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дамбо",
+      "uk": "Дамбо"
+    }
   },
   {
     "id": "lightning-mcqueen",
     "category": "fictional",
     "displayName": "Lightning McQueen",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Молния Маккуин",
+      "uk": "Блискавка МакКвін"
+    }
   },
   {
     "id": "nemo",
     "category": "fictional",
     "displayName": "Nemo",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Немо",
+      "uk": "Немо"
+    }
   },
   {
     "id": "dory",
     "category": "fictional",
     "displayName": "Dory",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дори"
+    }
   },
   {
     "id": "wall-e",
@@ -967,6 +1382,10 @@
     "category": "fictional",
     "displayName": "Minions",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Миньоны",
+      "uk": "Посіпаки"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Minion_sculpture_in_Brisbane%2C_2024.jpg/500px-Minion_sculpture_in_Brisbane%2C_2024.jpg",
       "alt": "Image of Minions",
@@ -980,31 +1399,50 @@
     "id": "gru",
     "category": "fictional",
     "displayName": "Gru",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Грю"
+    }
   },
   {
     "id": "po",
     "category": "fictional",
     "displayName": "Po",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "По",
+      "uk": "Панда По"
+    }
   },
   {
     "id": "puss-in-boots",
     "category": "fictional",
     "displayName": "Puss in Boots",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кот в сапогах",
+      "uk": "Кіт у чоботях"
+    }
   },
   {
     "id": "donkey",
     "category": "fictional",
     "displayName": "Donkey",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Осёл",
+      "uk": "Віслюк"
+    }
   },
   {
     "id": "stitch",
     "category": "fictional",
     "displayName": "Stitch",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стич",
+      "uk": "Стіч"
+    }
   },
   {
     "id": "olaf",
@@ -1016,43 +1454,69 @@
     "id": "ursula",
     "category": "fictional",
     "displayName": "Ursula",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Урсула",
+      "uk": "Урсула"
+    }
   },
   {
     "id": "maleficent",
     "category": "fictional",
     "displayName": "Maleficent",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Малефисента",
+      "uk": "Малефісента"
+    }
   },
   {
     "id": "cruella-de-vil",
     "category": "fictional",
     "displayName": "Cruella de Vil",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стервелла Де Виль",
+      "uk": "Лютелла де Віль"
+    }
   },
   {
     "id": "scar",
     "category": "fictional",
     "displayName": "Scar",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шрам",
+      "uk": "Шрам"
+    }
   },
   {
     "id": "jafar",
     "category": "fictional",
     "displayName": "Jafar",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джафар"
+    }
   },
   {
     "id": "captain-haddock",
     "category": "fictional",
     "displayName": "Captain Haddock",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Капитан Хэддок"
+    }
   },
   {
     "id": "lucky-luke",
     "category": "fictional",
     "displayName": "Lucky Luke",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Счастливчик Люк",
+      "uk": "Щасливчик Люк"
+    }
   },
   {
     "id": "spirou",
@@ -1065,6 +1529,10 @@
     "category": "fictional",
     "displayName": "Wednesday Addams",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Уэнздей Аддамс",
+      "uk": "Венздей Аддамс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Wednesday_Addams_1964.jpg",
       "alt": "Image of Wednesday Addams",
@@ -1078,6 +1546,10 @@
     "category": "fictional",
     "displayName": "Gomez Addams",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гомес Аддамс",
+      "uk": "Гомес Аддамс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Addams-family-john-astin-gomez-press-1.jpg",
       "alt": "Image of Gomez Addams",
@@ -1091,6 +1563,10 @@
     "category": "fictional",
     "displayName": "Morticia Addams",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мортиша Аддамс",
+      "uk": "Мортіша Аддамс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Morticia_Addams.jpg",
       "alt": "Image of Morticia Addams",
@@ -1103,43 +1579,69 @@
     "id": "marge-simpson",
     "category": "fictional",
     "displayName": "Marge Simpson",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мардж Симпсон",
+      "uk": "Мардж Сімпсон"
+    }
   },
   {
     "id": "lisa-simpson",
     "category": "fictional",
     "displayName": "Lisa Simpson",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лиза Симпсон",
+      "uk": "Ліса Сімпсон"
+    }
   },
   {
     "id": "peter-griffin",
     "category": "fictional",
     "displayName": "Peter Griffin",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Питер Гриффин",
+      "uk": "Пітер Гріфін"
+    }
   },
   {
     "id": "stewie-griffin",
     "category": "fictional",
     "displayName": "Stewie Griffin",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стьюи Гриффин"
+    }
   },
   {
     "id": "eric-cartman",
     "category": "fictional",
     "displayName": "Eric Cartman",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эрик Картман",
+      "uk": "Ерік Картмен"
+    }
   },
   {
     "id": "rick-sanchez",
     "category": "fictional",
     "displayName": "Rick Sanchez",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рик Санчес",
+      "uk": "Рік Санчез"
+    }
   },
   {
     "id": "fred-flintstone",
     "category": "fictional",
     "displayName": "Fred Flintstone",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Фред Флинтстоун"
+    }
   },
   {
     "id": "george-jetson",
@@ -1151,31 +1653,49 @@
     "id": "yogi-bear",
     "category": "fictional",
     "displayName": "Yogi Bear",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мишка Йоги"
+    }
   },
   {
     "id": "daffy-duck",
     "category": "fictional",
     "displayName": "Daffy Duck",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Даффи Дак",
+      "uk": "Даффі Дак"
+    }
   },
   {
     "id": "tweety",
     "category": "fictional",
     "displayName": "Tweety",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Твити",
+      "uk": "Твіті"
+    }
   },
   {
     "id": "road-runner",
     "category": "fictional",
     "displayName": "Road Runner",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дорожный бегун",
+      "uk": "Дорожній бігун"
+    }
   },
   {
     "id": "wile-e-coyote",
     "category": "fictional",
     "displayName": "Wile E. Coyote",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вайл И. Койот"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coyote_solitario_%282359483236%29.jpg/500px-Coyote_solitario_%282359483236%29.jpg",
       "alt": "Image of Wile E. Coyote",
@@ -1189,25 +1709,41 @@
     "id": "taz",
     "category": "fictional",
     "displayName": "Taz",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тасманский дьявол",
+      "uk": "Тасманійський диявол"
+    }
   },
   {
     "id": "porky-pig",
     "category": "fictional",
     "displayName": "Porky Pig",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Порки Пиг",
+      "uk": "Порося Поркі"
+    }
   },
   {
     "id": "woody-woodpecker",
     "category": "fictional",
     "displayName": "Woody Woodpecker",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вуди Вудпекер",
+      "uk": "Вуді Вудпекер"
+    }
   },
   {
     "id": "felix-the-cat",
     "category": "fictional",
     "displayName": "Felix the Cat",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кот Феликс",
+      "uk": "Кіт Фелікс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Felix_for_Judy_-_Svg.svg/500px-Felix_for_Judy_-_Svg.svg.png",
       "alt": "Image of Felix the Cat",
@@ -1221,6 +1757,10 @@
     "category": "fictional",
     "displayName": "Betty Boop",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бетти Буп",
+      "uk": "Бетті Буп"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Betty_Boop%2C_April_1932.svg/500px-Betty_Boop%2C_April_1932.svg.png",
       "alt": "Image of Betty Boop",
@@ -1260,6 +1800,9 @@
     "category": "fictional",
     "displayName": "Dennis the Menace",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Деннис-мучитель"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg/500px-Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg",
       "alt": "Image of Dennis the Menace",
@@ -1273,6 +1816,10 @@
     "category": "fictional",
     "displayName": "Mowgli",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Маугли",
+      "uk": "Мауглі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mowgli-1895-illustration.png",
       "alt": "Image of Mowgli",
@@ -1285,6 +1832,10 @@
     "category": "fictional",
     "displayName": "Baloo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Балу",
+      "uk": "Балу"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/The_second_jungle_book_%281895%29_%28Baloo%29.jpg",
       "alt": "Image of Baloo",
@@ -1298,6 +1849,10 @@
     "category": "fictional",
     "displayName": "Bagheera",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Багира",
+      "uk": "Багіра"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/KiplingIllustrationofBagheera.jpg/500px-KiplingIllustrationofBagheera.jpg",
       "alt": "Image of Bagheera",
@@ -1312,6 +1867,10 @@
     "category": "fictional",
     "displayName": "Dr. Watson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Доктор Ватсон",
+      "uk": "Доктор Ватсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sherlock_Holmes_%26_Watson_-_The_Greek_Interpreter_-_Sidney_Paget.jpg/500px-Sherlock_Holmes_%26_Watson_-_The_Greek_Interpreter_-_Sidney_Paget.jpg",
       "alt": "Image of Dr. Watson",
@@ -1324,19 +1883,31 @@
     "id": "hercule-poirot",
     "category": "fictional",
     "displayName": "Hercule Poirot",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эркюль Пуаро",
+      "uk": "Еркюль Пуаро"
+    }
   },
   {
     "id": "miss-marple",
     "category": "fictional",
     "displayName": "Miss Marple",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мисс Марпл",
+      "uk": "Міс Марпл"
+    }
   },
   {
     "id": "don-quixote",
     "category": "fictional",
     "displayName": "Don Quixote",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дон Кихот",
+      "uk": "Дон Кіхот"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/500px-Title_page_first_edition_Don_Quijote.jpg",
       "alt": "Image of Don Quixote",
@@ -1350,6 +1921,10 @@
     "category": "fictional",
     "displayName": "Romeo Montague",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ромео Монтекки",
+      "uk": "Ромео Монтеккі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/500px-Romeo_and_juliet_brown.jpg",
       "alt": "Image of Romeo Montague",
@@ -1363,6 +1938,10 @@
     "category": "fictional",
     "displayName": "Juliet Capulet",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джульетта Капулетти",
+      "uk": "Джульєтта Капулетті"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frank_Bernard_Dicksee_-_Romeo_and_Juliet%2C_1884.jpg/500px-Frank_Bernard_Dicksee_-_Romeo_and_Juliet%2C_1884.jpg",
       "alt": "Image of Juliet Capulet",
@@ -1376,6 +1955,10 @@
     "category": "fictional",
     "displayName": "Hamlet",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гамлет",
+      "uk": "Гамлет"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hamlet_William_Morris_Hunt.jpeg/500px-Hamlet_William_Morris_Hunt.jpeg",
       "alt": "Image of Hamlet",
@@ -1389,6 +1972,10 @@
     "category": "fictional",
     "displayName": "Ebenezer Scrooge",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эбенезер Скрудж",
+      "uk": "Ебенізер Скрудж"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Marley%27s_Ghost-John_Leech%2C_1843.jpg/500px-Marley%27s_Ghost-John_Leech%2C_1843.jpg",
       "alt": "Image of Ebenezer Scrooge",
@@ -1402,6 +1989,10 @@
     "category": "fictional",
     "displayName": "Oliver Twist",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Оливер Твист",
+      "uk": "Олівер Твіст"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/George_Cruikshank_Oliver_Twist.gif",
       "alt": "Image of Oliver Twist",
@@ -1415,6 +2006,10 @@
     "category": "fictional",
     "displayName": "Tom Sawyer",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Том Сойер",
+      "uk": "Том Соєр"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tom_Sawyer_1876_frontispiece.jpg/500px-Tom_Sawyer_1876_frontispiece.jpg",
       "alt": "Image of Tom Sawyer",
@@ -1428,6 +2023,10 @@
     "category": "fictional",
     "displayName": "Huckleberry Finn",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гекльберри Финн",
+      "uk": "Гекльберрі Фінн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Huckleberry-finn-with-rabbit.jpg/500px-Huckleberry-finn-with-rabbit.jpg",
       "alt": "Image of Huckleberry Finn",
@@ -1441,6 +2040,10 @@
     "category": "fictional",
     "displayName": "Robinson Crusoe",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Робинзон Крузо",
+      "uk": "Робінзон Крузо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Robinson_Crusoe_1719_1st_edition.jpg/500px-Robinson_Crusoe_1719_1st_edition.jpg",
       "alt": "Image of Robinson Crusoe",
@@ -1454,6 +2057,10 @@
     "category": "fictional",
     "displayName": "Gulliver",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гулливер",
+      "uk": "Гуллівер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gullivers_travels.jpg/500px-Gullivers_travels.jpg",
       "alt": "Image of Gulliver",
@@ -1466,6 +2073,10 @@
     "category": "fictional",
     "displayName": "Captain Nemo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Капитан Немо",
+      "uk": "Капітан Немо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%27Twenty_Thousand_Leagues_Under_the_Sea%27_by_Neuville_and_Riou_027.jpg/500px-%27Twenty_Thousand_Leagues_Under_the_Sea%27_by_Neuville_and_Riou_027.jpg",
       "alt": "Image of Captain Nemo",
@@ -1479,6 +2090,9 @@
     "category": "fictional",
     "displayName": "Phileas Fogg",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Филеас Фогг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_04.jpg/500px-%27Around_the_World_in_Eighty_Days%27_by_Neuville_and_Benett_04.jpg",
       "alt": "Image of Phileas Fogg",
@@ -1492,6 +2106,10 @@
     "category": "fictional",
     "displayName": "D'Artagnan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Д’Артаньян",
+      "uk": "Д'Артаньян"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/D_A.jpg",
       "alt": "Image of D'Artagnan",
@@ -1505,6 +2123,10 @@
     "category": "fictional",
     "displayName": "Quasimodo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Квазимодо",
+      "uk": "Квазімодо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Quasimodo_%28Livre_I%2C_Chapitre_V%29%2C_2019.3.1.jpg/500px-Quasimodo_%28Livre_I%2C_Chapitre_V%29%2C_2019.3.1.jpg",
       "alt": "Image of Quasimodo",
@@ -1518,6 +2140,10 @@
     "category": "fictional",
     "displayName": "Jean Valjean",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жан Вальжан",
+      "uk": "Жан Вальжан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Monsieur_Madeleine_par_Gustave_Brion.jpg/500px-Monsieur_Madeleine_par_Gustave_Brion.jpg",
       "alt": "Image of Jean Valjean",
@@ -1531,6 +2157,10 @@
     "category": "fictional",
     "displayName": "Long John Silver",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Сильвер",
+      "uk": "Джон Сільвер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/William_Nicholson_%281872-1949%29_-_Characters_of_Romance%2C_John_Silver.jpg/500px-William_Nicholson_%281872-1949%29_-_Characters_of_Romance%2C_John_Silver.jpg",
       "alt": "Image of Long John Silver",
@@ -1544,6 +2174,10 @@
     "category": "fictional",
     "displayName": "Pippi Longstocking",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пеппи Длинныйчулок",
+      "uk": "Пеппі Довгапанчоха"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Inger_Nilsson_as_Pippi_L%C3%A5ngstrump.jpg/500px-Inger_Nilsson_as_Pippi_L%C3%A5ngstrump.jpg",
       "alt": "Image of Pippi Longstocking",
@@ -1563,6 +2197,10 @@
     "category": "fictional",
     "displayName": "Shere Khan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шер-Хан",
+      "uk": "Шерхан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Becque_-_Livre_de_la_jungle%2C_p27.jpeg/500px-Becque_-_Livre_de_la_jungle%2C_p27.jpeg",
       "alt": "Image of Shere Khan",
@@ -1576,6 +2214,10 @@
     "category": "fictional",
     "displayName": "Cheshire Cat",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чеширский Кот",
+      "uk": "Чеширський кіт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/500px-Tennel_Cheshire_proof.png",
       "alt": "Image of Cheshire Cat",
@@ -1589,6 +2231,10 @@
     "category": "fictional",
     "displayName": "Mad Hatter",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Болванщик",
+      "uk": "Капелюшник"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MadlHatterByTenniel.svg/500px-MadlHatterByTenniel.svg.png",
       "alt": "Image of Mad Hatter",
@@ -1602,6 +2248,10 @@
     "category": "fictional",
     "displayName": "White Rabbit",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Белый Кролик",
+      "uk": "Білий Кролик"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Down_the_Rabbit_Hole.png/500px-Down_the_Rabbit_Hole.png",
       "alt": "Image of White Rabbit",
@@ -1615,6 +2265,9 @@
     "category": "fictional",
     "displayName": "Wizard of Oz",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Волшебник Оз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wizard_of_Oz.png/500px-Wizard_of_Oz.png",
       "alt": "Image of Wizard of Oz",
@@ -1628,6 +2281,10 @@
     "category": "fictional",
     "displayName": "Dorothy Gale",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дороти Гейл",
+      "uk": "Дороті Гейл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dorothy_Gale_with_silver_shoes.jpg/500px-Dorothy_Gale_with_silver_shoes.jpg",
       "alt": "Image of Dorothy Gale",
@@ -1640,6 +2297,10 @@
     "category": "fictional",
     "displayName": "Tin Man",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Железный Дровосек",
+      "uk": "Залізний Дроворуб"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tin_Woodman.png/500px-Tin_Woodman.png",
       "alt": "Image of Tin Man",
@@ -1653,6 +2314,10 @@
     "category": "fictional",
     "displayName": "Katniss Everdeen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Китнисс Эвердин",
+      "uk": "Катнісс Евердін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Katniss_Everdeen_%28Jennifer_Lawrence%29_figure_at_Madame_Tussauds_London_%2831139647115%29.jpg/500px-Katniss_Everdeen_%28Jennifer_Lawrence%29_figure_at_Madame_Tussauds_London_%2831139647115%29.jpg",
       "alt": "Image of Katniss Everdeen",
@@ -1666,79 +2331,131 @@
     "id": "bella-swan",
     "category": "fictional",
     "displayName": "Bella Swan",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Белла Свон",
+      "uk": "Белла Свон"
+    }
   },
   {
     "id": "edward-cullen",
     "category": "fictional",
     "displayName": "Edward Cullen",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эдвард Каллен",
+      "uk": "Едвард Каллен"
+    }
   },
   {
     "id": "jon-snow",
     "category": "fictional",
     "displayName": "Jon Snow",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Сноу",
+      "uk": "Джон Сноу"
+    }
   },
   {
     "id": "daenerys-targaryen",
     "category": "fictional",
     "displayName": "Daenerys Targaryen",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дейенерис Таргариен",
+      "uk": "Данерис Таргарієн"
+    }
   },
   {
     "id": "tyrion-lannister",
     "category": "fictional",
     "displayName": "Tyrion Lannister",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тирион Ланнистер",
+      "uk": "Тиріон Ланністер"
+    }
   },
   {
     "id": "walter-white",
     "category": "fictional",
     "displayName": "Walter White",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Уолтер Уайт",
+      "uk": "Волтер Вайт"
+    }
   },
   {
     "id": "dexter-morgan",
     "category": "fictional",
     "displayName": "Dexter Morgan",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Декстер Морган",
+      "uk": "Декстер Морган"
+    }
   },
   {
     "id": "eleven",
     "category": "fictional",
     "displayName": "Eleven",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Одиннадцать",
+      "uk": "Одинадцять"
+    }
   },
   {
     "id": "dr-house",
     "category": "fictional",
     "displayName": "Dr. House",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Доктор Хаус",
+      "uk": "Доктор Хаус"
+    }
   },
   {
     "id": "sheldon-cooper",
     "category": "fictional",
     "displayName": "Sheldon Cooper",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шелдон Купер",
+      "uk": "Шелдон Купер"
+    }
   },
   {
     "id": "joey-tribbiani",
     "category": "fictional",
     "displayName": "Joey Tribbiani",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джоуи Триббиани",
+      "uk": "Джої Тріббіані"
+    }
   },
   {
     "id": "rachel-green",
     "category": "fictional",
     "displayName": "Rachel Green",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рэйчел Грин",
+      "uk": "Рейчел Грін"
+    }
   },
   {
     "id": "mr-spock",
     "category": "fictional",
     "displayName": "Mr. Spock",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Спок",
+      "uk": "Спок"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leonard_Nimoy_as_Spock_1967.jpg/500px-Leonard_Nimoy_as_Spock_1967.jpg",
       "alt": "Image of Mr. Spock",
@@ -1752,6 +2469,10 @@
     "category": "fictional",
     "displayName": "Captain Kirk",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Капитан Кирк",
+      "uk": "Капітан Кірк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/William_Shatner_Star_Trek.JPG/500px-William_Shatner_Star_Trek.JPG",
       "alt": "Image of Captain Kirk",
@@ -1764,19 +2485,31 @@
     "id": "doctor-who",
     "category": "fictional",
     "displayName": "Doctor Who",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Доктор Кто",
+      "uk": "Доктор Хто"
+    }
   },
   {
     "id": "neo",
     "category": "fictional",
     "displayName": "Neo",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нео",
+      "uk": "Нео"
+    }
   },
   {
     "id": "rambo",
     "category": "fictional",
     "displayName": "Rambo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рэмбо",
+      "uk": "Рембо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Rambo.jpg/500px-John_Rambo.jpg",
       "alt": "Image of Rambo",
@@ -1790,181 +2523,298 @@
     "id": "ellen-ripley",
     "category": "fictional",
     "displayName": "Ellen Ripley",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эллен Рипли",
+      "uk": "Еллен Ріплі"
+    }
   },
   {
     "id": "marty-mcfly",
     "category": "fictional",
     "displayName": "Marty McFly",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марти Макфлай",
+      "uk": "Марті Макфлай"
+    }
   },
   {
     "id": "doc-brown",
     "category": "fictional",
     "displayName": "Doc Brown",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Док Браун",
+      "uk": "Док Браун"
+    }
   },
   {
     "id": "ace-ventura",
     "category": "fictional",
     "displayName": "Ace Ventura",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эйс Вентура"
+    }
   },
   {
     "id": "austin-powers",
     "category": "fictional",
     "displayName": "Austin Powers",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Остин Пауэрс",
+      "uk": "Остін Паверс"
+    }
   },
   {
     "id": "deadpool",
     "category": "fictional",
     "displayName": "Deadpool",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэдпул",
+      "uk": "Дедпул"
+    }
   },
   {
     "id": "black-widow",
     "category": "fictional",
     "displayName": "Black Widow",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чёрная вдова",
+      "uk": "Чорна вдова"
+    }
   },
   {
     "id": "black-panther",
     "category": "fictional",
     "displayName": "Black Panther",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чёрная пантера",
+      "uk": "Чорна пантера"
+    }
   },
   {
     "id": "captain-marvel",
     "category": "fictional",
     "displayName": "Captain Marvel",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Капитан Марвел",
+      "uk": "Капітан Марвел"
+    }
   },
   {
     "id": "doctor-strange",
     "category": "fictional",
     "displayName": "Doctor Strange",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Доктор Стрэндж",
+      "uk": "Доктор Стрендж"
+    }
   },
   {
     "id": "thanos",
     "category": "fictional",
     "displayName": "Thanos",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Танос",
+      "uk": "Танос"
+    }
   },
   {
     "id": "groot",
     "category": "fictional",
     "displayName": "Groot",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Грут",
+      "uk": "Ґрут"
+    }
   },
   {
     "id": "loki",
     "category": "fictional",
     "displayName": "Loki",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Локи",
+      "uk": "Локі"
+    }
   },
   {
     "id": "catwoman",
     "category": "fictional",
     "displayName": "Catwoman",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Женщина-кошка",
+      "uk": "Жінка-кішка"
+    }
   },
   {
     "id": "harley-quinn",
     "category": "fictional",
     "displayName": "Harley Quinn",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Харли Квинн",
+      "uk": "Гарлі Квінн"
+    }
   },
   {
     "id": "aquaman",
     "category": "fictional",
     "displayName": "Aquaman",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аквамен",
+      "uk": "Аквамен"
+    }
   },
   {
     "id": "the-flash",
     "category": "fictional",
     "displayName": "The Flash",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Флэш",
+      "uk": "Флеш"
+    }
   },
   {
     "id": "green-lantern",
     "category": "fictional",
     "displayName": "Green Lantern",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Зелёный Фонарь",
+      "uk": "Зелений Ліхтар"
+    }
   },
   {
     "id": "lex-luthor",
     "category": "fictional",
     "displayName": "Lex Luthor",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лекс Лютор",
+      "uk": "Лекс Лютор"
+    }
   },
   {
     "id": "magneto",
     "category": "fictional",
     "displayName": "Magneto",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Магнето",
+      "uk": "Магнето"
+    }
   },
   {
     "id": "master-chief",
     "category": "fictional",
     "displayName": "Master Chief",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мастер Чиф"
+    }
   },
   {
     "id": "link",
     "category": "fictional",
     "displayName": "Link",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Линк",
+      "uk": "Лінк"
+    }
   },
   {
     "id": "princess-zelda",
     "category": "fictional",
     "displayName": "Princess Zelda",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Принцесса Зельда"
+    }
   },
   {
     "id": "luigi",
     "category": "fictional",
     "displayName": "Luigi",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Луиджи",
+      "uk": "Луїджі"
+    }
   },
   {
     "id": "princess-peach",
     "category": "fictional",
     "displayName": "Princess Peach",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Принцесса Пич",
+      "uk": "Принцеса Піч"
+    }
   },
   {
     "id": "bowser",
     "category": "fictional",
     "displayName": "Bowser",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Боузер",
+      "uk": "Боузер"
+    }
   },
   {
     "id": "donkey-kong",
     "category": "fictional",
     "displayName": "Donkey Kong",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Донки Конг",
+      "uk": "Донкі Конг"
+    }
   },
   {
     "id": "kirby",
     "category": "fictional",
     "displayName": "Kirby",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кирби",
+      "uk": "Кірбі"
+    }
   },
   {
     "id": "kratos",
     "category": "fictional",
     "displayName": "Kratos",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кратос",
+      "uk": "Кратос"
+    }
   },
   {
     "id": "geralt-of-rivia",
     "category": "fictional",
     "displayName": "Geralt of Rivia",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Геральт из Ривии",
+      "uk": "Ґеральт з Рівії"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geralt.jpg/500px-Geralt.jpg",
       "alt": "Image of Geralt of Rivia",
@@ -1978,55 +2828,88 @@
     "id": "crash-bandicoot",
     "category": "fictional",
     "displayName": "Crash Bandicoot",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Крэш Бандикут"
+    }
   },
   {
     "id": "spyro",
     "category": "fictional",
     "displayName": "Spyro",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дракон Спайро"
+    }
   },
   {
     "id": "solid-snake",
     "category": "fictional",
     "displayName": "Solid Snake",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Солид Снейк"
+    }
   },
   {
     "id": "ash-ketchum",
     "category": "fictional",
     "displayName": "Ash Ketchum",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эш Кетчум",
+      "uk": "Еш Кетчум"
+    }
   },
   {
     "id": "naruto-uzumaki",
     "category": "fictional",
     "displayName": "Naruto Uzumaki",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Наруто Удзумаки",
+      "uk": "Наруто Удзумакі"
+    }
   },
   {
     "id": "goku",
     "category": "fictional",
     "displayName": "Goku",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сон Гоку",
+      "uk": "Сон Ґоку"
+    }
   },
   {
     "id": "sailor-moon",
     "category": "fictional",
     "displayName": "Sailor Moon",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сейлор Мун",
+      "uk": "Сейлор Мун"
+    }
   },
   {
     "id": "totoro",
     "category": "fictional",
     "displayName": "Totoro",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тоторо",
+      "uk": "Тоторо"
+    }
   },
   {
     "id": "doraemon",
     "category": "fictional",
     "displayName": "Doraemon",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дораэмон",
+      "uk": "Дораемон"
+    }
   },
   {
     "id": "hello-kitty",
@@ -2039,6 +2922,10 @@
     "category": "fictional",
     "displayName": "Paddington Bear",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Медвежонок Паддингтон",
+      "uk": "Ведмедик Паддінгтон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paddington_Bear%2C_all_alone_%2850285504591%29.jpg/500px-Paddington_Bear%2C_all_alone_%2850285504591%29.jpg",
       "alt": "Image of Paddington Bear",
@@ -2053,6 +2940,9 @@
     "category": "fictional",
     "displayName": "Postman Pat",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Почтальон Пэт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Postman_Pat_logo.png",
       "alt": "Image of Postman Pat",
@@ -2077,19 +2967,31 @@
     "id": "fireman-sam",
     "category": "fictional",
     "displayName": "Fireman Sam",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пожарный Сэм",
+      "uk": "Пожежник Сем"
+    }
   },
   {
     "id": "masha",
     "category": "fictional",
     "displayName": "Masha",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Маша",
+      "uk": "Маша"
+    }
   },
   {
     "id": "cheburashka",
     "category": "fictional",
     "displayName": "Cheburashka",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чебурашка",
+      "uk": "Чебурашка"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RR5111-0439R_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_2020_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB_%D0%93%D0%B5%D0%BD%D0%B0_%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81.png/500px-RR5111-0439R_3_%D1%80%D1%83%D0%B1%D0%BB%D1%8F_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE_2020_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB_%D0%93%D0%B5%D0%BD%D0%B0_%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81.png",
       "alt": "Image of Cheburashka",

@@ -4,6 +4,10 @@
     "category": "movies-tv",
     "displayName": "Tom Hanks",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Том Хэнкс",
+      "uk": "Том Генкс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg/500px-TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg",
       "alt": "Photo of Tom Hanks",
@@ -18,6 +22,10 @@
     "category": "movies-tv",
     "displayName": "Meryl Streep",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мерил Стрип",
+      "uk": "Меріл Стріп"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_%28cropped1%29.jpg/500px-Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_%28cropped1%29.jpg",
       "alt": "Photo of Meryl Streep",
@@ -32,6 +40,10 @@
     "category": "movies-tv",
     "displayName": "Leonardo DiCaprio",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Леонардо Ди Каприо",
+      "uk": "Леонардо Ді Капріо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg/500px-LeoPTABFI191125-28_%28cropped%29.jpg",
       "alt": "Photo of Leonardo DiCaprio",
@@ -46,6 +58,10 @@
     "category": "movies-tv",
     "displayName": "Jackie Chan",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джеки Чан",
+      "uk": "Джекі Чан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jackie_Chan.jpg/500px-Jackie_Chan.jpg",
       "alt": "Photo of Jackie Chan",
@@ -60,6 +76,10 @@
     "category": "movies-tv",
     "displayName": "Shah Rukh Khan",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шахрух Хан",
+      "uk": "Шахрух Хан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
       "alt": "Photo of Shah Rukh Khan",
@@ -74,6 +94,10 @@
     "category": "movies-tv",
     "displayName": "Brad Pitt",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Брэд Питт",
+      "uk": "Бред Пітт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/500px-Brad_Pitt-69858.jpg",
       "alt": "Photo of Brad Pitt",
@@ -88,6 +112,10 @@
     "category": "movies-tv",
     "displayName": "Angelina Jolie",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Анджелина Джоли",
+      "uk": "Анджеліна Джолі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Angelina_Jolie-643531_%28cropped%29.jpg/500px-Angelina_Jolie-643531_%28cropped%29.jpg",
       "alt": "Photo of Angelina Jolie",
@@ -102,6 +130,10 @@
     "category": "movies-tv",
     "displayName": "Johnny Depp",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джонни Депп",
+      "uk": "Джонні Депп"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Johnny_Depp_2020.jpg",
       "alt": "Photo of Johnny Depp",
@@ -116,6 +148,10 @@
     "category": "movies-tv",
     "displayName": "Tom Cruise",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Том Круз",
+      "uk": "Том Круз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/500px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg",
       "alt": "Photo of Tom Cruise",
@@ -130,6 +166,10 @@
     "category": "movies-tv",
     "displayName": "Will Smith",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Уилл Смит",
+      "uk": "Вілл Сміт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
       "alt": "Photo of Will Smith",
@@ -144,6 +184,10 @@
     "category": "movies-tv",
     "displayName": "Marilyn Monroe",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мэрилин Монро",
+      "uk": "Мерилін Монро"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/500px-Monroecirca1953.jpg",
       "alt": "Photo of Marilyn Monroe",
@@ -157,6 +201,10 @@
     "category": "movies-tv",
     "displayName": "Charlie Chaplin",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Чарли Чаплин",
+      "uk": "Чарлі Чаплін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/500px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
       "alt": "Photo of Charlie Chaplin",
@@ -170,6 +218,10 @@
     "category": "movies-tv",
     "displayName": "Audrey Hepburn",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Одри Хепбёрн",
+      "uk": "Одрі Хепберн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/500px-AudreyKHepburn.jpg",
       "alt": "Photo of Audrey Hepburn",
@@ -183,6 +235,10 @@
     "category": "movies-tv",
     "displayName": "Arnold Schwarzenegger",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Арнольд Шварценеггер",
+      "uk": "Арнольд Шварценеггер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg/500px-Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg",
       "alt": "Photo of Arnold Schwarzenegger",
@@ -197,6 +253,10 @@
     "category": "movies-tv",
     "displayName": "Sylvester Stallone",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Сильвестр Сталлоне",
+      "uk": "Сильвестр Сталлоне"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/P20251206DT-0472_%283x4_cropped_on_Stallone_with_moderate_headroom%29.jpg",
       "alt": "Photo of Sylvester Stallone",
@@ -210,6 +270,10 @@
     "category": "movies-tv",
     "displayName": "Morgan Freeman",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Морган Фримен",
+      "uk": "Морган Фрімен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/500px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg",
       "alt": "Photo of Morgan Freeman",
@@ -223,6 +287,10 @@
     "category": "movies-tv",
     "displayName": "Robert De Niro",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Роберт Де Ниро",
+      "uk": "Роберт Де Ніро"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg/500px-Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg",
       "alt": "Photo of Robert De Niro",
@@ -237,6 +305,10 @@
     "category": "movies-tv",
     "displayName": "Al Pacino",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Аль Пачино",
+      "uk": "Аль Пачино"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Al_Pacino_-_Killing_Castro_-_Q%26A_-_Tribeca_2026_-_by_%40JJxFile-23_%28cropped%29.jpg/500px-Al_Pacino_-_Killing_Castro_-_Q%26A_-_Tribeca_2026_-_by_%40JJxFile-23_%28cropped%29.jpg",
       "alt": "Photo of Al Pacino",
@@ -251,6 +323,10 @@
     "category": "movies-tv",
     "displayName": "Jennifer Aniston",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дженнифер Энистон",
+      "uk": "Дженніфер Еністон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/500px-JenniferAnistonHWoFFeb2012.jpg",
       "alt": "Photo of Jennifer Aniston",
@@ -265,6 +341,10 @@
     "category": "movies-tv",
     "displayName": "Julia Roberts",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джулия Робертс",
+      "uk": "Джулія Робертс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Julia_Roberts_2025.jpg/500px-Julia_Roberts_2025.jpg",
       "alt": "Photo of Julia Roberts",
@@ -279,6 +359,10 @@
     "category": "movies-tv",
     "displayName": "Keanu Reeves",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Киану Ривз",
+      "uk": "Кіану Рівз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/500px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg",
       "alt": "Photo of Keanu Reeves",
@@ -293,6 +377,10 @@
     "category": "movies-tv",
     "displayName": "Scarlett Johansson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Скарлетт Йоханссон",
+      "uk": "Скарлетт Йоганссон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/500px-Scarlett_Johansson-8588.jpg",
       "alt": "Photo of Scarlett Johansson",
@@ -307,6 +395,10 @@
     "category": "movies-tv",
     "displayName": "Robert Downey Jr.",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Роберт Дауни-младший",
+      "uk": "Роберт Дауні-молодший"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/500px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg",
       "alt": "Photo of Robert Downey Jr.",
@@ -321,6 +413,10 @@
     "category": "movies-tv",
     "displayName": "Bruce Lee",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Брюс Ли",
+      "uk": "Брюс Лі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg/500px-Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg",
       "alt": "Photo of Bruce Lee",
@@ -334,6 +430,10 @@
     "category": "movies-tv",
     "displayName": "Dwayne Johnson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дуэйн Джонсон",
+      "uk": "Двейн Джонсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg/500px-Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg",
       "alt": "Photo of Dwayne Johnson",
@@ -348,6 +448,10 @@
     "category": "movies-tv",
     "displayName": "Nicole Kidman",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Николь Кидман",
+      "uk": "Ніколь Кідман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg/500px-MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg",
       "alt": "Photo of Nicole Kidman",
@@ -362,6 +466,10 @@
     "category": "movies-tv",
     "displayName": "Denzel Washington",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дензел Вашингтон",
+      "uk": "Дензел Вашингтон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg/500px-Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
       "alt": "Photo of Denzel Washington",
@@ -376,6 +484,10 @@
     "category": "movies-tv",
     "displayName": "Jim Carrey",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джим Керри",
+      "uk": "Джим Керрі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Carrey_2008.jpg/500px-Jim_Carrey_2008.jpg",
       "alt": "Photo of Jim Carrey",
@@ -390,6 +502,10 @@
     "category": "movies-tv",
     "displayName": "Clint Eastwood",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Клинт Иствуд",
+      "uk": "Клінт Іствуд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg/500px-Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg",
       "alt": "Photo of Clint Eastwood",
@@ -403,6 +519,10 @@
     "category": "movies-tv",
     "displayName": "Harrison Ford",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Харрисон Форд",
+      "uk": "Гаррісон Форд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Harrison_Ford_-_Televerse_2025-03.jpg/500px-Harrison_Ford_-_Televerse_2025-03.jpg",
       "alt": "Photo of Harrison Ford",
@@ -417,6 +537,10 @@
     "category": "movies-tv",
     "displayName": "Sean Connery",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шон Коннери",
+      "uk": "Шон Коннері"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg/500px-Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg",
       "alt": "Photo of Sean Connery",
@@ -431,6 +555,10 @@
     "category": "movies-tv",
     "displayName": "Brigitte Bardot",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Брижит Бардо",
+      "uk": "Бріжіт Бардо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Reproduktion-_Filmschauspielerin_%28Bardot%29_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._036134b.jpg/500px-Reproduktion-_Filmschauspielerin_%28Bardot%29_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._036134b.jpg",
       "alt": "Photo of Brigitte Bardot",
@@ -445,6 +573,10 @@
     "category": "movies-tv",
     "displayName": "Marlon Brando",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Марлон Брандо",
+      "uk": "Марлон Брандо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/500px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png",
       "alt": "Photo of Marlon Brando",
@@ -458,6 +590,10 @@
     "category": "movies-tv",
     "displayName": "Elizabeth Taylor",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Элизабет Тейлор",
+      "uk": "Елізабет Тейлор"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Taylor%2C_Elizabeth_posed.jpg/500px-Taylor%2C_Elizabeth_posed.jpg",
       "alt": "Photo of Elizabeth Taylor",
@@ -471,6 +607,10 @@
     "category": "movies-tv",
     "displayName": "Jack Nicholson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джек Николсон",
+      "uk": "Джек Ніколсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jack_Nicholson_2002.jpg/500px-Jack_Nicholson_2002.jpg",
       "alt": "Photo of Jack Nicholson",
@@ -485,6 +625,10 @@
     "category": "movies-tv",
     "displayName": "Emma Watson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эмма Уотсон",
+      "uk": "Емма Вотсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Emma_Watson_2013.jpg",
       "alt": "Photo of Emma Watson",
@@ -499,6 +643,10 @@
     "category": "movies-tv",
     "displayName": "Daniel Radcliffe",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дэниел Рэдклифф",
+      "uk": "Денієл Редкліфф"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DanielRadcliffe.jpg/500px-DanielRadcliffe.jpg",
       "alt": "Photo of Daniel Radcliffe",
@@ -513,6 +661,10 @@
     "category": "movies-tv",
     "displayName": "Oprah Winfrey",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Опра Уинфри",
+      "uk": "Опра Вінфрі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/500px-Oprah_Winfrey_2016.jpg",
       "alt": "Photo of Oprah Winfrey",
@@ -526,6 +678,10 @@
     "category": "movies-tv",
     "displayName": "Steven Spielberg",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Стивен Спилберг",
+      "uk": "Стівен Спілберг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MKr25402_Steven_Spielberg_%28Berlinale_2023%29_%283x4_cropped%29.jpg/500px-MKr25402_Steven_Spielberg_%28Berlinale_2023%29_%283x4_cropped%29.jpg",
       "alt": "Photo of Steven Spielberg",
@@ -540,6 +696,10 @@
     "category": "movies-tv",
     "displayName": "Alfred Hitchcock",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Альфред Хичкок",
+      "uk": "Альфред Гічкок"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/500px-Hitchcock%2C_Alfred_02.jpg",
       "alt": "Photo of Alfred Hitchcock",
@@ -553,6 +713,10 @@
     "category": "movies-tv",
     "displayName": "Quentin Tarantino",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Квентин Тарантино",
+      "uk": "Квентін Тарантіно"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/500px-Quentin_Tarantino_by_Gage_Skidmore.jpg",
       "alt": "Photo of Quentin Tarantino",
@@ -567,6 +731,10 @@
     "category": "movies-tv",
     "displayName": "Rowan Atkinson",
     "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Роуэн Аткинсон",
+      "uk": "Ровен Аткінсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rowan_Atkinson%2C_2011.jpg/500px-Rowan_Atkinson%2C_2011.jpg",
       "alt": "Photo of Rowan Atkinson",
@@ -581,6 +749,10 @@
     "category": "movies-tv",
     "displayName": "George Clooney",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джордж Клуни",
+      "uk": "Джордж Клуні"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg/500px-George_Clooney_Jay_Kelly-19_%28cropped%29.jpg",
       "alt": "Photo of George Clooney",
@@ -595,6 +767,10 @@
     "category": "movies-tv",
     "displayName": "Matt Damon",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мэтт Деймон",
+      "uk": "Метт Деймон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MattDamon-byPhilipRomano2.jpg/500px-MattDamon-byPhilipRomano2.jpg",
       "alt": "Photo of Matt Damon",
@@ -609,6 +785,10 @@
     "category": "movies-tv",
     "displayName": "Ben Affleck",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бен Аффлек",
+      "uk": "Бен Аффлек"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ben_Affleck_at_83rd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Ben_Affleck_at_83rd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
       "alt": "Photo of Ben Affleck",
@@ -623,6 +803,10 @@
     "category": "movies-tv",
     "displayName": "Kate Winslet",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кейт Уинслет",
+      "uk": "Кейт Вінслет"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/KateWinslet_%28cropped%29.jpg/500px-KateWinslet_%28cropped%29.jpg",
       "alt": "Photo of Kate Winslet",
@@ -637,6 +821,10 @@
     "category": "movies-tv",
     "displayName": "Natalie Portman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Натали Портман",
+      "uk": "Наталі Портман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NataliePortman.jpg/500px-NataliePortman.jpg",
       "alt": "Photo of Natalie Portman",
@@ -651,6 +839,10 @@
     "category": "movies-tv",
     "displayName": "Anne Hathaway",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Энн Хэтэуэй",
+      "uk": "Енн Гетевей"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/AnneHathaway-byPhilipRomano-Crop.jpg/500px-AnneHathaway-byPhilipRomano-Crop.jpg",
       "alt": "Photo of Anne Hathaway",
@@ -665,6 +857,10 @@
     "category": "movies-tv",
     "displayName": "Jennifer Lawrence",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дженнифер Лоуренс",
+      "uk": "Дженніфер Лоренс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jennifer_Lawrence%2C_Cannes_Film_Festival_2025.jpg/500px-Jennifer_Lawrence%2C_Cannes_Film_Festival_2025.jpg",
       "alt": "Photo of Jennifer Lawrence",
@@ -679,6 +875,10 @@
     "category": "movies-tv",
     "displayName": "Margot Robbie",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марго Робби",
+      "uk": "Марго Роббі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg/500px-Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg",
       "alt": "Photo of Margot Robbie",
@@ -692,6 +892,10 @@
     "category": "movies-tv",
     "displayName": "Ryan Gosling",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Райан Гослинг",
+      "uk": "Раян Ґослінґ"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GoslingBFI081223_%2810_of_30%29_%2853389077811%29_%28cropped%29.jpg/500px-GoslingBFI081223_%2810_of_30%29_%2853389077811%29_%28cropped%29.jpg",
       "alt": "Photo of Ryan Gosling",
@@ -706,6 +910,10 @@
     "category": "movies-tv",
     "displayName": "Ryan Reynolds",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Райан Рейнольдс",
+      "uk": "Раян Рейнольдс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg/500px-Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg",
       "alt": "Photo of Ryan Reynolds",
@@ -720,6 +928,10 @@
     "category": "movies-tv",
     "displayName": "Hugh Jackman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хью Джекман",
+      "uk": "Г'ю Джекман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hugh_Jackman_by_Gage_Skidmore_3.jpg/500px-Hugh_Jackman_by_Gage_Skidmore_3.jpg",
       "alt": "Photo of Hugh Jackman",
@@ -734,6 +946,10 @@
     "category": "movies-tv",
     "displayName": "Chris Hemsworth",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Крис Хемсворт",
+      "uk": "Кріс Гемсворт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/500px-Chris_Hemsworth_-_Crime_101.jpg",
       "alt": "Photo of Chris Hemsworth",
@@ -748,6 +964,10 @@
     "category": "movies-tv",
     "displayName": "Chris Evans",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Крис Эванс",
+      "uk": "Кріс Еванс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chris_Evans_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/500px-Chris_Evans_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Chris Evans",
@@ -762,6 +982,10 @@
     "category": "movies-tv",
     "displayName": "Chris Pratt",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Крис Прэтт",
+      "uk": "Кріс Пратт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg/500px-Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg",
       "alt": "Photo of Chris Pratt",
@@ -776,6 +1000,10 @@
     "category": "movies-tv",
     "displayName": "Mark Ruffalo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марк Руффало",
+      "uk": "Марк Раффало"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mark_Ruffalo_%2836201774756%29_%28cropped%29.jpg/500px-Mark_Ruffalo_%2836201774756%29_%28cropped%29.jpg",
       "alt": "Photo of Mark Ruffalo",
@@ -790,6 +1018,10 @@
     "category": "movies-tv",
     "displayName": "Samuel L. Jackson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сэмюэл Лерой Джексон",
+      "uk": "Семюел Лірой Джексон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/500px-SamuelLJackson.jpg",
       "alt": "Photo of Samuel L. Jackson",
@@ -804,6 +1036,10 @@
     "category": "movies-tv",
     "displayName": "Zendaya",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Зендея",
+      "uk": "Зендея"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Zendaya-byPhilipRomano.jpg/500px-Zendaya-byPhilipRomano.jpg",
       "alt": "Photo of Zendaya",
@@ -818,6 +1054,10 @@
     "category": "movies-tv",
     "displayName": "Tom Holland",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Том Холланд",
+      "uk": "Том Голланд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TomHolland-byPhilipRomano.jpg/500px-TomHolland-byPhilipRomano.jpg",
       "alt": "Photo of Tom Holland",
@@ -832,6 +1072,10 @@
     "category": "movies-tv",
     "displayName": "Timothée Chalamet",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тимоти Шаламе",
+      "uk": "Тімоті Шаламе"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Timoth%C3%A9e_Chalamet-63482_%28cropped%29.jpg/500px-Timoth%C3%A9e_Chalamet-63482_%28cropped%29.jpg",
       "alt": "Photo of Timothée Chalamet",
@@ -846,6 +1090,10 @@
     "category": "movies-tv",
     "displayName": "Cillian Murphy",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Киллиан Мерфи",
+      "uk": "Кілліан Мерфі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg/500px-Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg",
       "alt": "Photo of Cillian Murphy",
@@ -860,6 +1108,10 @@
     "category": "movies-tv",
     "displayName": "Benedict Cumberbatch",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бенедикт Камбербэтч",
+      "uk": "Бенедикт Камбербетч"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Benedict_Cumberbatch-67555.jpg/500px-Benedict_Cumberbatch-67555.jpg",
       "alt": "Photo of Benedict Cumberbatch",
@@ -874,6 +1126,10 @@
     "category": "movies-tv",
     "displayName": "Daniel Craig",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэниел Крейг",
+      "uk": "Денієл Крейґ"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg/500px-Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg",
       "alt": "Photo of Daniel Craig",
@@ -888,6 +1144,10 @@
     "category": "movies-tv",
     "displayName": "Pierce Brosnan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пирс Броснан",
+      "uk": "Пірс Броснан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/PierceBrosnan-byPhilipRomano.jpg/500px-PierceBrosnan-byPhilipRomano.jpg",
       "alt": "Photo of Pierce Brosnan",
@@ -902,6 +1162,10 @@
     "category": "movies-tv",
     "displayName": "Roger Moore",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Роджер Мур",
+      "uk": "Роджер Мур"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sir_Roger_Moore_3_b.jpg/500px-Sir_Roger_Moore_3_b.jpg",
       "alt": "Photo of Roger Moore",
@@ -916,6 +1180,10 @@
     "category": "movies-tv",
     "displayName": "Gal Gadot",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Галь Гадот",
+      "uk": "Галь Гадот"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gal_Gadot_by_Gage_Skidmore_3.jpg/500px-Gal_Gadot_by_Gage_Skidmore_3.jpg",
       "alt": "Photo of Gal Gadot",
@@ -930,6 +1198,10 @@
     "category": "movies-tv",
     "displayName": "Charlize Theron",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шарлиз Терон",
+      "uk": "Шарліз Терон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CharlizeTheron-byPhilipRomano2.jpg/500px-CharlizeTheron-byPhilipRomano2.jpg",
       "alt": "Photo of Charlize Theron",
@@ -944,6 +1216,10 @@
     "category": "movies-tv",
     "displayName": "Sandra Bullock",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сандра Буллок",
+      "uk": "Сандра Буллок"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg/500px-Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg",
       "alt": "Photo of Sandra Bullock",
@@ -958,6 +1234,10 @@
     "category": "movies-tv",
     "displayName": "Cameron Diaz",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кэмерон Диас",
+      "uk": "Кемерон Діас"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cameron_Diaz_at_WWD_Style_Awards_2026-1998.jpg/500px-Cameron_Diaz_at_WWD_Style_Awards_2026-1998.jpg",
       "alt": "Photo of Cameron Diaz",
@@ -972,6 +1252,10 @@
     "category": "movies-tv",
     "displayName": "Drew Barrymore",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дрю Бэрримор",
+      "uk": "Дрю Беррімор"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Drew_Barrymore_in_2019_%28cropped%29.jpg/500px-Drew_Barrymore_in_2019_%28cropped%29.jpg",
       "alt": "Photo of Drew Barrymore",
@@ -986,6 +1270,10 @@
     "category": "movies-tv",
     "displayName": "Reese Witherspoon",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Риз Уизерспун",
+      "uk": "Різ Візерспун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Reese_Witherspoon_at_Nashville_Film_Festival_2026_%28cropped_head_room%29.jpg/500px-Reese_Witherspoon_at_Nashville_Film_Festival_2026_%28cropped_head_room%29.jpg",
       "alt": "Photo of Reese Witherspoon",
@@ -1000,6 +1288,10 @@
     "category": "movies-tv",
     "displayName": "Halle Berry",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хэлли Берри",
+      "uk": "Геллі Беррі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_Berry-1910.jpg/500px-Halle_Berry-1910.jpg",
       "alt": "Photo of Halle Berry",
@@ -1014,6 +1306,10 @@
     "category": "movies-tv",
     "displayName": "Whoopi Goldberg",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вупи Голдберг",
+      "uk": "Вупі Голдберг"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/WhoopiGoldberg-byPhilipRomano2.jpg/500px-WhoopiGoldberg-byPhilipRomano2.jpg",
       "alt": "Photo of Whoopi Goldberg",
@@ -1028,6 +1324,10 @@
     "category": "movies-tv",
     "displayName": "Eddie Murphy",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эдди Мерфи",
+      "uk": "Едді Мерфі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eddie_Murphy_by_David_Shankbone.jpg/500px-Eddie_Murphy_by_David_Shankbone.jpg",
       "alt": "Photo of Eddie Murphy",
@@ -1041,6 +1341,10 @@
     "category": "movies-tv",
     "displayName": "Adam Sandler",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Адам Сэндлер",
+      "uk": "Адам Сендлер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg/500px-Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_%283x4%29.jpg",
       "alt": "Photo of Adam Sandler",
@@ -1055,6 +1359,10 @@
     "category": "movies-tv",
     "displayName": "Ben Stiller",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бен Стиллер",
+      "uk": "Бен Стіллер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ben_Stiller_2026.jpg/500px-Ben_Stiller_2026.jpg",
       "alt": "Photo of Ben Stiller",
@@ -1069,6 +1377,10 @@
     "category": "movies-tv",
     "displayName": "Owen Wilson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Оуэн Уилсон",
+      "uk": "Оуен Вілсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Owen_Wilson_Cannes_2011.jpg",
       "alt": "Photo of Owen Wilson",
@@ -1083,6 +1395,10 @@
     "category": "movies-tv",
     "displayName": "Steve Carell",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стив Карелл",
+      "uk": "Стів Карелл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Steve_Carell_-_The_40-Year-Old-Virgin.jpg/500px-Steve_Carell_-_The_40-Year-Old-Virgin.jpg",
       "alt": "Photo of Steve Carell",
@@ -1097,6 +1413,10 @@
     "category": "movies-tv",
     "displayName": "Robin Williams",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Робин Уильямс",
+      "uk": "Робін Вільямс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Robin_Williams_1996_%28cropped%29_2.jpg/500px-Robin_Williams_1996_%28cropped%29_2.jpg",
       "alt": "Photo of Robin Williams",
@@ -1111,6 +1431,10 @@
     "category": "movies-tv",
     "displayName": "Jim Parsons",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джим Парсонс",
+      "uk": "Джим Парсонс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JimParsons-byPhilipRomano.jpg/500px-JimParsons-byPhilipRomano.jpg",
       "alt": "Photo of Jim Parsons",
@@ -1125,6 +1449,10 @@
     "category": "movies-tv",
     "displayName": "Penélope Cruz",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пенелопа Крус",
+      "uk": "Пенелопа Крус"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Penelope_Cruz_Venice_Film_Festival.jpg/500px-Penelope_Cruz_Venice_Film_Festival.jpg",
       "alt": "Photo of Penélope Cruz",
@@ -1139,6 +1467,10 @@
     "category": "movies-tv",
     "displayName": "Antonio Banderas",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Антонио Бандерас",
+      "uk": "Антоніо Бандерас"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Goyas_2025_-_Antonio_Banderas_%28cropped%29.jpg/500px-Goyas_2025_-_Antonio_Banderas_%28cropped%29.jpg",
       "alt": "Photo of Antonio Banderas",
@@ -1153,6 +1485,10 @@
     "category": "movies-tv",
     "displayName": "Javier Bardem",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хавьер Бардем",
+      "uk": "Хав'єр Бардем"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Javier_Bardem_-_Bunker_-_TIFF_2026-12.jpg/500px-Javier_Bardem_-_Bunker_-_TIFF_2026-12.jpg",
       "alt": "Photo of Javier Bardem",
@@ -1167,6 +1503,10 @@
     "category": "movies-tv",
     "displayName": "Salma Hayek",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сальма Хайек",
+      "uk": "Сальма Хаєк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg/500px-MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg",
       "alt": "Photo of Salma Hayek",
@@ -1181,6 +1521,10 @@
     "category": "movies-tv",
     "displayName": "Sophia Loren",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Софи Лорен",
+      "uk": "Софі Лорен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg/500px-Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg",
       "alt": "Photo of Sophia Loren",
@@ -1195,6 +1539,10 @@
     "category": "movies-tv",
     "displayName": "Monica Bellucci",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Моника Беллуччи",
+      "uk": "Моніка Беллуччі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Monica_Bellucci_at_%22Kettic%C3%A8%22_photocall_during_the_79th_Locarno_Film_Festival_2_%28cropped%29.jpg/500px-Monica_Bellucci_at_%22Kettic%C3%A8%22_photocall_during_the_79th_Locarno_Film_Festival_2_%28cropped%29.jpg",
       "alt": "Photo of Monica Bellucci",
@@ -1209,6 +1557,10 @@
     "category": "movies-tv",
     "displayName": "Gérard Depardieu",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жерар Депардьё",
+      "uk": "Жерар Депардьє"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/G%C3%A9rard_Depardieu_%28Berlin_Film_Festival_2010%29.jpg/500px-G%C3%A9rard_Depardieu_%28Berlin_Film_Festival_2010%29.jpg",
       "alt": "Photo of Gérard Depardieu",
@@ -1223,6 +1575,10 @@
     "category": "movies-tv",
     "displayName": "Jean Reno",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жан Рено",
+      "uk": "Жан Рено"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jean_Reno_Cannes_2016.jpg/500px-Jean_Reno_Cannes_2016.jpg",
       "alt": "Photo of Jean Reno",
@@ -1237,6 +1593,10 @@
     "category": "movies-tv",
     "displayName": "Alain Delon",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ален Делон",
+      "uk": "Ален Делон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alain_Delon_1961.jpg",
       "alt": "Photo of Alain Delon",
@@ -1250,6 +1610,10 @@
     "category": "movies-tv",
     "displayName": "Catherine Deneuve",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Катрин Денёв",
+      "uk": "Катрін Денев"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Catherine_Deneuve_Berlinale_2017.jpg/500px-Catherine_Deneuve_Berlinale_2017.jpg",
       "alt": "Photo of Catherine Deneuve",
@@ -1264,6 +1628,10 @@
     "category": "movies-tv",
     "displayName": "Marion Cotillard",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марион Котийяр",
+      "uk": "Маріон Котіяр"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marion_Cotillard-1061.jpg/500px-Marion_Cotillard-1061.jpg",
       "alt": "Photo of Marion Cotillard",
@@ -1278,6 +1646,10 @@
     "category": "movies-tv",
     "displayName": "Juliette Binoche",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жюльет Бинош",
+      "uk": "Жульєт Бінош"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Juliette_Binoche_at_Berlinale_2026-2.jpg/500px-Juliette_Binoche_at_Berlinale_2026-2.jpg",
       "alt": "Photo of Juliette Binoche",
@@ -1292,6 +1664,10 @@
     "category": "movies-tv",
     "displayName": "Audrey Tautou",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Одри Тоту",
+      "uk": "Одрі Тоту"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Audrey_Tautou_Berlin_2015.jpg/500px-Audrey_Tautou_Berlin_2015.jpg",
       "alt": "Photo of Audrey Tautou",
@@ -1306,6 +1682,10 @@
     "category": "movies-tv",
     "displayName": "Omar Sy",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Омар Си",
+      "uk": "Омар Сі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Omar_Sy_%282020%29.jpg/500px-Omar_Sy_%282020%29.jpg",
       "alt": "Photo of Omar Sy",
@@ -1320,6 +1700,10 @@
     "category": "movies-tv",
     "displayName": "Vincent Cassel",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Венсан Кассель",
+      "uk": "Венсан Кассель"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vincent_Cassel_Cannes_2018.jpg/500px-Vincent_Cassel_Cannes_2018.jpg",
       "alt": "Photo of Vincent Cassel",
@@ -1334,6 +1718,10 @@
     "category": "movies-tv",
     "displayName": "Louis de Funès",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Луи де Фюнес",
+      "uk": "Луї де Фюнес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Louis_de_Fun%C3%A8s_1970.jpg/500px-Louis_de_Fun%C3%A8s_1970.jpg",
       "alt": "Photo of Louis de Funès",
@@ -1347,6 +1735,10 @@
     "category": "movies-tv",
     "displayName": "Jean-Paul Belmondo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жан-Поль Бельмондо",
+      "uk": "Жан-Поль Бельмондо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Belmondo_1960.jpg/500px-Belmondo_1960.jpg",
       "alt": "Photo of Jean-Paul Belmondo",
@@ -1360,6 +1752,10 @@
     "category": "movies-tv",
     "displayName": "Jean-Claude Van Damme",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жан-Клод Ван Дамм",
+      "uk": "Жан-Клод Ван Дам"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg/500px-Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg",
       "alt": "Photo of Jean-Claude Van Damme",
@@ -1374,6 +1770,10 @@
     "category": "movies-tv",
     "displayName": "Chuck Norris",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чак Норрис",
+      "uk": "Чак Норріс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg/500px-Chuck_Norris%2C_The_Delta_Force_1986_%28slight_cropped%29.jpg",
       "alt": "Photo of Chuck Norris",
@@ -1388,6 +1788,10 @@
     "category": "movies-tv",
     "displayName": "Steven Seagal",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стивен Сигал",
+      "uk": "Стівен Сігал"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Steven_Seagal_at_Russia_Expo.jpg/500px-Steven_Seagal_at_Russia_Expo.jpg",
       "alt": "Photo of Steven Seagal",
@@ -1402,6 +1806,10 @@
     "category": "movies-tv",
     "displayName": "Jason Statham",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейсон Стейтем",
+      "uk": "Джейсон Стейтем"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jason_Statham_2018.jpg/500px-Jason_Statham_2018.jpg",
       "alt": "Photo of Jason Statham",
@@ -1416,6 +1824,10 @@
     "category": "movies-tv",
     "displayName": "Vin Diesel",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вин Дизель",
+      "uk": "Він Дізель"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vin_Diesel_by_Gage_Skidmore_2.jpg/500px-Vin_Diesel_by_Gage_Skidmore_2.jpg",
       "alt": "Photo of Vin Diesel",
@@ -1430,6 +1842,10 @@
     "category": "movies-tv",
     "displayName": "Mel Gibson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мел Гибсон",
+      "uk": "Мел Гібсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mel_Gibson_Cannes_2016_2.jpg/500px-Mel_Gibson_Cannes_2016_2.jpg",
       "alt": "Photo of Mel Gibson",
@@ -1444,6 +1860,10 @@
     "category": "movies-tv",
     "displayName": "Russell Crowe",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рассел Кроу",
+      "uk": "Рассел Кроу"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Russell_Crowe_Venice_2026.jpg/500px-Russell_Crowe_Venice_2026.jpg",
       "alt": "Photo of Russell Crowe",
@@ -1458,6 +1878,10 @@
     "category": "movies-tv",
     "displayName": "Heath Ledger",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хит Леджер",
+      "uk": "Гіт Леджер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/500px-Heath_Ledger_%282%29.jpg",
       "alt": "Photo of Heath Ledger",
@@ -1472,6 +1896,10 @@
     "category": "movies-tv",
     "displayName": "Cate Blanchett",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кейт Бланшетт",
+      "uk": "Кейт Бланшетт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cate_Blanchett-63298_%28cropped_2%29.jpg/500px-Cate_Blanchett-63298_%28cropped_2%29.jpg",
       "alt": "Photo of Cate Blanchett",
@@ -1486,6 +1914,10 @@
     "category": "movies-tv",
     "displayName": "Hugh Grant",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хью Грант",
+      "uk": "Г'ю Ґрант"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hugh_Grant_in_2014.jpg/500px-Hugh_Grant_in_2014.jpg",
       "alt": "Photo of Hugh Grant",
@@ -1500,6 +1932,10 @@
     "category": "movies-tv",
     "displayName": "Colin Firth",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Колин Ферт",
+      "uk": "Колін Ферт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Colin_Firth_%2836124162705%29_%28cropped%29.jpg/500px-Colin_Firth_%2836124162705%29_%28cropped%29.jpg",
       "alt": "Photo of Colin Firth",
@@ -1514,6 +1950,10 @@
     "category": "movies-tv",
     "displayName": "Anthony Hopkins",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Энтони Хопкинс",
+      "uk": "Ентоні Гопкінс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anthony_Hopkins_Red_Sea_Festival_2025_Portrait_%28cropped%29.jpg/500px-Anthony_Hopkins_Red_Sea_Festival_2025_Portrait_%28cropped%29.jpg",
       "alt": "Photo of Anthony Hopkins",
@@ -1528,6 +1968,10 @@
     "category": "movies-tv",
     "displayName": "Ian McKellen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Иэн Маккеллен",
+      "uk": "Ієн Мак-Келлен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/500px-SDCC13_-_Ian_McKellen.jpg",
       "alt": "Photo of Ian McKellen",
@@ -1542,6 +1986,10 @@
     "category": "movies-tv",
     "displayName": "Patrick Stewart",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Патрик Стюарт",
+      "uk": "Патрік Стюарт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Patrick_Stewart_1999_%28retouch%29.jpg/500px-Patrick_Stewart_1999_%28retouch%29.jpg",
       "alt": "Photo of Patrick Stewart",
@@ -1556,6 +2004,10 @@
     "category": "movies-tv",
     "displayName": "Helen Mirren",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хелен Миррен",
+      "uk": "Гелен Міррен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg/500px-Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg",
       "alt": "Photo of Helen Mirren",
@@ -1570,6 +2022,10 @@
     "category": "movies-tv",
     "displayName": "Judi Dench",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джуди Денч",
+      "uk": "Джуді Денч"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Judi_Dench_2023.jpg/500px-Judi_Dench_2023.jpg",
       "alt": "Photo of Judi Dench",
@@ -1584,6 +2040,10 @@
     "category": "movies-tv",
     "displayName": "Maggie Smith",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мэгги Смит",
+      "uk": "Меґґі Сміт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Maggie_Smith_-_Vintage_%28trim%29.jpg/500px-Maggie_Smith_-_Vintage_%28trim%29.jpg",
       "alt": "Photo of Maggie Smith",
@@ -1597,6 +2057,10 @@
     "category": "movies-tv",
     "displayName": "Alan Rickman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Алан Рикман",
+      "uk": "Алан Рікман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Alan_Rickman_after_Seminar_%283%29.jpg/500px-Alan_Rickman_after_Seminar_%283%29.jpg",
       "alt": "Photo of Alan Rickman",
@@ -1611,6 +2075,10 @@
     "category": "movies-tv",
     "displayName": "Gary Oldman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гэри Олдмен",
+      "uk": "Ґері Олдмен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gary_Oldman_%2813925515511%29_%28cropped%29.jpg/500px-Gary_Oldman_%2813925515511%29_%28cropped%29.jpg",
       "alt": "Photo of Gary Oldman",
@@ -1625,6 +2093,10 @@
     "category": "movies-tv",
     "displayName": "Michael Caine",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майкл Кейн",
+      "uk": "Майкл Кейн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sir_Michael_Caine%2C_28th_EFA_Awards_2015%2C_Berlin_%28cropped%29.jpg",
       "alt": "Photo of Michael Caine",
@@ -1639,6 +2111,10 @@
     "category": "movies-tv",
     "displayName": "Orlando Bloom",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Орландо Блум",
+      "uk": "Орландо Блум"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Orlando_Bloom-9047_%28cropped%29.jpg/500px-Orlando_Bloom-9047_%28cropped%29.jpg",
       "alt": "Photo of Orlando Bloom",
@@ -1652,13 +2128,21 @@
     "id": "viggo-mortensen",
     "category": "movies-tv",
     "displayName": "Viggo Mortensen",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вигго Мортенсен",
+      "uk": "Вігго Мортенсен"
+    }
   },
   {
     "id": "elijah-wood",
     "category": "movies-tv",
     "displayName": "Elijah Wood",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Элайджа Вуд",
+      "uk": "Елайджа Вуд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Elijah_Wood_%2855223197178%29_%28cropped%29.jpg/500px-Elijah_Wood_%2855223197178%29_%28cropped%29.jpg",
       "alt": "Photo of Elijah Wood",
@@ -1673,6 +2157,10 @@
     "category": "movies-tv",
     "displayName": "Keira Knightley",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кира Найтли",
+      "uk": "Кіра Найтлі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Knightley_Bafta_2015_07.png/500px-Knightley_Bafta_2015_07.png",
       "alt": "Photo of Keira Knightley",
@@ -1687,6 +2175,10 @@
     "category": "movies-tv",
     "displayName": "Emma Stone",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эмма Стоун",
+      "uk": "Емма Стоун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg/500px-Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg",
       "alt": "Photo of Emma Stone",
@@ -1701,6 +2193,10 @@
     "category": "movies-tv",
     "displayName": "Emma Thompson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эмма Томпсон",
+      "uk": "Емма Томпсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Emma_Thompson_at_the_78th_Locarno_Film_Festival_photocall_01_%28cropped%29.jpg/500px-Emma_Thompson_at_the_78th_Locarno_Film_Festival_photocall_01_%28cropped%29.jpg",
       "alt": "Photo of Emma Thompson",
@@ -1715,6 +2211,10 @@
     "category": "movies-tv",
     "displayName": "Kristen Stewart",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кристен Стюарт",
+      "uk": "Крістен Стюарт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kristen_Stewart_at_WWD_Style_Awards_2026.jpg/500px-Kristen_Stewart_at_WWD_Style_Awards_2026.jpg",
       "alt": "Photo of Kristen Stewart",
@@ -1729,6 +2229,10 @@
     "category": "movies-tv",
     "displayName": "Robert Pattinson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Роберт Паттинсон",
+      "uk": "Роберт Паттінсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg/500px-Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Robert Pattinson",
@@ -1743,6 +2247,10 @@
     "category": "movies-tv",
     "displayName": "Joaquin Phoenix",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хоакин Феникс",
+      "uk": "Хоакін Фенікс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Joaquin_Phoenix-64908_%28cropped%29.jpg/500px-Joaquin_Phoenix-64908_%28cropped%29.jpg",
       "alt": "Photo of Joaquin Phoenix",
@@ -1757,6 +2265,10 @@
     "category": "movies-tv",
     "displayName": "Christian Bale",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кристиан Бейл",
+      "uk": "Крістіан Бейл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/500px-Christian_Bale-7837.jpg",
       "alt": "Photo of Christian Bale",
@@ -1771,6 +2283,10 @@
     "category": "movies-tv",
     "displayName": "Matthew McConaughey",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мэттью Макконахи",
+      "uk": "Метью Макконагі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthew_McConaughey_at_the_2025_Toronto_Film_Festival_%283x4_cropped%29.jpg/500px-Matthew_McConaughey_at_the_2025_Toronto_Film_Festival_%283x4_cropped%29.jpg",
       "alt": "Photo of Matthew McConaughey",
@@ -1785,6 +2301,10 @@
     "category": "movies-tv",
     "displayName": "Woody Harrelson",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вуди Харрельсон",
+      "uk": "Вуді Гаррельсон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Woody_Harrelson_191020-N-NU281-1028_%28cropped%29.jpg/500px-Woody_Harrelson_191020-N-NU281-1028_%28cropped%29.jpg",
       "alt": "Photo of Woody Harrelson",
@@ -1798,6 +2318,10 @@
     "category": "movies-tv",
     "displayName": "Kevin Costner",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кевин Костнер",
+      "uk": "Кевін Костнер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kevin_Costner_at_81st_Venice_Film_Festival_%28cropped%29.jpg/500px-Kevin_Costner_at_81st_Venice_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Kevin Costner",
@@ -1812,6 +2336,10 @@
     "category": "movies-tv",
     "displayName": "Kevin Spacey",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кевин Спейси",
+      "uk": "Кевін Спейсі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kevin_Spacey-9243.jpg/500px-Kevin_Spacey-9243.jpg",
       "alt": "Photo of Kevin Spacey",
@@ -1826,6 +2354,10 @@
     "category": "movies-tv",
     "displayName": "Bill Murray",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Билл Мюррей",
+      "uk": "Білл Мюррей"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bill_Murray_at_the_2025_Sundance_Film_Festival_2_%28cropped%29.jpg/500px-Bill_Murray_at_the_2025_Sundance_Film_Festival_2_%28cropped%29.jpg",
       "alt": "Photo of Bill Murray",
@@ -1840,6 +2372,10 @@
     "category": "movies-tv",
     "displayName": "Danny DeVito",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэнни Де Вито",
+      "uk": "Денні Девіто"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg/500px-Danny_DeVito_cropped_and_edited_for_brightness.jpg",
       "alt": "Photo of Danny DeVito",
@@ -1854,6 +2390,10 @@
     "category": "movies-tv",
     "displayName": "Michael J. Fox",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майкл Джей Фокс",
+      "uk": "Майкл Джей Фокс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Michael_J_Fox_2020.jpg/500px-Michael_J_Fox_2020.jpg",
       "alt": "Photo of Michael J. Fox",
@@ -1867,6 +2407,10 @@
     "category": "movies-tv",
     "displayName": "Christopher Lloyd",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кристофер Ллойд",
+      "uk": "Крістофер Ллойд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChristopherLloyd2022.jpg/500px-ChristopherLloyd2022.jpg",
       "alt": "Photo of Christopher Lloyd",
@@ -1881,6 +2425,10 @@
     "category": "movies-tv",
     "displayName": "Jack Black",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джек Блэк",
+      "uk": "Джек Блек"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg/500px-TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg",
       "alt": "Photo of Jack Black",
@@ -1895,6 +2443,10 @@
     "category": "movies-tv",
     "displayName": "John Travolta",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Траволта",
+      "uk": "Джон Траволта"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/John_Travolta_in_2024_%28cropped%29.jpg/500px-John_Travolta_in_2024_%28cropped%29.jpg",
       "alt": "Photo of John Travolta",
@@ -1909,6 +2461,10 @@
     "category": "movies-tv",
     "displayName": "Uma Thurman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ума Турман",
+      "uk": "Ума Турман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/UmaThurman-byPhilipRomano.jpg/500px-UmaThurman-byPhilipRomano.jpg",
       "alt": "Photo of Uma Thurman",
@@ -1923,6 +2479,10 @@
     "category": "movies-tv",
     "displayName": "Nicolas Cage",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Николас Кейдж",
+      "uk": "Ніколас Кейдж"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nicolas_Cage_at_Los_Angeles_Comic_Con_2026-2.jpg/500px-Nicolas_Cage_at_Los_Angeles_Comic_Con_2026-2.jpg",
       "alt": "Photo of Nicolas Cage",
@@ -1937,6 +2497,10 @@
     "category": "movies-tv",
     "displayName": "Wesley Snipes",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Уэсли Снайпс",
+      "uk": "Веслі Снайпс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wesley_Snipes_%2841969097750%29_%28cropped%29.jpg/500px-Wesley_Snipes_%2841969097750%29_%28cropped%29.jpg",
       "alt": "Photo of Wesley Snipes",
@@ -1951,6 +2515,10 @@
     "category": "movies-tv",
     "displayName": "Bruce Willis",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Брюс Уиллис",
+      "uk": "Брюс Вілліс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/500px-Bruce_Willis_by_Gage_Skidmore_3.jpg",
       "alt": "Photo of Bruce Willis",
@@ -1965,6 +2533,10 @@
     "category": "movies-tv",
     "displayName": "Patrick Swayze",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Патрик Суэйзи",
+      "uk": "Патрік Свейзі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Patrick_Swayze_-_1990_Grammy_Awards_%28cropped%29.jpg",
       "alt": "Photo of Patrick Swayze",
@@ -1979,6 +2551,10 @@
     "category": "movies-tv",
     "displayName": "Richard Gere",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ричард Гир",
+      "uk": "Річард Гір"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Richard_Gere-69101.jpg/500px-Richard_Gere-69101.jpg",
       "alt": "Photo of Richard Gere",
@@ -1993,6 +2569,10 @@
     "category": "movies-tv",
     "displayName": "Michelle Pfeiffer",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мишель Пфайффер",
+      "uk": "Мішель Пфайффер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Michelle_Pfeiffer_Ant-Man_%26_The_Wasp_premiere.jpg/500px-Michelle_Pfeiffer_Ant-Man_%26_The_Wasp_premiere.jpg",
       "alt": "Photo of Michelle Pfeiffer",
@@ -2007,6 +2587,10 @@
     "category": "movies-tv",
     "displayName": "Sharon Stone",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шэрон Стоун",
+      "uk": "Шерон Стоун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sharon_Stone_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg/500px-Sharon_Stone_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Sharon Stone",
@@ -2021,6 +2605,10 @@
     "category": "movies-tv",
     "displayName": "Demi Moore",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Деми Мур",
+      "uk": "Демі Мур"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Demi_Moore_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg/500px-Demi_Moore_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Demi Moore",
@@ -2035,6 +2623,10 @@
     "category": "movies-tv",
     "displayName": "Meg Ryan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мег Райан",
+      "uk": "Мег Раян"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Meg_Ryan_2_Met_Opera_2010_Shankbone.jpg/500px-Meg_Ryan_2_Met_Opera_2010_Shankbone.jpg",
       "alt": "Photo of Meg Ryan",
@@ -2049,6 +2641,10 @@
     "category": "movies-tv",
     "displayName": "Goldie Hawn",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Голди Хоун",
+      "uk": "Голді Гоун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Goldie_Hawn_in_2021.jpg/500px-Goldie_Hawn_in_2021.jpg",
       "alt": "Photo of Goldie Hawn",
@@ -2063,6 +2659,10 @@
     "category": "movies-tv",
     "displayName": "Jane Fonda",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейн Фонда",
+      "uk": "Джейн Фонда"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jane_Fonda_gaslit-65.jpg/500px-Jane_Fonda_gaslit-65.jpg",
       "alt": "Photo of Jane Fonda",
@@ -2077,6 +2677,10 @@
     "category": "movies-tv",
     "displayName": "Diane Keaton",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дайан Китон",
+      "uk": "Даян Кітон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg/500px-Diane_Keaton_2012-1_%28cropped%29_%28cropped%29.jpg",
       "alt": "Photo of Diane Keaton",
@@ -2091,6 +2695,10 @@
     "category": "movies-tv",
     "displayName": "Sigourney Weaver",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сигурни Уивер",
+      "uk": "Сіґорні Вівер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/500px-Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg",
       "alt": "Photo of Sigourney Weaver",
@@ -2105,6 +2713,10 @@
     "category": "movies-tv",
     "displayName": "Jodie Foster",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джоди Фостер",
+      "uk": "Джоді Фостер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jodie_Foster_Taxi_Driver_Tribeca_Festival_2026-20_%28cropped%29.jpg/500px-Jodie_Foster_Taxi_Driver_Tribeca_Festival_2026-20_%28cropped%29.jpg",
       "alt": "Photo of Jodie Foster",
@@ -2119,6 +2731,10 @@
     "category": "movies-tv",
     "displayName": "Glenn Close",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гленн Клоуз",
+      "uk": "Гленн Клоуз"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glenn_Close_TIFF_2025_%28cropped%29.jpg/500px-Glenn_Close_TIFF_2025_%28cropped%29.jpg",
       "alt": "Photo of Glenn Close",
@@ -2133,6 +2749,10 @@
     "category": "movies-tv",
     "displayName": "Susan Sarandon",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сьюзан Сарандон",
+      "uk": "Сьюзен Серендон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg/500px-Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg",
       "alt": "Photo of Susan Sarandon",
@@ -2147,6 +2767,10 @@
     "category": "movies-tv",
     "displayName": "Dustin Hoffman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дастин Хоффман",
+      "uk": "Дастін Гоффман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg/500px-Dustin_Hoffman_at_the_2025_Toronto_International_Film_Festival._02_%28cropped%29.jpg",
       "alt": "Photo of Dustin Hoffman",
@@ -2161,6 +2785,10 @@
     "category": "movies-tv",
     "displayName": "Paul Newman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пол Ньюман",
+      "uk": "Пол Ньюман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paul_Newman_-_1958.jpg/500px-Paul_Newman_-_1958.jpg",
       "alt": "Photo of Paul Newman",
@@ -2174,6 +2802,10 @@
     "category": "movies-tv",
     "displayName": "Robert Redford",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Роберт Редфорд",
+      "uk": "Роберт Редфорд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tell_Them_Willie_Boy_Is_Here_%E2%80%93_Robert_Redford_photo.jpg/500px-Tell_Them_Willie_Boy_Is_Here_%E2%80%93_Robert_Redford_photo.jpg",
       "alt": "Photo of Robert Redford",
@@ -2187,6 +2819,10 @@
     "category": "movies-tv",
     "displayName": "Steve McQueen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стив Маккуин",
+      "uk": "Стів Макквін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve-McQueen-1968_%28cropped%29.jpg/500px-Steve-McQueen-1968_%28cropped%29.jpg",
       "alt": "Photo of Steve McQueen",
@@ -2200,6 +2836,10 @@
     "category": "movies-tv",
     "displayName": "James Dean",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джеймс Дин",
+      "uk": "Джеймс Дін"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/James_Dean_in_Rebel_Without_a_Cause_%28HQ%29.jpg/500px-James_Dean_in_Rebel_Without_a_Cause_%28HQ%29.jpg",
       "alt": "Photo of James Dean",
@@ -2213,6 +2853,10 @@
     "category": "movies-tv",
     "displayName": "Humphrey Bogart",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хамфри Богарт",
+      "uk": "Гамфрі Боґарт"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Humphrey_Bogart_by_Elmer_Fryer_%28cropped%29.jpg/500px-Humphrey_Bogart_by_Elmer_Fryer_%28cropped%29.jpg",
       "alt": "Photo of Humphrey Bogart",
@@ -2226,6 +2870,10 @@
     "category": "movies-tv",
     "displayName": "Cary Grant",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кэри Грант",
+      "uk": "Кері Ґрант"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg/500px-Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg",
       "alt": "Photo of Cary Grant",
@@ -2239,6 +2887,10 @@
     "category": "movies-tv",
     "displayName": "Grace Kelly",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Грейс Келли",
+      "uk": "Грейс Келлі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Grace_Kelly_1956_%28cropped%29.jpg/500px-Grace_Kelly_1956_%28cropped%29.jpg",
       "alt": "Photo of Grace Kelly",
@@ -2253,6 +2905,10 @@
     "category": "movies-tv",
     "displayName": "Greta Garbo",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Грета Гарбо",
+      "uk": "Грета Гарбо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Garbo_in_Inspiration.jpg",
       "alt": "Photo of Greta Garbo",
@@ -2266,6 +2922,10 @@
     "category": "movies-tv",
     "displayName": "Ingrid Bergman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ингрид Бергман",
+      "uk": "Інгрід Бергман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ingrid_Bergman_by_Whitey_Schafer_1940.jpg/500px-Ingrid_Bergman_by_Whitey_Schafer_1940.jpg",
       "alt": "Photo of Ingrid Bergman",
@@ -2279,6 +2939,10 @@
     "category": "movies-tv",
     "displayName": "Marlene Dietrich",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марлен Дитрих",
+      "uk": "Марлен Дітріх"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png/500px-Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png",
       "alt": "Photo of Marlene Dietrich",
@@ -2292,6 +2956,10 @@
     "category": "movies-tv",
     "displayName": "Clark Gable",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кларк Гейбл",
+      "uk": "Кларк Ґейбл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Clark_Gable_1949.jpg/500px-Clark_Gable_1949.jpg",
       "alt": "Photo of Clark Gable",
@@ -2305,6 +2973,10 @@
     "category": "movies-tv",
     "displayName": "Vivien Leigh",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вивьен Ли",
+      "uk": "Вів'єн Лі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vivien_Leigh_Scarlet.jpg/500px-Vivien_Leigh_Scarlet.jpg",
       "alt": "Photo of Vivien Leigh",
@@ -2318,6 +2990,10 @@
     "category": "movies-tv",
     "displayName": "Judy Garland",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джуди Гарленд",
+      "uk": "Джуді Гарленд"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Judy_Garland_publicity_photo.png/500px-Judy_Garland_publicity_photo.png",
       "alt": "Photo of Judy Garland",
@@ -2331,6 +3007,10 @@
     "category": "movies-tv",
     "displayName": "Fred Astaire",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Фред Астер",
+      "uk": "Фред Астер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Astaire%2C_Fred_-_Never_Get_Rich.jpg/500px-Astaire%2C_Fred_-_Never_Get_Rich.jpg",
       "alt": "Photo of Fred Astaire",
@@ -2344,6 +3024,10 @@
     "category": "movies-tv",
     "displayName": "Gene Kelly",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джин Келли",
+      "uk": "Джин Келлі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Committee_for_Free_Spain._Portrait_of_M._Woolf_and_Jack_%28possibly_Captain_Jack_White%29_Taken_for_the_Committee._%28Includes_photo_of_film_star_Gene_Kelly%29._Sep_1946_Slide_2_Trim_Edit.png/500px-thumbnail.png",
       "alt": "Photo of Gene Kelly",
@@ -2357,6 +3041,10 @@
     "category": "movies-tv",
     "displayName": "John Wayne",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Уэйн",
+      "uk": "Джон Вейн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/500px-John_Wayne_-_still_portrait.jpg",
       "alt": "Photo of John Wayne",
@@ -2370,6 +3058,10 @@
     "category": "movies-tv",
     "displayName": "Charlton Heston",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чарлтон Хестон",
+      "uk": "Чарлтон Гестон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CharltonHestonCivilRightsMarch1963Retouched.jpg/500px-CharltonHestonCivilRightsMarch1963Retouched.jpg",
       "alt": "Photo of Charlton Heston",
@@ -2383,6 +3075,10 @@
     "category": "movies-tv",
     "displayName": "Gregory Peck",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Грегори Пек",
+      "uk": "Грегорі Пек"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gregory_Peck_1948.jpg/500px-Gregory_Peck_1948.jpg",
       "alt": "Photo of Gregory Peck",
@@ -2396,6 +3092,10 @@
     "category": "movies-tv",
     "displayName": "Kirk Douglas",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кирк Дуглас",
+      "uk": "Кірк Дуглас"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Studio_publicity_Kirk_Douglas.jpg",
       "alt": "Photo of Kirk Douglas",
@@ -2409,6 +3109,10 @@
     "category": "movies-tv",
     "displayName": "Michael Douglas",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майкл Дуглас",
+      "uk": "Майкл Дуглас"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/59th_Karlovy_Vary_International_Film_Festival%2C_Michael_Douglas_09%28cropped%29.jpg/500px-59th_Karlovy_Vary_International_Film_Festival%2C_Michael_Douglas_09%28cropped%29.jpg",
       "alt": "Photo of Michael Douglas",
@@ -2423,6 +3127,10 @@
     "category": "movies-tv",
     "displayName": "Catherine Zeta-Jones",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кэтрин Зета-Джонс",
+      "uk": "Кетрін Зета-Джонс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Catherine_Zeta-Jones_2025.png/500px-Catherine_Zeta-Jones_2025.png",
       "alt": "Photo of Catherine Zeta-Jones",
@@ -2437,6 +3145,10 @@
     "category": "movies-tv",
     "displayName": "Jet Li",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джет Ли",
+      "uk": "Джет Лі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jet_Li_2009_%28cropped%29.jpg/500px-Jet_Li_2009_%28cropped%29.jpg",
       "alt": "Photo of Jet Li",
@@ -2451,6 +3163,10 @@
     "category": "movies-tv",
     "displayName": "Chow Yun-fat",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чоу Юньфат",
+      "uk": "Чоу Юньфат"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chow_Yun_Fat_for_wiki.jpg/500px-Chow_Yun_Fat_for_wiki.jpg",
       "alt": "Photo of Chow Yun-fat",
@@ -2465,6 +3181,10 @@
     "category": "movies-tv",
     "displayName": "Michelle Yeoh",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мишель Йео",
+      "uk": "Мішель Єо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Michelle_Yeoh-2268.jpg/500px-Michelle_Yeoh-2268.jpg",
       "alt": "Photo of Michelle Yeoh",
@@ -2479,6 +3199,10 @@
     "category": "movies-tv",
     "displayName": "Zhang Ziyi",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чжан Цзыи",
+      "uk": "Чжан Цзиї"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Zhang_Ziyi-63357.jpg/500px-Zhang_Ziyi-63357.jpg",
       "alt": "Photo of Zhang Ziyi",
@@ -2493,6 +3217,10 @@
     "category": "movies-tv",
     "displayName": "Gong Li",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гун Ли",
+      "uk": "Ґун Лі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gong_Li_Cannes_2016.jpg/500px-Gong_Li_Cannes_2016.jpg",
       "alt": "Photo of Gong Li",
@@ -2507,6 +3235,10 @@
     "category": "movies-tv",
     "displayName": "Aamir Khan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аамир Хан",
+      "uk": "Аамір Хан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Aamir_Khan_at_the_success_bash_of_Secret_Superstar.jpg",
       "alt": "Photo of Aamir Khan",
@@ -2521,6 +3253,10 @@
     "category": "movies-tv",
     "displayName": "Salman Khan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Салман Хан",
+      "uk": "Салман Кхан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Salman_Khan_in_2023_%28cropped%29.jpg",
       "alt": "Photo of Salman Khan",
@@ -2535,6 +3271,10 @@
     "category": "movies-tv",
     "displayName": "Amitabh Bachchan",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Амитабх Баччан",
+      "uk": "Амітаб Баччан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Indian_actor_Amitabh_Bachchan.jpg/500px-Indian_actor_Amitabh_Bachchan.jpg",
       "alt": "Photo of Amitabh Bachchan",
@@ -2549,6 +3289,10 @@
     "category": "movies-tv",
     "displayName": "Priyanka Chopra",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Приянка Чопра",
+      "uk": "Пріянка Чопра"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Priyanka_Chopra_at_Bulgary_launch%2C_2024_%28cropped%29.jpg",
       "alt": "Photo of Priyanka Chopra",
@@ -2563,6 +3307,10 @@
     "category": "movies-tv",
     "displayName": "Aishwarya Rai",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Айшвария Рай",
+      "uk": "Айшварія Рай"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aishwarya_Rai_Cannes_2017.jpg/500px-Aishwarya_Rai_Cannes_2017.jpg",
       "alt": "Photo of Aishwarya Rai",
@@ -2577,6 +3325,10 @@
     "category": "movies-tv",
     "displayName": "Deepika Padukone",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дипика Падуконе",
+      "uk": "Діпіка Падуконе"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Deepika_Padukone_2025_%281%29.png/500px-Deepika_Padukone_2025_%281%29.png",
       "alt": "Photo of Deepika Padukone",
@@ -2591,6 +3343,10 @@
     "category": "movies-tv",
     "displayName": "Ken Watanabe",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кэн Ватанабэ",
+      "uk": "Кен Ватанабе"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ken_Watanabe_20220615.jpg/500px-Ken_Watanabe_20220615.jpg",
       "alt": "Photo of Ken Watanabe",
@@ -2605,6 +3361,10 @@
     "category": "movies-tv",
     "displayName": "Lee Byung-hun",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ли Бёнхон",
+      "uk": "Лі Бьонхон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg/500px-Lee_Byung-hun_2025_Toronto_%28cropped%29.jpg",
       "alt": "Photo of Lee Byung-hun",
@@ -2619,6 +3379,10 @@
     "category": "movies-tv",
     "displayName": "Rami Malek",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рами Малек",
+      "uk": "Рамі Малек"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rami_Malek_at_the_2026_Cannes_Film_Festival-69448.jpg/500px-Rami_Malek_at_the_2026_Cannes_Film_Festival-69448.jpg",
       "alt": "Photo of Rami Malek",
@@ -2633,6 +3397,10 @@
     "category": "movies-tv",
     "displayName": "Mads Mikkelsen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мадс Миккельсен",
+      "uk": "Мадс Міккельсен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mads_Mikkelsen_at_82nd_Venice_International_Film_Festival_%28cropped2%29.jpg/500px-Mads_Mikkelsen_at_82nd_Venice_International_Film_Festival_%28cropped2%29.jpg",
       "alt": "Photo of Mads Mikkelsen",
@@ -2647,6 +3415,10 @@
     "category": "movies-tv",
     "displayName": "Alicia Vikander",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Алисия Викандер",
+      "uk": "Алісія Вікандер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg/500px-Alicia_Vikander_at_the_83rd_Venice_International_Film_Festival_%E2%80%9CThe_Echo_Chamber%E2%80%9D_premiere.jpg",
       "alt": "Photo of Alicia Vikander",
@@ -2661,6 +3433,10 @@
     "category": "movies-tv",
     "displayName": "Christoph Waltz",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кристоф Вальц",
+      "uk": "Крістоф Вальц"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
       "alt": "Photo of Christoph Waltz",
@@ -2675,6 +3451,10 @@
     "category": "movies-tv",
     "displayName": "Til Schweiger",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тиль Швайгер",
+      "uk": "Тіль Швайґер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/2022_Til_Schweiger_%28cropped%29.jpg",
       "alt": "Photo of Til Schweiger",
@@ -2689,6 +3469,10 @@
     "category": "movies-tv",
     "displayName": "Jennifer Garner",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дженнифер Гарнер",
+      "uk": "Дженніфер Гарнер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jennifer_Garner_-_2024_%2854106107278%29_%28cropped%29.jpg/500px-Jennifer_Garner_-_2024_%2854106107278%29_%28cropped%29.jpg",
       "alt": "Photo of Jennifer Garner",
@@ -2703,6 +3487,10 @@
     "category": "movies-tv",
     "displayName": "Lucy Liu",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Люси Лью",
+      "uk": "Люсі Лью"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lucy_Liu_Rosemead-13_%28cropped%29.jpg/500px-Lucy_Liu_Rosemead-13_%28cropped%29.jpg",
       "alt": "Photo of Lucy Liu",
@@ -2717,6 +3505,10 @@
     "category": "movies-tv",
     "displayName": "Mila Kunis",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мила Кунис",
+      "uk": "Міла Куніс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mila_Kunis_TIFF_2025_%28cropped%29.jpg/500px-Mila_Kunis_TIFF_2025_%28cropped%29.jpg",
       "alt": "Photo of Mila Kunis",
@@ -2731,6 +3523,10 @@
     "category": "movies-tv",
     "displayName": "Ashton Kutcher",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эштон Кутчер",
+      "uk": "Ештон Кутчер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ashton_Kutcher_-_2023_-_P060603-362041_%28cropped%29.jpg",
       "alt": "Photo of Ashton Kutcher",
@@ -2745,6 +3541,10 @@
     "category": "movies-tv",
     "displayName": "Selena Gomez",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Селена Гомес",
+      "uk": "Селена Гомес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg/500px-Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_%28cropped%29.jpg",
       "alt": "Photo of Selena Gomez",
@@ -2759,6 +3559,10 @@
     "category": "movies-tv",
     "displayName": "Emilia Clarke",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эмилия Кларк",
+      "uk": "Емілія Кларк"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emilia_Clarke_at_the_2023_Harper%27s_Bazaar_Women_of_the_Year_Awards.jpg/500px-Emilia_Clarke_at_the_2023_Harper%27s_Bazaar_Women_of_the_Year_Awards.jpg",
       "alt": "Photo of Emilia Clarke",
@@ -2772,6 +3576,10 @@
     "category": "movies-tv",
     "displayName": "Kit Harington",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кит Харингтон",
+      "uk": "Кіт Герінґтон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kit_harrington_by_sachyn_mital_%28cropped_2%29.jpg",
       "alt": "Photo of Kit Harington",
@@ -2786,6 +3594,10 @@
     "category": "movies-tv",
     "displayName": "Peter Dinklage",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Питер Динклэйдж",
+      "uk": "Пітер Дінклейдж"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Peter_Dinklage_by_Gage_Skidmore_2.jpg/500px-Peter_Dinklage_by_Gage_Skidmore_2.jpg",
       "alt": "Photo of Peter Dinklage",
@@ -2800,6 +3612,10 @@
     "category": "movies-tv",
     "displayName": "Sarah Jessica Parker",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сара Джессика Паркер",
+      "uk": "Сара Джессіка Паркер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SarahJessicaParker-byPhilipRomano.jpg/500px-SarahJessicaParker-byPhilipRomano.jpg",
       "alt": "Photo of Sarah Jessica Parker",
@@ -2814,6 +3630,10 @@
     "category": "movies-tv",
     "displayName": "Lisa Kudrow",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лиза Кудроу",
+      "uk": "Ліза Кудров"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lisa_Kudrow_2.jpg/500px-Lisa_Kudrow_2.jpg",
       "alt": "Photo of Lisa Kudrow",
@@ -2828,6 +3648,10 @@
     "category": "movies-tv",
     "displayName": "Matthew Perry",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мэттью Перри",
+      "uk": "Меттью Перрі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg/500px-Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg",
       "alt": "Photo of Matthew Perry",
@@ -2841,6 +3665,10 @@
     "category": "movies-tv",
     "displayName": "Courteney Cox",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кортни Кокс",
+      "uk": "Кортні Кокс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Courteney_Cox_%2710_PaleyFest.jpg/500px-Courteney_Cox_%2710_PaleyFest.jpg",
       "alt": "Photo of Courteney Cox",
@@ -2855,6 +3683,10 @@
     "category": "movies-tv",
     "displayName": "David Schwimmer",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэвид Швиммер",
+      "uk": "Девід Швіммер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DavidSchwimmer10TIFF.jpg/500px-DavidSchwimmer10TIFF.jpg",
       "alt": "Photo of David Schwimmer",
@@ -2869,6 +3701,10 @@
     "category": "movies-tv",
     "displayName": "Matt LeBlanc",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мэтт Леблан",
+      "uk": "Метт Леблан"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Matt_LeBlanc%2C_Arqiva_British_Academy_Television_Awards%2C_2013.jpg/500px-Matt_LeBlanc%2C_Arqiva_British_Academy_Television_Awards%2C_2013.jpg",
       "alt": "Photo of Matt LeBlanc",
@@ -2883,6 +3719,10 @@
     "category": "movies-tv",
     "displayName": "Bryan Cranston",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Брайан Крэнстон",
+      "uk": "Браян Кренстон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/BryanCranston-byPhilipRomano_%28cropped%29.jpg/500px-BryanCranston-byPhilipRomano_%28cropped%29.jpg",
       "alt": "Photo of Bryan Cranston",
@@ -2897,6 +3737,10 @@
     "category": "movies-tv",
     "displayName": "Aaron Paul",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аарон Пол",
+      "uk": "Аарон Пол"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aaron_Paul_-_AMC_The_Grove_-_Ash.jpg/500px-Aaron_Paul_-_AMC_The_Grove_-_Ash.jpg",
       "alt": "Photo of Aaron Paul",
@@ -2911,6 +3755,10 @@
     "category": "movies-tv",
     "displayName": "Hugh Laurie",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хью Лори",
+      "uk": "Г'ю Лорі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hugh_Laurie%2C_from_a_bit_of_Fry_%26_Laurie%2C_http---en.wikipedia.org-wiki-Hugh_laurie_%289450843901%29_%28cropped%29.jpg/500px-Hugh_Laurie%2C_from_a_bit_of_Fry_%26_Laurie%2C_http---en.wikipedia.org-wiki-Hugh_laurie_%289450843901%29_%28cropped%29.jpg",
       "alt": "Photo of Hugh Laurie",
@@ -2925,6 +3773,10 @@
     "category": "movies-tv",
     "displayName": "Jennifer Coolidge",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дженнифер Кулидж",
+      "uk": "Дженніфер Кулідж"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jennifer_Coolidge_-_Cropped.jpg/500px-Jennifer_Coolidge_-_Cropped.jpg",
       "alt": "Photo of Jennifer Coolidge",
@@ -2939,6 +3791,10 @@
     "category": "movies-tv",
     "displayName": "Pedro Pascal",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Педро Паскаль",
+      "uk": "Педро Паскаль"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg/500px-Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg",
       "alt": "Photo of Pedro Pascal",
@@ -2953,6 +3809,10 @@
     "category": "movies-tv",
     "displayName": "Millie Bobby Brown",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Милли Бобби Браун",
+      "uk": "Міллі Боббі Браун"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Millie_Bobby_Brown_2025_%281%29.png/500px-Millie_Bobby_Brown_2025_%281%29.png",
       "alt": "Photo of Millie Bobby Brown",
@@ -2967,6 +3827,10 @@
     "category": "movies-tv",
     "displayName": "Henry Cavill",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Генри Кавилл",
+      "uk": "Генрі Кавілл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Henry_Cavill_%2848417913146%29_%28cropped%29.jpg/500px-Henry_Cavill_%2848417913146%29_%28cropped%29.jpg",
       "alt": "Photo of Henry Cavill",
@@ -2981,6 +3845,10 @@
     "category": "movies-tv",
     "displayName": "Jason Momoa",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейсон Момоа",
+      "uk": "Джейсон Момоа"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jason_Momoa_%2843055621224%29_%28cropped%29.jpg/500px-Jason_Momoa_%2843055621224%29_%28cropped%29.jpg",
       "alt": "Photo of Jason Momoa",
@@ -2995,6 +3863,10 @@
     "category": "movies-tv",
     "displayName": "Idris Elba",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Идрис Эльба",
+      "uk": "Ідріс Ельба"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Idris_Elba_A_House_of_Dynamite-21_%28cropped%29.jpg/500px-Idris_Elba_A_House_of_Dynamite-21_%28cropped%29.jpg",
       "alt": "Photo of Idris Elba",
@@ -3009,6 +3881,10 @@
     "category": "movies-tv",
     "displayName": "Viola Davis",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Виола Дэвис",
+      "uk": "Віола Девіс"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_Davis_2026_%28cropped%29.jpg/500px-Viola_Davis_2026_%28cropped%29.jpg",
       "alt": "Photo of Viola Davis",
@@ -3023,6 +3899,10 @@
     "category": "movies-tv",
     "displayName": "Lupita Nyong'o",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лупита Нионго",
+      "uk": "Люпіта Ніонго"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LupitaNyongo-byPhilipRomano3.jpg/500px-LupitaNyongo-byPhilipRomano3.jpg",
       "alt": "Photo of Lupita Nyong'o",
@@ -3037,6 +3917,10 @@
     "category": "movies-tv",
     "displayName": "Chadwick Boseman",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чедвик Боузман",
+      "uk": "Чедвік Боузман"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg/500px-Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg",
       "alt": "Photo of Chadwick Boseman",
@@ -3051,6 +3935,10 @@
     "category": "movies-tv",
     "displayName": "Eddie Redmayne",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эдди Редмэйн",
+      "uk": "Едді Редмейн"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Eddie_Redmayne_Broadway_2024.jpg/500px-Eddie_Redmayne_Broadway_2024.jpg",
       "alt": "Photo of Eddie Redmayne",
@@ -3064,6 +3952,10 @@
     "category": "movies-tv",
     "displayName": "Tilda Swinton",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тильда Суинтон",
+      "uk": "Тільда Свінтон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tilda_Swinton_at_Berlinale_2025-2.jpg/500px-Tilda_Swinton_at_Berlinale_2025-2.jpg",
       "alt": "Photo of Tilda Swinton",
@@ -3078,6 +3970,10 @@
     "category": "movies-tv",
     "displayName": "Florence Pugh",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Флоренс Пью",
+      "uk": "Флоренс П'ю"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Florence_Pugh_2026.jpg/500px-Florence_Pugh_2026.jpg",
       "alt": "Photo of Florence Pugh",
@@ -3092,6 +3988,10 @@
     "category": "movies-tv",
     "displayName": "Anya Taylor-Joy",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аня Тейлор-Джой",
+      "uk": "Аня Тейлор-Джой"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg/500px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg",
       "alt": "Photo of Anya Taylor-Joy",
@@ -3106,6 +4006,10 @@
     "category": "movies-tv",
     "displayName": "Jenna Ortega",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дженна Ортега",
+      "uk": "Дженна Ортега"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jenna_Ortega-63799_%28cropped%29.jpg/500px-Jenna_Ortega-63799_%28cropped%29.jpg",
       "alt": "Photo of Jenna Ortega",
@@ -3120,6 +4024,10 @@
     "category": "movies-tv",
     "displayName": "Mark Hamill",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марк Хэмилл",
+      "uk": "Марк Гемілл"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mark_Hamill_at_Fan_Expo_Anaheim_2026-1_%283x4_cropped%29.jpg/500px-Mark_Hamill_at_Fan_Expo_Anaheim_2026-1_%283x4_cropped%29.jpg",
       "alt": "Photo of Mark Hamill",
@@ -3134,6 +4042,10 @@
     "category": "movies-tv",
     "displayName": "Carrie Fisher",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кэрри Фишер",
+      "uk": "Керрі Фішер"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Carrie_Fisher_2013-a_straightened.jpg/500px-Carrie_Fisher_2013-a_straightened.jpg",
       "alt": "Photo of Carrie Fisher",
@@ -3148,6 +4060,10 @@
     "category": "movies-tv",
     "displayName": "Sacha Baron Cohen",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Саша Барон Коэн",
+      "uk": "Саша Барон Коен"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg/500px-Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg",
       "alt": "Photo of Sacha Baron Cohen",
@@ -3162,6 +4078,10 @@
     "category": "movies-tv",
     "displayName": "Gordon Ramsay",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гордон Рамзи",
+      "uk": "Гордон Рамзі"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gordon_Ramsay_%28cropped%29.jpg/500px-Gordon_Ramsay_%28cropped%29.jpg",
       "alt": "Photo of Gordon Ramsay",
@@ -3176,6 +4096,10 @@
     "category": "movies-tv",
     "displayName": "David Attenborough",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэвид Аттенборо",
+      "uk": "Девід Аттенборо"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/David_Attenborough_in_2025.jpg/500px-David_Attenborough_in_2025.jpg",
       "alt": "Photo of David Attenborough",
@@ -3190,6 +4114,10 @@
     "category": "movies-tv",
     "displayName": "Ellen DeGeneres",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эллен Дедженерес",
+      "uk": "Еллен Дедженерес"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ellen_DeGeneres_2011.jpg/500px-Ellen_DeGeneres_2011.jpg",
       "alt": "Photo of Ellen DeGeneres",
@@ -3204,6 +4132,10 @@
     "category": "movies-tv",
     "displayName": "Kim Kardashian",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ким Кардашьян",
+      "uk": "Кім Кардаш'ян"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kim_Kardashian_West_2014.jpg/500px-Kim_Kardashian_West_2014.jpg",
       "alt": "Photo of Kim Kardashian",
@@ -3218,6 +4150,10 @@
     "category": "movies-tv",
     "displayName": "Paris Hilton",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пэрис Хилтон",
+      "uk": "Періс Гілтон"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Paris_Hilton_at_WWD_Style_Awards_2026_%28cropped%29.jpg/500px-Paris_Hilton_at_WWD_Style_Awards_2026_%28cropped%29.jpg",
       "alt": "Photo of Paris Hilton",
@@ -3232,6 +4168,10 @@
     "category": "movies-tv",
     "displayName": "Mr. T",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мистер Ти",
+      "uk": "Містер Ті"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mr_T_by_Gage_Skidmore.jpg/500px-Mr_T_by_Gage_Skidmore.jpg",
       "alt": "Photo of Mr. T",
@@ -3246,6 +4186,10 @@
     "category": "movies-tv",
     "displayName": "John Cena",
     "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Сина",
+      "uk": "Джон Сіна"
+    },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/John_Cena_by_Gage_Skidmore.jpg/500px-John_Cena_by_Gage_Skidmore.jpg",
       "alt": "Photo of John Cena",
