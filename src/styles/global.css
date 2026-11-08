@@ -169,6 +169,41 @@ input {
   padding-top: 8px;
 }
 
+.lang-switch {
+  display: flex;
+  justify-content: flex-end;
+  gap: 4px;
+  margin: 0 0 8px auto;
+  width: fit-content;
+  padding: 4px;
+  border-radius: 999px;
+  background: var(--bg-raised);
+}
+
+.lang-option {
+  min-width: var(--tap);
+  min-height: 40px;
+  padding: 0 12px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-weight: 800;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.lang-option[aria-pressed='true'] {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.lang-option:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
 .brand {
   margin: 0;
   font-size: clamp(2.4rem, 11vw, 4.5rem);
@@ -563,16 +598,24 @@ input {
   text-wrap: balance;
 }
 
-.card-name:focus {
-  outline: none;
+.card--tappable {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  /* Horizontal swipes are ours (next / previous), not the browser's. */
+  touch-action: pan-y;
+  user-select: none;
 }
 
-.card--photo .card-name-box {
-  flex: 0 0 auto;
-  height: clamp(64px, 22%, 180px);
-  background: var(--paper);
-  border-radius: 16px;
-  padding: 4px 12px;
+.card-tap-hint {
+  margin: 0;
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  opacity: 0.6;
+}
+
+.card-name:focus {
+  outline: none;
 }
 
 .card-photo {
@@ -600,9 +643,10 @@ input {
 }
 
 .card-credit {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 600;
   text-align: center;
+  opacity: 0.75;
 }
 
 .card-credit a {
@@ -705,12 +749,32 @@ input {
   .countdown-instruction {
     font-size: 1.1rem;
   }
-  .card--photo {
-    flex-direction: row;
+  .countdown-resumed {
+    padding: 6px 12px;
+    font-size: 0.85rem;
   }
-  .card--photo .card-name-box {
-    flex: 1;
-    height: auto;
+  .countdown-resumed ~ .countdown-number {
+    font-size: 42vh;
+    font-size: 42dvh;
+  }
+}
+
+/* Landscape is the play format: nudge players who hold the phone upright. */
+.rotate-hint {
+  display: none;
+  margin: 0 auto;
+  max-width: 32ch;
+  padding: 8px 14px;
+  border-radius: 14px;
+  background: var(--focus);
+  color: var(--ink);
+  font-weight: 800;
+  text-align: center;
+}
+
+@media (orientation: portrait) and (max-width: 767px) {
+  .rotate-hint {
+    display: block;
   }
 }
 

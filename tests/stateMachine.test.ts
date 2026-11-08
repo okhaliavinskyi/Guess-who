@@ -138,3 +138,102 @@ describe('game state machine', () => {
     expect(back.bags.music).toBeDefined(); // bag state kept for the session
   });
 });
+
+describe('screen lock while a name is shown', () => {
+  it('REVEALED → PAUSED → countdown → the same item, without drawing again', () => {
+    let s = run([{ type: 'SELECT_POOL', pool: 'music' }, { type: 'START' }]);
+    s = completeCurrent(s);
+    if (s.screen.phase !== 'REVEALED') throw new Error('not revealed');
+    const item = s.screen.item;
+    const { bags, seen } = s;
+    s = reduce(s, { type: 'INTERRUPT' });
+    expect(s.screen).toEqual({ phase: 'PAUSED', selection: { kind: 'pool', pool: 'music' }, item });
+    s = reduce(s, { type: 'RESUME' });
+    expect(s.screen).toMatchObject({ phase: 'COUNTDOWN', resume: item });
+    s = completeCurrent(s);
+    expect(s.screen).toMatchObject({ phase: 'REVEALED', item, showPhoto: false });
+    expect(s.bags).toBe(bags);
+    expect(s.seen).toBe(seen);
+  });
+
+  it('works for custom words too', () => {
+    let s = run([{ type: 'OPEN_CUSTOM' }, { type: 'SUBMIT_CUSTOM', word: 'Zorro' }]);
+    s = completeCurrent(s);
+    s = reduce(reduce(s, { type: 'INTERRUPT' }), { type: 'RESUME' });
+    s = completeCurrent(s);
+    expect(s.screen).toMatchObject({ phase: 'REVEALED', item: { kind: 'custom', word: 'Zorro' } });
+  });
+
+  it('RESUME is ignored outside PAUSED', () => {
+    const home = initialGameState();
+    expect(reduce(home, { type: 'RESUME' })).toBe(home);
+  });
+});
+
+describe('history (swipe back / forward)', () => {
+  it('PREV re-reveals the previous item via countdown without a new draw', () => {
+    let s = run([{ type: 'SELECT_POOL', pool: 'music' }, { type: 'START' }]);
+    s = completeCurrent(s);
+    s = completeCurrent(reduce(s, { type: 'NEXT' }));
+    expect(s.history).toHaveLength(2);
+    expect(s.position).toBe(1);
+    const bags = s.bags;
+    s = reduce(s, { type: 'PREV' });
+    expect(s.screen).toMatchObject({
+      phase: 'COUNTDOWN',
+      resume: { kind: 'character', id: s.history[0] },
+    });
+    expect(s.screen).not.toHaveProperty('notice');
+    s = completeCurrent(s);
+    expect(s.screen).toMatchObject({ item: { id: s.history[0] } });
+    expect(s.bags).toBe(bags);
+    expect(reduce(s, { type: 'PREV' })).toBe(s); // nothing before the first
+  });
+
+  it('PREV is ignored for custom words', () => {
+    let s = run([{ type: 'OPEN_CUSTOM' }, { type: 'SUBMIT_CUSTOM', word: 'Zorro' }]);
+    s = completeCurrent(s);
+    expect(reduce(s, { type: 'PREV' })).toBe(s);
+  });
+});
+
+describe('session shadow ban', () => {
+  const revealedId = (s: GameState) =>
+    s.screen.phase === 'REVEALED' && s.screen.item.kind === 'character' ? s.screen.item.id : null;
+
+  function play(pool: PoolId, rounds: number, from: GameState = initialGameState()) {
+    let s = run([{ type: 'SELECT_POOL', pool }, { type: 'START' }], from);
+    const ids: string[] = [];
+    for (let i = 0; i < rounds; i += 1) {
+      if (i > 0) s = reduce(s, { type: 'NEXT' });
+      s = completeCurrent(s);
+      ids.push(revealedId(s)!);
+    }
+    return { s: reduce(s, { type: 'END' }), ids };
+  }
+
+  it('records every revealed id', () => {
+    const { s, ids } = play('music', 2);
+    expect(s.seen).toEqual(ids);
+  });
+
+  it('names already shown in a category are not offered again in Mix', () => {
+    const music = play('music', 3); // all of music seen
+    const mix = play('mix', 1, music.s);
+    expect(mix.ids).toEqual(['s1']);
+  });
+
+  it('starts a new cycle for a pool once everything in it was seen', () => {
+    const first = play('music', 3);
+    expect(new Set(first.ids).size).toBe(3);
+    const second = play('music', 1, first.s);
+    expect(pools.music).toContain(second.ids[0]);
+    // Only this pool's ids are forgotten; the new draw is recorded.
+    expect(second.s.seen).toEqual([second.ids[0]]);
+  });
+
+  it('a restored seen list (page reload) is respected', () => {
+    const { ids } = play('music', 2, initialGameState({}, ['m1', 'm2']));
+    expect(ids[0]).toBe('m3');
+  });
+});

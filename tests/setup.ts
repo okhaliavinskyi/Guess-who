@@ -6,6 +6,7 @@ afterEach(() => {
   cleanup();
   try {
     window.sessionStorage.clear();
+    window.localStorage.clear();
   } catch {
     /* ignore */
   }

@@ -3,24 +3,3866 @@
     "id": "abraham-lincoln",
     "category": "politics",
     "displayName": "Abraham Lincoln",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Авраам Линкольн",
+      "uk": "Авраам Лінкольн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/500px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "alt": "Photo of Abraham Lincoln",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "creator": "Alexander Gardner"
+    }
   },
   {
     "id": "nelson-mandela",
     "category": "politics",
     "displayName": "Nelson Mandela",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Нельсон Мандела",
+      "uk": "Нельсон Мандела"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/500px-Nelson_Mandela_1994.jpg",
+      "alt": "Photo of Nelson Mandela",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg",
+      "creator": "Kingkongphoto & www.celebrity-photos.com from Laurel",
+      "attribution": "Kingkongphoto & www.celebrity-photos.com from Laurel, CC BY-SA 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "winston-churchill",
     "category": "politics",
     "displayName": "Winston Churchill",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Уинстон Черчилль",
+      "uk": "Вінстон Черчилль"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/500px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+      "alt": "Photo of Winston Churchill",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg"
+    }
   },
   {
     "id": "mahatma-gandhi",
     "category": "politics",
     "displayName": "Mahatma Gandhi",
-    "popularityTier": "iconic"
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Махатма Ганди",
+      "uk": "Магатма Ганді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/500px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+      "alt": "Photo of Mahatma Gandhi",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
+      "creator": "Elliott & Fry"
+    }
+  },
+  {
+    "id": "george-washington",
+    "category": "politics",
+    "displayName": "George Washington",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джордж Вашингтон",
+      "uk": "Джордж Вашингтон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/500px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "alt": "Photo of George Washington",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "creator": "Gilbert Stuart"
+    }
+  },
+  {
+    "id": "barack-obama",
+    "category": "politics",
+    "displayName": "Barack Obama",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Барак Обама",
+      "uk": "Барак Обама"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/500px-President_Barack_Obama.jpg",
+      "alt": "Photo of Barack Obama",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
+      "creator": "Official White House Photo by Pete Souza"
+    }
+  },
+  {
+    "id": "donald-trump",
+    "category": "politics",
+    "displayName": "Donald Trump",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Дональд Трамп",
+      "uk": "Дональд Трамп"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "alt": "Photo of Donald Trump",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "creator": "Daniel Torok"
+    }
+  },
+  {
+    "id": "joe-biden",
+    "category": "politics",
+    "displayName": "Joe Biden",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джо Байден",
+      "uk": "Джо Байден"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+      "alt": "Photo of Joe Biden",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+      "creator": "Adam Schultz"
+    }
+  },
+  {
+    "id": "john-f-kennedy",
+    "category": "politics",
+    "displayName": "John F. Kennedy",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джон Фицджералд Кеннеди",
+      "uk": "Джон Фіцджеральд Кеннеді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+      "alt": "Photo of John F. Kennedy",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+      "creator": "Cecil W. Stoughton"
+    }
+  },
+  {
+    "id": "franklin-d-roosevelt",
+    "category": "politics",
+    "displayName": "Franklin D. Roosevelt",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Франклин Делано Рузвельт",
+      "uk": "Франклін Делано Рузвельт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+      "alt": "Photo of Franklin D. Roosevelt",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
+      "creator": "Leon Perskie",
+      "attribution": "Leon Perskie, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "theodore-roosevelt",
+    "category": "politics",
+    "displayName": "Theodore Roosevelt",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Теодор Рузвельт",
+      "uk": "Теодор Рузвельт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg",
+      "alt": "Photo of Theodore Roosevelt",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(3).jpg",
+      "creator": "Adam Cuerden"
+    }
+  },
+  {
+    "id": "thomas-jefferson",
+    "category": "politics",
+    "displayName": "Thomas Jefferson",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Томас Джефферсон",
+      "uk": "Томас Джефферсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/500px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+      "alt": "Photo of Thomas Jefferson",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
+      "creator": "Rembrandt Peale"
+    }
+  },
+  {
+    "id": "ronald-reagan",
+    "category": "politics",
+    "displayName": "Ronald Reagan",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Рональд Рейган",
+      "uk": "Рональд Рейган"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/500px-Official_Portrait_of_President_Reagan_1981.jpg",
+      "alt": "Photo of Ronald Reagan",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_President_Reagan_1981.jpg",
+      "creator": "Michael Evans"
+    }
+  },
+  {
+    "id": "bill-clinton",
+    "category": "politics",
+    "displayName": "Bill Clinton",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Билл Клинтон",
+      "uk": "Білл Клінтон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/500px-Bill_Clinton.jpg",
+      "alt": "Photo of Bill Clinton",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bill_Clinton.jpg",
+      "creator": "Bob McNeely, The White House[1]"
+    }
+  },
+  {
+    "id": "hillary-clinton",
+    "category": "politics",
+    "displayName": "Hillary Clinton",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Хиллари Клинтон",
+      "uk": "Гілларі Клінтон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26%2C_2023_in_Washington%2C_D.C._14_%28cropped%29.jpg/500px-Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26%2C_2023_in_Washington%2C_D.C._14_%28cropped%29.jpg",
+      "alt": "Photo of Hillary Clinton",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26,_2023_in_Washington,_D.C._14_(cropped).jpg",
+      "creator": "U.S. Department of State"
+    }
+  },
+  {
+    "id": "george-w-bush",
+    "category": "politics",
+    "displayName": "George W. Bush",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джордж Буш-младший",
+      "uk": "Джордж Буш-молодший"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/500px-George-W-Bush.jpeg",
+      "alt": "Photo of George W. Bush",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George-W-Bush.jpeg",
+      "creator": "Eric Draper"
+    }
+  },
+  {
+    "id": "richard-nixon",
+    "category": "politics",
+    "displayName": "Richard Nixon",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ричард Никсон",
+      "uk": "Річард Ніксон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/500px-Richard_Nixon_presidential_portrait_%282%29.jpg",
+      "alt": "Photo of Richard Nixon",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait_(2).jpg",
+      "creator": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 - 05/15/1984)"
+    }
+  },
+  {
+    "id": "queen-elizabeth-ii",
+    "category": "politics",
+    "displayName": "Queen Elizabeth II",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Королева Елизавета II",
+      "uk": "Королева Єлизавета II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/500px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
+      "alt": "Photo of Queen Elizabeth II",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+      "creator": "Donald McKague"
+    }
+  },
+  {
+    "id": "king-charles-iii",
+    "category": "politics",
+    "displayName": "King Charles III",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Король Карл III",
+      "uk": "Король Чарльз III"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/500px-King_Charles_III_%28July_2023%29.jpg",
+      "alt": "Photo of King Charles III",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg",
+      "creator": "White House"
+    }
+  },
+  {
+    "id": "princess-diana",
+    "category": "politics",
+    "displayName": "Princess Diana",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Принцесса Диана",
+      "uk": "Принцеса Діана"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg/500px-Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
+      "alt": "Photo of Princess Diana",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2).jpg",
+      "creator": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link)",
+      "attribution": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link), CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "queen-victoria",
+    "category": "politics",
+    "displayName": "Queen Victoria",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Виктория",
+      "uk": "Вікторія"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/500px-Queen_Victoria_by_Bassano.jpg",
+      "alt": "Photo of Queen Victoria",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg",
+      "creator": "Alexander Bassano"
+    }
+  },
+  {
+    "id": "margaret-thatcher",
+    "category": "politics",
+    "displayName": "Margaret Thatcher",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Маргарет Тэтчер",
+      "uk": "Маргарет Тетчер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/500px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
+      "alt": "Photo of Margaret Thatcher",
+      "license": "Copyrighted free use",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
+      "creator": "derivative work by Begoon"
+    }
+  },
+  {
+    "id": "tony-blair",
+    "category": "politics",
+    "displayName": "Tony Blair",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Тони Блэр",
+      "uk": "Тоні Блер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tony_Blair_%282010%29.jpg/500px-Tony_Blair_%282010%29.jpg",
+      "alt": "Photo of Tony Blair",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tony_Blair_(2010).jpg",
+      "creator": "Pavel Golovkin",
+      "attribution": "Pavel Golovkin, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "boris-johnson",
+    "category": "politics",
+    "displayName": "Boris Johnson",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Борис Джонсон",
+      "uk": "Борис Джонсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/500px-Boris_Johnson_official_portrait_%28cropped%29.jpg",
+      "alt": "Photo of Boris Johnson",
+      "license": "OGL 3",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait_(cropped).jpg",
+      "creator": "Ben Shread",
+      "attribution": "Ben Shread, OGL 3, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "angela-merkel",
+    "category": "politics",
+    "displayName": "Angela Merkel",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ангела Меркель",
+      "uk": "Ангела Меркель"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/500px-Angela_Merkel_2019_cropped.jpg",
+      "alt": "Photo of Angela Merkel",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_2019_cropped.jpg",
+      "creator": "Raimond Spekking",
+      "attribution": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "napoleon-bonaparte",
+    "category": "politics",
+    "displayName": "Napoleon Bonaparte",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Наполеон Бонапарт",
+      "uk": "Наполеон Бонапарт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/500px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+      "alt": "Photo of Napoleon Bonaparte",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+      "creator": "Jacques-Louis David"
+    }
+  },
+  {
+    "id": "charles-de-gaulle",
+    "category": "politics",
+    "displayName": "Charles de Gaulle",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Шарль Де Голль",
+      "uk": "Шарль де Голль"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg/500px-De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg",
+      "alt": "Photo of Charles de Gaulle",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI_(cropped)_(c)(2).jpg",
+      "creator": "Office of War Information, Overseas Picture Division. [1] The image prefix (LC-USW3) at the Library of Congress image page matches that of pictures from the OWI collection (see prefix list here."
+    }
+  },
+  {
+    "id": "emmanuel-macron",
+    "category": "politics",
+    "displayName": "Emmanuel Macron",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эмманюэль Макрон",
+      "uk": "Емманюель Макрон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+      "alt": "Photo of Emmanuel Macron",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+      "creator": "Nebojša Tejić"
+    }
+  },
+  {
+    "id": "vladimir-putin",
+    "category": "politics",
+    "displayName": "Vladimir Putin",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Владимир Путин",
+      "uk": "Володимир Путін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg/500px-Vladimir_Putin_%282026_02_23%29_%28cropped%29.jpg",
+      "alt": "Photo of Vladimir Putin",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2026_02_23)_(cropped).jpg",
+      "creator": "Kremlin.ru",
+      "attribution": "Kremlin.ru, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "volodymyr-zelenskyy",
+    "category": "politics",
+    "displayName": "Volodymyr Zelenskyy",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Владимир Зеленский",
+      "uk": "Володимир Зеленський"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg/500px-New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg",
+      "alt": "Photo of Volodymyr Zelenskyy",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+      "creator": "Press Service of the President of Ukraine",
+      "attribution": "Press Service of the President of Ukraine, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "mikhail-gorbachev",
+    "category": "politics",
+    "displayName": "Mikhail Gorbachev",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Михаил Горбачёв",
+      "uk": "Михайло Горбачов"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
+      "alt": "Photo of Mikhail Gorbachev",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg",
+      "creator": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta",
+      "attribution": "RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / Владимир Вяткин derivative work: Jbarta, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "vladimir-lenin",
+    "category": "politics",
+    "displayName": "Vladimir Lenin",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Владимир Ленин",
+      "uk": "Володимир Ленін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/500px-Lenin_in_1920_%28cropped%29.jpg",
+      "alt": "Photo of Vladimir Lenin",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lenin_in_1920_(cropped).jpg",
+      "creator": "Unknown, presumably official"
+    }
+  },
+  {
+    "id": "joseph-stalin",
+    "category": "politics",
+    "displayName": "Joseph Stalin",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Иосиф Сталин",
+      "uk": "Йосип Сталін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
+      "alt": "Photo of Joseph Stalin",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg",
+      "creator": "Franklin D. Roosevelt Library Public Domain Photographs"
+    }
+  },
+  {
+    "id": "fidel-castro",
+    "category": "politics",
+    "displayName": "Fidel Castro",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Фидель Кастро",
+      "uk": "Фідель Кастро"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fidel_Castro_1950s.jpg/500px-Fidel_Castro_1950s.jpg",
+      "alt": "Photo of Fidel Castro",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_1950s.jpg",
+      "creator": "Unknown (Mondadori Publishers)"
+    }
+  },
+  {
+    "id": "che-guevara",
+    "category": "politics",
+    "displayName": "Che Guevara",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эрнесто Че Гевара",
+      "uk": "Ернесто Че Гевара"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+      "alt": "Photo of Che Guevara",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+      "creator": "Alberto Korda, restored by Adam Cuerden"
+    }
+  },
+  {
+    "id": "mao-zedong",
+    "category": "politics",
+    "displayName": "Mao Zedong",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мао Цзэдун",
+      "uk": "Мао Цзедун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg/500px-Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg",
+      "alt": "Photo of Mao Zedong",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mao_Zedong_1950_Portrait_(3x4_cropped)(2).jpg",
+      "creator": "Chen Zhengqing (1917–1966)"
+    }
+  },
+  {
+    "id": "xi-jinping",
+    "category": "politics",
+    "displayName": "Xi Jinping",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Си Цзиньпин",
+      "uk": "Сі Цзіньпін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
+      "alt": "Photo of Xi Jinping",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_visits_China_(55066713683)_(cropped%2Bangle).jpg",
+      "creator": "Simon Dawson / No 10 Downing Street",
+      "attribution": "Simon Dawson / No 10 Downing Street, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "kim-jong-un",
+    "category": "politics",
+    "displayName": "Kim Jong Un",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Ким Чен Ын",
+      "uk": "Кім Чен Ин"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/500px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg",
+      "alt": "Photo of Kim Jong Un",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped_2).jpg",
+      "creator": "Владимир Смирнов / ТАСС",
+      "attribution": "Владимир Смирнов / ТАСС, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "julius-caesar",
+    "category": "politics",
+    "displayName": "Julius Caesar",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Гай Юлий Цезарь",
+      "uk": "Гай Юлій Цезар"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/500px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+      "alt": "Photo of Julius Caesar",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg",
+      "creator": "Ángel M. Felicísimo from Mérida, España"
+    }
+  },
+  {
+    "id": "cleopatra",
+    "category": "politics",
+    "displayName": "Cleopatra",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Клеопатра",
+      "uk": "Клеопатра"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/500px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+      "alt": "Photo of Cleopatra",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+      "creator": "Louis le Grand"
+    }
+  },
+  {
+    "id": "alexander-the-great",
+    "category": "politics",
+    "displayName": "Alexander the Great",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Александр Македонский",
+      "uk": "Александр Македонський"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/500px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+      "alt": "Photo of Alexander the Great",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "genghis-khan",
+    "category": "politics",
+    "displayName": "Genghis Khan",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Чингисхан",
+      "uk": "Чингісхан"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/500px-YuanEmperorAlbumGenghisPortrait.jpg",
+      "alt": "Photo of Genghis Khan",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "peter-the-great",
+    "category": "politics",
+    "displayName": "Peter the Great",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Пётр Первый",
+      "uk": "Петро Перший"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/500px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg",
+      "alt": "Photo of Peter the Great",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inconnu_d%27apr%C3%A8s_J.-M._Nattier,_Portrait_de_Pierre_Ier_(mus%C3%A9e_de_l%E2%80%99Ermitage).jpg",
+      "creator": "Attributed to Jean-Marc Nattier"
+    }
+  },
+  {
+    "id": "catherine-the-great",
+    "category": "politics",
+    "displayName": "Catherine the Great",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Екатерина Великая",
+      "uk": "Катерина Велика"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg/500px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg",
+      "alt": "Photo of Catherine the Great",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catherine_II_after_Roslin,_Rokotov_(1780s,_Kunsthistorisches_Museum).jpg",
+      "creator": "After Alexander Roslin"
+    }
+  },
+  {
+    "id": "queen-elizabeth-i",
+    "category": "politics",
+    "displayName": "Queen Elizabeth I",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Королева Елизавета I",
+      "uk": "Королева Єлизавета I"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/500px-Darnley_stage_3.jpg",
+      "alt": "Photo of Queen Elizabeth I",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg",
+      "creator": "Unidentified painter"
+    }
+  },
+  {
+    "id": "henry-viii",
+    "category": "politics",
+    "displayName": "Henry VIII",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Генрих VIII",
+      "uk": "Генріх VIII"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/500px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+      "alt": "Photo of Henry VIII",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+      "creator": "Workshop of Hans Holbein the Younger"
+    }
+  },
+  {
+    "id": "louis-xiv",
+    "category": "politics",
+    "displayName": "Louis XIV",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Людовик XIV",
+      "uk": "Людовик XIV"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/500px-Louis_XIV_of_France.jpg",
+      "alt": "Photo of Louis XIV",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg",
+      "creator": "Hyacinthe Rigaud"
+    }
+  },
+  {
+    "id": "marie-antoinette",
+    "category": "politics",
+    "displayName": "Marie Antoinette",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мария-Антуанетта",
+      "uk": "Марія-Антуанетта"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/500px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg",
+      "alt": "Photo of Marie Antoinette",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg",
+      "creator": "Élisabeth Louise Vigée Le Brun"
+    }
+  },
+  {
+    "id": "martin-luther-king-jr",
+    "category": "politics",
+    "displayName": "Martin Luther King Jr.",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мартин Лютер Кинг",
+      "uk": "Мартін Лютер Кінг"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg/500px-Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg",
+      "alt": "Photo of Martin Luther King Jr.",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King,_Jr._and_Lyndon_Johnson_(cropped).jpg",
+      "creator": "Yoichi Okamoto"
+    }
+  },
+  {
+    "id": "benjamin-franklin",
+    "category": "politics",
+    "displayName": "Benjamin Franklin",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Бенджамин Франклин",
+      "uk": "Бенджамін Франклін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/500px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "alt": "Photo of Benjamin Franklin",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "creator": "Joseph-Siffred Duplessis"
+    }
+  },
+  {
+    "id": "kamala-harris",
+    "category": "politics",
+    "displayName": "Kamala Harris",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Камала Харрис",
+      "uk": "Камала Гарріс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/500px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "alt": "Photo of Kamala Harris",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "creator": "Lawrence Jackson"
+    }
+  },
+  {
+    "id": "narendra-modi",
+    "category": "politics",
+    "displayName": "Narendra Modi",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Нарендра Моди",
+      "uk": "Нарендра Моді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Narendra_Modi_Portrait_2026.jpg",
+      "alt": "Photo of Narendra Modi",
+      "license": "GODL-India",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narendra_Modi_Portrait_2026.jpg",
+      "creator": "Prime Minister's Office",
+      "attribution": "Prime Minister's Office, GODL-India, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "indira-gandhi",
+    "category": "politics",
+    "displayName": "Indira Gandhi",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Индира Ганди",
+      "uk": "Індіра Ганді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/500px-Indira_Gandhi_official_portrait.png",
+      "alt": "Photo of Indira Gandhi",
+      "license": "GODL-India",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indira_Gandhi_official_portrait.png",
+      "creator": "Prime Minister's Office",
+      "attribution": "Prime Minister's Office, GODL-India, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jawaharlal-nehru",
+    "category": "politics",
+    "displayName": "Jawaharlal Nehru",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джавахарлал Неру",
+      "uk": "Джавахарлал Неру"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nehru_in_the_Netherlands%2C_1957.jpg/500px-Nehru_in_the_Netherlands%2C_1957.jpg",
+      "alt": "Photo of Jawaharlal Nehru",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nehru_in_the_Netherlands,_1957.jpg",
+      "creator": "Harry Pot"
+    }
+  },
+  {
+    "id": "golda-meir",
+    "category": "politics",
+    "displayName": "Golda Meir",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Голда Меир",
+      "uk": "Голда Меїр"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Golda_Meir_%281964%29_cropped.jpg/500px-Golda_Meir_%281964%29_cropped.jpg",
+      "alt": "Photo of Golda Meir",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golda_Meir_(1964)_cropped.jpg",
+      "creator": "Willem van de Poll",
+      "attribution": "Willem van de Poll, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "benjamin-netanyahu",
+    "category": "politics",
+    "displayName": "Benjamin Netanyahu",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Биньямин Нетаньяху",
+      "uk": "Беньямін Нетаньягу"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/500px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg",
+      "alt": "Photo of Benjamin Netanyahu",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023_(cropped)(b).jpg",
+      "creator": "Avi Ohayon",
+      "attribution": "Avi Ohayon, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "pope-francis",
+    "category": "politics",
+    "displayName": "Pope Francis",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Франциск",
+      "uk": "Франциск"
+    }
+  },
+  {
+    "id": "pope-john-paul-ii",
+    "category": "politics",
+    "displayName": "Pope John Paul II",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Иоанн Павел II",
+      "uk": "Іван Павло II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
+      "alt": "Photo of Pope John Paul II",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_(cropped).jpg",
+      "creator": "Gregorini Demetrio",
+      "attribution": "Gregorini Demetrio, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "dalai-lama",
+    "category": "politics",
+    "displayName": "Dalai Lama",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Далай-лама",
+      "uk": "Далай-лама"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tenzin_Gyatso_-_Trento_2013_01.JPG/500px-Tenzin_Gyatso_-_Trento_2013_01.JPG",
+      "alt": "Photo of Dalai Lama",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenzin_Gyatso_-_Trento_2013_01.JPG",
+      "creator": "Niccolò Caranti",
+      "attribution": "Niccolò Caranti, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "justin-trudeau",
+    "category": "politics",
+    "displayName": "Justin Trudeau",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джастин Трюдо",
+      "uk": "Джастін Трюдо"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg/500px-Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg",
+      "alt": "Photo of Justin Trudeau",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Trudeau%27s_message_on_Christmas_2023_(0m29s)_(cropped).jpg",
+      "creator": "Justin Trudeau – Prime Minister of Canada",
+      "attribution": "Justin Trudeau – Prime Minister of Canada, CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "otto-von-bismarck",
+    "category": "politics",
+    "displayName": "Otto von Bismarck",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Отто фон Бисмарк",
+      "uk": "Отто фон Бісмарк"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg/500px-Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck_%28cropped%29.jpg",
+      "alt": "Photo of Otto von Bismarck",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2005-0057,_Otto_von_Bismarck_(cropped).jpg",
+      "creator": "Jacques Pilartz"
+    }
+  },
+  {
+    "id": "simon-bolivar",
+    "category": "politics",
+    "displayName": "Simón Bolívar",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Симон Боливар",
+      "uk": "Сімон Болівар"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png/500px-Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png",
+      "alt": "Photo of Simón Bolívar",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno,_Luis._1922,_Legislative_Palace,_La_Paz.png",
+      "creator": "Luis Enrique Toro Moreno (1897-1933)"
+    }
+  },
+  {
+    "id": "eva-peron",
+    "category": "politics",
+    "displayName": "Eva Perón",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Эва Перон",
+      "uk": "Ева Перон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Evita_%28cropped%29.JPG/500px-Evita_%28cropped%29.JPG",
+      "alt": "Photo of Eva Perón",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evita_(cropped).JPG",
+      "creator": "Pinélides Fusco"
+    }
+  },
+  {
+    "id": "lula-da-silva",
+    "category": "politics",
+    "displayName": "Lula da Silva",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Лула да Силва",
+      "uk": "Лула да Сілва"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28mais_estreita%29.jpg/500px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28mais_estreita%29.jpg",
+      "alt": "Photo of Lula da Silva",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(mais_estreita).jpg",
+      "creator": "Palácio do Planalto from Brasilia, Brasil",
+      "attribution": "Palácio do Planalto from Brasilia, Brasil, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jacinda-ardern",
+    "category": "politics",
+    "displayName": "Jacinda Ardern",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Джасинда Ардерн",
+      "uk": "Джасінда Ардерн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg/500px-New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
+      "alt": "Photo of Jacinda Ardern",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
+      "creator": "Newzild",
+      "attribution": "Newzild, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "recep-tayyip-erdogan",
+    "category": "politics",
+    "displayName": "Recep Tayyip Erdoğan",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Реджеп Тайип Эрдоган",
+      "uk": "Реджеп Тайїп Ердоган"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_%28cropped%29.jpg/500px-Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_%28cropped%29.jpg",
+      "alt": "Photo of Recep Tayyip Erdoğan",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turkish_President_Recep_Tayyip_Erdo%C4%9Fan_in_January_2024_(cropped).jpg",
+      "creator": "Rory Arnold",
+      "attribution": "Rory Arnold, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "mustafa-kemal-ataturk",
+    "category": "politics",
+    "displayName": "Mustafa Kemal Atatürk",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Мустафа Кемаль Ататюрк",
+      "uk": "Мустафа Кемаль Ататюрк"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ataturk1930s.jpg/500px-Ataturk1930s.jpg",
+      "alt": "Photo of Mustafa Kemal Atatürk",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "kofi-annan",
+    "category": "politics",
+    "displayName": "Kofi Annan",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Кофи Аннан",
+      "uk": "Кофі Аннан"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kofi_Annan_2012_%28cropped%29.jpg/500px-Kofi_Annan_2012_%28cropped%29.jpg",
+      "alt": "Photo of Kofi Annan",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kofi_Annan_2012_(cropped).jpg",
+      "creator": "US Mission in Geneva"
+    }
+  },
+  {
+    "id": "ho-chi-minh",
+    "category": "politics",
+    "displayName": "Ho Chi Minh",
+    "popularityTier": "iconic",
+    "localeNames": {
+      "ru": "Хо Ши Мин",
+      "uk": "Хо Ші Мін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg/500px-Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg",
+      "alt": "Photo of Ho Chi Minh",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_-_1946_Portrait_(cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "dwight-d-eisenhower",
+    "category": "politics",
+    "displayName": "Dwight D. Eisenhower",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дуайт Эйзенхауэр",
+      "uk": "Дуайт Ейзенхауер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+      "alt": "Photo of Dwight D. Eisenhower",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
+      "creator": "White House"
+    }
+  },
+  {
+    "id": "harry-s-truman",
+    "category": "politics",
+    "displayName": "Harry S. Truman",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гарри Трумэн",
+      "uk": "Гаррі Трумен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/500px-TRUMAN_58-766-06_%28cropped%29.jpg",
+      "alt": "Photo of Harry S. Truman",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
+      "creator": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library."
+    }
+  },
+  {
+    "id": "jimmy-carter",
+    "category": "politics",
+    "displayName": "Jimmy Carter",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джимми Картер",
+      "uk": "Джиммі Картер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jimmy_Carter.jpg/500px-Jimmy_Carter.jpg",
+      "alt": "Photo of Jimmy Carter",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Carter.jpg",
+      "creator": "White House"
+    }
+  },
+  {
+    "id": "george-h-w-bush",
+    "category": "politics",
+    "displayName": "George H. W. Bush",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джордж Буш-старший",
+      "uk": "Джордж Буш-старший"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/500px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg",
+      "alt": "Photo of George H. W. Bush",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_H._W._Bush_presidential_portrait_(cropped)_(2).jpg",
+      "creator": "David Valdez"
+    }
+  },
+  {
+    "id": "gerald-ford",
+    "category": "politics",
+    "displayName": "Gerald Ford",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джеральд Форд",
+      "uk": "Джеральд Форд"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/500px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg",
+      "alt": "Photo of Gerald Ford",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerald_Ford_presidential_portrait_(cropped).jpg",
+      "creator": "David Hume Kennerly"
+    }
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "category": "politics",
+    "displayName": "Lyndon B. Johnson",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Линдон Джонсон",
+      "uk": "Ліндон Джонсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/500px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg",
+      "alt": "Photo of Lyndon B. Johnson",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson,_photo_portrait,_color_(3x4_cropped)(2).jpg",
+      "creator": "Arnold Newman"
+    }
+  },
+  {
+    "id": "andrew-jackson",
+    "category": "politics",
+    "displayName": "Andrew Jackson",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эндрю Джексон",
+      "uk": "Ендрю Джексон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/500px-Andrew_jackson_head_%28cropped%29.jpg",
+      "alt": "Photo of Andrew Jackson",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andrew_jackson_head_(cropped).jpg",
+      "creator": "Ralph Eleaser Whiteside Earl"
+    }
+  },
+  {
+    "id": "james-madison",
+    "category": "politics",
+    "displayName": "James Madison",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джеймс Мэдисон",
+      "uk": "Джеймс Медісон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/500px-James_Madison.jpg",
+      "alt": "Photo of James Madison",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Madison.jpg",
+      "creator": "John Vanderlyn"
+    }
+  },
+  {
+    "id": "john-adams",
+    "category": "politics",
+    "displayName": "John Adams",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Адамс",
+      "uk": "Джон Адамс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg/500px-Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg",
+      "alt": "Photo of John Adams",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart,_John_Adams,_c._1800-1815,_NGA_42933.jpg",
+      "creator": "Gilbert Stuart"
+    }
+  },
+  {
+    "id": "alexander-hamilton",
+    "category": "politics",
+    "displayName": "Alexander Hamilton",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Александр Гамильтон",
+      "uk": "Александер Гамільтон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/500px-Alexander_Hamilton_%28NPG%29.jpg",
+      "alt": "Photo of Alexander Hamilton",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_(NPG).jpg",
+      "creator": "John Trumbull / Giuseppe Ceracchi"
+    }
+  },
+  {
+    "id": "ulysses-s-grant",
+    "category": "politics",
+    "displayName": "Ulysses S. Grant",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Улисс Грант",
+      "uk": "Улісс Грант"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
+      "alt": "Photo of Ulysses S. Grant",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880_(cropped).jpg",
+      "creator": "Brady-Handy Photograph Collection, Library of Congress"
+    }
+  },
+  {
+    "id": "woodrow-wilson",
+    "category": "politics",
+    "displayName": "Woodrow Wilson",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вудро Вильсон",
+      "uk": "Вудро Вільсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/500px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+      "alt": "Photo of Woodrow Wilson",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Woodrow_Wilson_Harris_%26_Ewing_(3x4_cropped_b).jpg",
+      "creator": "Harris & Ewing, photographer"
+    }
+  },
+  {
+    "id": "michelle-obama",
+    "category": "politics",
+    "displayName": "Michelle Obama",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мишель Обама",
+      "uk": "Мішель Обама"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Michelle_Obama_2013_official_portrait.jpg/500px-Michelle_Obama_2013_official_portrait.jpg",
+      "alt": "Photo of Michelle Obama",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michelle_Obama_2013_official_portrait.jpg",
+      "creator": "Official White House Photo by Chuck Kennedy"
+    }
+  },
+  {
+    "id": "eleanor-roosevelt",
+    "category": "politics",
+    "displayName": "Eleanor Roosevelt",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Элеонора Рузвельт",
+      "uk": "Елеонора Рузвельт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg/500px-Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg",
+      "alt": "Photo of Eleanor Roosevelt",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_at_the_United_Nations,_circa_1946-1947_(3x4_cropped).jpg",
+      "creator": "FDR Presidential Library & Museum",
+      "attribution": "FDR Presidential Library & Museum, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jacqueline-kennedy-onassis",
+    "category": "politics",
+    "displayName": "Jacqueline Kennedy Onassis",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жаклин Кеннеди",
+      "uk": "Жаклін Кеннеді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jackie_Kennedy_Color_Portrait_%283x4_cropped%29.jpg/500px-Jackie_Kennedy_Color_Portrait_%283x4_cropped%29.jpg",
+      "alt": "Photo of Jacqueline Kennedy Onassis",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jackie_Kennedy_Color_Portrait_(3x4_cropped).jpg",
+      "creator": "Mark Shaw"
+    }
+  },
+  {
+    "id": "robert-f-kennedy",
+    "category": "politics",
+    "displayName": "Robert F. Kennedy",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Роберт Кеннеди",
+      "uk": "Роберт Кеннеді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_F._Kennedy.jpg/500px-Robert_F._Kennedy.jpg",
+      "alt": "Photo of Robert F. Kennedy",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_F._Kennedy.jpg",
+      "creator": "Harry Warnecke"
+    }
+  },
+  {
+    "id": "bernie-sanders",
+    "category": "politics",
+    "displayName": "Bernie Sanders",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Берни Сандерс",
+      "uk": "Берні Сандерс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/500px-Bernie_Sanders_February_2026_%28cropped%29.jpg",
+      "alt": "Photo of Bernie Sanders",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bernie_Sanders_February_2026_(cropped).jpg",
+      "creator": "Anderseidesvik",
+      "attribution": "Anderseidesvik, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "nancy-pelosi",
+    "category": "politics",
+    "displayName": "Nancy Pelosi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нэнси Пелоси",
+      "uk": "Ненсі Пелосі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/500px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
+      "alt": "Photo of Nancy Pelosi",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
+      "creator": "John Harrington"
+    }
+  },
+  {
+    "id": "al-gore",
+    "category": "politics",
+    "displayName": "Al Gore",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Альберт Гор",
+      "uk": "Альберт Гор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/500px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg",
+      "alt": "Photo of Al Gore",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Gore,_Vice_President_of_the_United_States,_official_portrait_1994.jpg",
+      "creator": "Unknown photographerUnknown photographer"
+    }
+  },
+  {
+    "id": "john-mccain",
+    "category": "politics",
+    "displayName": "John McCain",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джон Маккейн",
+      "uk": "Джон Маккейн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/John_McCain_official_portrait_2009_%283x4_cropped%29.jpg/500px-John_McCain_official_portrait_2009_%283x4_cropped%29.jpg",
+      "alt": "Photo of John McCain",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_McCain_official_portrait_2009_(3x4_cropped).jpg",
+      "creator": "United States Congress"
+    }
+  },
+  {
+    "id": "condoleezza-rice",
+    "category": "politics",
+    "displayName": "Condoleezza Rice",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кондолиза Райс",
+      "uk": "Кондоліза Райс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Condoleezza_Rice_cropped.jpg/500px-Condoleezza_Rice_cropped.jpg",
+      "alt": "Photo of Condoleezza Rice",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Condoleezza_Rice_cropped.jpg",
+      "creator": "Department of State"
+    }
+  },
+  {
+    "id": "colin-powell",
+    "category": "politics",
+    "displayName": "Colin Powell",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Колин Пауэлл",
+      "uk": "Колін Пауелл"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Colin_Powell_official_Secretary_of_State_photo.jpg/500px-Colin_Powell_official_Secretary_of_State_photo.jpg",
+      "alt": "Photo of Colin Powell",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colin_Powell_official_Secretary_of_State_photo.jpg",
+      "creator": "Department of State of the United States of America"
+    }
+  },
+  {
+    "id": "henry-kissinger",
+    "category": "politics",
+    "displayName": "Henry Kissinger",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Генри Киссинджер",
+      "uk": "Генрі Кіссінджер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/500px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
+      "alt": "Photo of Henry Kissinger",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_A._Kissinger,_U.S._Secretary_of_State,_1973-1977.jpg",
+      "creator": "U.S. Department of State from United States"
+    }
+  },
+  {
+    "id": "madeleine-albright",
+    "category": "politics",
+    "displayName": "Madeleine Albright",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мадлен Олбрайт",
+      "uk": "Мадлен Олбрайт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Secalbright.jpg/500px-Secalbright.jpg",
+      "alt": "Photo of Madeleine Albright",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Secalbright.jpg",
+      "creator": "United States Department of State"
+    }
+  },
+  {
+    "id": "mike-pence",
+    "category": "politics",
+    "displayName": "Mike Pence",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майк Пенс",
+      "uk": "Майк Пенс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mike_Pence_official_Vice_Presidential_portrait.jpg/500px-Mike_Pence_official_Vice_Presidential_portrait.jpg",
+      "alt": "Photo of Mike Pence",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mike_Pence_official_Vice_Presidential_portrait.jpg",
+      "creator": "D. Myles Cullen"
+    }
+  },
+  {
+    "id": "jd-vance",
+    "category": "politics",
+    "displayName": "JD Vance",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джей Ди Вэнс",
+      "uk": "Джей Ді Венс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28medium_crop%29_%282%29.jpg/500px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28medium_crop%29_%282%29.jpg",
+      "alt": "Photo of JD Vance",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_(medium_crop)_(2).jpg",
+      "creator": "Emily J. Higgins"
+    }
+  },
+  {
+    "id": "theresa-may",
+    "category": "politics",
+    "displayName": "Theresa May",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тереза Мэй",
+      "uk": "Тереза Мей"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg/500px-Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+      "alt": "Photo of Theresa May",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Baroness_May_of_Maidenhead_crop_2.jpg",
+      "creator": "Roger Harris",
+      "attribution": "Roger Harris, CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "david-cameron",
+    "category": "politics",
+    "displayName": "David Cameron",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэвид Кэмерон",
+      "uk": "Девід Камерон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/David_Cameron_Official_Portrait_2023_%28cropped%29.jpg/500px-David_Cameron_Official_Portrait_2023_%28cropped%29.jpg",
+      "alt": "Photo of David Cameron",
+      "license": "OGL 3",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Cameron_Official_Portrait_2023_(cropped).jpg",
+      "creator": "Lauren Hurley / No 10 Downing Street",
+      "attribution": "Lauren Hurley / No 10 Downing Street, OGL 3, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "gordon-brown",
+    "category": "politics",
+    "displayName": "Gordon Brown",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гордон Браун",
+      "uk": "Гордон Браун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gordon_Brown_%282008%29.jpg/500px-Gordon_Brown_%282008%29.jpg",
+      "alt": "Photo of Gordon Brown",
+      "license": "OGL 3",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gordon_Brown_(2008).jpg",
+      "creator": "Unknown photographer",
+      "attribution": "Unknown photographer, OGL 3, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "rishi-sunak",
+    "category": "politics",
+    "displayName": "Rishi Sunak",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Риши Сунак",
+      "uk": "Ріші Сунак"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg/500px-Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg",
+      "alt": "Photo of Rishi Sunak",
+      "license": "OGL 3",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Prime_Minister_Rishi_Sunak_(cropped).jpg",
+      "creator": "Prime Minister's Office",
+      "attribution": "Prime Minister's Office, OGL 3, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "keir-starmer",
+    "category": "politics",
+    "displayName": "Keir Starmer",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кир Стармер",
+      "uk": "Кір Стармер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg/500px-Prime_Minister_Keir_Starmer_Portrait_%28cropped%29.jpg",
+      "alt": "Photo of Keir Starmer",
+      "license": "OGL 3",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_Portrait_(cropped).jpg",
+      "creator": "Prime Minister's Office",
+      "attribution": "Prime Minister's Office, OGL 3, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "king-george-vi",
+    "category": "politics",
+    "displayName": "King George VI",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Георг VI",
+      "uk": "Георг VI"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/500px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
+      "alt": "Photo of King George VI",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
+      "creator": "Matson Photo Service"
+    }
+  },
+  {
+    "id": "prince-william",
+    "category": "politics",
+    "displayName": "Prince William",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Принц Уильям",
+      "uk": "Принц Вільям"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg/500px-Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg",
+      "alt": "Photo of Prince William",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_of_Wales_at_State_Banquet_2025-09-17_(0.75_crop).jpg",
+      "creator": "Daniel Torok/White House"
+    }
+  },
+  {
+    "id": "prince-harry",
+    "category": "politics",
+    "displayName": "Prince Harry",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Принц Гарри",
+      "uk": "Принц Гаррі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prince_Harry_Visits_Arlington_National_Cemetery_%2855476826080%29_%28cropped%29.jpg/500px-Prince_Harry_Visits_Arlington_National_Cemetery_%2855476826080%29_%28cropped%29.jpg",
+      "alt": "Photo of Prince Harry",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Harry_Visits_Arlington_National_Cemetery_(55476826080)_(cropped).jpg",
+      "creator": "60564189@N06"
+    }
+  },
+  {
+    "id": "meghan-markle",
+    "category": "politics",
+    "displayName": "Meghan Markle",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Меган Маркл",
+      "uk": "Меган Маркл"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg/500px-SXSW-2024-OB7A9986-alih-Meghan%2C_Duchess_of_Sussex_%28cropped%29.jpg",
+      "alt": "Photo of Meghan Markle",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SXSW-2024-OB7A9986-alih-Meghan,_Duchess_of_Sussex_(cropped).jpg",
+      "creator": "Fuzheado",
+      "attribution": "Fuzheado, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "kate-middleton",
+    "category": "politics",
+    "displayName": "Kate Middleton",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кейт Миддлтон",
+      "uk": "Кейт Міддлтон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Princess_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg",
+      "alt": "Photo of Kate Middleton",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Princess_of_Wales_at_State_Banquet_2025-09-17_(0.75_crop).jpg",
+      "creator": "Daniel Torok/White House"
+    }
+  },
+  {
+    "id": "prince-philip",
+    "category": "politics",
+    "displayName": "Prince Philip",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Принц Филипп",
+      "uk": "Принц Філіп"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg/500px-Duke_of_Edinburgh_33_Allan_Warren.jpg",
+      "alt": "Photo of Prince Philip",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duke_of_Edinburgh_33_Allan_Warren.jpg",
+      "creator": "Allan Warren",
+      "attribution": "Allan Warren, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "oliver-cromwell",
+    "category": "politics",
+    "displayName": "Oliver Cromwell",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Оливер Кромвель",
+      "uk": "Олівер Кромвель"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg/500px-Oliver_Cromwell_by_Samuel_Cooper.jpg",
+      "alt": "Photo of Oliver Cromwell",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oliver_Cromwell_by_Samuel_Cooper.jpg",
+      "creator": "After Samuel Cooper"
+    }
+  },
+  {
+    "id": "robespierre",
+    "category": "politics",
+    "displayName": "Robespierre",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Максимильен Робеспьер",
+      "uk": "Максиміліан Робесп'єр"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/500px-Robespierre.jpg",
+      "alt": "Photo of Robespierre",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robespierre.jpg",
+      "creator": "Unidentified painter"
+    }
+  },
+  {
+    "id": "francois-mitterrand",
+    "category": "politics",
+    "displayName": "François Mitterrand",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Франсуа Миттеран",
+      "uk": "Франсуа Міттеран"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/President_Fran%C3%A7ois_Mitterrand_in_1983_%28cropped%29.jpg/500px-President_Fran%C3%A7ois_Mitterrand_in_1983_%28cropped%29.jpg",
+      "alt": "Photo of François Mitterrand",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Fran%C3%A7ois_Mitterrand_in_1983_(cropped).jpg",
+      "creator": "Comet Photo AG (Zürich)",
+      "attribution": "Comet Photo AG (Zürich), CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jacques-chirac",
+    "category": "politics",
+    "displayName": "Jacques Chirac",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жак Ширак",
+      "uk": "Жак Ширак"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jacques_Chirac_%281997%29_%28cropped%29.jpg/500px-Jacques_Chirac_%281997%29_%28cropped%29.jpg",
+      "alt": "Photo of Jacques Chirac",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques_Chirac_(1997)_(cropped).jpg",
+      "creator": "Christian Lambiotte",
+      "attribution": "Christian Lambiotte, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "nicolas-sarkozy",
+    "category": "politics",
+    "displayName": "Nicolas Sarkozy",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Николя Саркози",
+      "uk": "Ніколя Саркозі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nicolas_Sarkozy_in_2010.jpg/500px-Nicolas_Sarkozy_in_2010.jpg",
+      "alt": "Photo of Nicolas Sarkozy",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicolas_Sarkozy_in_2010.jpg",
+      "creator": "European People's Party",
+      "attribution": "European People's Party, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "marine-le-pen",
+    "category": "politics",
+    "displayName": "Marine Le Pen",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марин Ле Пен",
+      "uk": "Марін Ле Пен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Marine_Le_Pen_2025_%283x4_cropped%29.jpg/500px-Marine_Le_Pen_2025_%283x4_cropped%29.jpg",
+      "alt": "Photo of Marine Le Pen",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(3x4_cropped).jpg",
+      "creator": "Vox España"
+    }
+  },
+  {
+    "id": "helmut-kohl",
+    "category": "politics",
+    "displayName": "Helmut Kohl",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гельмут Коль",
+      "uk": "Гельмут Коль"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Helmut_Kohl_%281996%29_cropped_%282%29.jpg/500px-Helmut_Kohl_%281996%29_cropped_%282%29.jpg",
+      "alt": "Photo of Helmut Kohl",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_(1996)_cropped_(2).jpg",
+      "creator": "Christian Lambiotte",
+      "attribution": "Christian Lambiotte, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "willy-brandt",
+    "category": "politics",
+    "displayName": "Willy Brandt",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вилли Брандт",
+      "uk": "Віллі Брандт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg/500px-Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg",
+      "alt": "Photo of Willy Brandt",
+      "license": "CC BY-SA 3.0 de",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-F057884-0009,_Willy_Brandt.jpg",
+      "creator": "Engelbert Reineke",
+      "attribution": "Engelbert Reineke, CC BY-SA 3.0 de, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "konrad-adenauer",
+    "category": "politics",
+    "displayName": "Konrad Adenauer",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Конрад Аденауэр",
+      "uk": "Конрад Аденауер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Adenauer_Bouserath3.jpg/500px-Adenauer_Bouserath3.jpg",
+      "alt": "Photo of Konrad Adenauer",
+      "license": "CC BY-SA 3.0 de",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adenauer_Bouserath3.jpg",
+      "creator": "Peter Bouserath",
+      "attribution": "Peter Bouserath, CC BY-SA 3.0 de, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "olaf-scholz",
+    "category": "politics",
+    "displayName": "Olaf Scholz",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Олаф Шольц",
+      "uk": "Олаф Шольц"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Olaf_Scholz_September_2024.jpg/500px-Olaf_Scholz_September_2024.jpg",
+      "alt": "Photo of Olaf Scholz",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_September_2024.jpg",
+      "creator": "Lula Oficial",
+      "attribution": "Lula Oficial, CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "ursula-von-der-leyen",
+    "category": "politics",
+    "displayName": "Ursula von der Leyen",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Урсула фон дер Ляйен",
+      "uk": "Урсула фон дер Ляєн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/500px-Ursula_von_der_Leyen_2024.jpg",
+      "alt": "Photo of Ursula von der Leyen",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen_2024.jpg",
+      "creator": "European People's Party",
+      "attribution": "European People's Party, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "silvio-berlusconi",
+    "category": "politics",
+    "displayName": "Silvio Berlusconi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сильвио Берлускони",
+      "uk": "Сільвіо Берлусконі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Silvio_Berlusconi_%282010%29_cropped.jpg/500px-Silvio_Berlusconi_%282010%29_cropped.jpg",
+      "alt": "Photo of Silvio Berlusconi",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silvio_Berlusconi_(2010)_cropped.jpg",
+      "creator": "Silvio_Berlusconi_(2010).jpg: www.la-moncloa.es derivative work: Off2riorob (talk)"
+    }
+  },
+  {
+    "id": "benito-mussolini",
+    "category": "politics",
+    "displayName": "Benito Mussolini",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Бенито Муссолини",
+      "uk": "Беніто Муссоліні"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mussolini_mezzobusto.jpg/500px-Mussolini_mezzobusto.jpg",
+      "alt": "Photo of Benito Mussolini",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mussolini_mezzobusto.jpg"
+    }
+  },
+  {
+    "id": "giuseppe-garibaldi",
+    "category": "politics",
+    "displayName": "Giuseppe Garibaldi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джузеппе Гарибальди",
+      "uk": "Джузеппе Гарібальді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Giuseppe_Garibaldi_1861.jpg/500px-Giuseppe_Garibaldi_1861.jpg",
+      "alt": "Photo of Giuseppe Garibaldi",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giuseppe_Garibaldi_1861.jpg",
+      "creator": "In album: Cartes-de-visite portraits of U.S. Army officers, children, and others, p. 15, right."
+    }
+  },
+  {
+    "id": "mario-draghi",
+    "category": "politics",
+    "displayName": "Mario Draghi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марио Драги",
+      "uk": "Маріо Драґі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mario_Draghi_in_2021_crop.jpg/500px-Mario_Draghi_in_2021_crop.jpg",
+      "alt": "Photo of Mario Draghi",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mario_Draghi_in_2021_crop.jpg",
+      "creator": "Fattili",
+      "attribution": "Fattili, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "giorgia-meloni",
+    "category": "politics",
+    "displayName": "Giorgia Meloni",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джорджа Мелони",
+      "uk": "Джорджа Мелоні"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg",
+      "alt": "Photo of Giorgia Meloni",
+      "license": "CC BY 3.0 it",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+      "creator": "Governo Italiano",
+      "attribution": "Governo Italiano, CC BY 3.0 it, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "pedro-sanchez",
+    "category": "politics",
+    "displayName": "Pedro Sánchez",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Педро Санчес",
+      "uk": "Педро Санчес"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pedro_S%C3%A1nchez_2026_Portrait_%283x4_cropped%29.jpg/500px-Pedro_S%C3%A1nchez_2026_Portrait_%283x4_cropped%29.jpg",
+      "alt": "Photo of Pedro Sánchez",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_2026_Portrait_(3x4_cropped).jpg",
+      "creator": "Pool Moncloa/ Carlos Spottorno de las Morenas"
+    }
+  },
+  {
+    "id": "francisco-franco",
+    "category": "politics",
+    "displayName": "Francisco Franco",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Франсиско Франко",
+      "uk": "Франсіско Франко"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Francisco_Franco_posed_portrait_photograph.jpg/500px-Francisco_Franco_posed_portrait_photograph.jpg",
+      "alt": "Photo of Francisco Franco",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_posed_portrait_photograph.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "king-juan-carlos",
+    "category": "politics",
+    "displayName": "King Juan Carlos",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хуан Карлос I",
+      "uk": "Хуан Карлос I"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rey_Juan_Carlos_2013.jpg/500px-Rey_Juan_Carlos_2013.jpg",
+      "alt": "Photo of King Juan Carlos",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rey_Juan_Carlos_2013.jpg",
+      "creator": "Irekia",
+      "attribution": "Irekia, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "mark-rutte",
+    "category": "politics",
+    "displayName": "Mark Rutte",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марк Рютте",
+      "uk": "Марк Рютте"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mark_Rutte_NATO_Secretary_General_2026_%28cropped%29.jpg/500px-Mark_Rutte_NATO_Secretary_General_2026_%28cropped%29.jpg",
+      "alt": "Photo of Mark Rutte",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Rutte_NATO_Secretary_General_2026_(cropped).jpg",
+      "creator": "Foreign, Commonwealth & Development Office",
+      "attribution": "Foreign, Commonwealth & Development Office, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "emperor-hirohito",
+    "category": "politics",
+    "displayName": "Emperor Hirohito",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хирохито",
+      "uk": "Імператор Сьова"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg/500px-Hirohito_in_dress_uniform_%28cropped%29.jpg",
+      "alt": "Photo of Emperor Hirohito",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hirohito_in_dress_uniform_(cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "shinzo-abe",
+    "category": "politics",
+    "displayName": "Shinzo Abe",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Синдзо Абэ",
+      "uk": "Сіндзо Абе"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shinz%C5%8D_Abe_20120501.jpg/500px-Shinz%C5%8D_Abe_20120501.jpg",
+      "alt": "Photo of Shinzo Abe",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinz%C5%8D_Abe_20120501.jpg",
+      "creator": "Prime Minister of Japan Official",
+      "attribution": "Prime Minister of Japan Official, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "deng-xiaoping",
+    "category": "politics",
+    "displayName": "Deng Xiaoping",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дэн Сяопин",
+      "uk": "Ден Сяопін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg/500px-Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg",
+      "alt": "Photo of Deng Xiaoping",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_(cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "sun-yat-sen",
+    "category": "politics",
+    "displayName": "Sun Yat-sen",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сунь Ятсен",
+      "uk": "Сунь Ятсен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg/500px-%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+      "alt": "Photo of Sun Yat-sen",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+      "creator": "上海波尔照相馆"
+    }
+  },
+  {
+    "id": "chiang-kai-shek",
+    "category": "politics",
+    "displayName": "Chiang Kai-shek",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чан Кайши",
+      "uk": "Чан Кайші"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/500px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+      "alt": "Photo of Chiang Kai-shek",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+      "creator": "Unknown photographer"
+    }
+  },
+  {
+    "id": "kim-il-sung",
+    "category": "politics",
+    "displayName": "Kim Il Sung",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ким Ир Сен",
+      "uk": "Кім Ір Сен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kim_Il-sung_in_1950_%28cropped%29.jpg/500px-Kim_Il-sung_in_1950_%28cropped%29.jpg",
+      "alt": "Photo of Kim Il Sung",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Il-sung_in_1950_(cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "lee-kuan-yew",
+    "category": "politics",
+    "displayName": "Lee Kuan Yew",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ли Куан Ю",
+      "uk": "Лі Куан Ю"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Prime_Minister_Lee_Kuan_Yew_of_Singapore_Making_a_Toast_at_a_State_Dinner_Held_in_His_Honor%2C_1975.jpg/500px-Prime_Minister_Lee_Kuan_Yew_of_Singapore_Making_a_Toast_at_a_State_Dinner_Held_in_His_Honor%2C_1975.jpg",
+      "alt": "Photo of Lee Kuan Yew",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Lee_Kuan_Yew_of_Singapore_Making_a_Toast_at_a_State_Dinner_Held_in_His_Honor,_1975.jpg",
+      "creator": "White House Photographic Office. 1974-1977"
+    }
+  },
+  {
+    "id": "aung-san-suu-kyi",
+    "category": "politics",
+    "displayName": "Aung San Suu Kyi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аун Сан Су Чжи",
+      "uk": "Аун Сан Су Чжі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg",
+      "alt": "Photo of Aung San Suu Kyi",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_(1).jpg",
+      "creator": "Cabinet Public Relations Office of the Cabinet Secretariat",
+      "attribution": "Cabinet Public Relations Office of the Cabinet Secretariat, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "benazir-bhutto",
+    "category": "politics",
+    "displayName": "Benazir Bhutto",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Беназир Бхутто",
+      "uk": "Беназір Бхутто"
+    }
+  },
+  {
+    "id": "imran-khan",
+    "category": "politics",
+    "displayName": "Imran Khan",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Имран Хан",
+      "uk": "Імран Хан"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg/500px-Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg",
+      "alt": "Photo of Imran Khan",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg",
+      "creator": "Imran Khan",
+      "attribution": "Imran Khan, CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "mahmoud-abbas",
+    "category": "politics",
+    "displayName": "Mahmoud Abbas",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Махмуд Аббас",
+      "uk": "Махмуд Аббас"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mahmoud_Abbas_2026-01-22.jpg/500px-Mahmoud_Abbas_2026-01-22.jpg",
+      "alt": "Photo of Mahmoud Abbas",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahmoud_Abbas_2026-01-22.jpg",
+      "creator": "kremlin.ru",
+      "attribution": "kremlin.ru, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "yasser-arafat",
+    "category": "politics",
+    "displayName": "Yasser Arafat",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ясир Арафат",
+      "uk": "Ясір Арафат"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/500px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+      "alt": "Photo of Yasser Arafat",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leader_of_the_PLO,_Yasser_Arafat,_1996_Dan_Hadani_Archive.jpg",
+      "creator": "Gideon Markowiz",
+      "attribution": "Gideon Markowiz, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "anwar-sadat",
+    "category": "politics",
+    "displayName": "Anwar Sadat",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Анвар Садат",
+      "uk": "Анвар Садат"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Anwar_Sadat_cropped_%28cropped%29%282%29.jpg/500px-Anwar_Sadat_cropped_%28cropped%29%282%29.jpg",
+      "alt": "Photo of Anwar Sadat",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anwar_Sadat_cropped_(cropped)(2).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "gamal-abdel-nasser",
+    "category": "politics",
+    "displayName": "Gamal Abdel Nasser",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гамаль Абдель Насер",
+      "uk": "Гамаль Абдель Насер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962_%28cropped%29.jpg/500px-Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962_%28cropped%29.jpg",
+      "alt": "Photo of Gamal Abdel Nasser",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stevan_Kragujevic,_Gamal_Abdel_Naser_u_Beogradu,_1962_(cropped).jpg",
+      "creator": "Stevan Kragujević",
+      "attribution": "Stevan Kragujević, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "ayatollah-khomeini",
+    "category": "politics",
+    "displayName": "Ayatollah Khomeini",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аятолла Хомейни",
+      "uk": "Аятола Хомейні"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ruhollah_Khomeini_by_Jamaran_1.jpg/500px-Ruhollah_Khomeini_by_Jamaran_1.jpg",
+      "alt": "Photo of Ayatollah Khomeini",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruhollah_Khomeini_by_Jamaran_1.jpg",
+      "creator": "Different"
+    }
+  },
+  {
+    "id": "king-hussein",
+    "category": "politics",
+    "displayName": "King Hussein",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хусейн ибн Талал",
+      "uk": "Хусейн бін Талал"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/500px-HusseinJordanien.jpg",
+      "alt": "Photo of King Hussein",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HusseinJordanien.jpg",
+      "creator": "Helene C. Stikkel - First uploader was Wikifreund at de.wikipedia"
+    }
+  },
+  {
+    "id": "haile-selassie",
+    "category": "politics",
+    "displayName": "Haile Selassie",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хайле Селассие",
+      "uk": "Хайле Селассіє I"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg/500px-Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg",
+      "alt": "Photo of Haile Selassie",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haile_Selassie_in_full_dress_(3x4_cropped).jpg",
+      "creator": "unknown; according to [1] and [2] an official portrait of which b/w copies were distributed by the Ethiopian government"
+    }
+  },
+  {
+    "id": "jomo-kenyatta",
+    "category": "politics",
+    "displayName": "Jomo Kenyatta",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джомо Кениата",
+      "uk": "Джомо Кеніата"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jomo_Kenyatta_%28cropped%29_in_June_15th%2C_1966.jpg/500px-Jomo_Kenyatta_%28cropped%29_in_June_15th%2C_1966.jpg",
+      "alt": "Photo of Jomo Kenyatta",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jomo_Kenyatta_(cropped)_in_June_15th,_1966.jpg",
+      "creator": "Pridan Moshe"
+    }
+  },
+  {
+    "id": "kwame-nkrumah",
+    "category": "politics",
+    "displayName": "Kwame Nkrumah",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кваме Нкрума",
+      "uk": "Кваме Нкрума"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg/500px-Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg",
+      "alt": "Photo of Kwame Nkrumah",
+      "license": "OGL v1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Portrait,_The_National_Archives_UK.jpg",
+      "creator": "The National Archives UK - Flickr account",
+      "attribution": "The National Archives UK - Flickr account, OGL v1.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "julius-nyerere",
+    "category": "politics",
+    "displayName": "Julius Nyerere",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джулиус Ньерере",
+      "uk": "Джуліус Ньєрере"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg/500px-President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg",
+      "alt": "Photo of Julius Nyerere",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Nyerere_van_Tanzania,_koppen,_Bestanddeelnr_928-2879_(cropped).jpg",
+      "creator": "Rob Mieremet / Anefo"
+    }
+  },
+  {
+    "id": "desmond-tutu",
+    "category": "politics",
+    "displayName": "Desmond Tutu",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Десмонд Туту",
+      "uk": "Десмонд Туту"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Archbishop-Tutu-medium.jpg/500px-Archbishop-Tutu-medium.jpg",
+      "alt": "Photo of Desmond Tutu",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archbishop-Tutu-medium.jpg",
+      "creator": "Benny Gool"
+    }
+  },
+  {
+    "id": "ellen-johnson-sirleaf",
+    "category": "politics",
+    "displayName": "Ellen Johnson Sirleaf",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Элен Джонсон-Серлиф",
+      "uk": "Елен Джонсон-Серліф"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ellen_Johnson-Sirleaf_%282022%29_%28cropped%29.jpg",
+      "alt": "Photo of Ellen Johnson Sirleaf",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ellen_Johnson-Sirleaf_(2022)_(cropped).jpg",
+      "creator": "PMO Barbados"
+    }
+  },
+  {
+    "id": "muammar-gaddafi",
+    "category": "politics",
+    "displayName": "Muammar Gaddafi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Муаммар Каддафи",
+      "uk": "Муаммар Каддафі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/500px-Moamer_el_Gadafi_%28cropped%29.jpg",
+      "alt": "Photo of Muammar Gaddafi",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moamer_el_Gadafi_(cropped).jpg",
+      "creator": "Stevan Kragujević",
+      "attribution": "Stevan Kragujević, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "saddam-hussein",
+    "category": "politics",
+    "displayName": "Saddam Hussein",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Саддам Хусейн",
+      "uk": "Саддам Хусейн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saddam_Hussein_in_1998.jpg/500px-Saddam_Hussein_in_1998.jpg",
+      "alt": "Photo of Saddam Hussein",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.jpg",
+      "creator": "Iraqi News Agency"
+    }
+  },
+  {
+    "id": "hugo-chavez",
+    "category": "politics",
+    "displayName": "Hugo Chávez",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Уго Чавес",
+      "uk": "Уго Чавес"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hugo_Ch%C3%A1vez_in_Bras%C3%ADlia_2011_%283x4_cropped%29_%282%29.jpg/500px-Hugo_Ch%C3%A1vez_in_Bras%C3%ADlia_2011_%283x4_cropped%29_%282%29.jpg",
+      "alt": "Photo of Hugo Chávez",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hugo_Ch%C3%A1vez_in_Bras%C3%ADlia_2011_(3x4_cropped)_(2).jpg",
+      "creator": "Roberto Stuckert Filho",
+      "attribution": "Roberto Stuckert Filho, CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "nicolas-maduro",
+    "category": "politics",
+    "displayName": "Nicolás Maduro",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Николас Мадуро",
+      "uk": "Ніколас Мадуро"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nicol%C3%A1s_Maduro_official_portrait_%28cropped_2%29.png/500px-Nicol%C3%A1s_Maduro_official_portrait_%28cropped_2%29.png",
+      "alt": "Photo of Nicolás Maduro",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Maduro_official_portrait_(cropped_2).png",
+      "creator": "Presidency of Bolivarian Republic of Venezuela"
+    }
+  },
+  {
+    "id": "salvador-allende",
+    "category": "politics",
+    "displayName": "Salvador Allende",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сальвадор Альенде",
+      "uk": "Сальвадор Альєнде"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg",
+      "alt": "Photo of Salvador Allende",
+      "license": "CC BY 3.0 cl",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salvador_Allende_Gossens-.jpg",
+      "creator": "Biblioteca del Congreso Nacional de Chile",
+      "attribution": "Biblioteca del Congreso Nacional de Chile, CC BY 3.0 cl, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "augusto-pinochet",
+    "category": "politics",
+    "displayName": "Augusto Pinochet",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аугусто Пиночет",
+      "uk": "Августо Піночет"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Augusto_Pinochet_foto_oficial%28b%29.jpg/500px-Augusto_Pinochet_foto_oficial%28b%29.jpg",
+      "alt": "Photo of Augusto Pinochet",
+      "license": "CC BY 2.0 cl",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augusto_Pinochet_foto_oficial(b).jpg",
+      "creator": "Ministerio de Relaciones Exteriores de Chile",
+      "attribution": "Ministerio de Relaciones Exteriores de Chile, CC BY 2.0 cl, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "juan-peron",
+    "category": "politics",
+    "displayName": "Juan Perón",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хуан Доминго Перон",
+      "uk": "Хуан Домінго Перон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Juan_Domingo_Per%C3%B3n_%28cropped%29.jpg/500px-Juan_Domingo_Per%C3%B3n_%28cropped%29.jpg",
+      "alt": "Photo of Juan Perón",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juan_Domingo_Per%C3%B3n_(cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "javier-milei",
+    "category": "politics",
+    "displayName": "Javier Milei",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хавьер Милей",
+      "uk": "Хав'єр Мілей"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Retrato_oficial_del_Presidente_Javier_%28cropped%29.jpeg/500px-Retrato_oficial_del_Presidente_Javier_%28cropped%29.jpeg",
+      "alt": "Photo of Javier Milei",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_oficial_del_Presidente_Javier_(cropped).jpeg",
+      "creator": "Gobierno Argentino",
+      "attribution": "Gobierno Argentino, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jair-bolsonaro",
+    "category": "politics",
+    "displayName": "Jair Bolsonaro",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Жаир Болсонару",
+      "uk": "Жаїр Болсонару"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg/500px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg",
+      "alt": "Photo of Jair Bolsonaro",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jair_Bolsonaro_em_24_de_abril_de_2019_(1)_(3x4).jpg",
+      "creator": "Isac Nóbrega/PR",
+      "attribution": "Isac Nóbrega/PR, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "dilma-rousseff",
+    "category": "politics",
+    "displayName": "Dilma Rousseff",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дилма Русеф",
+      "uk": "Ділма Руссефф"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg/500px-Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg",
+      "alt": "Photo of Dilma Rousseff",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg",
+      "creator": "Roberto Stuckert Filho/Presidência da República"
+    }
+  },
+  {
+    "id": "andres-manuel-lopez-obrador",
+    "category": "politics",
+    "displayName": "Andrés Manuel López Obrador",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Андрес Мануэль Лопес Обрадор",
+      "uk": "Андрес Мануель Лопес Обрадор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador_junio_2024.jpg/500px-Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador_junio_2024.jpg",
+      "alt": "Photo of Andrés Manuel López Obrador",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador_junio_2024.jpg",
+      "creator": "EneasMx",
+      "attribution": "EneasMx, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "emiliano-zapata",
+    "category": "politics",
+    "displayName": "Emiliano Zapata",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эмилиано Сапата",
+      "uk": "Еміліано Сапата"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Emiliano_Zapata4.jpg/500px-Emiliano_Zapata4.jpg",
+      "alt": "Photo of Emiliano Zapata",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emiliano_Zapata4.jpg",
+      "creator": "Agustín Casasola"
+    }
+  },
+  {
+    "id": "pancho-villa",
+    "category": "politics",
+    "displayName": "Pancho Villa",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Панчо Вилья",
+      "uk": "Панчо Вілья"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/General_Francisco_Villa_%28cropped%29.jpg/500px-General_Francisco_Villa_%28cropped%29.jpg",
+      "alt": "Photo of Pancho Villa",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_Francisco_Villa_(cropped).jpg",
+      "creator": "D.W. Hoffman, an El Paso photographer"
+    }
+  },
+  {
+    "id": "raul-castro",
+    "category": "politics",
+    "displayName": "Raúl Castro",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рауль Кастро",
+      "uk": "Рауль Кастро"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Raul-castro-2015_%28cropped%29%282%29.jpg",
+      "alt": "Photo of Raúl Castro",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raul-castro-2015_(cropped)(2).jpg",
+      "creator": "Пресс-служба Президента России/ Presidential Executive Office Russia",
+      "attribution": "Пресс-служба Президента России/ Presidential Executive Office Russia, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "nikita-khrushchev",
+    "category": "politics",
+    "displayName": "Nikita Khrushchev",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Никита Хрущёв",
+      "uk": "Микита Хрущов"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/500px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg",
+      "alt": "Photo of Nikita Khrushchev",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_(cropped).jpg",
+      "creator": "TASS"
+    }
+  },
+  {
+    "id": "leonid-brezhnev",
+    "category": "politics",
+    "displayName": "Leonid Brezhnev",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Леонид Брежнев",
+      "uk": "Леонід Брежнєв"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/500px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg",
+      "alt": "Photo of Leonid Brezhnev",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonid_Brezhnev,_Staatshoofden,_portretten,_Bestanddeelnr_925-6564_(cropped)(2).jpg",
+      "creator": "Vladimir Musaelyan"
+    }
+  },
+  {
+    "id": "boris-yeltsin",
+    "category": "politics",
+    "displayName": "Boris Yeltsin",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Борис Ельцин",
+      "uk": "Борис Єльцин"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/500px-Boris_Yeltsin_%283x4_cropped%29.jpg",
+      "alt": "Photo of Boris Yeltsin",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Yeltsin_(3x4_cropped).jpg",
+      "creator": "Presidential Press and Information Office",
+      "attribution": "Presidential Press and Information Office, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "leon-trotsky",
+    "category": "politics",
+    "displayName": "Leon Trotsky",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лев Троцкий",
+      "uk": "Лев Троцький"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/500px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
+      "alt": "Photo of Leon Trotsky",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leon_Trotsky_1918_(3x4_rotated_cropped_b).jpg",
+      "creator": "Rijksmuseum"
+    }
+  },
+  {
+    "id": "tsar-nicholas-ii",
+    "category": "politics",
+    "displayName": "Tsar Nicholas II",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Николай II",
+      "uk": "Микола II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicholas_II%2C_Russian_Emperor_%28cropped_2%29.jpg/500px-Nicholas_II%2C_Russian_Emperor_%28cropped_2%29.jpg",
+      "alt": "Photo of Tsar Nicholas II",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicholas_II,_Russian_Emperor_(cropped_2).jpg",
+      "creator": "Unknown author (originally uploaded to Wikimedia Commons on 22 August 2012 by Peruanec)"
+    }
+  },
+  {
+    "id": "alexander-ii",
+    "category": "politics",
+    "displayName": "Alexander II",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Александр II",
+      "uk": "Олександр II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zar_Alexander_II_%28cropped%29_%28cropped%29.jpg/500px-Zar_Alexander_II_%28cropped%29_%28cropped%29.jpg",
+      "alt": "Photo of Alexander II",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zar_Alexander_II_(cropped)_(cropped).jpg",
+      "creator": "Attributed to W. & D. Downey"
+    }
+  },
+  {
+    "id": "ivan-the-terrible",
+    "category": "politics",
+    "displayName": "Ivan the Terrible",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Иван Грозный",
+      "uk": "Іван Грозний"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ivan_grozny_frame.jpg/500px-Ivan_grozny_frame.jpg",
+      "alt": "Photo of Ivan the Terrible",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ivan_grozny_frame.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "lech-walesa",
+    "category": "politics",
+    "displayName": "Lech Wałęsa",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лех Валенса",
+      "uk": "Лех Валенса"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
+      "alt": "Photo of Lech Wałęsa",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_(cropped).jpg",
+      "creator": "Taiwan Presidential Office",
+      "attribution": "Taiwan Presidential Office, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "vaclav-havel",
+    "category": "politics",
+    "displayName": "Václav Havel",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вацлав Гавел",
+      "uk": "Вацлав Гавел"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vaclav_Havel.jpg/500px-Vaclav_Havel.jpg",
+      "alt": "Photo of Václav Havel",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaclav_Havel.jpg",
+      "creator": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA",
+      "attribution": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA, CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "josip-broz-tito",
+    "category": "politics",
+    "displayName": "Josip Broz Tito",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Иосип Броз Тито",
+      "uk": "Йосип Броз Тіто"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Josip_Broz_Tito_uniform_portrait.jpg/500px-Josip_Broz_Tito_uniform_portrait.jpg",
+      "alt": "Photo of Josip Broz Tito",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Josip_Broz_Tito_uniform_portrait.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "nicolae-ceausescu",
+    "category": "politics",
+    "displayName": "Nicolae Ceaușescu",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Николае Чаушеску",
+      "uk": "Ніколае Чаушеску"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg/500px-Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg",
+      "alt": "Photo of Nicolae Ceaușescu",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicolae_Ceau%C8%99escu_(3x4_cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "viktor-orban",
+    "category": "politics",
+    "displayName": "Viktor Orbán",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Виктор Орбан",
+      "uk": "Віктор Орбан"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Viktor_Orban_2025_%28cropped%29.jpg",
+      "alt": "Photo of Viktor Orbán",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viktor_Orban_2025_(cropped).jpg",
+      "creator": "The White House"
+    }
+  },
+  {
+    "id": "alexander-lukashenko",
+    "category": "politics",
+    "displayName": "Alexander Lukashenko",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Александр Лукашенко",
+      "uk": "Олександр Лукашенко"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Meeting_of_the_Supreme_State_Council_of_the_Union_State_-_February_2026_-_4_%28cropped%29.jpg/500px-Meeting_of_the_Supreme_State_Council_of_the_Union_State_-_February_2026_-_4_%28cropped%29.jpg",
+      "alt": "Photo of Alexander Lukashenko",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meeting_of_the_Supreme_State_Council_of_the_Union_State_-_February_2026_-_4_(cropped).jpg",
+      "creator": "kremlin.ru",
+      "attribution": "kremlin.ru, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "yulia-tymoshenko",
+    "category": "politics",
+    "displayName": "Yulia Tymoshenko",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Юлия Тимошенко",
+      "uk": "Юлія Тимошенко"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/EPP_Congress_2025_Valencia_Day_1_%2854485015623%29_%28cropped_1%29.jpg/500px-EPP_Congress_2025_Valencia_Day_1_%2854485015623%29_%28cropped_1%29.jpg",
+      "alt": "Photo of Yulia Tymoshenko",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EPP_Congress_2025_Valencia_Day_1_(54485015623)_(cropped_1).jpg",
+      "creator": "European People's Party",
+      "attribution": "European People's Party, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "bohdan-khmelnytsky",
+    "category": "politics",
+    "displayName": "Bohdan Khmelnytsky",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Богдан Хмельницкий",
+      "uk": "Богдан Хмельницький"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bohdan_Khmelnytsky.jpg/500px-Bohdan_Khmelnytsky.jpg",
+      "alt": "Photo of Bohdan Khmelnytsky",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bohdan_Khmelnytsky.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "paul-kagame",
+    "category": "politics",
+    "displayName": "Paul Kagame",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Поль Кагаме",
+      "uk": "Поль Кагаме"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paul_Kagame_2024_%28cropped%29.jpg/500px-Paul_Kagame_2024_%28cropped%29.jpg",
+      "alt": "Photo of Paul Kagame",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Kagame_2024_(cropped).jpg",
+      "creator": "Saeima",
+      "attribution": "Saeima, CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "cyril-ramaphosa",
+    "category": "politics",
+    "displayName": "Cyril Ramaphosa",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сирил Рамафоса",
+      "uk": "Сиріл Рамафоса"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyril_Ramaphosa_e_Michel_Temer_2_%28cropped%29.jpg/500px-Cyril_Ramaphosa_e_Michel_Temer_2_%28cropped%29.jpg",
+      "alt": "Photo of Cyril Ramaphosa",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyril_Ramaphosa_e_Michel_Temer_2_(cropped).jpg",
+      "creator": "Cesar Itiberê/PR",
+      "attribution": "Cesar Itiberê/PR, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "robert-mugabe",
+    "category": "politics",
+    "displayName": "Robert Mugabe",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Роберт Мугабе",
+      "uk": "Роберт Мугабе"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Robert_Mugabe_Official_Portrait_%284x5_cropped%29.jpg/500px-Robert_Mugabe_Official_Portrait_%284x5_cropped%29.jpg",
+      "alt": "Photo of Robert Mugabe",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Mugabe_Official_Portrait_(4x5_cropped).jpg",
+      "creator": "Government of Zimbabwe, taken by Joseph Nyadzayo as Presidential Photographer"
+    }
+  },
+  {
+    "id": "gro-harlem-brundtland",
+    "category": "politics",
+    "displayName": "Gro Harlem Brundtland",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Гру Харлем Брунтланн",
+      "uk": "Ґру Гарлем Брунтланн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gro_Harlem_Brundtland_in_2025_%28cropped%29.jpg/500px-Gro_Harlem_Brundtland_in_2025_%28cropped%29.jpg",
+      "alt": "Photo of Gro Harlem Brundtland",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gro_Harlem_Brundtland_in_2025_(cropped).jpg",
+      "creator": "Christophe Licoppe",
+      "attribution": "Christophe Licoppe, CC BY 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "olof-palme",
+    "category": "politics",
+    "displayName": "Olof Palme",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Улоф Пальме",
+      "uk": "Улоф Пальме"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%28Olof_Palme%29_Felipe_Gonz%C3%A1lez_ofrece_una_rueda_de_prensa_junto_al_primer_ministro_de_Suecia._Pool_Moncloa._28_de_septiembre_de_1984_%28cropped%29.jpeg",
+      "alt": "Photo of Olof Palme",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Olof_Palme)_Felipe_Gonz%C3%A1lez_ofrece_una_rueda_de_prensa_junto_al_primer_ministro_de_Suecia._Pool_Moncloa._28_de_septiembre_de_1984_(cropped).jpeg",
+      "creator": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)"
+    }
+  },
+  {
+    "id": "sanna-marin",
+    "category": "politics",
+    "displayName": "Sanna Marin",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Санна Марин",
+      "uk": "Санна Марін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SannaMarin-byPhilipRomano.jpg/500px-SannaMarin-byPhilipRomano.jpg",
+      "alt": "Photo of Sanna Marin",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SannaMarin-byPhilipRomano.jpg",
+      "creator": "PhilipRomano",
+      "attribution": "PhilipRomano, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "jens-stoltenberg",
+    "category": "politics",
+    "displayName": "Jens Stoltenberg",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Йенс Столтенберг",
+      "uk": "Єнс Столтенберг"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg/500px-Jens_Stoltenberg%2C_Minister_of_Finance_of_Norway%2C_at_the_Munich_Security_Conference_in_Munich%2C_Germany_on_February_14%2C_2025_%28cropped%29.jpg",
+      "alt": "Photo of Jens Stoltenberg",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jens_Stoltenberg,_Minister_of_Finance_of_Norway,_at_the_Munich_Security_Conference_in_Munich,_Germany_on_February_14,_2025_(cropped).jpg",
+      "creator": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States",
+      "attribution": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "ban-ki-moon",
+    "category": "politics",
+    "displayName": "Ban Ki-moon",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пан Ги Мун",
+      "uk": "Пан Гімун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/500px-Ban_Ki-moon_February_2016.jpg",
+      "alt": "Photo of Ban Ki-moon",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ban_Ki-moon_February_2016.jpg",
+      "creator": "Chatham House",
+      "attribution": "Chatham House, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "antonio-guterres",
+    "category": "politics",
+    "displayName": "António Guterres",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Антониу Гутерриш",
+      "uk": "Антоніу Гутерреш"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beate_Meinl-Reisinger_New-York_visit_-_March_2025_-_MGR8622_%28cropped_1%29.jpg/500px-Beate_Meinl-Reisinger_New-York_visit_-_March_2025_-_MGR8622_%28cropped_1%29.jpg",
+      "alt": "Photo of António Guterres",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beate_Meinl-Reisinger_New-York_visit_-_March_2025_-_MGR8622_(cropped_1).jpg",
+      "creator": "Österreichisches Außenministerium",
+      "attribution": "Österreichisches Außenministerium, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "kim-dae-jung",
+    "category": "politics",
+    "displayName": "Kim Dae-jung",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ким Дэ Чжун",
+      "uk": "Кім Де Чжун"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/500px-Kim_Dae-jung_presidential_portrait.jpg",
+      "alt": "Photo of Kim Dae-jung",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Dae-jung_presidential_portrait.jpg",
+      "creator": "대한민국 국가기록원",
+      "attribution": "대한민국 국가기록원, KOGL Type 1, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "moon-jae-in",
+    "category": "politics",
+    "displayName": "Moon Jae-in",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мун Чжэ Ин",
+      "uk": "Мун Чже Ін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/President_Moon_Jae_In.jpg/500px-President_Moon_Jae_In.jpg",
+      "alt": "Photo of Moon Jae-in",
+      "license": "KOGL Type 1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Moon_Jae_In.jpg",
+      "creator": "Government of the Republic of Korea",
+      "attribution": "Government of the Republic of Korea, KOGL Type 1, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "ferdinand-marcos",
+    "category": "politics",
+    "displayName": "Ferdinand Marcos",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Фердинанд Маркос",
+      "uk": "Фердинанд Маркос"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ferdinand_Marcos%27_official_portrait_during_his_second_term_%281969%29_%28cropped%29.jpg/500px-Ferdinand_Marcos%27_official_portrait_during_his_second_term_%281969%29_%28cropped%29.jpg",
+      "alt": "Photo of Ferdinand Marcos",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferdinand_Marcos%27_official_portrait_during_his_second_term_(1969)_(cropped).jpg",
+      "creator": "Malacañang Press"
+    }
+  },
+  {
+    "id": "rodrigo-duterte",
+    "category": "politics",
+    "displayName": "Rodrigo Duterte",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Родриго Дутерте",
+      "uk": "Родріго Дутерте"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/President_Rodrigo_Duterte_portrait_%28cropped%29.jpg/500px-President_Rodrigo_Duterte_portrait_%28cropped%29.jpg",
+      "alt": "Photo of Rodrigo Duterte",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Rodrigo_Duterte_portrait_(cropped).jpg",
+      "creator": "Government of the Philippines"
+    }
+  },
+  {
+    "id": "sukarno",
+    "category": "politics",
+    "displayName": "Sukarno",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сукарно",
+      "uk": "Сукарно"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Presiden_Sukarno.jpg/500px-Presiden_Sukarno.jpg",
+      "alt": "Photo of Sukarno",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Presiden_Sukarno.jpg",
+      "creator": "Onbekend/Anonymous"
+    }
+  },
+  {
+    "id": "pol-pot",
+    "category": "politics",
+    "displayName": "Pol Pot",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Пол Пот",
+      "uk": "Пол Пот"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pol_Pot_%28cropped%29.jpg",
+      "alt": "Photo of Pol Pot",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pol_Pot_(cropped).jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "hammurabi",
+    "category": "politics",
+    "displayName": "Hammurabi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хаммурапи",
+      "uk": "Хаммурапі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg/500px-F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
+      "alt": "Photo of Hammurabi",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
+      "creator": "Mbzt",
+      "attribution": "Mbzt, CC BY 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "ramesses-ii",
+    "category": "politics",
+    "displayName": "Ramesses II",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Рамсес II",
+      "uk": "Рамзес II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/500px-Ramses_II_British_Museum.jpg",
+      "alt": "Photo of Ramesses II",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramses_II_British_Museum.jpg",
+      "creator": "Pbuergler",
+      "attribution": "Pbuergler, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "tutankhamun",
+    "category": "politics",
+    "displayName": "Tutankhamun",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тутанхамон",
+      "uk": "Тутанхамон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/500px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+      "alt": "Photo of Tutankhamun",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+      "creator": "Roland Unger"
+    }
+  },
+  {
+    "id": "nefertiti",
+    "category": "politics",
+    "displayName": "Nefertiti",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нефертити",
+      "uk": "Нефертіті"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/500px-Nofretete_Neues_Museum.jpg",
+      "alt": "Photo of Nefertiti",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum.jpg",
+      "creator": "Philip Pikart",
+      "attribution": "Philip Pikart, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "augustus",
+    "category": "politics",
+    "displayName": "Augustus",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Октавиан Август",
+      "uk": "Октавіан Август"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/500px-Augustus_of_Prima_Porta.jpg",
+      "alt": "Photo of Augustus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta.jpg",
+      "creator": "Justin Benttinen",
+      "attribution": "Justin Benttinen, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "nero",
+    "category": "politics",
+    "displayName": "Nero",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Нерон",
+      "uk": "Нерон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/500px-Nero_Glyptothek_Munich_321.jpg",
+      "alt": "Photo of Nero",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nero_Glyptothek_Munich_321.jpg"
+    }
+  },
+  {
+    "id": "caligula",
+    "category": "politics",
+    "displayName": "Caligula",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Калигула",
+      "uk": "Калігула"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Caligula.Carlsberg_Glyptotek.%28cropped%29.jpg/500px-Caligula.Carlsberg_Glyptotek.%28cropped%29.jpg",
+      "alt": "Photo of Caligula",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caligula.Carlsberg_Glyptotek.(cropped).jpg",
+      "creator": "Sergey Sosnovskiy from Saint-Petersburg, Russia",
+      "attribution": "Sergey Sosnovskiy from Saint-Petersburg, Russia, CC BY-SA 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "constantine-the-great",
+    "category": "politics",
+    "displayName": "Constantine the Great",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Константин I Великий",
+      "uk": "Костянтин Великий"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/500px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+      "alt": "Photo of Constantine the Great",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statua_di_Costantino_ai_musei_capitolini.jpg",
+      "creator": "Merulana",
+      "attribution": "Merulana, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "justinian-i",
+    "category": "politics",
+    "displayName": "Justinian I",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Юстиниан I",
+      "uk": "Юстиніан I"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/500px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+      "alt": "Photo of Justinian I",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg",
+      "creator": "Petar Milošević",
+      "attribution": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "charlemagne",
+    "category": "politics",
+    "displayName": "Charlemagne",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Карл Великий",
+      "uk": "Карл I Великий"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg",
+      "alt": "Photo of Charlemagne",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlemagne_denier_Mayence_812_814.jpg",
+      "creator": "Charlemagne. Autorité émettrice de monnaie indéterminé. Atelier monétaire. Émetteur"
+    }
+  },
+  {
+    "id": "attila",
+    "category": "politics",
+    "displayName": "Attila",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аттила",
+      "uk": "Аттіла"
+    }
+  },
+  {
+    "id": "hannibal",
+    "category": "politics",
+    "displayName": "Hannibal",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ганнибал",
+      "uk": "Ганнібал"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/500px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+      "alt": "Photo of Hannibal",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+      "creator": "Fratelli Alinari"
+    }
+  },
+  {
+    "id": "saladin",
+    "category": "politics",
+    "displayName": "Saladin",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Салах ад-Дин",
+      "uk": "Салах ед Дін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
+      "alt": "Photo of Saladin",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Nasir_I_Salah_al-Din_Yusuf_(Saladin)._AH_564-589_(1169-1193_CE)_%C3%86_Dirham_(30.1mm,_13.28_g,_6h)._Without_mint-name._Dated_AH_586_(AD_1190-91)._Sultan_sitting_facing,_cross-legged,_on_high-backed_throne_(obverse).jpg",
+      "creator": "Classical Numismatic Group (CNG)",
+      "attribution": "Classical Numismatic Group (CNG), CC BY-SA 2.5, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "suleiman-the-magnificent",
+    "category": "politics",
+    "displayName": "Suleiman the Magnificent",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Сулейман I",
+      "uk": "Сулейман I"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg",
+      "alt": "Photo of Suleiman the Magnificent",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
+      "creator": "Circle of Titian"
+    }
+  },
+  {
+    "id": "richard-the-lionheart",
+    "category": "politics",
+    "displayName": "Richard the Lionheart",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ричард I Львиное Сердце",
+      "uk": "Річард I Левове Серце"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/500px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+      "alt": "Photo of Richard the Lionheart",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+      "creator": "Adam Bishop",
+      "attribution": "Adam Bishop, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "william-the-conqueror",
+    "category": "politics",
+    "displayName": "William the Conqueror",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вильгельм I Завоеватель",
+      "uk": "Вільгельм I Завойовник"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/500px-William_the_Conqueror_%28TFA%29.jpg",
+      "alt": "Photo of William the Conqueror",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_the_Conqueror_(TFA).jpg",
+      "creator": "Myrabella"
+    }
+  },
+  {
+    "id": "frederick-the-great",
+    "category": "politics",
+    "displayName": "Frederick the Great",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Фридрих II Великий",
+      "uk": "Фрідріх II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/500px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
+      "alt": "Photo of Frederick the Great",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_(cropped_2).jpg",
+      "creator": "Johann Georg Ziesenis"
+    }
+  },
+  {
+    "id": "maria-theresa",
+    "category": "politics",
+    "displayName": "Maria Theresa",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Мария Терезия",
+      "uk": "Марія-Терезія"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiserin_Maria_Theresia_%28HRR%29.jpg/500px-Kaiserin_Maria_Theresia_%28HRR%29.jpg",
+      "alt": "Photo of Maria Theresa",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiserin_Maria_Theresia_(HRR).jpg",
+      "creator": "Martin van Meytens"
+    }
+  },
+  {
+    "id": "queen-isabella",
+    "category": "politics",
+    "displayName": "Queen Isabella",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Изабелла I",
+      "uk": "Ізабелла I Кастильська"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/500px-IsabellaofCastile03.jpg",
+      "alt": "Photo of Queen Isabella",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsabellaofCastile03.jpg",
+      "creator": "anonymous"
+    }
+  },
+  {
+    "id": "empress-sisi",
+    "category": "politics",
+    "displayName": "Empress Sisi",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Елизавета Баварская",
+      "uk": "Єлизавета Баварська"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Isabel_da_%C3%81ustria_1867.jpg/500px-Isabel_da_%C3%81ustria_1867.jpg",
+      "alt": "Photo of Empress Sisi",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isabel_da_%C3%81ustria_1867.jpg",
+      "creator": "Emil Rabending"
+    }
+  },
+  {
+    "id": "emperor-franz-joseph",
+    "category": "politics",
+    "displayName": "Emperor Franz Joseph",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Франц Иосиф I",
+      "uk": "Франц Йосиф I"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg/500px-Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg",
+      "alt": "Photo of Emperor Franz Joseph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_Joseph_I_of_Austria.1910_(cropped).jpg",
+      "creator": "Carl Pietzner"
+    }
+  },
+  {
+    "id": "kaiser-wilhelm-ii",
+    "category": "politics",
+    "displayName": "Kaiser Wilhelm II",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Вильгельм II",
+      "uk": "Вільгельм II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg/500px-Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg",
+      "alt": "Photo of Kaiser Wilhelm II",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaiser_Wilhelm_II_of_Germany_-_1902_(3x4_cropped).jpg",
+      "creator": "Studio of Thomas Heinrich Voigt"
+    }
+  },
+  {
+    "id": "akbar-the-great",
+    "category": "politics",
+    "displayName": "Akbar the Great",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Акбар I Великий",
+      "uk": "Акбар I Великий"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg/500px-Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg",
+      "alt": "Photo of Akbar the Great",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Govardhan._Akbar_With_Lion_and_Calf_ca._1630,_Metmuseum_(cropped).jpg",
+      "creator": "Govardhan / Mir Ali Heravi"
+    }
+  },
+  {
+    "id": "shah-jahan",
+    "category": "politics",
+    "displayName": "Shah Jahan",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шах-Джахан",
+      "uk": "Шах Джахан"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27%2C_painted_by_Bichitr%2C_c._1630%2C_Chester_Beatty_Library_%28cropped2%29.jpg/500px-%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27%2C_painted_by_Bichitr%2C_c._1630%2C_Chester_Beatty_Library_%28cropped2%29.jpg",
+      "alt": "Photo of Shah Jahan",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27,_painted_by_Bichitr,_c._1630,_Chester_Beatty_Library_(cropped2).jpg",
+      "creator": "Bichitr"
+    }
+  },
+  {
+    "id": "montezuma",
+    "category": "politics",
+    "displayName": "Montezuma",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Монтесума II",
+      "uk": "Монтесума II"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Moctezuma_Mendoza.jpg/500px-Moctezuma_Mendoza.jpg",
+      "alt": "Photo of Montezuma",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moctezuma_Mendoza.jpg",
+      "creator": "Unknown authorUnknown author"
+    }
+  },
+  {
+    "id": "atahualpa",
+    "category": "politics",
+    "displayName": "Atahualpa",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Атауальпа",
+      "uk": "Атавальпа"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png",
+      "alt": "Photo of Atahualpa",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atahuallpa,_Inca_XIIII_From_Berlin_Ethnologisches_Museum,_Staatliche_Museen,_Berlin,_Germany.png",
+      "creator": "anonymous"
+    }
+  },
+  {
+    "id": "ashoka",
+    "category": "politics",
+    "displayName": "Ashoka",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ашока",
+      "uk": "Ашока"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/500px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+      "alt": "Photo of Ashoka",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+      "creator": "Photo Dharma from Sadao, Thailand",
+      "attribution": "Photo Dharma from Sadao, Thailand, CC BY 2.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "qin-shi-huang",
+    "category": "politics",
+    "displayName": "Qin Shi Huang",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Цинь Шихуанди",
+      "uk": "Цінь Ши Хуан-ді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/QinShiHuang19century.jpg/500px-QinShiHuang19century.jpg",
+      "alt": "Photo of Qin Shi Huang",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:QinShiHuang19century.jpg",
+      "creator": "Unknown (18??–18??)"
+    }
+  },
+  {
+    "id": "kublai-khan",
+    "category": "politics",
+    "displayName": "Kublai Khan",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Хубилай",
+      "uk": "Хубілай"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/500px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+      "alt": "Photo of Kublai Khan",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumKhubilaiPortrait.jpg",
+      "creator": "Araniko"
+    }
+  },
+  {
+    "id": "tamerlane",
+    "category": "politics",
+    "displayName": "Tamerlane",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тамерлан",
+      "uk": "Тамерлан"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/500px-Timur_reconstruction03.jpg",
+      "alt": "Photo of Tamerlane",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timur_reconstruction03.jpg",
+      "creator": "user:shakko",
+      "attribution": "user:shakko, CC BY-SA 3.0, via Wikimedia Commons"
+    }
+  },
+  {
+    "id": "vlad-the-impaler",
+    "category": "politics",
+    "displayName": "Vlad the Impaler",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Влад Цепеш",
+      "uk": "Влад Цепеш"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg/500px-Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg",
+      "alt": "Photo of Vlad the Impaler",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vlad_%C5%A2epe%C5%9F,_the_Impaler,_Prince_of_Wallachia_(1456-1462)_(died_1477).jpg",
+      "creator": "AnonymousUnknown author"
+    }
+  },
+  {
+    "id": "malcolm-x",
+    "category": "politics",
+    "displayName": "Malcolm X",
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Малкольм Икс",
+      "uk": "Малколм Ікс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg/500px-Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg",
+      "alt": "Photo of Malcolm X",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg",
+      "creator": "Eddie Adams"
+    }
   }
 ]

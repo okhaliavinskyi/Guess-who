@@ -1,6 +1,6 @@
 import { useId, useState, type FormEvent } from 'react';
 import { CUSTOM_WORD_MAX, validateCustomWord } from '../game/customWord.ts';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 interface Props {
   /** Called with the trimmed word from the Start tap (a user gesture). */
@@ -13,6 +13,7 @@ interface Props {
  * Start) the text is gone from the DOM; it is never persisted or transmitted.
  */
 export function CustomWordForm({ onSubmit, onBack }: Props) {
+  const strings = useStrings();
   const [value, setValue] = useState('');
   const [error, setError] = useState<string | null>(null);
   const inputId = useId();

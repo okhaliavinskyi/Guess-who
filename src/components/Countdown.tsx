@@ -1,19 +1,22 @@
 import { useEffect, useState } from 'react';
 import { useCountdown } from '../hooks/useCountdown.ts';
-import { strings } from '../i18n/strings.ts';
+import { useStrings } from '../i18n/language.ts';
 
 interface Props {
   durationMs: number;
   onComplete: () => void;
   onCancel: () => void;
   now?: () => number;
+  /** Re-reveal after the screen was locked: explain why the name is hidden. */
+  resumed?: boolean;
 }
 
 /**
  * Preparation countdown. Deliberately receives no character: nothing to leak.
  * The visual digits are aria-hidden; screen readers get one announcement only.
  */
-export function Countdown({ durationMs, onComplete, onCancel, now }: Props) {
+export function Countdown({ durationMs, onComplete, onCancel, now, resumed = false }: Props) {
+  const strings = useStrings();
   const { secondsLeft, totalSeconds } = useCountdown({ durationMs, onComplete, now });
   const [announcement, setAnnouncement] = useState('');
 
@@ -21,7 +24,7 @@ export function Countdown({ durationMs, onComplete, onCancel, now }: Props) {
     // Set after mount so the live region (already in the DOM) announces it once.
     const id = setTimeout(() => setAnnouncement(strings.countdownAnnouncement(totalSeconds)), 50);
     return () => clearTimeout(id);
-  }, [totalSeconds]);
+  }, [strings, totalSeconds]);
 
   return (
     <main className="screen countdown" aria-labelledby="countdown-title">
@@ -31,8 +34,18 @@ export function Countdown({ durationMs, onComplete, onCancel, now }: Props) {
       <p className="sr-only" aria-live="polite" aria-atomic="true">
         {announcement}
       </p>
-      <p className="countdown-instruction" aria-hidden="true">
-        {strings.countdownInstruction}
+      {resumed && (
+        <p className="notice countdown-resumed" role="status">
+          🔒 {strings.resumedNotice}
+        </p>
+      )}
+      {!resumed && (
+        <p className="countdown-instruction" aria-hidden="true">
+          {strings.countdownInstruction}
+        </p>
+      )}
+      <p className="rotate-hint" aria-hidden="true">
+        📱↻ {strings.rotateHint}
       </p>
       <div
         className="countdown-number"

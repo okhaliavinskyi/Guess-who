@@ -5,4 +5,4 @@
  * src/content/characters/*.json has been replaced (see CONTENT_BANK_HANDOFF.md).
  * While 'demo', the UI shows a "Demo content" label and the validator warns.
  */
-export const BANK_STATUS: 'demo' | 'production' = 'demo';
+export const BANK_STATUS: 'demo' | 'production' = 'production';

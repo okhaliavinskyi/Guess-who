@@ -140,7 +140,7 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   or Android Chrome hardware — must be checked on the HTTPS Vercel deployment.
 - Photo layout verified only in jsdom tests (no licensed images exist yet); check visually
   once the content session adds images.
-- Content is demo-only; production bank is a separate session (`CONTENT_BANK_HANDOFF.md`).
+- Content: production bank since 2026-11-08 (see "Production content & features" below).
 - Dev-only `npm audit` moderate advisory (see Phase 0).
 - CI workflow not active yet: copy `docs/ci-workflow.yml` to `.github/workflows/ci.yml`.
 
@@ -154,3 +154,20 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
   security headers from `vercel.json` present; manifest and icons served.
 - Git auto-deploy is not connected yet: run `vercel git connect` (or connect the repo in
   the Vercel dashboard) so every push to the production branch redeploys.
+
+## Production content & features (2026-11-08)
+
+- Bank: 1,439 curated names (200+ per category) in `content-source/*.txt`, built by
+  `npm run content:build`; `BANK_STATUS = 'production'`.
+- Photos: 1,267 Wikimedia Commons files, license-checked per file (PD, CC0, CC BY,
+  CC BY-SA, OGL/KOGL/GODL), hotlinked thumbnails with credit + source link
+  (`npm run content:images`; gaps in `content-source/images-report.txt`).
+- Names in Russian (1,370) and Ukrainian (1,321) from Wikipedia interlanguage links
+  plus manual fixes (`npm run content:locales`, `content-source/locale-overrides.json`).
+- UI in EN / RU / UA with a switcher; choice remembered, browser language by default.
+- Session shadow ban: names already revealed are skipped in every pool until it runs out.
+- Reveal: tap switches name ↔ photo; swipe ← next, → previous (both via countdown);
+  arrow keys too.
+- Screen lock while a name is shown → name hidden, re-revealed after a countdown.
+- Landscape-first: fullscreen + orientation lock on Start where supported; rotate hint.
+- Tests: 154 (bank quality, i18n coverage of every screen, swipes, lock/resume).

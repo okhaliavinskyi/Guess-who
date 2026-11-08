@@ -1,6 +1,6 @@
 # Character Bank — Content Session Handoff
 
-**Status today: DEMO FIXTURES ONLY** (4–5 names per category, 29 total, no images).
+**Status: PRODUCTION** — 200+ names per category, built from `content-source/*.txt`; see `src/content/characters/README.md` for the workflow. The rest of this document is the original contract.
 This document is the contract for a separate Claude Code session that replaces the
 fixtures with the production bank. The game code does not need to change for that.
 

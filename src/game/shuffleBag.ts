@@ -29,20 +29,34 @@ export function shuffle<T>(items: readonly T[], rng: Rng = Math.random): T[] {
 /**
  * Draws the next id. `poolIds` is the current valid pool; ids that disappeared
  * from it (content refresh) are skipped. Returns null only for an empty pool.
+ *
+ * `seen` is the session-wide "shadow ban": ids already revealed in this session
+ * from any pool (e.g. a name shown in Music is not offered again in Mix). They are
+ * skipped until every id of this pool has been seen; then the pool starts a fresh
+ * cycle and `cycleReset` tells the caller to forget this pool's ids from `seen`.
  */
 export function drawFromBag(
   bag: BagState,
   poolIds: readonly string[],
   rng: Rng = Math.random,
-): { id: string | null; bag: BagState } {
+  seen: ReadonlySet<string> = new Set(),
+): { id: string | null; bag: BagState; cycleReset: boolean } {
   const pool = [...new Set(poolIds)];
-  if (pool.length === 0) return { id: null, bag: { remaining: [], lastId: bag.lastId } };
+  if (pool.length === 0)
+    return { id: null, bag: { remaining: [], lastId: bag.lastId }, cycleReset: false };
 
   const inPool = new Set(pool);
-  let remaining = bag.remaining.filter((id) => inPool.has(id));
+  let remaining = bag.remaining.filter((id) => inPool.has(id) && !seen.has(id));
+  let cycleReset = false;
 
   if (remaining.length === 0) {
-    remaining = shuffle(pool, rng);
+    let fresh = pool.filter((id) => !seen.has(id));
+    if (fresh.length === 0) {
+      // Everything in this pool was already shown this session: start over.
+      fresh = pool;
+      cycleReset = true;
+    }
+    remaining = shuffle(fresh, rng);
     if (remaining.length > 1 && remaining[0] === bag.lastId) {
       // Swap the repeat with a random later position so it is not shown back-to-back.
       const j = 1 + Math.floor(rng() * (remaining.length - 1));
@@ -53,7 +67,7 @@ export function drawFromBag(
   }
 
   const [id, ...rest] = remaining as [string, ...string[]];
-  return { id, bag: { remaining: rest, lastId: id } };
+  return { id, bag: { remaining: rest, lastId: id }, cycleReset };
 }
 
 export function isBagState(value: unknown): value is BagState {
