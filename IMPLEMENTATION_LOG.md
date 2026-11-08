@@ -171,3 +171,13 @@ release event / unmount ✅ · fullscreen unsupported ✅ · 5-minute display �
 - Screen lock while a name is shown → name hidden, re-revealed after a countdown.
 - Landscape-first: fullscreen + orientation lock on Start where supported; rotate hint.
 - Tests: 154 (bank quality, i18n coverage of every screen, swipes, lock/resume).
+
+## Production deploy (2026-11-08, evening)
+
+- Deployed with the Vercel CLI (device-login, no token stored in the repo):
+  https://guesswhogame.vercel.app (alias of project `guess-who`).
+- Verified live (Playwright, iPhone 13 / Pixel 7 landscape, iPhone 13 portrait; EN/RU/UA):
+  page title and `lang` per language, no demo label, 236 names in Movies & TV, Next and
+  back (←) return the right names, a live Wikimedia photo loads with its credit, no
+  console errors. Longest names in every language fit on an iPhone SE in landscape.
+- README rewritten with screenshots from the live site (`docs/screenshots/`).
