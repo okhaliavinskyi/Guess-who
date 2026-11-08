@@ -14,8 +14,6 @@ interface Props {
   /** Horizontal swipe: left → next name, right → previous name. */
   onSwipeNext?: () => void;
   onSwipePrev?: () => void;
-  /** Whether swiping right has anything to go back to (only affects the hint). */
-  canGoBack?: boolean;
 }
 
 /** Minimum horizontal travel (px) for a swipe; shorter movements count as a tap. */
@@ -35,7 +33,6 @@ export function CharacterCard({
   onTap,
   onSwipeNext,
   onSwipePrev,
-  canGoBack = false,
 }: Props) {
   const strings = useStrings();
   const usable = hasUsableImage(image) ? image : undefined;
@@ -120,16 +117,6 @@ export function CharacterCard({
           {name}
         </h1>
       </div>
-      {(tappable || swipeable) && (
-        <p className="card-tap-hint" aria-hidden="true">
-          {[
-            tappable && (photo ? strings.tapForName : strings.tapForPhoto),
-            swipeable && (canGoBack ? strings.swipeHint : strings.swipeNextHint),
-          ]
-            .filter(Boolean)
-            .join('  ·  ')}
-        </p>
-      )}
     </div>
   );
 }

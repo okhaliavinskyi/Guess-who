@@ -675,6 +675,25 @@ input {
   flex: 1.6 1 0;
 }
 
+/* Icon-only secondary controls (end, menu, photo) keep the bar light on text. */
+.controls .btn-square {
+  flex: 0 0 auto;
+  min-width: 64px;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+/* Fullscreen play: just the card, swipes, and a faint exit-fullscreen button. */
+.reveal--immersive .top-bar--overlay {
+  justify-content: flex-end;
+}
+.reveal--immersive .btn-icon {
+  opacity: 0.45;
+}
+.reveal--immersive .card {
+  padding-top: 0;
+}
+
 @media (max-width: 359px) {
   .controls {
     flex-wrap: wrap;
@@ -685,6 +704,9 @@ input {
   .controls .btn-primary {
     flex: 1 1 100%;
     order: -1;
+  }
+  .controls .btn-square {
+    flex: 1 1 0;
   }
 }
 

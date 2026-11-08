@@ -18,7 +18,7 @@ import { ReadyScreen } from '../components/ReadyScreen.tsx';
 import { RevealScreen } from '../components/RevealScreen.tsx';
 import { UnavailableScreen } from '../components/UnavailableScreen.tsx';
 
-export const COUNTDOWN_MS = 5000;
+export const COUNTDOWN_MS = 3000;
 const POOL_IDS: readonly PoolId[] = [...CATEGORY_IDS, 'mix'];
 
 export interface AppProps {

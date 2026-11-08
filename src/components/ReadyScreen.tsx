@@ -45,7 +45,6 @@ export function ReadyScreen(p: Props) {
             {strings.interrupted}
           </p>
         )}
-        <p className="ready-hint">{strings.readyHint}</p>
         <p className="rotate-hint" role="note">
           <span aria-hidden="true">📱↻ </span>
           {strings.rotateHint}
