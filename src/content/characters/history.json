@@ -2050,18 +2050,45 @@
     "id": "gianni-versace",
     "category": "history",
     "displayName": "Gianni Versace",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джанни Версаче",
+      "uk": "Джанні Версаче"
+    }
   },
   {
     "id": "al-capone",
     "category": "history",
     "displayName": "Al Capone",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Аль Капоне",
+      "uk": "Аль Капоне"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/500px-Al_Capone_in_1930_%28manually_dusted%29.jpg",
+      "alt": "Photo of Al Capone",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Capone_in_1930_(manually_dusted).jpg",
+      "creator": "Chicago Bureau (Federal Bureau of Investigation) - Wide World Photos."
+    }
   },
   {
     "id": "stan-lee",
     "category": "history",
     "displayName": "Stan Lee",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стэн Ли",
+      "uk": "Стен Лі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stan_Lee_2007_%28cropped%29.jpg/500px-Stan_Lee_2007_%28cropped%29.jpg",
+      "alt": "Photo of Stan Lee",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stan_Lee_2007_(cropped).jpg",
+      "creator": "Edward Liu",
+      "attribution": "Edward Liu, CC BY-SA 2.0, via Wikimedia Commons"
+    }
   }
 ]

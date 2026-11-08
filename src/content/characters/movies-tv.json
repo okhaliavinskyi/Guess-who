@@ -3280,120 +3280,355 @@
     "id": "liam-neeson",
     "category": "movies-tv",
     "displayName": "Liam Neeson",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Лиам Нисон",
+      "uk": "Ліам Нісон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Liam_Neeson_Deauville_2012_2.jpg/500px-Liam_Neeson_Deauville_2012_2.jpg",
+      "alt": "Photo of Liam Neeson",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liam_Neeson_Deauville_2012_2.jpg",
+      "creator": "Georges Biard",
+      "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "ewan-mcgregor",
     "category": "movies-tv",
     "displayName": "Ewan McGregor",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Юэн Макгрегор",
+      "uk": "Юен Мак-Грегор"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg/500px-Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg",
+      "alt": "Photo of Ewan McGregor",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg",
+      "creator": "Kevin Paul",
+      "attribution": "Kevin Paul, CC BY 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "jared-leto",
     "category": "movies-tv",
     "displayName": "Jared Leto",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джаред Лето",
+      "uk": "Джаред Лето"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jared_Leto_by_Gage_Skidmore_2.jpg/500px-Jared_Leto_by_Gage_Skidmore_2.jpg",
+      "alt": "Photo of Jared Leto",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jared_Leto_by_Gage_Skidmore_2.jpg",
+      "creator": "Gage Skidmore",
+      "attribution": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "bradley-cooper",
     "category": "movies-tv",
     "displayName": "Bradley Cooper",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Брэдли Купер",
+      "uk": "Бредлі Купер"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg/500px-Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg",
+      "alt": "Photo of Bradley Cooper",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradley_Cooper_Is_This_Thing_On-41_(cropped).jpg",
+      "creator": "Bryan Berlin",
+      "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "jake-gyllenhaal",
     "category": "movies-tv",
     "displayName": "Jake Gyllenhaal",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейк Джилленхол",
+      "uk": "Джейк Джилленгол"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg/500px-Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg",
+      "alt": "Photo of Jake Gyllenhaal",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg",
+      "creator": "Toglenn",
+      "attribution": "Toglenn, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "andrew-garfield",
     "category": "movies-tv",
     "displayName": "Andrew Garfield",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Эндрю Гарфилд",
+      "uk": "Ендрю Гарфілд"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Andrew_Garfield_at_the_2026_New_York_Film_Festival-18.jpg/500px-Andrew_Garfield_at_the_2026_New_York_Film_Festival-18.jpg",
+      "alt": "Photo of Andrew Garfield",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andrew_Garfield_at_the_2026_New_York_Film_Festival-18.jpg",
+      "creator": "Bryan Berlin",
+      "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "tobey-maguire",
     "category": "movies-tv",
     "displayName": "Tobey Maguire",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Тоби Магуайр",
+      "uk": "Тобі Магвайр"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tobey_Maguire_2014.jpg/500px-Tobey_Maguire_2014.jpg",
+      "alt": "Photo of Tobey Maguire",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tobey_Maguire_2014.jpg",
+      "creator": "gdcgraphics",
+      "attribution": "gdcgraphics, CC BY-SA 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "jamie-foxx",
     "category": "movies-tv",
     "displayName": "Jamie Foxx",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейми Фокс",
+      "uk": "Джеймі Фокс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TIFF_2019_jamie_foxx_%28cropped%29.jpg/500px-TIFF_2019_jamie_foxx_%28cropped%29.jpg",
+      "alt": "Photo of Jamie Foxx",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TIFF_2019_jamie_foxx_(cropped).jpg",
+      "creator": "John Bauld from Toronto, Canada",
+      "attribution": "John Bauld from Toronto, Canada, CC BY 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "kevin-hart",
     "category": "movies-tv",
     "displayName": "Kevin Hart",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Кевин Харт",
+      "uk": "Кевін Гарт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg/500px-Kevin_Hart_2014_%28cropped_2%29.jpg",
+      "alt": "Photo of Kevin Hart",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Hart_2014_(cropped_2).jpg",
+      "creator": "Eva Rinaldi",
+      "attribution": "Eva Rinaldi, CC BY-SA 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "steve-martin",
     "category": "movies-tv",
     "displayName": "Steve Martin",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Стив Мартин",
+      "uk": "Стів Мартін"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve_Martin%2C_2017-08-11_%28cropped%29.jpg/500px-Steve_Martin%2C_2017-08-11_%28cropped%29.jpg",
+      "alt": "Photo of Steve Martin",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Martin,_2017-08-11_(cropped).jpg",
+      "creator": "Davidwbaker",
+      "attribution": "Davidwbaker, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "tom-hardy",
     "category": "movies-tv",
     "displayName": "Tom Hardy",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Том Харди",
+      "uk": "Том Гарді"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tom_Hardy_Locke_Premiere.jpg/500px-Tom_Hardy_Locke_Premiere.jpg",
+      "alt": "Photo of Tom Hardy",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Hardy_Locke_Premiere.jpg",
+      "creator": "Tim Cornbill",
+      "attribution": "Tim Cornbill, CC BY-SA 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "zac-efron",
     "category": "movies-tv",
     "displayName": "Zac Efron",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Зак Эфрон",
+      "uk": "Зак Ефрон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg/500px-Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg",
+      "alt": "Photo of Zac Efron",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg",
+      "creator": "Eva Rinaldi",
+      "attribution": "Eva Rinaldi, CC BY 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "channing-tatum",
     "category": "movies-tv",
     "displayName": "Channing Tatum",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ченнинг Татум",
+      "uk": "Ченнінг Тейтум"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channing_Tatum_at_the_2026_Berlin_International_Film_Festival-69843.jpg/500px-Channing_Tatum_at_the_2026_Berlin_International_Film_Festival-69843.jpg",
+      "alt": "Photo of Channing Tatum",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Channing_Tatum_at_the_2026_Berlin_International_Film_Festival-69843.jpg",
+      "creator": "Harald Krichel",
+      "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "mark-wahlberg",
     "category": "movies-tv",
     "displayName": "Mark Wahlberg",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Марк Уолберг",
+      "uk": "Марк Волберг"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mark_Wahlberg_2021.jpg/500px-Mark_Wahlberg_2021.jpg",
+      "alt": "Photo of Mark Wahlberg",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Wahlberg_2021.jpg",
+      "creator": "U.S. Marine Corps photo by Sgt. Jorge A. Rosales"
+    }
   },
   {
     "id": "sean-penn",
     "category": "movies-tv",
     "displayName": "Sean Penn",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Шон Пенн",
+      "uk": "Шон Пенн"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Superpower_%282023%29-60523_%28cropped%29.jpg/500px-Superpower_%282023%29-60523_%28cropped%29.jpg",
+      "alt": "Photo of Sean Penn",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Superpower_(2023)-60523_(cropped).jpg",
+      "creator": "Harald Krichel",
+      "attribution": "Harald Krichel, CC BY-SA 3.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "megan-fox",
     "category": "movies-tv",
     "displayName": "Megan Fox",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Меган Фокс",
+      "uk": "Меган Фокс"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Megan_Fox_-_Jennifer%27s_Body.jpg/500px-Megan_Fox_-_Jennifer%27s_Body.jpg",
+      "alt": "Photo of Megan Fox",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megan_Fox_-_Jennifer%27s_Body.jpg",
+      "creator": "Kevin Paul",
+      "attribution": "Kevin Paul, CC BY 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "jessica-alba",
     "category": "movies-tv",
     "displayName": "Jessica Alba",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джессика Альба",
+      "uk": "Джессіка Альба"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg/500px-Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg",
+      "alt": "Photo of Jessica Alba",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg",
+      "creator": "Kevin Paul",
+      "attribution": "Kevin Paul, CC BY 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "dakota-johnson",
     "category": "movies-tv",
     "displayName": "Dakota Johnson",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Дакота Джонсон",
+      "uk": "Дакота Джонсон"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dakota_Johnson_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/500px-Dakota_Johnson_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg",
+      "alt": "Photo of Dakota Johnson",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dakota_Johnson_at_the_2025_Cannes_Film_Festival_(cropped).jpg",
+      "creator": "Gabriel Hutchinson",
+      "attribution": "Gabriel Hutchinson, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "charlie-sheen",
     "category": "movies-tv",
     "displayName": "Charlie Sheen",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Чарли Шин",
+      "uk": "Чарлі Шин"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_Sheen_March_2009.JPG/500px-Charlie_Sheen_March_2009.JPG",
+      "alt": "Photo of Charlie Sheen",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Sheen_March_2009.JPG",
+      "creator": "Angela George at https://www.flickr.com/photos/sharongraphics/",
+      "attribution": "Angela George at https://www.flickr.com/photos/sharongraphics/, CC BY-SA 3.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "mrbeast",
     "category": "movies-tv",
     "displayName": "MrBeast",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MrBeast_in_2026_%28cropped_4%29.png/500px-MrBeast_in_2026_%28cropped_4%29.png",
+      "alt": "Photo of MrBeast",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MrBeast_in_2026_(cropped_4).png",
+      "creator": "Tyren Redd",
+      "attribution": "Tyren Redd, CC BY 4.0, via Wikimedia Commons"
+    }
   }
 ]

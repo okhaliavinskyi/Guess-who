@@ -1815,12 +1815,35 @@
     "id": "jake-paul",
     "category": "sports",
     "displayName": "Jake Paul",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джейк Пол",
+      "uk": "Джейк Пол"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jake_Paul_March_2026_%283x4_cropped%29.jpg/500px-Jake_Paul_March_2026_%283x4_cropped%29.jpg",
+      "alt": "Photo of Jake Paul",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jake_Paul_March_2026_(3x4_cropped).jpg",
+      "creator": "The White House"
+    }
   },
   {
     "id": "lamine-yamal",
     "category": "sports",
     "displayName": "Lamine Yamal",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Ламин Ямаль",
+      "uk": "Ламін Ямаль"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lamine_Yamal_France_v_Spain_7.24.26-142.jpg/500px-Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+      "alt": "Photo of Lamine Yamal",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+      "creator": "Bryan Berlin",
+      "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   }
 ]

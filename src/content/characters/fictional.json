@@ -2533,42 +2533,78 @@
     "id": "venom",
     "category": "fictional",
     "displayName": "Venom",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Веном",
+      "uk": "Веном"
+    }
   },
   {
     "id": "hercules",
     "category": "fictional",
     "displayName": "Hercules",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Геркулес",
+      "uk": "Геркулес"
+    }
   },
   {
     "id": "pocahontas",
     "category": "fictional",
     "displayName": "Pocahontas",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Покахонтас",
+      "uk": "Покахонтас"
+    }
   },
   {
     "id": "patrick-star",
     "category": "fictional",
     "displayName": "Patrick Star",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Патрик Стар",
+      "uk": "Патрік Зірка"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Patrick_Star_character.png",
+      "alt": "Image of Patrick Star",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patrick_Star_character.png",
+      "creator": "Nickelodeon (NickRewind)",
+      "attribution": "Nickelodeon (NickRewind), CC BY 3.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "jack-skellington",
     "category": "fictional",
     "displayName": "Jack Skellington",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Джек Скеллингтон",
+      "uk": "Джек Скеллінгтон"
+    }
   },
   {
     "id": "mike-wazowski",
     "category": "fictional",
     "displayName": "Mike Wazowski",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Майк Вазовски",
+      "uk": "Майк Вазовський"
+    }
   },
   {
     "id": "sully",
     "category": "fictional",
     "displayName": "Sully",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Салли",
+      "uk": "Саллі"
+    }
   }
 ]

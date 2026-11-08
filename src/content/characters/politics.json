@@ -883,8 +883,8 @@
     "displayName": "Pope Francis",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Франциск",
-      "uk": "Франциск"
+      "ru": "Папа Франциск",
+      "uk": "Папа Франциск"
     }
   },
   {
@@ -893,8 +893,8 @@
     "displayName": "Pope John Paul II",
     "popularityTier": "iconic",
     "localeNames": {
-      "ru": "Иоанн Павел II",
-      "uk": "Іван Павло II"
+      "ru": "Папа Иоанн Павел II",
+      "uk": "Папа Іван Павло II"
     },
     "image": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
@@ -1714,24 +1714,64 @@
     "id": "spartacus",
     "category": "politics",
     "displayName": "Spartacus",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Спартак",
+      "uk": "Спартак"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus%2CEspartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg/500px-%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus%2CEspartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg",
+      "alt": "Photo of Spartacus",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus,Espartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg",
+      "creator": "Carole Raddato from FRANKFURT, Germany",
+      "attribution": "Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "leonidas-i",
     "category": "politics",
     "displayName": "Leonidas I",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Царь Леонид",
+      "uk": "Цар Леонід"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/500px-Helmed_Hoplite_Sparta.JPG",
+      "alt": "Photo of Leonidas I",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helmed_Hoplite_Sparta.JPG",
+      "creator": "de:Benutzer:Ticinese",
+      "attribution": "de:Benutzer:Ticinese, CC BY-SA 3.0, via Wikimedia Commons"
+    }
   },
   {
     "id": "pope-benedict-xvi",
     "category": "politics",
     "displayName": "Pope Benedict XVI",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Папа Бенедикт XVI",
+      "uk": "Папа Бенедикт XVI"
+    }
   },
   {
     "id": "pope-leo-xiv",
     "category": "politics",
     "displayName": "Pope Leo XIV",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "localeNames": {
+      "ru": "Папа Лев XIV",
+      "uk": "Папа Лев XIV"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/500px-Pope_Leo_XIV_3_%283x4_cropped%29.png",
+      "alt": "Photo of Pope Leo XIV",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_3_(3x4_cropped).png",
+      "creator": "Edgar Beltrán, The Pillar",
+      "attribution": "Edgar Beltrán, The Pillar, CC BY-SA 4.0, via Wikimedia Commons"
+    }
   }
 ]

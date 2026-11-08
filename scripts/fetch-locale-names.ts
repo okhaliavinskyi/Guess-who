@@ -137,11 +137,7 @@ async function main() {
     // Only look up entries that have no name in this language yet (--refresh: all).
     const todo = process.argv.includes('--refresh')
       ? titles
-      : [
-          ...new Set(
-            entries.filter((e) => !result[e.displayName]?.[lang]).map((e) => e.wikiTitle),
-          ),
-        ];
+      : [...new Set(entries.filter((e) => !result[e.displayName]?.[lang]).map((e) => e.wikiTitle))];
     const links = await langLinks(todo, lang);
     console.log(`${lang}: ${links.size} / ${todo.length} titles linked`);
     for (const e of entries) {
