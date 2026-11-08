@@ -1,9 +1,14 @@
-# Character bank — DEMO FIXTURES
+# Character bank — production
 
-**The JSON files in this folder are placeholder demo content (4–5 names per
-category), not the production catalog.** They exist only so the game can be
-played and tested end-to-end. A separate content session replaces them — see
-`/CONTENT_BANK_HANDOFF.md`.
+**Generated files — do not edit by hand.** The source of truth is the curated lists in
+`/content-source/<category>.txt` (200+ names per category). To change the bank:
 
-One file per category; each file is a JSON array of `Character` objects
-(`src/content/schema.ts`). Validate with `npm run content:validate`.
+1. Edit a list: one entry per line, `*Name` = iconic tier, optional `@Wikipedia title`
+   to point the photo lookup at the right article.
+2. `npm run content:images` — finds a freely licensed photo on Wikimedia Commons for new
+   entries (public domain / CC0 / CC BY / CC BY-SA only; non-free and missing images are
+   listed in `content-source/images-report.txt`). Cached in `content-source/images.json`.
+3. `npm run content:build` — regenerates these JSON files (existing ids are preserved).
+4. `npm run check` — validator + bank quality tests (`tests/bank.test.ts`).
+
+Each file is a JSON array of `Character` objects (`src/content/schema.ts`).
