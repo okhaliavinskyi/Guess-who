@@ -7,12 +7,12 @@
     "creator": "Senior Airman Nia Jacobs"
   },
   "a-ha": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A-haVistalegre19.JPG/500px-A-haVistalegre19.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Morten_Harket_FFM13_001_%28cropped%29.jpg/500px-Morten_Harket_FFM13_001_%28cropped%29.jpg",
     "alt": "Photo of a-ha",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A-haVistalegre19.JPG",
-    "creator": "Jamesbond raul",
-    "attribution": "Jamesbond raul, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morten_Harket_FFM13_001_(cropped).jpg",
+    "creator": "Sven-Sebastian Sajak",
+    "attribution": "Sven-Sebastian Sajak, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "aamir-khan": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Aamir_Khan_at_the_success_bash_of_Secret_Superstar.jpg",
@@ -54,14 +54,19 @@
     "creator": "Alexander Gardner"
   },
   "ac-dc": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AC_DC_Black_Ice_Tour_2009_Buenos_Aires_4_de_Diciembre_%284238680962%29.jpg/500px-AC_DC_Black_Ice_Tour_2009_Buenos_Aires_4_de_Diciembre_%284238680962%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/AngusYoung.JPG/500px-AngusYoung.JPG",
     "alt": "Photo of AC/DC",
-    "license": "CC BY 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AC_DC_Black_Ice_Tour_2009_Buenos_Aires_4_de_Diciembre_(4238680962).jpg",
-    "creator": "Ed Vill from Caracas, Venezuela",
-    "attribution": "Ed Vill from Caracas, Venezuela, CC BY 2.0, via Wikimedia Commons"
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AngusYoung.JPG",
+    "creator": "MATT BECKER",
+    "attribution": "MATT BECKER, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "ace-ventura": null,
+  "ace-ventura": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9f/AceVenturaFilm.PNG",
+    "alt": "Image of Ace Ventura",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:AceVenturaFilm.PNG"
+  },
   "ada-lovelace": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/500px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
     "alt": "Photo of Ada Lovelace",
@@ -174,7 +179,13 @@
     "creator": "Jorge Jaramillo",
     "attribution": "Jorge Jaramillo, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "aladdin": null,
+  "aladdin": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/be/Aladdin_Disney_pose.png",
+    "alt": "Image of Aladdin",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Aladdin_Disney_pose.png",
+    "creator": "Disney"
+  },
   "alain-delon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alain_Delon_1961.jpg",
     "alt": "Photo of Alain Delon",
@@ -250,7 +261,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Alte_Pinakothek.jpg",
     "creator": "Albrecht Dürer"
   },
-  "albus-dumbledore": null,
+  "albus-dumbledore": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dumbledore_-_Prisoner_of_Azkaban.jpg",
+    "alt": "Image of Albus Dumbledore",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Dumbledore_-_Prisoner_of_Azkaban.jpg"
+  },
   "aleksandr-solzhenitsyn": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/500px-Aleksandr_Solzhenitsyn_1974crop.jpg",
     "alt": "Photo of Aleksandr Solzhenitsyn",
@@ -266,7 +282,13 @@
     "creator": "Barcex",
     "attribution": "Barcex, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "alexander-fleming": null,
+  "alexander-fleming": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+    "alt": "Photo of Alexander Fleming",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+    "creator": "Official photographer"
+  },
   "alexander-graham-bell": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/500px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
     "alt": "Photo of Alexander Graham Bell",
@@ -471,12 +493,12 @@
     "attribution": "Clément Bucco-Lechat, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "andres-iniesta": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg/500px-Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Andr%C3%A9s_Iniesta_%28cropped%29.jpg/500px-Andr%C3%A9s_Iniesta_%28cropped%29.jpg",
     "alt": "Photo of Andrés Iniesta",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_(cropped).jpg",
-    "creator": "Bryan Berlin",
-    "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_(cropped).jpg",
+    "creator": "Кирилл Венедиктов",
+    "attribution": "Кирилл Венедиктов, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "andres-manuel-lopez-obrador": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador_junio_2024.jpg/500px-Andr%C3%A9s_Manuel_L%C3%B3pez_Obrador_junio_2024.jpg",
@@ -677,7 +699,13 @@
     "creator": "Sara Komatsu",
     "attribution": "Sara Komatsu, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "aquaman": null,
+  "aquaman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png",
+    "alt": "Image of Aquaman",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Aquaman_Rebirth_1.png",
+    "creator": "Brad Walker / DC Comics"
+  },
   "archimedes": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg",
     "alt": "Photo of Archimedes",
@@ -686,12 +714,12 @@
     "creator": "Domenico Fetti"
   },
   "arctic-monkeys": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg/500px-Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alex_Turner_Arctic_Monkeys_Lollapalooza_2009_%28cropped%29.jpg/500px-Alex_Turner_Arctic_Monkeys_Lollapalooza_2009_%28cropped%29.jpg",
     "alt": "Photo of Arctic Monkeys",
-    "license": "CC BY 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
-    "creator": "Bill Ebbesen",
-    "attribution": "Bill Ebbesen, CC BY 3.0, via Wikimedia Commons"
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Turner_Arctic_Monkeys_Lollapalooza_2009_(cropped).jpg",
+    "creator": "Matt Janicki from Evanston, IL, USA",
+    "attribution": "Matt Janicki from Evanston, IL, USA, CC BY 2.0, via Wikimedia Commons"
   },
   "aretha-franklin": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aretha_Franklin_1968.jpg/500px-Aretha_Franklin_1968.jpg",
@@ -708,7 +736,12 @@
     "creator": "Barbie Simons",
     "attribution": "Barbie Simons, CC BY 3.0, via Wikimedia Commons"
   },
-  "ariel": null,
+  "ariel": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/77/Ariel_disney.png",
+    "alt": "Image of Ariel",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Ariel_disney.png"
+  },
   "aristotle": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/500px-Aristotle_Altemps_Inv8575.jpg",
     "alt": "Photo of Aristotle",
@@ -770,7 +803,13 @@
     "creator": "Rick Munroe",
     "attribution": "Rick Munroe, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "ash-ketchum": null,
+  "ash-ketchum": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/Ash_Ketchum_Journeys.png",
+    "alt": "Image of Ash Ketchum",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Ash_Ketchum_Journeys.png",
+    "creator": "The Pokémon Company Int'l"
+  },
   "ashoka": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/500px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
     "alt": "Photo of Ashoka",
@@ -802,7 +841,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atahuallpa,_Inca_XIIII_From_Berlin_Ethnologisches_Museum,_Staatliche_Museen,_Berlin,_Germany.png",
     "creator": "anonymous"
   },
-  "attila": null,
+  "attila": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Attila_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg/500px-Attila_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg",
+    "alt": "Photo of Attila",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Attila_portrait_(imaginary),_by_Giovio_Paolo,_1483-1552,_published_1575.jpg",
+    "creator": "Giovio, Paolo, 1483-1552"
+  },
   "audrey-hepburn": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/500px-AudreyKHepburn.jpg",
     "alt": "Photo of Audrey Hepburn",
@@ -934,7 +979,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_second_jungle_book_(1895)_(Baloo).jpg",
     "creator": "Internet Archive Book Images"
   },
-  "bambi": null,
+  "bambi": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Walt_Disney%27s_Bambi_poster.jpg",
+    "alt": "Image of Bambi",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Walt_Disney%27s_Bambi_poster.jpg"
+  },
   "ban-ki-moon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/500px-Ban_Ki-moon_February_2016.jpg",
     "alt": "Photo of Ban Ki-moon",
@@ -943,7 +993,14 @@
     "creator": "Chatham House",
     "attribution": "Chatham House, CC BY 2.0, via Wikimedia Commons"
   },
-  "banksy": null,
+  "banksy": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Girl_with_Balloon_-_geograph.org.uk_-_7535775.jpg/500px-Girl_with_Balloon_-_geograph.org.uk_-_7535775.jpg",
+    "alt": "Photo of Banksy",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Girl_with_Balloon_-_geograph.org.uk_-_7535775.jpg",
+    "creator": "Ian Capper",
+    "attribution": "Ian Capper, CC BY-SA 2.0, via Wikimedia Commons"
+  },
   "barack-obama": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/500px-President_Barack_Obama.jpg",
     "alt": "Photo of Barack Obama",
@@ -972,7 +1029,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munchausen_by_Gustave_Dore_(31030896).jpg",
     "creator": "Gustave Doré"
   },
-  "bart-simpson": null,
+  "bart-simpson": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+    "alt": "Image of Bart Simpson",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Bart_Simpson_200px.png"
+  },
   "baruch-spinoza": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/500px-Spinoza.jpg",
     "alt": "Photo of Baruch Spinoza",
@@ -980,7 +1042,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
     "creator": "anonymous"
   },
-  "batman": null,
+  "batman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg",
+    "alt": "Image of Batman",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Batman_Infobox.jpg",
+    "creator": "DC Comics"
+  },
   "bee-gees": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bee_Gees_1977.JPG/500px-Bee_Gees_1977.JPG",
     "alt": "Photo of Bee Gees",
@@ -988,8 +1056,18 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bee_Gees_1977.JPG",
     "creator": "NBC Television"
   },
-  "bella-swan": null,
-  "belle": null,
+  "bella-swan": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/77/Bella_Swan.jpg",
+    "alt": "Image of Bella Swan",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Bella_Swan.jpg"
+  },
+  "belle": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d5/Belle_disney.png",
+    "alt": "Image of Belle",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Belle_disney.png"
+  },
   "ben-affleck": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ben_Affleck_at_83rd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Ben_Affleck_at_83rd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
     "alt": "Photo of Ben Affleck",
@@ -1143,8 +1221,19 @@
     "creator": "Michaël Bemelmans",
     "attribution": "Michaël Bemelmans, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "black-panther": null,
-  "black-widow": null,
+  "black-panther": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f7/Black_Panther_%28T%27Challa%29.png",
+    "alt": "Image of Black Panther",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Black_Panther_(T%27Challa).png",
+    "creator": "Jack Kirby"
+  },
+  "black-widow": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/37/Natasha_Romanova_incarnations.jpg",
+    "alt": "Image of Black Widow",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Natasha_Romanova_incarnations.jpg"
+  },
   "blackpink": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/20240809_Blackpink_Pink_Carpet_09.png/500px-20240809_Blackpink_Pink_Carpet_09.png",
     "alt": "Photo of BLACKPINK",
@@ -1168,7 +1257,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bob_Marley_circa_1976_(cropped).jpg",
     "creator": "Not credited"
   },
-  "bob-the-builder": null,
+  "bob-the-builder": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c5/Bob_the_builder.jpg",
+    "alt": "Image of Bob the Builder",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Bob_the_builder.jpg",
+    "creator": "The BBC"
+  },
   "bobby-charlton": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/LondonHouseAmsterdam1966_Bobby_Charlton.jpg/500px-LondonHouseAmsterdam1966_Bobby_Charlton.jpg",
     "alt": "Photo of Bobby Charlton",
@@ -1259,7 +1354,13 @@
     "creator": "Presidential Press and Information Office",
     "attribution": "Presidential Press and Information Office, CC BY 4.0, via Wikimedia Commons"
   },
-  "bowser": null,
+  "bowser": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d1/Bowser_by_Shigehisa_Nakaue.png",
+    "alt": "Image of Bowser",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Bowser_by_Shigehisa_Nakaue.png",
+    "creator": "Shigehisa Nakaue (artist) / Nintendo (owner)"
+  },
   "brad-pitt": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/500px-Brad_Pitt-69858.jpg",
     "alt": "Photo of Brad Pitt",
@@ -1368,7 +1469,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buddy_Holly_Brunswick_Records.jpg",
     "creator": "Brunswick Records (photographer: James J. Kriegsmann); scan by Hulton Archive; restored by Hohum."
   },
-  "bugs-bunny": null,
+  "bugs-bunny": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/500px-Bugs_Bunny.svg.png",
+    "alt": "Image of Bugs Bunny",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Bugs_Bunny.svg"
+  },
   "buster-keaton": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/500px-Busterkeaton_edit.jpg",
     "alt": "Photo of Buster Keaton",
@@ -1454,14 +1560,19 @@
     "creator": "Box Azteca",
     "attribution": "Box Azteca, CC BY 3.0, via Wikimedia Commons"
   },
-  "captain-america": null,
+  "captain-america": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f4/Captain_America.png",
+    "alt": "Image of Captain America",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Captain_America.png"
+  },
   "captain-haddock": null,
   "captain-hook": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Captain_Hook.PNG/500px-Captain_Hook.PNG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Captain_Hook_-_Disney_animated_film.png/500px-Captain_Hook_-_Disney_animated_film.png",
     "alt": "Image of Captain Hook",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Captain_Hook.PNG",
-    "creator": "F.D. Bedford"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Captain_Hook_-_Disney_animated_film.png",
+    "creator": "Walt Disney"
   },
   "captain-jack-sparrow": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johnny_Depp_as_Captain_Jack_Sparrow_in_Queensland%2C_Australia.jpg/500px-Johnny_Depp_as_Captain_Jack_Sparrow_in_Queensland%2C_Australia.jpg",
@@ -1478,7 +1589,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Shatner_Star_Trek.JPG",
     "creator": "NBC Television"
   },
-  "captain-marvel": null,
+  "captain-marvel": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/02/Carol_Danvers_-_%28evolution%29.jpg",
+    "alt": "Image of Captain Marvel",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Carol_Danvers_-_(evolution).jpg"
+  },
   "captain-nemo": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%27Twenty_Thousand_Leagues_Under_the_Sea%27_by_Neuville_and_Riou_027.jpg/500px-%27Twenty_Thousand_Leagues_Under_the_Sea%27_by_Neuville_and_Riou_027.jpg",
     "alt": "Image of Captain Nemo",
@@ -1592,7 +1708,13 @@
     "creator": "Margaret Gardiner",
     "attribution": "Margaret Gardiner, CC BY 3.0, via Wikimedia Commons"
   },
-  "catwoman": null,
+  "catwoman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/Catwoman_Infobox.jpg",
+    "alt": "Image of Catwoman",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Catwoman_Infobox.jpg",
+    "creator": "Adam Hughes / DC Comics"
+  },
   "celine-dion": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/500px-C%C3%A9line_Dion_2012.jpg",
     "alt": "Photo of Celine Dion",
@@ -1618,11 +1740,11 @@
     "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "charlemagne": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_%28cropped%29.jpg",
     "alt": "Photo of Charlemagne",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlemagne_denier_Mayence_812_814.jpg",
-    "creator": "Charlemagne. Autorité émettrice de monnaie indéterminé. Atelier monétaire. Émetteur"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_(cropped).jpg",
+    "creator": "Albrecht Dürer"
   },
   "charles-aznavour": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Charles_Aznavour_1961.jpg/500px-Charles_Aznavour_1961.jpg",
@@ -1682,21 +1804,27 @@
     "creator": "Elena Ternovaja",
     "attribution": "Elena Ternovaja, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "charlie-brown": null,
+  "charlie-brown": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/22/Charlie_Brown.png",
+    "alt": "Image of Charlie Brown",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Charlie_Brown.png",
+    "creator": "Charles M. Schulz"
+  },
   "charlie-chaplin": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/500px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Charlie_Chaplin_%28cropped%29.jpg/500px-Charlie_Chaplin_%28cropped%29.jpg",
     "alt": "Photo of Charlie Chaplin",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait_Getty_1739411952.jpg",
-    "creator": "Strauss-Peyton Studio"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_(cropped).jpg",
+    "creator": "P.D Jankens"
   },
   "charlie-puth": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Charlie_Puth.jpg/500px-Charlie_Puth.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Charlie_Puth_2017_%28cropped%29.jpg/500px-Charlie_Puth_2017_%28cropped%29.jpg",
     "alt": "Photo of Charlie Puth",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Puth.jpg",
-    "creator": "Juan J. Carlos",
-    "attribution": "Juan J. Carlos, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Puth_2017_(cropped).jpg",
+    "creator": "LG전자",
+    "attribution": "LG전자, CC BY 2.0, via Wikimedia Commons"
   },
   "charlie-sheen": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Charlie_Sheen_March_2009.JPG/500px-Charlie_Sheen_March_2009.JPG",
@@ -1829,11 +1957,11 @@
     "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "christian-dior": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg/500px-Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Christian_Dior_1954.jpg/500px-Christian_Dior_1954.jpg",
     "alt": "Photo of Christian Dior",
-    "license": "CC0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg",
-    "creator": "Paris-Match, editeur"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christian_Dior_1954.jpg",
+    "creator": "投稿者によるスキャン"
   },
   "christina-aguilera": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Christina_Aguilera_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851440742748%29_%28cropped3%29.jpg/500px-Christina_Aguilera_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_%2851440742748%29_%28cropped3%29.jpg",
@@ -1881,7 +2009,13 @@
     "creator": "Yoni S.Hamenahem",
     "attribution": "Yoni S.Hamenahem, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "chucky": null,
+  "chucky": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/38/Chucky_Appearance_%28TV_Series%29.jpeg",
+    "alt": "Image of Chucky",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Chucky_Appearance_(TV_Series).jpeg",
+    "creator": "SYFY"
+  },
   "cicero": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/500px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
     "alt": "Photo of Cicero",
@@ -1899,11 +2033,10 @@
     "attribution": "Netflix, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "cinderella": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cendrillon.jpg/500px-Cendrillon.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/75/Cinderella2024design.png",
     "alt": "Image of Cinderella",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cendrillon.jpg",
-    "creator": "Otto Kubel"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Cinderella2024design.png"
   },
   "clark-gable": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Clark_Gable_1949.jpg/500px-Clark_Gable_1949.jpg",
@@ -1972,11 +2105,11 @@
     "creator": "Department of State"
   },
   "confucius": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cropped_version_of_Confucius_Portrait%2C_Kongzi_%28Confucius%29_Family_Mansion%2C_Qufu_%2813044335945%29.jpg/500px-Cropped_version_of_Confucius_Portrait%2C_Kongzi_%28Confucius%29_Family_Mansion%2C_Qufu_%2813044335945%29.jpg",
     "alt": "Photo of Confucius",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg",
-    "creator": "Anonymous Chinese painter of the Western Han period"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cropped_version_of_Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+    "creator": "Unknown authorUnknown author"
   },
   "conor-mcgregor": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Conor_McGregor_2025.jpeg/500px-Conor_McGregor_2025.jpeg",
@@ -1993,7 +2126,14 @@
     "creator": "Merulana",
     "attribution": "Merulana, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "cookie-monster": null,
+  "cookie-monster": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Elmo_and_Cookie_Monster.jpg/500px-Elmo_and_Cookie_Monster.jpg",
+    "alt": "Image of Cookie Monster",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elmo_and_Cookie_Monster.jpg",
+    "creator": "Alejandro Mallea",
+    "attribution": "Alejandro Mallea, CC BY 2.0, via Wikimedia Commons"
+  },
   "courteney-cox": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Courteney_Cox_%2710_PaleyFest.jpg/500px-Courteney_Cox_%2710_PaleyFest.jpg",
     "alt": "Photo of Courteney Cox",
@@ -2002,7 +2142,13 @@
     "creator": "Albert Domasin at https://www.flickr.com/photos/goalbert/",
     "attribution": "Albert Domasin at https://www.flickr.com/photos/goalbert/, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "crash-bandicoot": null,
+  "crash-bandicoot": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a3/IAT_Crash_Bandicoot.png",
+    "alt": "Image of Crash Bandicoot",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:IAT_Crash_Bandicoot.png",
+    "creator": "Toys For Bob"
+  },
   "cristiano-ronaldo": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
     "alt": "Photo of Cristiano Ronaldo",
@@ -2011,7 +2157,12 @@
     "creator": "Bryan Berlin",
     "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "cruella-de-vil": null,
+  "cruella-de-vil": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/64/Cruella_de_Vil.png",
+    "alt": "Image of Cruella de Vil",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Cruella_de_Vil.png"
+  },
   "cyril-ramaphosa": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyril_Ramaphosa_e_Michel_Temer_2_%28cropped%29.jpg/500px-Cyril_Ramaphosa_e_Michel_Temer_2_%28cropped%29.jpg",
     "alt": "Photo of Cyril Ramaphosa",
@@ -2028,8 +2179,18 @@
     "creator": "Daddy Yankee",
     "attribution": "Daddy Yankee, CC BY 3.0, via Wikimedia Commons"
   },
-  "daenerys-targaryen": null,
-  "daffy-duck": null,
+  "daenerys-targaryen": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0d/Daenerys_Targaryen_with_Dragon-Emilia_Clarke.jpg",
+    "alt": "Image of Daenerys Targaryen",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Daenerys_Targaryen_with_Dragon-Emilia_Clarke.jpg"
+  },
+  "daffy-duck": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/500px-Daffy_Duck.svg.png",
+    "alt": "Image of Daffy Duck",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Daffy_Duck.svg"
+  },
   "daft-punk": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Daft_Punk_in_2013_2-_centered.jpg/500px-Daft_Punk_in_2013_2-_centered.jpg",
     "alt": "Photo of Daft Punk",
@@ -2109,7 +2270,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:D_A.jpg",
     "creator": "Gatien Courtilz de Sandras"
   },
-  "darth-vader": null,
+  "darth-vader": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+    "alt": "Image of Darth Vader",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Darth_Vader_in_The_Empire_Strikes_Back.jpg"
+  },
   "david-attenborough": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/David_Attenborough_in_2025.jpg/500px-David_Attenborough_in_2025.jpg",
     "alt": "Photo of David Attenborough",
@@ -2165,7 +2331,13 @@
     "creator": "gdcgraphics",
     "attribution": "gdcgraphics, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "deadpool": null,
+  "deadpool": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png",
+    "alt": "Image of Deadpool",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Deadpool.png",
+    "creator": "Rob Liefeld / Marvel Comics"
+  },
   "dean-martin": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dean_Martin_1958.jpg/500px-Dean_Martin_1958.jpg",
     "alt": "Photo of Dean Martin",
@@ -2319,12 +2491,12 @@
     "creator": "Roberto Stuckert Filho/Presidência da República"
   },
   "dire-straits": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dire_straits_22101985_23_800.jpg/500px-Dire_straits_22101985_23_800.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mark_Knopfler_-_1979.jpg/500px-Mark_Knopfler_-_1979.jpg",
     "alt": "Photo of Dire Straits",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dire_straits_22101985_23_800.jpg",
-    "creator": "Helge Øverås",
-    "attribution": "Helge Øverås, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Knopfler_-_1979.jpg",
+    "creator": "Klaus Hiltscher",
+    "attribution": "Klaus Hiltscher, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "dirk-nowitzki": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dirk_Nowitzki_2_%28cropped%29.jpg/500px-Dirk_Nowitzki_2_%28cropped%29.jpg",
@@ -2341,8 +2513,18 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev.jpg",
     "creator": "Original: Unknown authorUnknown author Upload: Germansociety2014"
   },
-  "doc-brown": null,
-  "doctor-strange": null,
+  "doc-brown": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/97/Doc_Brown.JPG",
+    "alt": "Image of Doc Brown",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Doc_Brown.JPG"
+  },
+  "doctor-strange": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
+    "alt": "Image of Doctor Strange",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg"
+  },
   "doctor-who": null,
   "doja-cat": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Doja_Cat_x_Amazon1.1_%28cropped%29.jpg/500px-Doja_Cat_x_Amazon1.1_%28cropped%29.jpg",
@@ -2376,13 +2558,19 @@
     "attribution": "State Library of South Australia from Australia, CC BY 2.0, via Wikimedia Commons"
   },
   "don-quixote": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/500px-Title_page_first_edition_Don_Quijote.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Don_Quixote%2C_by_Gustave_Dor%C3%A9.jpg",
     "alt": "Image of Don Quixote",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Title_page_first_edition_Don_Quijote.jpg",
-    "creator": "Juan de la Cuesta"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Don_Quixote,_by_Gustave_Dor%C3%A9.jpg",
+    "creator": "Gustave Doré"
   },
-  "donald-duck": null,
+  "donald-duck": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck_angry_transparent_background.png",
+    "alt": "Image of Donald Duck",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Donald_Duck_angry_transparent_background.png",
+    "creator": "Disney"
+  },
   "donald-trump": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
     "alt": "Photo of Donald Trump",
@@ -2398,9 +2586,25 @@
     "creator": "Francesco Bini",
     "attribution": "Francesco Bini, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "donkey": null,
-  "donkey-kong": null,
-  "dora-the-explorer": null,
+  "donkey": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6c/Donkey_%28Shrek%29.png",
+    "alt": "Image of Donkey",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Donkey_(Shrek).png"
+  },
+  "donkey-kong": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png",
+    "alt": "Image of Donkey Kong",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Donkey_Kong_character.png"
+  },
+  "dora-the-explorer": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/99/Dora_the_Explorer_%28character%29.webp",
+    "alt": "Image of Dora the Explorer",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Dora_the_Explorer_(character).webp",
+    "creator": "Nickelodeon"
+  },
   "doraemon": null,
   "dorothy-gale": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dorothy_Gale_with_silver_shoes.jpg/500px-Dorothy_Gale_with_silver_shoes.jpg",
@@ -2408,15 +2612,26 @@
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dorothy_Gale_with_silver_shoes.jpg"
   },
-  "dory": null,
-  "dr-dre": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dr_Dre_sig.svg/500px-Dr_Dre_sig.svg.png",
-    "alt": "Photo of Dr. Dre",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Dre_sig.svg",
-    "creator": "Respective commons pages (reuploaded as SVG)"
+  "dory": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/ae/Dory_%28Finding_Nemo%29.png",
+    "alt": "Image of Dory",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Dory_(Finding_Nemo).png"
   },
-  "dr-house": null,
+  "dr-dre": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Dr._Dre_2011.jpg",
+    "alt": "Photo of Dr. Dre",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Dre_2011.jpg",
+    "creator": "Excelbeatscommons",
+    "attribution": "Excelbeatscommons, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "dr-house": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/HouseGregoryHouse.png",
+    "alt": "Image of Dr. House",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:HouseGregoryHouse.png"
+  },
   "dr-watson": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sherlock_Holmes_%26_Watson_-_The_Greek_Interpreter_-_Sidney_Paget.jpg/500px-Sherlock_Holmes_%26_Watson_-_The_Greek_Interpreter_-_Sidney_Paget.jpg",
     "alt": "Image of Dr. Watson",
@@ -2455,7 +2670,12 @@
     "creator": "Harald Krichel",
     "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "dumbo": null,
+  "dumbo": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a7/Dumbo-1941-poster.jpg",
+    "alt": "Image of Dumbo",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Dumbo-1941-poster.jpg"
+  },
   "duran-duran": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Duran_Duran_1983.jpg/500px-Duran_Duran_1983.jpg",
     "alt": "Photo of Duran Duran",
@@ -2558,7 +2778,12 @@
     "creator": "Unknown authorUnknown author",
     "attribution": "Unknown authorUnknown author, CC BY 2.0, via Wikimedia Commons"
   },
-  "edward-cullen": null,
+  "edward-cullen": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/69/Edward_Cullen.jpg",
+    "alt": "Image of Edward Cullen",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Edward_Cullen.jpg"
+  },
   "edward-jenner": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/500px-Edward_Jenner.jpg",
     "alt": "Photo of Edward Jenner",
@@ -2566,7 +2791,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Jenner.jpg",
     "creator": "John Raphael Smith"
   },
-  "edward-scissorhands": null,
+  "edward-scissorhands": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3b/Edwardscissorhandsposter.JPG",
+    "alt": "Image of Edward Scissorhands",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Edwardscissorhandsposter.JPG"
+  },
   "edwin-hubble": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG/500px-Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
     "alt": "Photo of Edwin Hubble",
@@ -2604,7 +2834,13 @@
     "creator": "FDR Presidential Library & Museum",
     "attribution": "FDR Presidential Library & Museum, CC BY 2.0, via Wikimedia Commons"
   },
-  "eleven": null,
+  "eleven": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3f/Eleven_%28Stranger_Things_5%29.png",
+    "alt": "Image of Eleven",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Eleven_(Stranger_Things_5).png",
+    "creator": "Netflix"
+  },
   "elijah-wood": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Elijah_Wood_%2855223197178%29_%28cropped%29.jpg/500px-Elijah_Wood_%2855223197178%29_%28cropped%29.jpg",
     "alt": "Photo of Elijah Wood",
@@ -2637,11 +2873,11 @@
     "creator": "Studio publicity still"
   },
   "ella-fitzgerald": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ella_Fitzgerald_6_%28cropped%29.jpg/500px-Ella_Fitzgerald_6_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ella_Fitzgerald_1962.JPG/500px-Ella_Fitzgerald_1962.JPG",
     "alt": "Photo of Ella Fitzgerald",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_6_(cropped).jpg",
-    "creator": "Carl Van Vechten"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_1962.JPG",
+    "creator": "Lewin/Kaufman/Schwartz, Public Relations, Beverly Hills"
   },
   "ellen-degeneres": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ellen_DeGeneres_2011.jpg/500px-Ellen_DeGeneres_2011.jpg",
@@ -2675,7 +2911,13 @@
     "creator": "Gage Skidmore",
     "attribution": "Gage Skidmore, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "elsa": null,
+  "elsa": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/Elsa_from_Disney%27s_Frozen.png",
+    "alt": "Image of Elsa",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Elsa_from_Disney%27s_Frozen.png",
+    "creator": "Disney"
+  },
   "elton-john": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg/500px-EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg",
     "alt": "Photo of Elton John",
@@ -2839,7 +3081,12 @@
     "creator": "Georges Biard",
     "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "eric-cartman": null,
+  "eric-cartman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png",
+    "alt": "Image of Eric Cartman",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:EricCartman.png"
+  },
   "eric-clapton": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ClaptonGingerEventim170220-38_%28cropped%29.jpg/500px-ClaptonGingerEventim170220-38_%28cropped%29.jpg",
     "alt": "Photo of Eric Clapton",
@@ -2885,7 +3132,14 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_(1-E-939).jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "et": null,
+  "et": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/E.T._figure_at_Madame_Tussauds_London.jpg/500px-E.T._figure_at_Madame_Tussauds_London.jpg",
+    "alt": "Image of E.T.",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:E.T._figure_at_Madame_Tussauds_London.jpg",
+    "creator": "Luke Rauscher",
+    "attribution": "Luke Rauscher, CC BY 2.0, via Wikimedia Commons"
+  },
   "euclid": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Italian_-_Euclid_-_Google_Art_Project.jpg/500px-Italian_-_Euclid_-_Google_Art_Project.jpg",
     "alt": "Photo of Euclid",
@@ -2923,12 +3177,12 @@
     "attribution": "Toglenn, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "evanescence": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Evanescence_-_Rock_am_Ring_2023-7536.jpg/500px-Evanescence_-_Rock_am_Ring_2023-7536.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lee%2C_Amy_%282007%29.jpg/500px-Lee%2C_Amy_%282007%29.jpg",
     "alt": "Photo of Evanescence",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evanescence_-_Rock_am_Ring_2023-7536.jpg",
-    "creator": "Andreas Lawen [Fotandi]",
-    "attribution": "Andreas Lawen [Fotandi], CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lee,_Amy_(2007).jpg",
+    "creator": "pinguino k from North Hollywood, USA",
+    "attribution": "pinguino k from North Hollywood, USA, CC BY 2.0, via Wikimedia Commons"
   },
   "evgeni-plushenko": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Yevgeny_Plushenko_at_the_Champions_Union_show.png/500px-Yevgeny_Plushenko_at_the_Champions_Union_show.png",
@@ -3059,7 +3313,12 @@
     "creator": "DEWALT POWER TOOLS FIGHT NIGHT CLUB 2010",
     "attribution": "DEWALT POWER TOOLS FIGHT NIGHT CLUB 2010, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "forrest-gump": null,
+  "forrest-gump": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "alt": "Image of Forrest Gump",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Forrest_Gump_poster.jpg"
+  },
   "francesco-totti": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/KL-2018_%284%29.jpg",
     "alt": "Photo of Francesco Totti",
@@ -3106,11 +3365,11 @@
     "creator": "Photograph by Capitol Records, per a credit found in the 1959 edition of the International Celebrity Register at page 696. No known source credits an individual photographer."
   },
   "frankensteins-monster": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg/500px-Frankenstein%2C_or_the_Modern_Prometheus_%28Revised_Edition%2C_1831%29_Creature.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg/500px-Frankenstein%27s_monster_%28Boris_Karloff%29.jpg",
     "alt": "Image of Frankenstein's monster",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankenstein,_or_the_Modern_Prometheus_(Revised_Edition,_1831)_Creature.jpg",
-    "creator": "w:Theodor von Holst"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frankenstein%27s_monster_(Boris_Karloff).jpg",
+    "creator": "Universal Studios, NBCUniversal"
   },
   "franklin-d-roosevelt": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
@@ -3155,7 +3414,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astaire,_Fred_-_Never_Get_Rich.jpg",
     "creator": "Studio publicity still"
   },
-  "fred-flintstone": null,
+  "fred-flintstone": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/ad/Fred_Flintstone.png",
+    "alt": "Image of Fred Flintstone",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Fred_Flintstone.png"
+  },
   "freddie-mercury": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg/500px-Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
     "alt": "Photo of Freddie Mercury",
@@ -3164,7 +3428,12 @@
     "creator": "Carl Lender",
     "attribution": "Carl Lender, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "freddy-krueger": null,
+  "freddy-krueger": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg",
+    "alt": "Image of Freddy Krueger",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Freddy_Krueger_(Robert_Englund).jpg"
+  },
   "frederic-chopin": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/500px-Frederic_Chopin_photo.jpeg",
     "alt": "Photo of Frédéric Chopin",
@@ -3207,7 +3476,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Friedrich_Schiller_by_Ludovike_Simanowiz.jpg",
     "creator": "Ludovike Simanowiz"
   },
-  "frodo-baggins": null,
+  "frodo-baggins": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4e/Elijah_Wood_as_Frodo_Baggins.png",
+    "alt": "Image of Frodo Baggins",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Elijah_Wood_as_Frodo_Baggins.png"
+  },
   "fyodor-dostoevsky": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/500px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "alt": "Photo of Fyodor Dostoevsky",
@@ -3254,8 +3528,20 @@
     "creator": "Stevan Kragujević",
     "attribution": "Stevan Kragujević, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "gandalf": null,
-  "garfield": null,
+  "gandalf": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/GANDALF.jpg/500px-GANDALF.jpg",
+    "alt": "Image of Gandalf",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GANDALF.jpg",
+    "creator": "Nidoart",
+    "attribution": "Nidoart, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "garfield": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/500px-Garfield_the_Cat.svg.png",
+    "alt": "Image of Garfield",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Garfield_the_Cat.svg"
+  },
   "garry-kasparov": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg/500px-Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg",
     "alt": "Photo of Garry Kasparov",
@@ -3294,7 +3580,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "genie": null,
+  "genie": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0c/The_Genie_Aladdin.png",
+    "alt": "Image of Genie",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Genie_Aladdin.png",
+    "creator": "Disney"
+  },
   "george-best": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/George_best_1976.jpg/500px-George_best_1976.jpg",
     "alt": "Photo of George Best",
@@ -3413,7 +3705,12 @@
     "creator": "Partidul Social Democrat from Romania",
     "attribution": "Partidul Social Democrat from Romania, CC BY 2.0, via Wikimedia Commons"
   },
-  "ghostface": null,
+  "ghostface": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/74/Ghostface_costume_cutout_%28Scream_VI%29.png",
+    "alt": "Image of Ghostface",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Ghostface_costume_cutout_(Scream_VI).png"
+  },
   "gianluigi-buffon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg/500px-Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg",
     "alt": "Photo of Gianluigi Buffon",
@@ -3422,7 +3719,14 @@
     "creator": "MichaelEmilio",
     "attribution": "MichaelEmilio, CC BY 4.0, via Wikimedia Commons"
   },
-  "gianni-versace": null,
+  "gianni-versace": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Emblema_Medusa_versace.png/500px-Emblema_Medusa_versace.png",
+    "alt": "Photo of Gianni Versace",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emblema_Medusa_versace.png",
+    "creator": "Viceryion",
+    "attribution": "Viceryion, CC BY-SA 4.0, via Wikimedia Commons"
+  },
   "giannis-antetokounmpo": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg/500px-Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg",
     "alt": "Photo of Giannis Antetokounmpo",
@@ -3483,7 +3787,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Godzilla_(1954)_(cropped).jpg",
     "creator": "Toho Company Ltd."
   },
-  "goku": null,
+  "goku": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4c/GokumangaToriyama.png",
+    "alt": "Image of Goku",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:GokumangaToriyama.png",
+    "creator": "Shueisha; Akira Toriyama"
+  },
   "golda-meir": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Golda_Meir_%281964%29_cropped.jpg/500px-Golda_Meir_%281964%29_cropped.jpg",
     "alt": "Photo of Golda Meir",
@@ -3523,7 +3833,13 @@
     "creator": "Georges Biard",
     "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "goofy": null,
+  "goofy": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png",
+    "alt": "Image of Goofy",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Goofy_Duckipedia.png",
+    "creator": "Disney"
+  },
   "gordon-brown": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gordon_Brown_%282008%29.jpg/500px-Gordon_Brown_%282008%29.jpg",
     "alt": "Photo of Gordon Brown",
@@ -3540,7 +3856,13 @@
     "creator": "Dave Pullig",
     "attribution": "Dave Pullig, CC BY 2.0, via Wikimedia Commons"
   },
-  "gorillaz": null,
+  "gorillaz": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c6/Gorillaz_family.jpg",
+    "alt": "Photo of Gorillaz",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Gorillaz_family.jpg",
+    "creator": "Gorillaz/Jamie Hewlett"
+  },
   "grace-kelly": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Grace_Kelly_1956_%28cropped%29.jpg/500px-Grace_Kelly_1956_%28cropped%29.jpg",
     "alt": "Photo of Grace Kelly",
@@ -3580,12 +3902,12 @@
     "creator": "Metro-Goldwyn-Mayer (work for hire)"
   },
   "greta-thunberg": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Greta_Thunberg_in_May_2026_%28cropped_3x4%29.jpg/500px-Greta_Thunberg_in_May_2026_%28cropped_3x4%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greta_Thunberg_4.jpg/500px-Greta_Thunberg_4.jpg",
     "alt": "Photo of Greta Thunberg",
     "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_in_May_2026_(cropped_3x4).jpg",
-    "creator": "Kushal Das",
-    "attribution": "Kushal Das, CC BY-SA 4.0, via Wikimedia Commons"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_4.jpg",
+    "creator": "Anders Hellberg",
+    "attribution": "Anders Hellberg, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "gro-harlem-brundtland": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gro_Harlem_Brundtland_in_2025_%28cropped%29.jpg/500px-Gro_Harlem_Brundtland_in_2025_%28cropped%29.jpg",
@@ -3595,8 +3917,19 @@
     "creator": "Christophe Licoppe",
     "attribution": "Christophe Licoppe, CC BY 4.0, via Wikimedia Commons"
   },
-  "groot": null,
-  "gru": null,
+  "groot": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3b/Groot.png",
+    "alt": "Image of Groot",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Groot.png",
+    "creator": "Marvel"
+  },
+  "gru": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/09/Gru_from_DM4.png",
+    "alt": "Image of Gru",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Gru_from_DM4.png"
+  },
   "guglielmo-marconi": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/500px-Guglielmo_Marconi.jpg",
     "alt": "Photo of Guglielmo Marconi",
@@ -3605,17 +3938,18 @@
     "creator": "Pach Brothers"
   },
   "gulliver": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gullivers_travels.jpg/500px-Gullivers_travels.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Willmann%2C_Colin%2C_%26_Outhwaite%2C_Gulliver_and_the_Emperor_of_Lilliput%2C_cph.3b18907.jpg/500px-Willmann%2C_Colin%2C_%26_Outhwaite%2C_Gulliver_and_the_Emperor_of_Lilliput%2C_cph.3b18907.jpg",
     "alt": "Image of Gulliver",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gullivers_travels.jpg"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Willmann,_Colin,_%26_Outhwaite,_Gulliver_and_the_Emperor_of_Lilliput,_cph.3b18907.jpg",
+    "creator": "Engraving by Willmann, Colin, & Outhwaite, after Paul Gavarni"
   },
   "guns-n-roses": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GNR_Belgrade_2025_05_%28cropped%29.jpg/500px-GNR_Belgrade_2025_05_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/GUNS_N%27_ROSES_logo.png/500px-GUNS_N%27_ROSES_logo.png",
     "alt": "Photo of Guns N' Roses",
-    "license": "CC0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GNR_Belgrade_2025_05_(cropped).jpg",
-    "creator": "AxeAdam20"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GUNS_N%27_ROSES_logo.png",
+    "creator": "Kreepin Deth"
   },
   "gustav-klimt": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Klimt.jpg/500px-Klimt.jpg",
@@ -3691,7 +4025,13 @@
     "creator": "Mbzt",
     "attribution": "Mbzt, CC BY 3.0, via Wikimedia Commons"
   },
-  "han-solo": null,
+  "han-solo": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c9/Han_Solo_with_Blaster.jpg",
+    "alt": "Image of Han Solo",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Han_Solo_with_Blaster.jpg",
+    "creator": "Lucasfilm/20th Century Fox"
+  },
   "hannibal": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/500px-Hannibal_Barca_bust_from_Capua_photo.jpg",
     "alt": "Photo of Hannibal",
@@ -3699,7 +4039,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
     "creator": "Fratelli Alinari"
   },
-  "hannibal-lecter": null,
+  "hannibal-lecter": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6e/Hannibal_Lecter_in_Silence_of_the_Lambs.jpg",
+    "alt": "Image of Hannibal Lecter",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Hannibal_Lecter_in_Silence_of_the_Lambs.jpg",
+    "creator": "MGM Pictures"
+  },
   "hans-christian-andersen": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HCA_by_Thora_Hallager_1869_crop.jpg/500px-HCA_by_Thora_Hallager_1869_crop.jpg",
     "alt": "Photo of Hans Christian Andersen",
@@ -3715,7 +4061,12 @@
     "creator": "ColliderVideo. Uploader cropped.",
     "attribution": "ColliderVideo. Uploader cropped., CC BY 3.0, via Wikimedia Commons"
   },
-  "harley-quinn": null,
+  "harley-quinn": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c9/HarleyQuinn_Various_incarnations.jpg",
+    "alt": "Image of Harley Quinn",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:HarleyQuinn_Various_incarnations.jpg"
+  },
   "harriet-tubman": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg/500px-Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg",
     "alt": "Photo of Harriet Tubman",
@@ -3740,12 +4091,10 @@
     "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "harry-potter": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daniel_Radcliffe_as_Harry_Potter.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
     "alt": "Image of Harry Potter",
-    "license": "CC BY-SA 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daniel_Radcliffe_as_Harry_Potter.jpg",
-    "creator": "Dee Jarvis, Panache Imagery",
-    "attribution": "Dee Jarvis, Panache Imagery, CC BY-SA 3.0, via Wikimedia Commons"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg"
   },
   "harry-s-truman": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/500px-TRUMAN_58-766-06_%28cropped%29.jpg",
@@ -3793,7 +4142,12 @@
     "creator": "Sarran Hamilton",
     "attribution": "Sarran Hamilton, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "hello-kitty": null,
+  "hello-kitty": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/05/Hello_kitty_character_portrait.png",
+    "alt": "Image of Hello Kitty",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Hello_kitty_character_portrait.png"
+  },
   "helmut-kohl": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Helmut_Kohl_%281996%29_cropped_%282%29.jpg/500px-Helmut_Kohl_%281996%29_cropped_%282%29.jpg",
     "alt": "Photo of Helmut Kohl",
@@ -3838,8 +4192,20 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
     "creator": "Workshop of Hans Holbein the Younger"
   },
-  "hercule-poirot": null,
-  "hercules": null,
+  "hercule-poirot": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2d/Albert_Finney_plays_Poirot.jpg",
+    "alt": "Image of Hercule Poirot",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Albert_Finney_plays_Poirot.jpg"
+  },
+  "hercules": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/San_Diego_Comic-Con_2014_-_Hercules_%26_Megara_%2814769214254%29.jpg/500px-San_Diego_Comic-Con_2014_-_Hercules_%26_Megara_%2814769214254%29.jpg",
+    "alt": "Image of Hercules",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2014_-_Hercules_%26_Megara_(14769214254).jpg",
+    "creator": "William Tung from USA",
+    "attribution": "William Tung from USA, CC BY-SA 2.0, via Wikimedia Commons"
+  },
   "hermann-maier": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hermann_Maier_%28Gala-Nacht_des_Sports_2009%29.jpg/500px-Hermann_Maier_%28Gala-Nacht_des_Sports_2009%29.jpg",
     "alt": "Photo of Hermann Maier",
@@ -3848,7 +4214,12 @@
     "creator": "Manfred Werner / Tsui",
     "attribution": "Manfred Werner / Tsui, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "hermione-granger": null,
+  "hermione-granger": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg",
+    "alt": "Image of Hermione Granger",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Hermione_Granger_poster.jpg"
+  },
   "hernan-cortes": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg/500px-Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
     "alt": "Photo of Hernán Cortés",
@@ -3898,7 +4269,12 @@
     "creator": "Photograph by Mike Peel (www.mikepeel.net).",
     "attribution": "Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "homer-simpson": null,
+  "homer-simpson": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+    "alt": "Image of Homer Simpson",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Homer_Simpson_2006.png"
+  },
   "houdini": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Harry_Handcuff_Houdini_Crop.jpg/500px-Harry_Handcuff_Houdini_Crop.jpg",
     "alt": "Photo of Houdini",
@@ -3953,7 +4329,12 @@
     "creator": "Roberto Stuckert Filho",
     "attribution": "Roberto Stuckert Filho, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "hulk": null,
+  "hulk": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
+    "alt": "Image of Hulk",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Hulk_(circa_2019).png"
+  },
   "hulk-hogan": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hulk_Hogan%2C_circa_1985.jpg/500px-Hulk_Hogan%2C_circa_1985.jpg",
     "alt": "Photo of Hulk Hogan",
@@ -4038,12 +4419,11 @@
     "attribution": "Web Summit, CC BY 2.0, via Wikimedia Commons"
   },
   "imagine-dragons": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg/500px-Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Imagine_Dragons_logo_%28WB%29.png/500px-Imagine_Dragons_logo_%28WB%29.png",
     "alt": "Photo of Imagine Dragons",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg",
-    "creator": "Danazar",
-    "attribution": "Danazar, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagine_Dragons_logo_(WB).png",
+    "creator": "Imagine Dragons"
   },
   "immanuel-kant": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/500px-Immanuel_Kant_-_Gemaelde_1.jpg",
@@ -4107,7 +4487,13 @@
     "creator": "File:Steve Harris 521.jpg: adels File:Davemurray.jpg: adels File:Adrian Smith Iron Maiden Newcastle.jpg: Mike Lawrence File:Iron Maiden en Costa Rica Bruce.jpg: adels File:Nicko McBrain 2.jpg: adels F",
     "attribution": "File:Steve Harris 521.jpg: adels File:Davemurray.jpg: adels File:Adrian Smith Iron Maiden Newcastle.jpg: Mike Lawrence File:Iron Maiden en Costa Rica Bruce.jpg: adels File:Nicko McBrain 2.jpg: adels F, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "iron-man": null,
+  "iron-man": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png",
+    "alt": "Image of Iron Man",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Iron_Man_(circa_2018).png",
+    "creator": "Marvel Comics"
+  },
   "isaac-newton": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
     "alt": "Photo of Isaac Newton",
@@ -4191,7 +4577,13 @@
     "creator": "PantherNational",
     "attribution": "PantherNational, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "jack-skellington": null,
+  "jack-skellington": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/Jack_Skellington.png",
+    "alt": "Image of Jack Skellington",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jack_Skellington.png",
+    "creator": "Walt Disney Company"
+  },
   "jackie-chan": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jackie_Chan.jpg/500px-Jackie_Chan.jpg",
     "alt": "Photo of Jackie Chan",
@@ -4237,7 +4629,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cousteau1972_(cropped).jpg",
     "creator": "Hans Peters for Anefo ."
   },
-  "jafar": null,
+  "jafar": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c3/Jafar%28Disney%29Character.png",
+    "alt": "Image of Jafar",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jafar(Disney)Character.png",
+    "creator": "Disney"
+  },
   "jair-bolsonaro": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg/500px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%283x4%29.jpg",
     "alt": "Photo of Jair Bolsonaro",
@@ -4261,7 +4659,14 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jake_Paul_March_2026_(3x4_cropped).jpg",
     "creator": "The White House"
   },
-  "james-bond": null,
+  "james-bond": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg/500px-Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg",
+    "alt": "Image of James Bond",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sean_Connery_as_James_Bond_at_Switzerland_1964_(two_thirds_crop).jpg",
+    "creator": "Unknown authorUnknown author – Comet Photo AG (Zürich)",
+    "attribution": "Unknown authorUnknown author – Comet Photo AG (Zürich), CC BY-SA 4.0, via Wikimedia Commons"
+  },
   "james-brown": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/James_Brown_1996_%28HQ%29.jpg/500px-James_Brown_1996_%28HQ%29.jpg",
     "alt": "Photo of James Brown",
@@ -4436,12 +4841,12 @@
     "creator": "Emily J. Higgins"
   },
   "jean-claude-van-damme": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg/500px-Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jean-Claude_Van_Damme_2012.jpg/500px-Jean-Claude_Van_Damme_2012.jpg",
     "alt": "Photo of Jean-Claude Van Damme",
-    "license": "CC BY-SA 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg",
-    "creator": "Miguel Discart & Kiri Karma (Photos Vrac)",
-    "attribution": "Miguel Discart & Kiri Karma (Photos Vrac), CC BY-SA 2.0, via Wikimedia Commons"
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Claude_Van_Damme_2012.jpg",
+    "creator": "Georges Biard",
+    "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "jean-jacques-rousseau": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/500px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg",
@@ -4481,11 +4886,12 @@
     "creator": "Gustave Brion"
   },
   "jeff-bezos": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/500px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg/500px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg",
     "alt": "Photo of Jeff Bezos",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_(3x4_cropped_on_Bezos_and_rotated).jpg",
-    "creator": "SECWAR"
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg",
+    "creator": "Seattle City Council from Seattle",
+    "attribution": "Seattle City Council from Seattle, CC BY 2.0, via Wikimedia Commons"
   },
   "jenna-ortega": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jenna_Ortega-63799_%28cropped%29.jpg/500px-Jenna_Ortega-63799_%28cropped%29.jpg",
@@ -4558,7 +4964,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg",
     "creator": "photographer:Maurice Seymour, Chicago"
   },
-  "jerry-mouse": null,
+  "jerry-mouse": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2f/Jerry_Mouse.png",
+    "alt": "Image of Jerry Mouse",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jerry_Mouse.png",
+    "creator": "MGM"
+  },
   "jerry-rice": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Super_Bowl_44_Miami_Florida_NFL_Network_South_Beach_Set_Deon_Sanders_interviews_Jerry_Rice_%284331549867%29_%28cropped%29_-_Jerry_Rice.jpg/500px-Super_Bowl_44_Miami_Florida_NFL_Network_South_Beach_Set_Deon_Sanders_interviews_Jerry_Rice_%284331549867%29_%28cropped%29_-_Jerry_Rice.jpg",
     "alt": "Photo of Jerry Rice",
@@ -4614,12 +5026,12 @@
     "creator": "Joel Brodsky, Distributed by Elektra Records"
   },
   "jim-parsons": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JimParsons-byPhilipRomano.jpg/500px-JimParsons-byPhilipRomano.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jim_Parsons_at_PaleyFest_2013.jpg/500px-Jim_Parsons_at_PaleyFest_2013.jpg",
     "alt": "Photo of Jim Parsons",
-    "license": "CC BY 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:JimParsons-byPhilipRomano.jpg",
-    "creator": "PhilipRomanoPhoto",
-    "attribution": "PhilipRomanoPhoto, CC BY 4.0, via Wikimedia Commons"
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Parsons_at_PaleyFest_2013.jpg",
+    "creator": "iDominick",
+    "attribution": "iDominick, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "jimi-hendrix": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg/500px-Jimi_Hendrix_%281967%29_%28cropped%29.jpg",
@@ -4702,7 +5114,12 @@
     "creator": "photo taken by flcikr user Phil Hull",
     "attribution": "photo taken by flcikr user Phil Hull, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "joey-tribbiani": null,
+  "joey-tribbiani": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/da/Matt_LeBlanc_as_Joey_Tribbiani.jpg",
+    "alt": "Image of Joey Tribbiani",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Matt_LeBlanc_as_Joey_Tribbiani.jpg"
+  },
   "johan-cruyff": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/500px-Johan_Cruijff_%281974%29.jpg",
     "alt": "Photo of Johan Cruyff",
@@ -4849,7 +5266,13 @@
     "creator": "Harald Krichel",
     "attribution": "Harald Krichel, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "joker": null,
+  "joker": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5f/Batman_Three_Jokers.jpg",
+    "alt": "Image of Joker",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Batman_Three_Jokers.jpg",
+    "creator": "Jason Fabok (artist) / DC Comics (copyright owner)"
+  },
   "jomo-kenyatta": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jomo_Kenyatta_%28cropped%29_in_June_15th%2C_1966.jpg/500px-Jomo_Kenyatta_%28cropped%29_in_June_15th%2C_1966.jpg",
     "alt": "Photo of Jomo Kenyatta",
@@ -4873,7 +5296,12 @@
     "creator": "Senate Democrats",
     "attribution": "Senate Democrats, CC BY 2.0, via Wikimedia Commons"
   },
-  "jon-snow": null,
+  "jon-snow": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/30/Jon_Snow_Season_8.png",
+    "alt": "Image of Jon Snow",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jon_Snow_Season_8.png"
+  },
   "jonah-lomu": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jonah_Lomu_%28cropped%29.jpg",
     "alt": "Photo of Jonah Lomu",
@@ -5100,12 +5528,12 @@
     "attribution": "Yahoo from Sunnyvale, California, USA, CC BY 2.0, via Wikimedia Commons"
   },
   "karim-benzema": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Karim_Benzema_vs._FC_Schalke_04_%2816647992937%29.jpg/500px-Karim_Benzema_vs._FC_Schalke_04_%2816647992937%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Karim_Benzema_2022_%28cropped%29.jpg",
     "alt": "Photo of Karim Benzema",
     "license": "CC BY 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_vs._FC_Schalke_04_(16647992937).jpg",
-    "creator": "Chris Deahr",
-    "attribution": "Chris Deahr, CC BY 2.0, via Wikimedia Commons"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_2022_(cropped).jpg",
+    "creator": "Fotografías Archimadrid.es",
+    "attribution": "Fotografías Archimadrid.es, CC BY 2.0, via Wikimedia Commons"
   },
   "karl-benz": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carl_Benz_circa_1920.jpg/500px-Carl_Benz_circa_1920.jpg",
@@ -5524,7 +5952,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laozi_(Chinese_characters).svg",
     "creator": "White whirlwind"
   },
-  "lara-croft": null,
+  "lara-croft": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a8/LaraCroftInfobox.png",
+    "alt": "Image of Lara Croft",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:LaraCroftInfobox.png",
+    "creator": "Aspyr"
+  },
   "larisa-latynina": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Larisa_Latynina%2C_2010.jpg/500px-Larisa_Latynina%2C_2010.jpg",
     "alt": "Photo of Larisa Latynina",
@@ -5741,7 +6175,12 @@
     "creator": "Georges Biard",
     "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "lightning-mcqueen": null,
+  "lightning-mcqueen": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/82/Lightning_McQueen.png",
+    "alt": "Image of Lightning McQueen",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Lightning_McQueen.png"
+  },
   "lil-nas-x": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lil_Nas_X_Talks_About_Gaining_His_Father%27s_Acceptance%2C_Growing_Up_in_Atlanta%2C_%26_FINDING_HIMSELF_7-32_screenshot_%28headshot%29.jpg/500px-Lil_Nas_X_Talks_About_Gaining_His_Father%27s_Acceptance%2C_Growing_Up_in_Atlanta%2C_%26_FINDING_HIMSELF_7-32_screenshot_%28headshot%29.jpg",
     "alt": "Photo of Lil Nas X",
@@ -5766,7 +6205,12 @@
     "creator": "Barcex",
     "attribution": "Barcex, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "link": null,
+  "link": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9d/Link_%28Hyrule_Historia%29.png",
+    "alt": "Image of Link",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Link_(Hyrule_Historia).png"
+  },
   "linkin-park": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III.jpg/500px-Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III.jpg",
     "alt": "Photo of Linkin Park",
@@ -5806,8 +6250,19 @@
     "creator": "Lan Bui",
     "attribution": "Lan Bui, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "lisa-simpson": null,
-  "little-prince": null,
+  "lisa-simpson": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+    "alt": "Image of Lisa Simpson",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Lisa_Simpson.png"
+  },
+  "little-prince": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/05/Littleprince.JPG",
+    "alt": "Image of Little Prince",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Littleprince.JPG",
+    "creator": "Antoine de Saint-Exupéry (1900–1944)"
+  },
   "little-red-riding-hood": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Little_Red_Riding_Hood_-_J._W._Smith.jpg/500px-Little_Red_Riding_Hood_-_J._W._Smith.jpg",
     "alt": "Image of Little Red Riding Hood",
@@ -5839,7 +6294,13 @@
     "creator": "MILLION DOLLAZ WORTH OF GAME",
     "attribution": "MILLION DOLLAZ WORTH OF GAME, CC BY 3.0, via Wikimedia Commons"
   },
-  "loki": null,
+  "loki": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/Various_incarnations_of_Loki_%282014%29.webp",
+    "alt": "Image of Loki",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Various_incarnations_of_Loki_(2014).webp",
+    "creator": "Lee Garbett (author)Marvel Comics (owner)"
+  },
   "long-john-silver": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/William_Nicholson_%281872-1949%29_-_Characters_of_Romance%2C_John_Silver.jpg/500px-William_Nicholson_%281872-1949%29_-_Characters_of_Romance%2C_John_Silver.jpg",
     "alt": "Image of Long John Silver",
@@ -5854,7 +6315,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byron_1813_by_Phillips.jpg",
     "creator": "Thomas Phillips"
   },
-  "lord-voldemort": null,
+  "lord-voldemort": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Voldemort_book_and_film.jpg/500px-Voldemort_book_and_film.jpg",
+    "alt": "Image of Lord Voldemort",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Voldemort_book_and_film.jpg",
+    "creator": "Mary GrandPré and Warner Brothers"
+  },
   "lorde": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lorde_Glasto2025-9_%28cropped%29.jpg/500px-Lorde_Glasto2025-9_%28cropped%29.jpg",
     "alt": "Photo of Lorde",
@@ -5923,7 +6390,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
     "creator": "Joseph Karl Stieler"
   },
-  "luigi": null,
+  "luigi": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/be/Luigi_by_Shigehisa_Nakaue.png",
+    "alt": "Image of Luigi",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Luigi_by_Shigehisa_Nakaue.png",
+    "creator": "Shigehisa Nakaue (artist) / Nintendo (owner)"
+  },
   "luis-figo": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Luis_Figo_2023.jpg/500px-Luis_Figo_2023.jpg",
     "alt": "Photo of Luís Figo",
@@ -6037,7 +6510,13 @@
     "creator": "Daniel Benavides from Austin, TX",
     "attribution": "Daniel Benavides from Austin, TX, CC BY 2.0, via Wikimedia Commons"
   },
-  "magneto": null,
+  "magneto": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e9/Magneto_%28Marvel_Comics_character%29.jpg",
+    "alt": "Image of Magneto",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Magneto_(Marvel_Comics_character).jpg",
+    "creator": "J. Scott Campbell"
+  },
   "magnus-carlsen": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg/500px-Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg",
     "alt": "Photo of Magnus Carlsen",
@@ -6076,7 +6555,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg",
     "creator": "Eddie Adams"
   },
-  "maleficent": null,
+  "maleficent": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/7e/Malefica.jpg",
+    "alt": "Image of Maleficent",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Malefica.jpg"
+  },
   "maneskin": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Maneskin_2018.jpg/500px-Maneskin_2018.jpg",
     "alt": "Photo of Måneskin",
@@ -6139,11 +6623,11 @@
     "attribution": "Andreas Tröster, CC BY-SA 3.0 de, via Wikimedia Commons"
   },
   "marco-polo": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg/500px-Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg",
     "alt": "Photo of Marco Polo",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frontispice_%C3%A9dition_de_Nuremberg_1477_(cropped).png",
-    "creator": "Unknown authorUnknown author"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg",
+    "creator": "Salviati"
   },
   "marco-van-basten": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marco_van_Basten_%282%29_%28cropped%29.jpg",
@@ -6168,7 +6652,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
     "creator": "derivative work by Begoon"
   },
-  "marge-simpson": null,
+  "marge-simpson": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
+    "alt": "Image of Marge Simpson",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Marge_Simpson.png"
+  },
   "margot-robbie": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg/500px-Margot_Robbie_Wuthering_Heights_premiere_%28cropped%29.jpg",
     "alt": "Photo of Margot Robbie",
@@ -6242,7 +6731,13 @@
     "creator": "Michael Miller",
     "attribution": "Michael Miller, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "mario-nintendo": null,
+  "mario-nintendo": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5c/Mario_by_Shigehisa_Nakaue.png",
+    "alt": "Image of Super Mario",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Mario_by_Shigehisa_Nakaue.png",
+    "creator": "Shigehisa Nakaue (artist) / Nintendo (owner)"
+  },
   "marion-cotillard": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marion_Cotillard-1061.jpg/500px-Marion_Cotillard-1061.jpg",
     "alt": "Photo of Marion Cotillard",
@@ -6379,7 +6874,12 @@
     "creator": "Barcex",
     "attribution": "Barcex, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "marty-mcfly": null,
+  "marty-mcfly": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d8/Michael_J._Fox_as_Marty_McFly_in_Back_to_the_Future%2C_1985.jpg",
+    "alt": "Image of Marty McFly",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Michael_J._Fox_as_Marty_McFly_in_Back_to_the_Future,_1985.jpg"
+  },
   "marvin-gaye": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marvin_Gaye_in_1973.jpg/500px-Marvin_Gaye_in_1973.jpg",
     "alt": "Photo of Marvin Gaye",
@@ -6394,7 +6894,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mary_Poppins_screen_2_(cropped).jpg",
     "creator": "Disney trailer screenshot"
   },
-  "masha": null,
+  "masha": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Masha_and_the_Bear_2019_stamp_of_Russia_3a.jpg",
+    "alt": "Image of Masha",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masha_and_the_Bear_2019_stamp_of_Russia_3a.jpg",
+    "creator": "A. Povarikhin (Russian: А. Поварихин )"
+  },
   "master-chief": null,
   "matt-damon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MattDamon-byPhilipRomano2.jpg/500px-MattDamon-byPhilipRomano2.jpg",
@@ -6551,12 +7057,12 @@
     "attribution": "Kb1367, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "michael-jordan": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg/500px-Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Steve_Lipfosky_--_Michael_Jordan_%281997%29_%28cropped%29_3x4.jpg/500px-Steve_Lipfosky_--_Michael_Jordan_%281997%29_%28cropped%29_3x4.jpg",
     "alt": "Photo of Michael Jordan",
-    "license": "CC BY 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_jordan_admad_rashad_(51276390562)_(cropped).jpg",
-    "creator": "Zach Catanzareti Photo",
-    "attribution": "Zach Catanzareti Photo, CC BY 2.0, via Wikimedia Commons"
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Lipfosky_--_Michael_Jordan_(1997)_(cropped)_3x4.jpg",
+    "creator": "Steve Lipofsky Basketballphoto.com",
+    "attribution": "Steve Lipofsky Basketballphoto.com, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "michael-myers": null,
   "michael-phelps": {
@@ -6659,7 +7165,12 @@
     "creator": "Super Festivals",
     "attribution": "Super Festivals, CC BY 2.0, via Wikimedia Commons"
   },
-  "mike-wazowski": null,
+  "mike-wazowski": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6a/Mike_Wazowski.png",
+    "alt": "Image of Mike Wazowski",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Mike_Wazowski.png"
+  },
   "mikhail-bulgakov": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg/500px-%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg",
     "alt": "Photo of Mikhail Bulgakov",
@@ -6723,7 +7234,12 @@
     "creator": "Sven Mandel",
     "attribution": "Sven Mandel, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "miss-marple": null,
+  "miss-marple": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4e/Joan_Hickson_as_Miss_Marple.jpg",
+    "alt": "Image of Miss Marple",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Joan_Hickson_as_Miss_Marple.jpg"
+  },
   "mo-farah": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/2023_London_Marathon_-_Sir_Mo_Farah_%282%29_%28cropped%29.jpg",
     "alt": "Photo of Mo Farah",
@@ -6732,7 +7248,13 @@
     "creator": "Katie Chan",
     "attribution": "Katie Chan, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "moana": null,
+  "moana": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/56/Moana_%28character%29.png",
+    "alt": "Image of Moana",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Moana_(character).png",
+    "creator": "Disney"
+  },
   "moby": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg/500px-Moby_at_the_2026_Montreux_Jazz_Festival_09.jpg",
     "alt": "Photo of Moby",
@@ -6823,7 +7345,14 @@
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mowgli-1895-illustration.png"
   },
-  "mr-bean": null,
+  "mr-bean": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mr._Bean_2007.jpg",
+    "alt": "Image of Mr. Bean",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mr._Bean_2007.jpg",
+    "creator": "Antonio Zugaldia from Brussels, Belgium",
+    "attribution": "Antonio Zugaldia from Brussels, Belgium, CC BY 2.0, via Wikimedia Commons"
+  },
   "mr-spock": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leonard_Nimoy_as_Spock_1967.jpg/500px-Leonard_Nimoy_as_Spock_1967.jpg",
     "alt": "Image of Mr. Spock",
@@ -6871,11 +7400,12 @@
     "creator": "Ira Rosenberg"
   },
   "mulan": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E7%95%AB%E9%BA%97%E7%8F%A0%E8%90%83%E7%A7%80_Gathering_Gems_of_Beauty_%28%E6%A2%81%E6%9C%A8%E8%98%AD%29_2.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Disneyland_meet-and-greet_Mulan.jpg/500px-Disneyland_meet-and-greet_Mulan.jpg",
     "alt": "Image of Mulan",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%95%AB%E9%BA%97%E7%8F%A0%E8%90%83%E7%A7%80_Gathering_Gems_of_Beauty_(%E6%A2%81%E6%9C%A8%E8%98%AD)_2.jpg",
-    "creator": "Identified as He Dazi (赫達資)"
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Disneyland_meet-and-greet_Mulan.jpg",
+    "creator": "mydisneyadventures",
+    "attribution": "mydisneyadventures, CC BY 2.0, via Wikimedia Commons"
   },
   "mustafa-kemal-ataturk": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ataturk1930s.jpg/500px-Ataturk1930s.jpg",
@@ -6900,12 +7430,11 @@
     "attribution": "Boydu90, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "nadia-comaneci": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg/500px-Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Nadia_Com%C4%83neci_Montreal1976c.jpg",
     "alt": "Photo of Nadia Comăneci",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg",
-    "creator": "Nuță Lucian",
-    "attribution": "Nuță Lucian, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadia_Com%C4%83neci_Montreal1976c.jpg",
+    "creator": "Unknown (Comitetul Olimpic si Sportiv Roman)"
   },
   "nancy-pelosi": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg/500px-Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg",
@@ -6937,7 +7466,12 @@
     "creator": "Prime Minister's Office",
     "attribution": "Prime Minister's Office, GODL-India, via Wikimedia Commons"
   },
-  "naruto-uzumaki": null,
+  "naruto-uzumaki": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
+    "alt": "Image of Naruto Uzumaki",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:NarutoUzumaki.png"
+  },
   "nat-king-cole": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nat_King_Cole_1947.jpg/500px-Nat_King_Cole_1947.jpg",
     "alt": "Photo of Nat King Cole",
@@ -6991,8 +7525,18 @@
     "creator": "Kingkongphoto & www.celebrity-photos.com from Laurel",
     "attribution": "Kingkongphoto & www.celebrity-photos.com from Laurel, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "nemo": null,
-  "neo": null,
+  "nemo": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+    "alt": "Image of Nemo",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Finding_Nemo.jpg"
+  },
+  "neo": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c6/NeoTheMatrix.jpg",
+    "alt": "Image of Neo",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:NeoTheMatrix.jpg"
+  },
   "nero": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/500px-Nero_Glyptothek_Munich_321.jpg",
     "alt": "Photo of Nero",
@@ -7126,7 +7670,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nostradamus_by_Cesar.jpg",
     "creator": "César de Notre-Dame"
   },
-  "notorious-big": null,
+  "notorious-big": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/8c/Biggie_Smalls_1997.jpg",
+    "alt": "Photo of Notorious B.I.G.",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Biggie_Smalls_1997.jpg",
+    "creator": "Lori Shepler / Los Angeles Times (presumed)"
+  },
   "novak-djokovic": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg/500px-Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg",
     "alt": "Photo of Novak Djokovic",
@@ -7144,7 +7694,13 @@
     "attribution": "Raph_PH, CC BY 4.0, via Wikimedia Commons"
   },
   "obelix": null,
-  "olaf": null,
+  "olaf": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6d/Olaf_from_Disney%27s_Frozen.png",
+    "alt": "Image of Olaf",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Olaf_from_Disney%27s_Frozen.png",
+    "creator": "Disney"
+  },
   "olaf-scholz": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Olaf_Scholz_September_2024.jpg/500px-Olaf_Scholz_September_2024.jpg",
     "alt": "Photo of Olaf Scholz",
@@ -7238,12 +7794,12 @@
     "attribution": "Harald Krichel, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "one-direction": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/500px-One_Direction_Sydney_4.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/One-direction-pressbild-mm.jpg/500px-One-direction-pressbild-mm.jpg",
     "alt": "Photo of One Direction",
-    "license": "CC BY-SA 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:One_Direction_Sydney_4.jpg",
-    "creator": "Eva Rinaldi",
-    "attribution": "Eva Rinaldi, CC BY-SA 2.0, via Wikimedia Commons"
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:One-direction-pressbild-mm.jpg",
+    "creator": "Sony Music Entertainment Sweden",
+    "attribution": "Sony Music Entertainment Sweden, CC BY 3.0, via Wikimedia Commons"
   },
   "oprah-winfrey": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/500px-Oprah_Winfrey_2016.jpg",
@@ -7252,7 +7808,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oprah_Winfrey_2016.jpg",
     "creator": "US Embassy South Africa"
   },
-  "optimus-prime": null,
+  "optimus-prime": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b2/Optimusprime-originaltoy.jpg",
+    "alt": "Image of Optimus Prime",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Optimusprime-originaltoy.jpg"
+  },
   "orlando-bloom": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Orlando_Bloom-9047_%28cropped%29.jpg/500px-Orlando_Bloom-9047_%28cropped%29.jpg",
     "alt": "Photo of Orlando Bloom",
@@ -7465,7 +8026,13 @@
     "creator": "Colleen Sturtevant",
     "attribution": "Colleen Sturtevant, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "pennywise": null,
+  "pennywise": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/52/Pennywise_Skarsgard_and_Curry.png",
+    "alt": "Image of Pennywise",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Pennywise_Skarsgard_and_Curry.png",
+    "creator": "Character collage, built from screenshots. Copyright belongs to the respective copyright holders of the 1990 miniseries (top) and 2017 film (bottom). Character was originally created by Stephen King."
+  },
   "pep-guardiola": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Josep_Guardiola_2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_%28cropped%29.jpg/500px-Josep_Guardiola_2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_%28cropped%29.jpg",
     "alt": "Photo of Pep Guardiola",
@@ -7475,12 +8042,10 @@
     "attribution": "Steffen Prößdorf, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "peppa-pig": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/PeppaPigAldridge2009.jpg/500px-PeppaPigAldridge2009.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/500px-Peppa_Pig_logo.svg.png",
     "alt": "Image of Peppa Pig",
-    "license": "CC BY 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PeppaPigAldridge2009.jpg",
-    "creator": "ChrisTheDude at English Wikipedia",
-    "attribution": "ChrisTheDude at English Wikipedia, CC BY 3.0, via Wikimedia Commons"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Peppa_Pig_logo.svg"
   },
   "pete-sampras": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pete_Sampras_Champions_Shootout_2.jpg",
@@ -7498,13 +8063,18 @@
     "creator": "Gage Skidmore",
     "attribution": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "peter-griffin": null,
+  "peter-griffin": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png",
+    "alt": "Image of Peter Griffin",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Peter_Griffin.png"
+  },
   "peter-pan": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Peter_pan_1911_pipes_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Peter_Pan_%281953_poster%29.jpg/500px-Peter_Pan_%281953_poster%29.jpg",
     "alt": "Image of Peter Pan",
     "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_pan_1911_pipes_(cropped).jpg",
-    "creator": "Francis Donkin Bedford"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Pan_(1953_poster).jpg",
+    "creator": "Illustrator unknown. \"Copyright 1952 RKO Radio Pictures Inc.\""
   },
   "peter-the-great": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/500px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg",
@@ -7573,7 +8143,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piglet_EHShepard.jpg",
     "creator": "E. H. Shepard"
   },
-  "pikachu": null,
+  "pikachu": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png",
+    "alt": "Image of Pikachu",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Pikachu_art.png",
+    "creator": "Game Freak"
+  },
   "pink": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg/500px-PinkSpurs160624_%2833_of_156%29_%28cropped%29.jpg",
     "alt": "Photo of Pink",
@@ -7582,8 +8158,18 @@
     "creator": "Raph_PH",
     "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
   },
-  "pink-floyd": null,
-  "pink-panther": null,
+  "pink-floyd": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg",
+    "alt": "Photo of Pink Floyd",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Pink_Floyd_-_all_members.jpg"
+  },
+  "pink-panther": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/96/Pink_Panther.png",
+    "alt": "Image of Pink Panther",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Pink_Panther.png"
+  },
   "pinocchio": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pinocchio.jpg/500px-Pinocchio.jpg",
     "alt": "Image of Pinocchio",
@@ -7613,8 +8199,19 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
     "creator": "Marie-Lan Nguyen"
   },
-  "po": null,
-  "pocahontas": null,
+  "po": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3d/Po_from_DreamWorks_Animation%27s_Kung_Fu_Panda.png",
+    "alt": "Image of Po",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Po_from_DreamWorks_Animation%27s_Kung_Fu_Panda.png",
+    "creator": "DreamWorks Animation"
+  },
+  "pocahontas": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f2/Pocahontas_Disney.png",
+    "alt": "Image of Pocahontas",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Pocahontas_Disney.png"
+  },
   "pol-pot": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pol_Pot_%28cropped%29.jpg",
     "alt": "Photo of Pol Pot",
@@ -7622,8 +8219,21 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pol_Pot_(cropped).jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "pope-benedict-xvi": null,
-  "pope-francis": null,
+  "pope-benedict-xvi": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Portrait_of_Pope_Benedict_XVI_%282011%29.jpg/500px-Portrait_of_Pope_Benedict_XVI_%282011%29.jpg",
+    "alt": "Photo of Pope Benedict XVI",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Benedict_XVI_(2011).jpg",
+    "creator": "Medialpj",
+    "attribution": "Medialpj, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "pope-francis": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Portrait_of_Pope_Francis_%282021%29_cropped.jpg/500px-Portrait_of_Pope_Francis_%282021%29_cropped.jpg",
+    "alt": "Photo of Pope Francis",
+    "license": "Attribution",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Francis_(2021)_cropped.jpg",
+    "creator": "Presidenza della Repubblica"
+  },
   "pope-john-paul-ii": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg",
     "alt": "Photo of Pope John Paul II",
@@ -7649,12 +8259,12 @@
   },
   "porky-pig": null,
   "post-malone": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/500px-Post_Malone_July_2021_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Post_Malone_2018.jpg/500px-Post_Malone_2018.jpg",
     "alt": "Photo of Post Malone",
     "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg",
-    "creator": "Chrisallmeid",
-    "attribution": "Chrisallmeid, CC BY-SA 4.0, via Wikimedia Commons"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Post_Malone_2018.jpg",
+    "creator": "Toglenn",
+    "attribution": "Toglenn, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "postman-pat": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Postman_Pat_logo.png",
@@ -7700,8 +8310,20 @@
     "creator": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link)",
     "attribution": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link), CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "princess-leia": null,
-  "princess-peach": null,
+  "princess-leia": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg",
+    "alt": "Image of Princess Leia",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Princess_Leia%27s_characteristic_hairstyle.jpg",
+    "creator": "Lucasfilm/Sportsphoto Ltd/Allstar"
+  },
+  "princess-peach": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/16/Princess_Peach_Stock_Art.png",
+    "alt": "Image of Princess Peach",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Princess_Peach_Stock_Art.png",
+    "creator": "Shigehisa Nakaue"
+  },
   "princess-zelda": null,
   "priyanka-chopra": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Priyanka_Chopra_at_Bulgary_launch%2C_2024_%28cropped%29.jpg",
@@ -7719,7 +8341,13 @@
     "creator": "Korea.net / Korean Culture and Information Service (Jeon Han)",
     "attribution": "Korea.net / Korean Culture and Information Service (Jeon Han), CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "puss-in-boots": null,
+  "puss-in-boots": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/8a/Puss_in_Boots_from_Shrek.png",
+    "alt": "Image of Puss in Boots",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Puss_in_Boots_from_Shrek.png",
+    "creator": "DreamWorks Animation"
+  },
   "pyotr-tchaikovsky": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/500px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
     "alt": "Photo of Pyotr Tchaikovsky",
@@ -7799,7 +8427,12 @@
     "creator": "Georges Chevalier",
     "attribution": "Georges Chevalier, CC BY 4.0, via Wikimedia Commons"
   },
-  "rachel-green": null,
+  "rachel-green": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ec/Jennifer_Aniston_as_Rachel_Green.jpg",
+    "alt": "Image of Rachel Green",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Jennifer_Aniston_as_Rachel_Green.jpg"
+  },
   "radiohead": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RadioheadO2211125_composite.jpg/500px-RadioheadO2211125_composite.jpg",
     "alt": "Photo of Radiohead",
@@ -7841,12 +8474,12 @@
     "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "rammstein": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rammstein_at_Wacken_Open_Air_2013_06.jpg/500px-Rammstein_at_Wacken_Open_Air_2013_06.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rammstein_logo_official.png",
     "alt": "Photo of Rammstein",
     "license": "CC BY-SA 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rammstein_at_Wacken_Open_Air_2013_06.jpg",
-    "creator": "Jonas Rogowski",
-    "attribution": "Jonas Rogowski, CC BY-SA 3.0, via Wikimedia Commons"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rammstein_logo_official.png",
+    "creator": "Nicolas Uliambre",
+    "attribution": "Nicolas Uliambre, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "raphael": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/500px-Raffaello_Sanzio.jpg",
@@ -7856,11 +8489,11 @@
     "creator": "Raphael"
   },
   "rapunzel": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rapunzel-Paul-Hey.jpg/500px-Rapunzel-Paul-Hey.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6a/Rapunzel_tangled.png",
     "alt": "Image of Rapunzel",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rapunzel-Paul-Hey.jpg",
-    "creator": "Paul Hey"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Rapunzel_tangled.png",
+    "creator": "Disney"
   },
   "raul": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/25th_Laureus_World_Sports_Awards_-_Ra%C3%BAl_-_240422_132916-2_%28cropped%29.jpg/500px-25th_Laureus_World_Sports_Awards_-_Ra%C3%BAl_-_240422_132916-2_%28cropped%29.jpg",
@@ -7894,12 +8527,11 @@
     "attribution": "Rory Arnold, CC BY 2.0, via Wikimedia Commons"
   },
   "red-hot-chili-peppers": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/RHCP_Live_in_London_26_June_2022.jpg/500px-RHCP_Live_in_London_26_June_2022.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Red_Hot_Chili_Peppers_logo.svg/500px-Red_Hot_Chili_Peppers_logo.svg.png",
     "alt": "Photo of Red Hot Chili Peppers",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RHCP_Live_in_London_26_June_2022.jpg",
-    "creator": "Kreepin Deth",
-    "attribution": "Kreepin Deth, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Hot_Chili_Peppers_logo.svg",
+    "creator": "Cookieman1.1.1"
   },
   "reese-witherspoon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Reese_Witherspoon_at_Nashville_Film_Festival_2026_%28cropped_head_room%29.jpg/500px-Reese_Witherspoon_at_Nashville_Film_Festival_2026_%28cropped_head_room%29.jpg",
@@ -7947,12 +8579,11 @@
     "creator": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 - 05/15/1984)"
   },
   "richard-the-lionheart": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/500px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Merry-Joseph_Blondel_-_Richard_I_the_Lionheart.jpg",
     "alt": "Photo of Richard the Lionheart",
-    "license": "CC BY-SA 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
-    "creator": "Adam Bishop",
-    "attribution": "Adam Bishop, CC BY-SA 3.0, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Merry-Joseph_Blondel_-_Richard_I_the_Lionheart.jpg",
+    "creator": "Merry-Joseph Blondel"
   },
   "richard-wagner": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/500px-RichardWagner.jpg",
@@ -7976,7 +8607,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cover_of_Richie_Rich_no._10_(May_1962).jpg",
     "creator": "Harvey Comics"
   },
-  "rick-sanchez": null,
+  "rick-sanchez": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a6/Rick_Sanchez.png",
+    "alt": "Image of Rick Sanchez",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Rick_Sanchez.png",
+    "creator": "Copyright for the animated character is held by Adult Swim. The image was uploaded to fanart by adamforeman."
+  },
   "ricky-martin": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ricky_Martin-4262.jpg/500px-Ricky_Martin-4262.jpg",
     "alt": "Photo of Ricky Martin",
@@ -8017,7 +8654,12 @@
     "creator": "Laura Cortizo/Portal da Copa",
     "attribution": "Laura Cortizo/Portal da Copa, CC BY 3.0 br, via Wikimedia Commons"
   },
-  "road-runner": null,
+  "road-runner": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Tobeepornottobeep.jpg",
+    "alt": "Image of Road Runner",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Tobeepornottobeep.jpg"
+  },
   "roald-amundsen": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Amundsen_in_fur_skins.jpg/500px-Amundsen_in_fur_skins.jpg",
     "alt": "Photo of Roald Amundsen",
@@ -8153,8 +8795,19 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robinson_Crusoe_1719_1st_edition.jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "robocop": null,
-  "rocky-balboa": null,
+  "robocop": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/1a/RoboCop_%28Peter_Weller%29.png",
+    "alt": "Image of RoboCop",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:RoboCop_(Peter_Weller).png",
+    "creator": "Metro-Goldwyn-Mayer Studios"
+  },
+  "rocky-balboa": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/53/Rocky_balboa.jpeg",
+    "alt": "Image of Rocky Balboa",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Rocky_balboa.jpeg"
+  },
   "rocky-marciano": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rocky_Marciano_%28cropped%29.jpg/500px-Rocky_Marciano_%28cropped%29.jpg",
     "alt": "Photo of Rocky Marciano",
@@ -8216,7 +8869,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Romeo_and_juliet_brown.jpg",
     "creator": "Ford Madox Brown"
   },
-  "ron-weasley": null,
+  "ron-weasley": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/Ron_Weasley_poster.jpg",
+    "alt": "Image of Ron Weasley",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Ron_Weasley_poster.jpg"
+  },
   "ronald-reagan": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/500px-Official_Portrait_of_President_Reagan_1981.jpg",
     "alt": "Photo of Ronald Reagan",
@@ -8379,7 +9037,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.jpg",
     "creator": "Iraqi News Agency"
   },
-  "sailor-moon": null,
+  "sailor-moon": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2b/Sailor_Moon_01.jpg",
+    "alt": "Image of Sailor Moon",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Sailor_Moon_01.jpg"
+  },
   "saint-francis-of-assisi": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/StFrancis_part.jpg/500px-StFrancis_part.jpg",
     "alt": "Photo of Saint Francis of Assisi",
@@ -8396,12 +9059,11 @@
     "attribution": "Andreas F. Borchert, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "saladin": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saladin_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg/500px-Saladin_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg",
     "alt": "Photo of Saladin",
-    "license": "CC BY-SA 2.5",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Nasir_I_Salah_al-Din_Yusuf_(Saladin)._AH_564-589_(1169-1193_CE)_%C3%86_Dirham_(30.1mm,_13.28_g,_6h)._Without_mint-name._Dated_AH_586_(AD_1190-91)._Sultan_sitting_facing,_cross-legged,_on_high-backed_throne_(obverse).jpg",
-    "creator": "Classical Numismatic Group (CNG)",
-    "attribution": "Classical Numismatic Group (CNG), CC BY-SA 2.5, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saladin_portrait_(imaginary),_by_Giovio_Paolo,_1483-1552,_published_1575.jpg",
+    "creator": "Giovio, Paolo, 1483-1552"
   },
   "salma-hayek": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg/500px-MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg",
@@ -8518,7 +9180,13 @@
     "creator": "PhilipRomano",
     "attribution": "PhilipRomano, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "scar": null,
+  "scar": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4d/Scar_lion_king.png",
+    "alt": "Image of Scar",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Scar_lion_king.png",
+    "creator": "Disney"
+  },
   "scarlett-johansson": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlett_Johansson-8588.jpg/500px-Scarlett_Johansson-8588.jpg",
     "alt": "Photo of Scarlett Johansson",
@@ -8528,11 +9196,11 @@
     "attribution": "Harald Krichel, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "scooby-doo": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scooby_doo_logo.png/500px-Scooby_doo_logo.png",
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/53/Scooby-Doo.png",
     "alt": "Image of Scooby-Doo",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scooby_doo_logo.png",
-    "creator": "Hanna Barbera, Warner Bros. Animation"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Scooby-Doo.png",
+    "creator": "CBS"
   },
   "scorpions": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Scorpions_in_Melbourne%2C_Australia_17.10.2016.jpg/500px-Scorpions_in_Melbourne%2C_Australia_17.10.2016.jpg",
@@ -8745,7 +9413,13 @@
     "creator": "Cosmopolitan UK",
     "attribution": "Cosmopolitan UK, CC BY 3.0, via Wikimedia Commons"
   },
-  "sheldon-cooper": null,
+  "sheldon-cooper": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f7/Sheldon_and_Young_Sheldon.jpg",
+    "alt": "Image of Sheldon Cooper",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Sheldon_and_Young_Sheldon.jpg",
+    "creator": "CBS"
+  },
   "shelly-ann-fraser-pryce": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Women%27s_100_m-_Beijing_2015.jpg",
     "alt": "Photo of Shelly-Ann Fraser-Pryce",
@@ -8784,7 +9458,12 @@
     "creator": "All-Pro Reels from District of Columbia, USA",
     "attribution": "All-Pro Reels from District of Columbia, USA, CC BY-SA 2.0, via Wikimedia Commons"
   },
-  "shrek": null,
+  "shrek": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4d/Shrek_%28character%29.png",
+    "alt": "Image of Shrek",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Shrek_(character).png"
+  },
   "sia": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sia_%28cropped_2%29.jpg/500px-Sia_%28cropped_2%29.jpg",
     "alt": "Photo of Sia",
@@ -8823,7 +9502,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silvio_Berlusconi_(2010)_cropped.jpg",
     "creator": "Silvio_Berlusconi_(2010).jpg: www.la-moncloa.es derivative work: Off2riorob (talk)"
   },
-  "simba": null,
+  "simba": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/94/Simba_%28_Disney_character_-_adult%29.png",
+    "alt": "Image of Simba",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Simba_(_Disney_character_-_adult).png",
+    "creator": "Disney"
+  },
   "simon-bolivar": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png/500px-Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png",
     "alt": "Photo of Simón Bolívar",
@@ -8871,7 +9556,13 @@
     "creator": "Kreepin Deth",
     "attribution": "Kreepin Deth, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "smurfette": null,
+  "smurfette": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/fe/Smurfette-comics_version.png",
+    "alt": "Image of Smurfette",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Smurfette-comics_version.png",
+    "creator": "Peyo"
+  },
   "snoop-dogg": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Snoop_Dogg%2C_WrestleMania_XL_%28cropped%29_%28cropped%29.jpg/500px-Snoop_Dogg%2C_WrestleMania_XL_%28cropped%29_%28cropped%29.jpg",
     "alt": "Photo of Snoop Dogg",
@@ -8880,12 +9571,18 @@
     "creator": "Diego Serrano",
     "attribution": "Diego Serrano, CC BY 2.0, via Wikimedia Commons"
   },
-  "snoopy": null,
+  "snoopy": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/53/Snoopy_Peanuts.png",
+    "alt": "Image of Snoopy",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Snoopy_Peanuts.png",
+    "creator": "Charles M. Schulz"
+  },
   "snow-white": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Snow_White_and_the_Seven_Dwarfs_2.png/500px-Snow_White_and_the_Seven_Dwarfs_2.png",
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e1/Snow_white_disney.png",
     "alt": "Image of Snow White",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snow_White_and_the_Seven_Dwarfs_2.png"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Snow_white_disney.png"
   },
   "socrates": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/500px-Socrates_Louvre.jpg",
@@ -8910,7 +9607,12 @@
     "creator": "Ujishadow",
     "attribution": "Ujishadow, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "sonic-the-hedgehog": null,
+  "sonic-the-hedgehog": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f4/Sonic_modern_and_classic_designs.png",
+    "alt": "Image of Sonic the Hedgehog",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Sonic_modern_and_classic_designs.png"
+  },
   "sophia-loren": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg/500px-Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg",
     "alt": "Photo of Sophia Loren",
@@ -8941,9 +9643,22 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spice_Girls_in_Toronto,_Ontario.jpg",
     "creator": "Ezekiel."
   },
-  "spider-man": null,
+  "spider-man": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png",
+    "alt": "Image of Spider-Man",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Web_of_Spider-Man_Vol_1_129-1.png",
+    "creator": "Mike McKone and Morry Hollowell / Marvel Comics"
+  },
   "spirou": null,
-  "spongebob-squarepants": null,
+  "spongebob-squarepants": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SpongeBob_character.svg/500px-SpongeBob_character.svg.png",
+    "alt": "Image of SpongeBob SquarePants",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpongeBob_character.svg",
+    "creator": "NickRewind",
+    "attribution": "NickRewind, CC BY 3.0, via Wikimedia Commons"
+  },
   "spyro": null,
   "stan-lee": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stan_Lee_2007_%28cropped%29.jpg/500px-Stan_Lee_2007_%28cropped%29.jpg",
@@ -9079,7 +9794,12 @@
     "creator": "CamilaAlves.raf",
     "attribution": "CamilaAlves.raf, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "stitch": null,
+  "stitch": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/500px-Stitch_%28Lilo_%26_Stitch%29.svg.png",
+    "alt": "Image of Stitch",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Stitch_(Lilo_%26_Stitch).svg"
+  },
   "stromae": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Stromae_2011_cropped.jpg",
     "alt": "Photo of Stromae",
@@ -9110,7 +9830,14 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
     "creator": "Circle of Titian"
   },
-  "sully": null,
+  "sully": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sulley%2C_Jerome_Ranft.jpg/500px-Sulley%2C_Jerome_Ranft.jpg",
+    "alt": "Image of Sully",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sulley,_Jerome_Ranft.jpg",
+    "creator": "Jl FilpoC",
+    "attribution": "Jl FilpoC, CC BY-SA 4.0, via Wikimedia Commons"
+  },
   "sun-tzu": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
     "alt": "Photo of Sun Tzu",
@@ -9125,7 +9852,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
     "creator": "上海波尔照相馆"
   },
-  "superman": null,
+  "superman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png",
+    "alt": "Image of Superman",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Supermanflying.png",
+    "creator": "Jason Fabok"
+  },
   "susan-sarandon": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg/500px-Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg",
     "alt": "Photo of Susan Sarandon",
@@ -9187,7 +9920,12 @@
     "creator": "iHeartRadioCA",
     "attribution": "iHeartRadioCA, CC BY 3.0, via Wikimedia Commons"
   },
-  "taz": null,
+  "taz": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/500px-Taz-Looney_Tunes.svg.png",
+    "alt": "Image of Taz",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Taz-Looney_Tunes.svg"
+  },
   "tenzing-norgay": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tenzing_Norgay_%28cropped%29.jpg/500px-Tenzing_Norgay_%28cropped%29.jpg",
     "alt": "Photo of Tenzing Norgay",
@@ -9195,8 +9933,19 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenzing_Norgay_(cropped).jpg",
     "creator": "SAS Scandinavian Airlines"
   },
-  "terminator": null,
-  "thanos": null,
+  "terminator": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/T-800_Model_101_%28Arnold_Schwarzenegger%29_T2_1991_cutout.png",
+    "alt": "Image of Terminator",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:T-800_Model_101_(Arnold_Schwarzenegger)_T2_1991_cutout.png"
+  },
+  "thanos": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/Thanos_%28Infobox_image%29.png",
+    "alt": "Image of Thanos",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Thanos_(Infobox_image).png",
+    "creator": "Dike Ruan / Marvel Comics"
+  },
   "the-beach-boys": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg/500px-Beach_Boys_1967_%28cropped_and_restored%29.jpg",
     "alt": "Photo of The Beach Boys",
@@ -9226,7 +9975,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Doors_1968.JPG",
     "creator": "Joel Brodsky; Distributed by Agency for the Performing Arts (APA)"
   },
-  "the-flash": null,
+  "the-flash": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png",
+    "alt": "Image of The Flash",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Flash_(Barry_Allen).png"
+  },
   "the-jackson-5": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Jackson_5_1972.JPG/500px-The_Jackson_5_1972.JPG",
     "alt": "Photo of The Jackson 5",
@@ -9242,12 +9996,11 @@
     "creator": "Distributed by A&M Records"
   },
   "the-rolling-stones": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/RStonesHydePark030722_%28125_of_125%29_%2852194125170%29_%28cropped%29.jpg/500px-RStonesHydePark030722_%28125_of_125%29_%2852194125170%29_%28cropped%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rolling_Stones_1965.jpg/500px-Rolling_Stones_1965.jpg",
     "alt": "Photo of The Rolling Stones",
-    "license": "CC BY 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RStonesHydePark030722_(125_of_125)_(52194125170)_(cropped).jpg",
-    "creator": "Raph_PH",
-    "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolling_Stones_1965.jpg",
+    "creator": "London Records"
   },
   "the-undertaker": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg/500px-The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg",
@@ -9257,12 +10010,12 @@
     "creator": "Pfc. Hilario Martinez"
   },
   "the-weeknd": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/500px-The_Weeknd_Portrait_by_Brian_Ziff.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Weeknd_Cannes_2023.png/500px-The_Weeknd_Cannes_2023.png",
     "alt": "Photo of The Weeknd",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg",
-    "creator": "Brian Ziff",
-    "attribution": "Brian Ziff, CC BY-SA 4.0, via Wikimedia Commons"
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Weeknd_Cannes_2023.png",
+    "creator": "Canal22",
+    "attribution": "Canal22, CC BY 3.0, via Wikimedia Commons"
   },
   "theodore-roosevelt": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg",
@@ -9323,8 +10076,18 @@
     "creator": "Werner100359",
     "attribution": "Werner100359, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "thomas-the-tank-engine": null,
-  "thor": null,
+  "thomas-the-tank-engine": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Thomas_the_Tank_Engine_1946.webp",
+    "alt": "Image of Thomas the Tank Engine",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Thomas_the_Tank_Engine_1946.webp"
+  },
+  "thor": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/1a/Thor_%28Marvel_Comics%29.png",
+    "alt": "Image of Thor",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Thor_(Marvel_Comics).png"
+  },
   "tiesto": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tiesto_LIV_Las_Vegas.png",
     "alt": "Photo of Tiësto",
@@ -9402,13 +10165,19 @@
     "creator": "HBO"
   },
   "tinker-bell": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Tinkclose-1-.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/49/Tinker_Bell_%28Disney_character%29.png",
     "alt": "Image of Tinker Bell",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tinkclose-1-.jpg",
-    "creator": "David Riche at English Wikipedia"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Tinker_Bell_(Disney_character).png"
   },
-  "tintin": null,
+  "tintin": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tintin_et_Milou_billboard_1.jpg/500px-Tintin_et_Milou_billboard_1.jpg",
+    "alt": "Image of Tintin",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tintin_et_Milou_billboard_1.jpg",
+    "creator": "This image is a work by Wikipedia and Wikimedia Commons users Tatvam (crop) and C.Suthorn. When reusing, please credit us as described in the Licensing information below. I would appreciate being noti",
+    "attribution": "This image is a work by Wikipedia and Wikimedia Commons users Tatvam (crop) and C.Suthorn. When reusing, please credit us as described in the Licensing information below. I would appreciate being noti, CC BY-SA 4.0, via Wikimedia Commons"
+  },
   "titian": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/500px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg",
     "alt": "Photo of Titian",
@@ -9432,7 +10201,13 @@
     "creator": "Barcex",
     "attribution": "Barcex, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "tom-cat": null,
+  "tom-cat": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_Tom_and_Jerry.png",
+    "alt": "Image of Tom Cat",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Tom_Tom_and_Jerry.png",
+    "creator": "MGM"
+  },
   "tom-cruise": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/500px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg",
     "alt": "Photo of Tom Cruise",
@@ -9503,13 +10278,19 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toto_Cutugno.jpg",
     "creator": "Unknown authorUnknown author"
   },
-  "totoro": null,
+  "totoro": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/02/My_Neighbor_Totoro_-_Tonari_no_Totoro_%28Movie_Poster%29.jpg",
+    "alt": "Image of Totoro",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:My_Neighbor_Totoro_-_Tonari_no_Totoro_(Movie_Poster).jpg"
+  },
   "travis-scott": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Travis_Scott_sig.svg/500px-Travis_Scott_sig.svg.png",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg/500px-Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg",
     "alt": "Photo of Travis Scott",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Travis_Scott_sig.svg",
-    "creator": "Respective commons pages (reuploaded as SVG)"
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg",
+    "creator": "Frank Schwichtenberg",
+    "attribution": "Frank Schwichtenberg, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "tsar-nicholas-ii": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicholas_II%2C_Russian_Emperor_%28cropped_2%29.jpg/500px-Nicholas_II%2C_Russian_Emperor_%28cropped_2%29.jpg",
@@ -9532,7 +10313,12 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
     "creator": "Roland Unger"
   },
-  "tweety": null,
+  "tweety": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Tweety.svg/500px-Tweety.svg.png",
+    "alt": "Image of Tweety",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Tweety.svg"
+  },
   "tycho-brahe": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif/lossy-page1-500px-Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif.jpg",
     "alt": "Photo of Tycho Brahe",
@@ -9550,12 +10336,11 @@
     "attribution": "Mike DiDomizio, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "u2": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg/500px-U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/U2_%281987_Island_Records_Publicity_Photo%29.jpg/500px-U2_%281987_Island_Records_Publicity_Photo%29.jpg",
     "alt": "Photo of U2",
-    "license": "CC BY 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg",
-    "creator": "Remy",
-    "attribution": "Remy, CC BY 4.0, via Wikimedia Commons"
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:U2_(1987_Island_Records_Publicity_Photo).jpg",
+    "creator": "Anton Corbijn, Distributed by Island Records"
   },
   "ulysses-s-grant": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
@@ -9572,7 +10357,13 @@
     "creator": "PhilipRomanoPhoto",
     "attribution": "PhilipRomanoPhoto, CC BY 4.0, via Wikimedia Commons"
   },
-  "ursula": null,
+  "ursula": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e3/Ursula%28TheLittleMermaid%29character.png",
+    "alt": "Image of Ursula",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Ursula(TheLittleMermaid)character.png",
+    "creator": "Disney"
+  },
   "ursula-von-der-leyen": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/500px-Ursula_von_der_Leyen_2024.jpg",
     "alt": "Photo of Ursula von der Leyen",
@@ -9581,7 +10372,14 @@
     "creator": "European People's Party",
     "attribution": "European People's Party, CC BY 2.0, via Wikimedia Commons"
   },
-  "usain-bolt": null,
+  "usain-bolt": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Usain_Bolt_Lightning_pose.jpg/500px-Usain_Bolt_Lightning_pose.jpg",
+    "alt": "Photo of Usain Bolt",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Lightning_pose.jpg",
+    "creator": "Brunel University",
+    "attribution": "Brunel University, CC BY 2.0, via Wikimedia Commons"
+  },
   "usher": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Usher_Milan_2026.jpg",
     "alt": "Photo of Usher",
@@ -9629,7 +10427,12 @@
     "creator": "Українські_боксери_олімпійці_-_Шелестюк,_Усик,_Берінчик_(позаду),_Ломаченко,_Гвоздик.JPG: KuRaG derivative work: Ahonc",
     "attribution": "Українські_боксери_олімпійці_-_Шелестюк,_Усик,_Берінчик_(позаду),_Ломаченко,_Гвоздик.JPG: KuRaG derivative work: Ahonc, CC BY-SA 3.0, via Wikimedia Commons"
   },
-  "venom": null,
+  "venom": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b0/Venom_%28Marvel_Comics_character%29.png",
+    "alt": "Image of Venom",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Venom_(Marvel_Comics_character).png"
+  },
   "venus-williams": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Venus_Williams_%282025_DC_Open%29_crop.jpg/500px-Venus_Williams_%282025_DC_Open%29_crop.jpg",
     "alt": "Photo of Venus Williams",
@@ -9653,7 +10456,14 @@
     "creator": "Frenchieinportland",
     "attribution": "Frenchieinportland, CC BY 4.0, via Wikimedia Commons"
   },
-  "viggo-mortensen": null,
+  "viggo-mortensen": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viggo_Mortensen_Cannes_2016.jpg/500px-Viggo_Mortensen_Cannes_2016.jpg",
+    "alt": "Photo of Viggo Mortensen",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viggo_Mortensen_Cannes_2016.jpg",
+    "creator": "Georges Biard",
+    "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
+  },
   "viktor-orban": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Viktor_Orban_2025_%28cropped%29.jpg",
     "alt": "Photo of Viktor Orbán",
@@ -9798,7 +10608,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_(cropped).jpg",
     "creator": "Nicolas de Largillière"
   },
-  "wall-e": null,
+  "wall-e": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/68/WALL-E_%28character%29.png",
+    "alt": "Image of Wall-E",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:WALL-E_(character).png",
+    "creator": "Pixar/Disney"
+  },
   "walt-disney": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Walt_Disney_1946_%28cropped2%29.JPG",
     "alt": "Photo of Walt Disney",
@@ -9820,7 +10636,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:1986_Jeno%27s_Pizza_-_12_-_Walter_Payton_(Walter_Payton_crop)_(cropped).jpg",
     "creator": "Jeno's"
   },
-  "walter-white": null,
+  "walter-white": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png",
+    "alt": "Image of Walter White",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Walter_White_S5B.png",
+    "creator": "AMC"
+  },
   "warren-buffett": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/500px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
     "alt": "Photo of Warren Buffett",
@@ -9903,12 +10725,10 @@
     "attribution": "PhilipRomano, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "wile-e-coyote": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coyote_solitario_%282359483236%29.jpg/500px-Coyote_solitario_%282359483236%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Tobeepornottobeep.jpg",
     "alt": "Image of Wile E. Coyote",
-    "license": "CC BY-SA 2.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coyote_solitario_(2359483236).jpg",
-    "creator": "Roberto Ferrari from Campogalliano (Modena), Italy",
-    "attribution": "Roberto Ferrari from Campogalliano (Modena), Italy, CC BY-SA 2.0, via Wikimedia Commons"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Tobeepornottobeep.jpg"
   },
   "will-smith": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg",
@@ -9955,11 +10775,10 @@
     "creator": "Bill Allen"
   },
   "winnie-the-pooh": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pooh_Shepard1928.jpg/500px-Pooh_Shepard1928.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/10/Winniethepooh.png",
     "alt": "Image of Winnie-the-Pooh",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pooh_Shepard1928.jpg",
-    "creator": "E. H. Shepard"
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Winniethepooh.png"
   },
   "winston-churchill": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/500px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
@@ -9989,8 +10808,19 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
     "creator": "Johann Nepomuk della Croce"
   },
-  "wolverine": null,
-  "wonder-woman": null,
+  "wolverine": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d3/Wolverine_%28circa_2024%29.jpg",
+    "alt": "Image of Wolverine",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Wolverine_(circa_2024).jpg",
+    "creator": "Stanley Lau (artist) / Marvel Comics (copyright holder)"
+  },
+  "wonder-woman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Wonder_Woman_750.jpg",
+    "alt": "Image of Wonder Woman",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Wonder_Woman_750.jpg"
+  },
   "woodrow-wilson": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/500px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
     "alt": "Photo of Woodrow Wilson",
@@ -10013,7 +10843,13 @@
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woody_Harrelson_191020-N-NU281-1028_(cropped).jpg",
     "creator": "Mass Communication Specialist 2nd Class Justin R. Pacheco"
   },
-  "woody-woodpecker": null,
+  "woody-woodpecker": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Woody_Woodpecker.svg/500px-Woody_Woodpecker.svg.png",
+    "alt": "Image of Woody Woodpecker",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Woody_Woodpecker.svg",
+    "creator": "Walter Lantz and Ben Hardaway"
+  },
   "wright-brothers": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/500px-Orville_Wright_1905-crop.jpg",
     "alt": "Photo of Wright brothers",
@@ -10062,7 +10898,13 @@
     "creator": "Augustas Didžgalvis",
     "attribution": "Augustas Didžgalvis, CC BY-SA 4.0, via Wikimedia Commons"
   },
-  "yoda": null,
+  "yoda": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png",
+    "alt": "Image of Yoda",
+    "license": "Fair use",
+    "sourceUrl": "https://en.wikipedia.org/wiki/File:Yoda_Empire_Strikes_Back.png",
+    "creator": "Lucasfilm Ltd."
+  },
   "yogi-bear": null,
   "yulia-tymoshenko": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/EPP_Congress_2025_Valencia_Day_1_%2854485015623%29_%28cropped_1%29.jpg/500px-EPP_Congress_2025_Valencia_Day_1_%2854485015623%29_%28cropped_1%29.jpg",

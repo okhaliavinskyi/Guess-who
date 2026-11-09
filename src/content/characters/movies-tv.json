@@ -188,11 +188,11 @@
       "uk": "Чарлі Чаплін"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/500px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Charlie_Chaplin_%28cropped%29.jpg/500px-Charlie_Chaplin_%28cropped%29.jpg",
       "alt": "Photo of Charlie Chaplin",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait_Getty_1739411952.jpg",
-      "creator": "Strauss-Peyton Studio"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_(cropped).jpg",
+      "creator": "P.D Jankens"
     }
   },
   {
@@ -1418,12 +1418,12 @@
       "uk": "Джим Парсонс"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JimParsons-byPhilipRomano.jpg/500px-JimParsons-byPhilipRomano.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jim_Parsons_at_PaleyFest_2013.jpg/500px-Jim_Parsons_at_PaleyFest_2013.jpg",
       "alt": "Photo of Jim Parsons",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JimParsons-byPhilipRomano.jpg",
-      "creator": "PhilipRomanoPhoto",
-      "attribution": "PhilipRomanoPhoto, CC BY 4.0, via Wikimedia Commons"
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Parsons_at_PaleyFest_2013.jpg",
+      "creator": "iDominick",
+      "attribution": "iDominick, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -1580,12 +1580,12 @@
       "uk": "Жан-Клод Ван Дам"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg/500px-Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jean-Claude_Van_Damme_2012.jpg/500px-Jean-Claude_Van_Damme_2012.jpg",
       "alt": "Photo of Jean-Claude Van Damme",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Claude_Van_Damme_at_Brussels_Comic_Con_2023_DSC19480_Kiri_DxO.jpg",
-      "creator": "Miguel Discart & Kiri Karma (Photos Vrac)",
-      "attribution": "Miguel Discart & Kiri Karma (Photos Vrac), CC BY-SA 2.0, via Wikimedia Commons"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-Claude_Van_Damme_2012.jpg",
+      "creator": "Georges Biard",
+      "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -1937,6 +1937,14 @@
     "localeNames": {
       "ru": "Вигго Мортенсен",
       "uk": "Вігго Мортенсен"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viggo_Mortensen_Cannes_2016.jpg/500px-Viggo_Mortensen_Cannes_2016.jpg",
+      "alt": "Photo of Viggo Mortensen",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viggo_Mortensen_Cannes_2016.jpg",
+      "creator": "Georges Biard",
+      "attribution": "Georges Biard, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {

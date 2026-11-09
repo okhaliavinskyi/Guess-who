@@ -8,7 +8,7 @@ import { describe, expect, it } from 'vitest';
 import { BANK_STATUS } from '../src/content/bankStatus.ts';
 import { CATEGORY_IDS, type CategoryId } from '../src/content/categories.ts';
 import { hasUsableImage } from '../src/content/image.ts';
-import { isAllowedLicense } from '../src/content/license.ts';
+import { FAIR_USE, isAllowedLicense } from '../src/content/license.ts';
 import { normalizeName, validateBank, type Character } from '../src/content/schema.ts';
 
 const files = CATEGORY_IDS.map((category) => ({
@@ -116,18 +116,25 @@ describe('bank photos', () => {
     for (const c of withImages) {
       const image = c.image!;
       expect(hasUsableImage(image), c.id).toBe(true);
-      expect(isAllowedLicense(image.license), `${c.id}: ${image.license}`).toBe(true);
+      const ok = isAllowedLicense(image.license) || image.license === FAIR_USE;
+      expect(ok, `${c.id}: ${image.license}`).toBe(true);
       expect(image.alt, c.id).toContain(c.displayName);
     }
   });
 
-  it('hotlinks Wikimedia Commons files and links each file page as the source', () => {
+  it('hotlinks Wikimedia files and links each file page as the source', () => {
     for (const c of withImages) {
       const image = c.image!;
       if (image.src.startsWith('/images/')) continue;
       expect(image.src, c.id).toMatch(/^https:\/\/upload\.wikimedia\.org\//);
-      expect(image.sourceUrl, c.id).toMatch(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/);
+      // Free files live on Commons; fair-use artwork only on English Wikipedia.
+      const host = image.license === FAIR_USE ? 'en\\.wikipedia' : 'commons\\.wikimedia';
+      expect(image.sourceUrl, c.id).toMatch(new RegExp(`^https://${host}\\.org/wiki/File:`));
     }
+  });
+
+  it.runIf(production)('gives every card a photo', () => {
+    expect(all.filter((c) => !c.image).map((c) => c.id)).toEqual([]);
   });
 
   it('carries an attribution line whenever the license requires one', () => {

@@ -885,6 +885,13 @@
     "localeNames": {
       "ru": "Папа Франциск",
       "uk": "Папа Франциск"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Portrait_of_Pope_Francis_%282021%29_cropped.jpg/500px-Portrait_of_Pope_Francis_%282021%29_cropped.jpg",
+      "alt": "Photo of Pope Francis",
+      "license": "Attribution",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Francis_(2021)_cropped.jpg",
+      "creator": "Presidenza della Repubblica"
     }
   },
   {
@@ -1520,11 +1527,11 @@
       "uk": "Карл I Великий"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_%28cropped%29.jpg",
       "alt": "Photo of Charlemagne",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlemagne_denier_Mayence_812_814.jpg",
-      "creator": "Charlemagne. Autorité émettrice de monnaie indéterminé. Atelier monétaire. Émetteur"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Emperor_Charlemagne_(cropped).jpg",
+      "creator": "Albrecht Dürer"
     }
   },
   {
@@ -1535,6 +1542,13 @@
     "localeNames": {
       "ru": "Аттила",
       "uk": "Аттіла"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Attila_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg/500px-Attila_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg",
+      "alt": "Photo of Attila",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Attila_portrait_(imaginary),_by_Giovio_Paolo,_1483-1552,_published_1575.jpg",
+      "creator": "Giovio, Paolo, 1483-1552"
     }
   },
   {
@@ -1564,12 +1578,11 @@
       "uk": "Салах ед Дін"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saladin_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg/500px-Saladin_portrait_%28imaginary%29%2C_by_Giovio_Paolo%2C_1483-1552%2C_published_1575.jpg",
       "alt": "Photo of Saladin",
-      "license": "CC BY-SA 2.5",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Nasir_I_Salah_al-Din_Yusuf_(Saladin)._AH_564-589_(1169-1193_CE)_%C3%86_Dirham_(30.1mm,_13.28_g,_6h)._Without_mint-name._Dated_AH_586_(AD_1190-91)._Sultan_sitting_facing,_cross-legged,_on_high-backed_throne_(obverse).jpg",
-      "creator": "Classical Numismatic Group (CNG)",
-      "attribution": "Classical Numismatic Group (CNG), CC BY-SA 2.5, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saladin_portrait_(imaginary),_by_Giovio_Paolo,_1483-1552,_published_1575.jpg",
+      "creator": "Giovio, Paolo, 1483-1552"
     }
   },
   {
@@ -1599,12 +1612,11 @@
       "uk": "Річард I Левове Серце"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/500px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Merry-Joseph_Blondel_-_Richard_I_the_Lionheart.jpg",
       "alt": "Photo of Richard the Lionheart",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
-      "creator": "Adam Bishop",
-      "attribution": "Adam Bishop, CC BY-SA 3.0, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Merry-Joseph_Blondel_-_Richard_I_the_Lionheart.jpg",
+      "creator": "Merry-Joseph Blondel"
     }
   },
   {
@@ -1754,6 +1766,14 @@
     "localeNames": {
       "ru": "Папа Бенедикт XVI",
       "uk": "Папа Бенедикт XVI"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Portrait_of_Pope_Benedict_XVI_%282011%29.jpg/500px-Portrait_of_Pope_Benedict_XVI_%282011%29.jpg",
+      "alt": "Photo of Pope Benedict XVI",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Benedict_XVI_(2011).jpg",
+      "creator": "Medialpj",
+      "attribution": "Medialpj, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {

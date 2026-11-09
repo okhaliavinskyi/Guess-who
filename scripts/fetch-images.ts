@@ -2,13 +2,16 @@
  * Looks up a freely licensed photo for every entry in content-source/*.txt and
  * records its metadata in content-source/images.json (consumed by build-bank.ts).
  *
- * Pipeline per entry:
- *  1. English Wikipedia article (`@title` or display name) → its lead image file
- *     (prop=pageimages). Missing or disambiguation pages are reported, not guessed.
- *  2. The file's own Wikimedia Commons page → license + author (extmetadata).
- *     Files that are not on Commons (local "fair use" uploads), flagged NonFree, or
- *     whose license is not public domain / CC0 / CC BY / CC BY-SA are rejected,
- *     so copyrighted fictional artwork stays text-only.
+ * Pipeline per entry (every photo comes from Wikimedia):
+ *  1. A hand-picked file from content-source/image-overrides.json (id → file name),
+ *     used when the lead image is hard to recognise (e.g. Chaplin without his
+ *     moustache) or missing. Otherwise the English Wikipedia article (`@title` or
+ *     display name) → its lead image (prop=pageimages), or, when the article has
+ *     none, the image in its infobox. Missing or disambiguation pages are reported.
+ *  2. The file's description page → license + author (extmetadata). Files on
+ *     Wikimedia Commons must be public domain / CC0 / CC BY / CC BY-SA. Files hosted
+ *     only on English Wikipedia (mostly the official artwork of fictional characters)
+ *     are used under its non-free content policy and credited as "Fair use".
  *  3. A ~500px thumbnail URL on upload.wikimedia.org is stored as `image.src`, with
  *     the file page as `sourceUrl` and the exact credit line as `attribution`.
  *
@@ -16,16 +19,15 @@
  */
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped MediaWiki API JSON */
-import { isAllowedLicense } from '../src/content/license.ts';
+import { FAIR_USE, isAllowedLicense } from '../src/content/license.ts';
 import type { ImageMetadata } from '../src/content/schema.ts';
 import { readAllSources, slugify, type SourceEntry } from './build-bank.ts';
 
 const OUT = 'content-source/images.json';
 const REPORT = 'content-source/images-report.txt';
+const OVERRIDES = 'content-source/image-overrides.json';
 const UA = 'GuessWhoContentBuilder/1.0 (https://github.com/okhaliavinskyi/guess-who)';
 const THUMB_WIDTH = 500;
-/** Lead images reviewed by hand and rejected (not a picture of the person). */
-const SKIP = new Set(['alexander-fleming']);
 
 export function stripHtml(html: string): string {
   return html
@@ -96,13 +98,48 @@ async function lookupPages(titles: string[]): Promise<Map<string, PageResult>> {
     }
     await sleep(1500);
   }
+  // pageimages skips non-free files, so read the infobox of articles without one.
+  const noLead = [...result].filter(([, r]) => r.problem === 'article has no lead image');
+  for (const batch of chunk(noLead, 20)) {
+    const data = await api('en.wikipedia.org', {
+      action: 'query',
+      prop: 'revisions',
+      rvprop: 'content',
+      rvslots: 'main',
+      redirects: '1',
+      titles: batch.map(([t]) => t).join('|'),
+    });
+    const alias = new Map<string, string>();
+    for (const n of [...(data.query.normalized ?? []), ...(data.query.redirects ?? [])])
+      alias.set(n.from, n.to);
+    const pages = new Map<string, any>(data.query.pages.map((p: any) => [p.title, p]));
+    for (const [title] of batch) {
+      let cur = title;
+      for (let i = 0; i < 5 && alias.has(cur); i += 1) cur = alias.get(cur)!;
+      const text: string = pages.get(cur)?.revisions?.[0]?.slots?.main?.content ?? '';
+      const file = infoboxImage(text);
+      if (file) result.set(title, { file });
+    }
+    await sleep(1500);
+  }
   return result;
+}
+
+/** The first `| image = File.ext` parameter of an infobox, if any. */
+export function infoboxImage(wikitext: string): string | undefined {
+  const m =
+    /\|\s*(?:image|image_file)\s*=\s*(?:\[\[)?(?:File:|Image:)?([^|\]\n<{]+?\.(?:png|jpe?g|gif|svg|webp))/i.exec(
+      wikitext,
+    );
+  return m?.[1]?.trim().replace(/_/g, ' ');
 }
 
 async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata | string>> {
   const result = new Map<string, ImageMetadata | string>();
   for (const batch of chunk(files, 50)) {
-    const data = await api('commons.wikimedia.org', {
+    // Asked of English Wikipedia so that both Commons files ("shared") and files
+    // uploaded only to Wikipedia ("local", i.e. non-free artwork) are found.
+    const data = await api('en.wikipedia.org', {
       action: 'query',
       prop: 'imageinfo',
       iiprop: 'url|extmetadata',
@@ -119,17 +156,20 @@ async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata |
       const key = `File:${file}`;
       const page = pages.get(alias.get(key) ?? key);
       const info = page?.imageinfo?.[0];
-      if (!page || page.missing || !info) {
-        result.set(file, 'not on Commons (likely non-free local upload)');
+      if (!page || !info) {
+        result.set(file, 'file not found');
         continue;
       }
       const meta = info.extmetadata ?? {};
-      const license = stripHtml(meta.LicenseShortName?.value ?? '');
-      if (meta.NonFree?.value && meta.NonFree.value !== 'false') {
+      let license = stripHtml(meta.LicenseShortName?.value ?? '');
+      const local = page.imagerepository === 'local';
+      const nonFree = !!meta.NonFree?.value && meta.NonFree.value !== 'false';
+      if (local && (nonFree || !isAllowedLicense(license))) license = FAIR_USE;
+      else if (nonFree) {
         result.set(file, 'flagged non-free');
         continue;
       }
-      if (!isAllowedLicense(license)) {
+      if (license !== FAIR_USE && !isAllowedLicense(license)) {
         result.set(file, `license not allowed: "${license}"`);
         continue;
       }
@@ -139,6 +179,7 @@ async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata |
         continue;
       }
       const attributionRequired = meta.AttributionRequired?.value === 'true';
+      const site = local ? 'Wikipedia' : 'Wikimedia Commons';
       const image: ImageMetadata = {
         // Drop Wikimedia's tracking query string; the bare thumbnail URL is stable.
         // Same path is served by the long-standing upload.wikimedia.org host.
@@ -150,8 +191,7 @@ async function lookupFiles(files: string[]): Promise<Map<string, ImageMetadata |
         sourceUrl: info.descriptionurl,
       };
       if (creator) image.creator = creator;
-      if (attributionRequired && creator)
-        image.attribution = `${creator}, ${license}, via Wikimedia Commons`;
+      if (attributionRequired && creator) image.attribution = `${creator}, ${license}, via ${site}`;
       result.set(file, image);
     }
     await sleep(1500);
@@ -184,20 +224,37 @@ async function main() {
       existingIdMap.set(ch.displayName, ch.id);
   }
 
-  // Entries without a photo yet (new, or not found last time) are looked up again.
-  const todo = entries.filter((e) => !existing[idOf(e)]);
+  // Hand-picked files (id → file name) replace the automatic choice.
+  const overrides: Record<string, string> = existsSync(OVERRIDES)
+    ? JSON.parse(readFileSync(OVERRIDES, 'utf8'))
+    : {};
+  const fileKey = (f: string) => f.replace(/_/g, ' ').trim();
+  const cachedFile = (img: ImageMetadata | null | undefined) =>
+    img ? fileKey(decodeURIComponent(img.sourceUrl.replace(/^.*\/File:/, ''))) : undefined;
+
+  // Entries without a photo yet (new, or not found last time), or whose hand-picked
+  // file changed, are looked up again.
+  const todo = entries.filter((e) => {
+    const id = idOf(e);
+    const pick = overrides[id];
+    return !existing[id] || (pick !== undefined && cachedFile(existing[id]) !== fileKey(pick));
+  });
   console.log(`Looking up ${todo.length} of ${entries.length} entries…`);
-  const pages = await lookupPages([...new Set(todo.map((e) => e.wikiTitle))]);
+  const pages = await lookupPages([
+    ...new Set(todo.filter((e) => !overrides[idOf(e)]).map((e) => e.wikiTitle)),
+  ]);
+  for (const e of todo) {
+    const pick = overrides[idOf(e)];
+    if (pick) pages.set(`#${idOf(e)}`, { file: fileKey(pick) });
+  }
   const fileNames = [...new Set([...pages.values()].flatMap((p) => (p.file ? [p.file] : [])))];
   const files = await lookupFiles(fileNames);
 
   const report: string[] = [];
   const out = { ...existing };
-  for (const id of SKIP) out[id] = null;
   for (const e of todo) {
     const id = idOf(e);
-    if (SKIP.has(id)) continue;
-    const page = pages.get(e.wikiTitle);
+    const page = pages.get(overrides[id] ? `#${id}` : e.wikiTitle);
     if (!page?.file) {
       out[id] = null;
       report.push(`${e.category}\t${e.displayName}\t${page?.problem ?? 'lookup failed'}`);

@@ -332,11 +332,11 @@
       "uk": "Конфуцій"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cropped_version_of_Confucius_Portrait%2C_Kongzi_%28Confucius%29_Family_Mansion%2C_Qufu_%2813044335945%29.jpg/500px-Cropped_version_of_Confucius_Portrait%2C_Kongzi_%28Confucius%29_Family_Mansion%2C_Qufu_%2813044335945%29.jpg",
       "alt": "Photo of Confucius",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China_(cropped).jpg",
-      "creator": "Anonymous Chinese painter of the Western Han period"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cropped_version_of_Confucius_Portrait,_Kongzi_(Confucius)_Family_Mansion,_Qufu_(13044335945).jpg",
+      "creator": "Unknown authorUnknown author"
     }
   },
   {
@@ -918,11 +918,11 @@
       "uk": "Марко Поло"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg/500px-Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg",
       "alt": "Photo of Marco Polo",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frontispice_%C3%A9dition_de_Nuremberg_1477_(cropped).png",
-      "creator": "Unknown authorUnknown author"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marco_Polo_Mosaic_from_Palazzo_Tursi.jpg",
+      "creator": "Salviati"
     }
   },
   {
@@ -1241,6 +1241,14 @@
     "localeNames": {
       "ru": "Бэнкси",
       "uk": "Бенксі"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Girl_with_Balloon_-_geograph.org.uk_-_7535775.jpg/500px-Girl_with_Balloon_-_geograph.org.uk_-_7535775.jpg",
+      "alt": "Photo of Banksy",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Girl_with_Balloon_-_geograph.org.uk_-_7535775.jpg",
+      "creator": "Ian Capper",
+      "attribution": "Ian Capper, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -1438,6 +1446,13 @@
     "localeNames": {
       "ru": "Александр Флеминг",
       "uk": "Александер Флемінг"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+      "alt": "Photo of Alexander Fleming",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+      "creator": "Official photographer"
     }
   },
   {
@@ -1897,11 +1912,11 @@
       "uk": "Крістіан Діор"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg/500px-Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Christian_Dior_1954.jpg/500px-Christian_Dior_1954.jpg",
       "alt": "Photo of Christian Dior",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dior_r%C3%A9volutionne_la_haute-couture._Paris_Mus%C3%A9es_20230526160357.jpg",
-      "creator": "Paris-Match, editeur"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christian_Dior_1954.jpg",
+      "creator": "投稿者によるスキャン"
     }
   },
   {
@@ -1950,11 +1965,12 @@
       "uk": "Джефф Безос"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/500px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg/500px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg",
       "alt": "Photo of Jeff Bezos",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_(3x4_cropped_on_Bezos_and_rotated).jpg",
-      "creator": "SECWAR"
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg",
+      "creator": "Seattle City Council from Seattle",
+      "attribution": "Seattle City Council from Seattle, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -2020,12 +2036,12 @@
       "uk": "Ґрета Тунберг"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Greta_Thunberg_in_May_2026_%28cropped_3x4%29.jpg/500px-Greta_Thunberg_in_May_2026_%28cropped_3x4%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greta_Thunberg_4.jpg/500px-Greta_Thunberg_4.jpg",
       "alt": "Photo of Greta Thunberg",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_in_May_2026_(cropped_3x4).jpg",
-      "creator": "Kushal Das",
-      "attribution": "Kushal Das, CC BY-SA 4.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_4.jpg",
+      "creator": "Anders Hellberg",
+      "attribution": "Anders Hellberg, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2054,6 +2070,14 @@
     "localeNames": {
       "ru": "Джанни Версаче",
       "uk": "Джанні Версаче"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Emblema_Medusa_versace.png/500px-Emblema_Medusa_versace.png",
+      "alt": "Photo of Gianni Versace",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emblema_Medusa_versace.png",
+      "creator": "Viceryion",
+      "attribution": "Viceryion, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {

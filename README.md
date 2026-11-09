@@ -32,8 +32,9 @@ until you guess who you are. No app, no sign-up: everyone just opens the site.
 ## Features
 
 - **949 people and characters everyone knows**: only names an ordinary person in any country would recognise, 100–214 per category.
-- **797 photos** from Wikimedia Commons, all freely licensed, each shown with its
-  credit and a link to its source.
+- **A photo on every card** (949), all from Wikimedia: freely licensed photos from
+  Wikimedia Commons, plus the official artwork of fictional characters from English
+  Wikipedia. Each is shown with its credit and a link to its source.
 - **English, Русский, Українська**: interface and names. The language follows the
   browser and can be switched on the home screen.
 - **No repeats in a session.** A name you've already seen won't come up again in any
@@ -80,5 +81,6 @@ Vite, React 19 and TypeScript, tested with Vitest and Testing Library. The specs
 in [`docs/`](docs), and the build history is in [`IMPLEMENTATION_LOG.md`](IMPLEMENTATION_LOG.md).
 
 Photos belong to their authors under the licenses shown in the app (public domain,
-CC0, CC BY, CC BY-SA). Names and photos are used only to identify the people and
+CC0, CC BY, CC BY-SA); character artwork marked "Fair use" is used as on English
+Wikipedia, under its non-free content policy. Names and photos are used only to identify the people and
 characters, and don't imply any endorsement.

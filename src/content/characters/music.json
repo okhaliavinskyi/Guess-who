@@ -659,12 +659,11 @@
     "displayName": "The Rolling Stones",
     "popularityTier": "iconic",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/RStonesHydePark030722_%28125_of_125%29_%2852194125170%29_%28cropped%29.jpg/500px-RStonesHydePark030722_%28125_of_125%29_%2852194125170%29_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rolling_Stones_1965.jpg/500px-Rolling_Stones_1965.jpg",
       "alt": "Photo of The Rolling Stones",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RStonesHydePark030722_(125_of_125)_(52194125170)_(cropped).jpg",
-      "creator": "Raph_PH",
-      "attribution": "Raph_PH, CC BY 2.0, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolling_Stones_1965.jpg",
+      "creator": "London Records"
     }
   },
   {
@@ -974,12 +973,12 @@
     "displayName": "The Weeknd",
     "popularityTier": "iconic",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/500px-The_Weeknd_Portrait_by_Brian_Ziff.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Weeknd_Cannes_2023.png/500px-The_Weeknd_Cannes_2023.png",
       "alt": "Photo of The Weeknd",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg",
-      "creator": "Brian Ziff",
-      "attribution": "Brian Ziff, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Weeknd_Cannes_2023.png",
+      "creator": "Canal22",
+      "attribution": "Canal22, CC BY 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -1538,11 +1537,11 @@
       "uk": "Елла Фіцджеральд"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ella_Fitzgerald_6_%28cropped%29.jpg/500px-Ella_Fitzgerald_6_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ella_Fitzgerald_1962.JPG/500px-Ella_Fitzgerald_1962.JPG",
       "alt": "Photo of Ella Fitzgerald",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_6_(cropped).jpg",
-      "creator": "Carl Van Vechten"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_1962.JPG",
+      "creator": "Lewin/Kaufman/Schwartz, Public Relations, Beverly Hills"
     }
   },
   {
@@ -1652,7 +1651,13 @@
     "id": "pink-floyd",
     "category": "music",
     "displayName": "Pink Floyd",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg",
+      "alt": "Photo of Pink Floyd",
+      "license": "Fair use",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pink_Floyd_-_all_members.jpg"
+    }
   },
   {
     "id": "ac-dc",
@@ -1660,12 +1665,12 @@
     "displayName": "AC/DC",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AC_DC_Black_Ice_Tour_2009_Buenos_Aires_4_de_Diciembre_%284238680962%29.jpg/500px-AC_DC_Black_Ice_Tour_2009_Buenos_Aires_4_de_Diciembre_%284238680962%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/AngusYoung.JPG/500px-AngusYoung.JPG",
       "alt": "Photo of AC/DC",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AC_DC_Black_Ice_Tour_2009_Buenos_Aires_4_de_Diciembre_(4238680962).jpg",
-      "creator": "Ed Vill from Caracas, Venezuela",
-      "attribution": "Ed Vill from Caracas, Venezuela, CC BY 2.0, via Wikimedia Commons"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AngusYoung.JPG",
+      "creator": "MATT BECKER",
+      "attribution": "MATT BECKER, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -1704,11 +1709,11 @@
       "ru": "Guns N’ Roses"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GNR_Belgrade_2025_05_%28cropped%29.jpg/500px-GNR_Belgrade_2025_05_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/GUNS_N%27_ROSES_logo.png/500px-GUNS_N%27_ROSES_logo.png",
       "alt": "Photo of Guns N' Roses",
-      "license": "CC0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GNR_Belgrade_2025_05_(cropped).jpg",
-      "creator": "AxeAdam20"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GUNS_N%27_ROSES_logo.png",
+      "creator": "Kreepin Deth"
     }
   },
   {
@@ -1798,12 +1803,12 @@
     "displayName": "Rammstein",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rammstein_at_Wacken_Open_Air_2013_06.jpg/500px-Rammstein_at_Wacken_Open_Air_2013_06.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rammstein_logo_official.png",
       "alt": "Photo of Rammstein",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rammstein_at_Wacken_Open_Air_2013_06.jpg",
-      "creator": "Jonas Rogowski",
-      "attribution": "Jonas Rogowski, CC BY-SA 3.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rammstein_logo_official.png",
+      "creator": "Nicolas Uliambre",
+      "attribution": "Nicolas Uliambre, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -1825,12 +1830,11 @@
     "displayName": "U2",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg/500px-U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/U2_%281987_Island_Records_Publicity_Photo%29.jpg/500px-U2_%281987_Island_Records_Publicity_Photo%29.jpg",
       "alt": "Photo of U2",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U2_on_Joshua_Tree_Tour_2017_Brussels_8-1-17.jpg",
-      "creator": "Remy",
-      "attribution": "Remy, CC BY 4.0, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U2_(1987_Island_Records_Publicity_Photo).jpg",
+      "creator": "Anton Corbijn, Distributed by Island Records"
     }
   },
   {
@@ -1885,12 +1889,11 @@
     "displayName": "Red Hot Chili Peppers",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/RHCP_Live_in_London_26_June_2022.jpg/500px-RHCP_Live_in_London_26_June_2022.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Red_Hot_Chili_Peppers_logo.svg/500px-Red_Hot_Chili_Peppers_logo.svg.png",
       "alt": "Photo of Red Hot Chili Peppers",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RHCP_Live_in_London_26_June_2022.jpg",
-      "creator": "Kreepin Deth",
-      "attribution": "Kreepin Deth, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Hot_Chili_Peppers_logo.svg",
+      "creator": "Cookieman1.1.1"
     }
   },
   {
@@ -1968,12 +1971,12 @@
     "displayName": "Dire Straits",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dire_straits_22101985_23_800.jpg/500px-Dire_straits_22101985_23_800.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mark_Knopfler_-_1979.jpg/500px-Mark_Knopfler_-_1979.jpg",
       "alt": "Photo of Dire Straits",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dire_straits_22101985_23_800.jpg",
-      "creator": "Helge Øverås",
-      "attribution": "Helge Øverås, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Knopfler_-_1979.jpg",
+      "creator": "Klaus Hiltscher",
+      "attribution": "Klaus Hiltscher, CC BY-SA 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -2013,12 +2016,12 @@
       "uk": "A-ha"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A-haVistalegre19.JPG/500px-A-haVistalegre19.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Morten_Harket_FFM13_001_%28cropped%29.jpg/500px-Morten_Harket_FFM13_001_%28cropped%29.jpg",
       "alt": "Photo of a-ha",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A-haVistalegre19.JPG",
-      "creator": "Jamesbond raul",
-      "attribution": "Jamesbond raul, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morten_Harket_FFM13_001_(cropped).jpg",
+      "creator": "Sven-Sebastian Sajak",
+      "attribution": "Sven-Sebastian Sajak, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -2054,12 +2057,12 @@
     "displayName": "One Direction",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/500px-One_Direction_Sydney_4.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/One-direction-pressbild-mm.jpg/500px-One-direction-pressbild-mm.jpg",
       "alt": "Photo of One Direction",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:One_Direction_Sydney_4.jpg",
-      "creator": "Eva Rinaldi",
-      "attribution": "Eva Rinaldi, CC BY-SA 2.0, via Wikimedia Commons"
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:One-direction-pressbild-mm.jpg",
+      "creator": "Sony Music Entertainment Sweden",
+      "attribution": "Sony Music Entertainment Sweden, CC BY 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -2068,12 +2071,11 @@
     "displayName": "Imagine Dragons",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg/500px-Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Imagine_Dragons_logo_%28WB%29.png/500px-Imagine_Dragons_logo_%28WB%29.png",
       "alt": "Photo of Imagine Dragons",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg",
-      "creator": "Danazar",
-      "attribution": "Danazar, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagine_Dragons_logo_(WB).png",
+      "creator": "Imagine Dragons"
     }
   },
   {
@@ -2451,11 +2453,12 @@
       "uk": "Доктор Дре"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dr_Dre_sig.svg/500px-Dr_Dre_sig.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Dr._Dre_2011.jpg",
       "alt": "Photo of Dr. Dre",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Dre_sig.svg",
-      "creator": "Respective commons pages (reuploaded as SVG)"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Dre_2011.jpg",
+      "creator": "Excelbeatscommons",
+      "attribution": "Excelbeatscommons, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -2484,6 +2487,13 @@
     "localeNames": {
       "ru": "The Notorious B.I.G.",
       "uk": "The Notorious B.I.G."
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/8c/Biggie_Smalls_1997.jpg",
+      "alt": "Photo of Notorious B.I.G.",
+      "license": "Fair use",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Biggie_Smalls_1997.jpg",
+      "creator": "Lori Shepler / Los Angeles Times (presumed)"
     }
   },
   {
@@ -2514,11 +2524,12 @@
       "uk": "Тревіс Скотт"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Travis_Scott_sig.svg/500px-Travis_Scott_sig.svg.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg/500px-Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg",
       "alt": "Photo of Travis Scott",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Travis_Scott_sig.svg",
-      "creator": "Respective commons pages (reuploaded as SVG)"
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg",
+      "creator": "Frank Schwichtenberg",
+      "attribution": "Frank Schwichtenberg, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -2531,12 +2542,12 @@
       "uk": "Пост Мелоун"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/500px-Post_Malone_July_2021_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Post_Malone_2018.jpg/500px-Post_Malone_2018.jpg",
       "alt": "Photo of Post Malone",
       "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg",
-      "creator": "Chrisallmeid",
-      "attribution": "Chrisallmeid, CC BY-SA 4.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Post_Malone_2018.jpg",
+      "creator": "Toglenn",
+      "attribution": "Toglenn, CC BY-SA 4.0, via Wikimedia Commons"
     }
   },
   {
@@ -3090,12 +3101,12 @@
       "uk": "Чарлі Пут"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Charlie_Puth.jpg/500px-Charlie_Puth.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Charlie_Puth_2017_%28cropped%29.jpg/500px-Charlie_Puth_2017_%28cropped%29.jpg",
       "alt": "Photo of Charlie Puth",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Puth.jpg",
-      "creator": "Juan J. Carlos",
-      "attribution": "Juan J. Carlos, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Puth_2017_(cropped).jpg",
+      "creator": "LG전자",
+      "attribution": "LG전자, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -3172,12 +3183,12 @@
     "displayName": "Arctic Monkeys",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg/500px-Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alex_Turner_Arctic_Monkeys_Lollapalooza_2009_%28cropped%29.jpg/500px-Alex_Turner_Arctic_Monkeys_Lollapalooza_2009_%28cropped%29.jpg",
       "alt": "Photo of Arctic Monkeys",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg",
-      "creator": "Bill Ebbesen",
-      "attribution": "Bill Ebbesen, CC BY 3.0, via Wikimedia Commons"
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Turner_Arctic_Monkeys_Lollapalooza_2009_(cropped).jpg",
+      "creator": "Matt Janicki from Evanston, IL, USA",
+      "attribution": "Matt Janicki from Evanston, IL, USA, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -3224,7 +3235,14 @@
     "id": "gorillaz",
     "category": "music",
     "displayName": "Gorillaz",
-    "popularityTier": "widely-known"
+    "popularityTier": "widely-known",
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c6/Gorillaz_family.jpg",
+      "alt": "Photo of Gorillaz",
+      "license": "Fair use",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gorillaz_family.jpg",
+      "creator": "Gorillaz/Jamie Hewlett"
+    }
   },
   {
     "id": "evanescence",
@@ -3232,12 +3250,12 @@
     "displayName": "Evanescence",
     "popularityTier": "widely-known",
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Evanescence_-_Rock_am_Ring_2023-7536.jpg/500px-Evanescence_-_Rock_am_Ring_2023-7536.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lee%2C_Amy_%282007%29.jpg/500px-Lee%2C_Amy_%282007%29.jpg",
       "alt": "Photo of Evanescence",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evanescence_-_Rock_am_Ring_2023-7536.jpg",
-      "creator": "Andreas Lawen [Fotandi]",
-      "attribution": "Andreas Lawen [Fotandi], CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lee,_Amy_(2007).jpg",
+      "creator": "pinguino k from North Hollywood, USA",
+      "attribution": "pinguino k from North Hollywood, USA, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {

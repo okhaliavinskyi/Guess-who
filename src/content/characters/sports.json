@@ -43,6 +43,14 @@
     "localeNames": {
       "ru": "Усэйн Болт",
       "uk": "Усейн Болт"
+    },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Usain_Bolt_Lightning_pose.jpg/500px-Usain_Bolt_Lightning_pose.jpg",
+      "alt": "Photo of Usain Bolt",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Lightning_pose.jpg",
+      "creator": "Brunel University",
+      "attribution": "Brunel University, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -55,12 +63,12 @@
       "uk": "Майкл Джордан"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg/500px-Michael_jordan_admad_rashad_%2851276390562%29_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Steve_Lipfosky_--_Michael_Jordan_%281997%29_%28cropped%29_3x4.jpg/500px-Steve_Lipfosky_--_Michael_Jordan_%281997%29_%28cropped%29_3x4.jpg",
       "alt": "Photo of Michael Jordan",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_jordan_admad_rashad_(51276390562)_(cropped).jpg",
-      "creator": "Zach Catanzareti Photo",
-      "attribution": "Zach Catanzareti Photo, CC BY 2.0, via Wikimedia Commons"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Lipfosky_--_Michael_Jordan_(1997)_(cropped)_3x4.jpg",
+      "creator": "Steve Lipofsky Basketballphoto.com",
+      "attribution": "Steve Lipofsky Basketballphoto.com, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
@@ -607,12 +615,11 @@
       "uk": "Надя Коменеч"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg/500px-Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Nadia_Com%C4%83neci_Montreal1976c.jpg",
       "alt": "Photo of Nadia Comăneci",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadia_Com%C4%83neci_at_Sports_Festival_2026.jpg",
-      "creator": "Nuță Lucian",
-      "attribution": "Nuță Lucian, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nadia_Com%C4%83neci_Montreal1976c.jpg",
+      "creator": "Unknown (Comitetul Olimpic si Sportiv Roman)"
     }
   },
   {
@@ -1480,12 +1487,12 @@
       "uk": "Карім Бензема"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Karim_Benzema_vs._FC_Schalke_04_%2816647992937%29.jpg/500px-Karim_Benzema_vs._FC_Schalke_04_%2816647992937%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Karim_Benzema_2022_%28cropped%29.jpg",
       "alt": "Photo of Karim Benzema",
       "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_vs._FC_Schalke_04_(16647992937).jpg",
-      "creator": "Chris Deahr",
-      "attribution": "Chris Deahr, CC BY 2.0, via Wikimedia Commons"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karim_Benzema_2022_(cropped).jpg",
+      "creator": "Fotografías Archimadrid.es",
+      "attribution": "Fotografías Archimadrid.es, CC BY 2.0, via Wikimedia Commons"
     }
   },
   {
@@ -1516,12 +1523,12 @@
       "uk": "Андрес Іньєста"
     },
     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg/500px-Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Andr%C3%A9s_Iniesta_%28cropped%29.jpg/500px-Andr%C3%A9s_Iniesta_%28cropped%29.jpg",
       "alt": "Photo of Andrés Iniesta",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_(cropped).jpg",
-      "creator": "Bryan Berlin",
-      "attribution": "Bryan Berlin, CC BY-SA 4.0, via Wikimedia Commons"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9s_Iniesta_(cropped).jpg",
+      "creator": "Кирилл Венедиктов",
+      "attribution": "Кирилл Венедиктов, CC BY-SA 3.0, via Wikimedia Commons"
     }
   },
   {
